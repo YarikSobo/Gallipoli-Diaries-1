@@ -7,7 +7,7 @@ Monday, September 1st (To-do list for project checkpoint two)
 (B) Volume 2 (2 people)
 (BA) Chapters 13-17 (Kyle)
 (BB) Chapters 18-21 & maybe appendix (Matthew)
-(2) Started tagging <para> (autotag) tags and <chapters> (manual)
+(2) Started tagging <para> (autotag) tags, <title> (manual) and <chapters> tags (manual)
 (3) Discussed the for para find: \n\n and replace with: </p>\n<p>
 (4) Starting the Schema outline 
 (5) Moving texts into the sources folder 
