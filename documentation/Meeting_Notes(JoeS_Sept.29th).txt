@@ -1,0 +1,19 @@
+Monday, September 1st (To-do list for project checkpoint two)
+(1) Started assigning the group their own part of the text to markup like:
+(A) Volume 1 (3 people)
+(AA) Chapters Preface-4 (Yarema)
+(AB) Chapters 5-8 (Joe)
+(AC) Chapters 9-12 (Cole)
+(B) Volume 2 (2 people)
+(BA) Chapters 13-17 (Kyle)
+(BB) Chapters 18-21 & maybe appendix (Matthew)
+(2) Started tagging <para> (autotag) tags and <chapters> (manual)
+(3) Discussed the for para find: \n\n and replace with: </p>\n<p>
+(4) Starting the Schema outline 
+(5) Moving texts into the sources folder 
+(6) Put the five XMLs into the XML folder 
+(7) Started talking about the discussion question for the project (down below)
+(8) Asked questions about basic outlines for each of our XML markups and how we want to mark them up so they can match the rest of the group
+
+Potential question for the project:
+(1) How did the situation in Gallipoli develop through the lenses of the British military command?
