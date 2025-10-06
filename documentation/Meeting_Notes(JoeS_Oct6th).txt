@@ -1,0 +1,5 @@
+Monday, October 6th Meeting Notes
+(1) Compared the XMLs so that the outlines for all five look the same
+(2) Started building the schema file for the XMLs
+(3) Started talking about fundamental website ideas
+(4) Discussed more potentally markup for next week
