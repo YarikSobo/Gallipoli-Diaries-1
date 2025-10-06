@@ -1,8 +1,9 @@
+<root>
 Gallipoli Chapter 9-12
 
 <chapter>CHAPTER IX</chapter>
 
-<p>SUBMARINES</p>
+     <title>SUBMARINES</title>
 
 <p>
 _22nd May, 1915. H.M.T. "Arcadian."_ News in to say that yesterday,
@@ -999,7 +1000,7 @@ the air which--faint here--denotes tremendous musketry there.</p>
 
 <chapter>CHAPTER X</chapter>
 
-<p>A DECISION AND THE PLAN</p>
+<title>A DECISION AND THE PLAN</title>
 
 <p>
 _8th June, 1915. Imbros._ We are getting "three Divisions of the New
@@ -1815,9 +1816,9 @@ treat this letter as private. With all kind remembrance.</p>
 <p></p>
 
 
-<chapterCHAPTER XI</chapter>
+<chapter>CHAPTER XI</chapter>
 
-<p>BOMBS AND JOURNALISTS</p>
+<title>BOMBS AND JOURNALISTS</title>
 
 <p>
 Our beautiful East Lancs. Division is in a very bad way. One more month
@@ -2544,7 +2545,7 @@ another over the great Voluntary Service issue.</p>
 
 <chapter>CHAPTER XII</chapter>
 
-<p>A VICTORY AND AFTER</p>
+<title>A VICTORY AND AFTER</title>
 
 <p>
 _28th June, 1915. Imbros._ The fateful day.</p>
@@ -3657,3 +3658,4 @@ be decently buried, I find myself forced to say no.</p>
 on a rat of a pony and sported a long red beard. How his lady friends
 would laugh!</p>
 
+</root>
