@@ -1,6 +1,7 @@
-<chapter n="XIII">CHAPTER XIII</chapter>
+<root>
+  <chapter n="XIII">CHAPTER XIII</chapter>
 
-<title>K.'S ADVICE AND THE P.M.'S ENVOY</p><title>
+<title>K.'S ADVICE AND THE P.M.'S ENVOY</title>
 
 <p>
 _11th July, 1915._ Worked in my office from early morning till 12.45.
@@ -628,12 +629,11 @@ comes first; my conscience is clear and I have answered sticking to my
 point,--firmly! They say the thing is impossible; I have retaliated by
 saying it is imperative.</p>
 
-<p></p>
 
-<p>
+
 <chapter n="XIV">CHAPTER XIV</chapter>
 
-<title>THE FORCE--REAL AND IMAGINARY</p><title>
+<title>THE FORCE--REAL AND IMAGINARY</title>
 
 <p>
 _22nd July, 1915. Imbros._ Had a jolly outing to-day. Left for Cape
@@ -1358,10 +1358,10 @@ with a brief explanatory heading.--IAN H., 1920.]</p>
 
 <p></p>
 
-<p>
+
 <chapter n="XV">CHAPTER XV</chapter>
 
-<title>SARI BAIR AND SUVLA</p><title>
+<title>SARI BAIR AND SUVLA</title>
 
 <p>
 _6th August, 1915. Imbros._ O! God of Bethel, by whose hand thy people
@@ -2273,7 +2273,7 @@ on."]</p>
 
 <p></p>
 
-<p>
+
 <chapter n="XVI">CHAPTER XVI</chapter>
 
 <p>
@@ -3207,10 +3207,10 @@ instructions.--IAN H., 1920.]</p>
 
 <p></p>
 
-<p>
+
 <chapter n="XVII">CHAPTER XVII</chapter>
 
-<title>THE LAST BATTLE</p><title>
+<title>THE LAST BATTLE</title>
 
 <p>
 _18th August, 1915. Imbros._ Freddie and I left in the _Arno_ this
@@ -3806,10 +3806,10 @@ Suvla landing.</p>
 
 <p></p>
 
-<p>
+
 <chapter n="XVIII">CHAPTER XVIII</chapter>
 
-<title>MISUNDERSTANDINGS</p><title>
+<title>MISUNDERSTANDINGS</title>
 
 <p>
 _25th August, 1915. Imbros._ Davies left for Helles at mid-day. Was to
@@ -4311,10 +4311,10 @@ two other battalions turned out to be non-fighting formations.--IAN H.,
 
 <p></p>
 
-<p>
+
 <chapter n="XIX">CHAPTER XIX</chapter>
 
-<title>THE FRENCH PLAN</p><title>
+<title>THE FRENCH PLAN</title>
 
 <p>
 _2nd September, 1915. Imbros._ An ugly dream came to me last night. My
@@ -5169,10 +5169,10 @@ In spite of delay, in spite of lost chances, is it business?</p>
 
 <p></p>
 
-<p>
+
 <chapter n="XX">CHAPTER XX</chapter>
 
-<title>LOOS AND SALONIKA</p><title>
+<title>LOOS AND SALONIKA</title>
 
 <p>
 Left G.H.Q. at noon to-day, 18th, sailed to Helles; lunched with Davies;
@@ -6170,10 +6170,10 @@ paid!"--IAN H., 1920.]</p>
 
 <p></p>
 
-<p>
+
 <chapter n="XXI">CHAPTER XXI</chapter>
 
-<title>THE BEGINNING OF THE END</p><title>
+<title>THE BEGINNING OF THE END</title>
 
 <p>
 _3rd October, 1915. Imbros._ Church Parade. Inspected escort, men of the
@@ -11606,4 +11606,5 @@ INDEX</p>
 
 <p>  Zion Mule Corps, I. 84.</p>
 
-<p>  Zouaves, I. 212.
+<p>  Zouaves, I. 212. </p> 
+</root>
