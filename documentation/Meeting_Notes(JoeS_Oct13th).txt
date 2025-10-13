@@ -1,0 +1,12 @@
+Monday, October 13th Meeting Notes
+(1) Started more complex XML markup
+Tag examples:
+(A) manual tag: Division 
+(AA) manual replace With: <type,number, nationality> </type,number, nationality>
+(B) To find Locations: <location>
+(BB) Replace with either: <ship,city,bay,strait,island,country,peninsula>
+(C) manual tag: <person>
+(CC) attributes name,rank,nobleTitle
+(D) Find: _\d
+(DD) Replace with: </entry>\n\n entry>
+(2) Started working with the schema 
