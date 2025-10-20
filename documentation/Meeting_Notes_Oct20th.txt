@@ -1,0 +1,4 @@
+Monday, October 20th Meeting Notes
+
+(1) Associated the schema with our files
+(2) And made edits to our xml files
