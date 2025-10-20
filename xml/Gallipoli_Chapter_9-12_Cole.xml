@@ -4,9 +4,9 @@ Gallipoli Chapter 9-12
 <chapter>CHAPTER IX</chapter>
 
      <title>SUBMARINES</title>
-
+<entry>   
 <p>
-_22nd May, 1915. H.M.T. "Arcadian."_ News in to say that yesterday,
+_22nd May, 1915. <location ship="H.M.T. Arcadian.">H.M.T. "Arcadian."</location>_ News in to say that yesterday,
 whilst Herbert was here to take orders about an armistice, some sort of
 an informal parley actually took place. Both sides suddenly got panic
 stricken, thinking the others were treacherous, and fire was opened,
@@ -19,7 +19,7 @@ everyone for future guidance. Although Aubrey Herbert is excessively
 unorthodox he quite sees that confabs with enemies must be carried out
 according to Cocker.</p>
 
-<p>After breakfast landed at Cape Helles. Inspected the detachment of the
+<p>After breakfast landed at Cape <location peninsula="Helles">Helles</location>. Inspected the detachment of the
 Works Department of the Egyptian Army as it was on its way to the French
 Headquarters. Colonel Micklem was in charge. At Sedd-el-Bahr lunched
 with Gouraud and his Staff. General Bailloud rode up just as I was about
@@ -40,7 +40,7 @@ declares the redoubt will be in our hands again to-morrow.</p>
 
 <p>Our lunch was to furnish us with yet another landmark for bad luck. As
 we were leaving, a message came in to say that an enemy submarine had
-been sighted off Gaba Tepe. The fresh imprint of a tiger's paw upon the
+been sighted off <location peninsula="Gaba Tepe"> Gaba Tepe </location>. The fresh imprint of a tiger's paw upon the
 pathway gives the same sort of feel to the Indian herdsman. Tall stories
 from neighbouring villages have been going the round for weeks, only
 half-believed, but here is the very mark of the beast; the horror has
@@ -49,7 +49,7 @@ may even now be watching his every movement; he wonders whose turn will
 come first--and when--and where. This was the sort of effect of the
 wireless and in a twinkling every transport round the coast was steering
 full steam to Imbros. In less than no time we saw a regatta of
-skedaddling ships. So dies the invasion of England bogey which, from
+skedaddling ships. So dies the invasion of <location country="England">England</location> bogey which, from
 first to last, has wrought us an infinity of harm. Born and bred of
 mistrust of our own magnificent Navy, it has led soldiers into heresy
 after fallacy and fallacy after heresy until now it is the cause of my
@@ -76,8 +76,8 @@ decent burial to so many men.</p>
 
 <p>                                GRAND QUARTIER GENERAL DE LA 5me ARMEE
                                                          OTTOMANE.
-                                                      _le 22 mai 1915._</p>
-
+                                                      _le 22 mai 1915._</p></entry>
+<entry>
 <p>    "EXCELLENCE!</p>
 
 <p>     "J'ai l'honneur d'informer Votre Excellence que les propositions
@@ -100,8 +100,10 @@ decent burial to so many men.</p>
 <p>  "Commandant en chef des Forces Britanniques,
       Sir John Hamilton, Excellence."</p>
 
-<p>_23rd May, 1915. H.M.T. "Arcadian."_ Blazing hot. Wrote all day. Had an
-hour and a half's talk with de Robeck--high politics as well as our own
+</entry>
+
+<entry><p>_23rd May, 1915. <location ship="H.M.T. Arcadian.">H.M.T. "Arcadian."</location>_ Blazing hot. Wrote all day. Had an
+hour and a half's talk with <person name="John_de_Robeck">de Robeck</person>--high politics as well as our own
 rather anxious affairs. No one knows how the new First Lord will play
 up, but Asquith, for sure, chucks away his mainspring if he parts with
 Winston: as to Fisher, he too has energy but none of it came our way so
@@ -109,32 +111,36 @@ he will have no tears from us, though he has friends here too. The
 submarine scare is full on; the beastly things have frightened us more
 than all the Turks and all their German guns.</p>
 
-<p>_24th May, 1915. H.M.T. "Arcadian."_ Vice-Admiral Nicol, French Naval
+</entry>
+
+<entry><p>_24th May, 1915. <location ship="H.M.T. Arcadian.">H.M.T. "Arcadian."</location>_ Vice-Admiral Nicol, French Naval
 Commander-in-Chief, came aboard to pay me a visit.</p>
 
 <p>Armistice from 9.30 a.m. to 4.30 p.m. for burial of Turkish dead. All
 went off quite smoothly.... This moment, 12.40 p.m. the Captain has
-rushed in to say that H.M.S. _Triumph_ is sinking! He caught the bad
+rushed in to say that <location ship="H.M.S. Triumph">H.M.S. _Triumph_</location> is sinking! He caught the bad
 news on his wireless as it flew. Beyond doubt the German submarine. What
 exactly is about to happen, God knows. The fleet cannot see itself wiped
 out by degrees; and yet, without the fleet, how are we soldiers to
 exist? One more awful conundrum set to us, but the Navy will solve it,
 for sure.</p>
 
-<p>_25th May, 1915. H.M.T. "Arcadian."_ Bad news confirmed. The Admiral
+</entry>
+
+<entry><p>_25th May, 1915. <location ship="H.M.T. Arcadian.">H.M.T. "Arcadian."</location>_ Bad news confirmed. The Admiral
 came aboard and between us we tried to size up the new situation and to
 readjust ourselves thereto. Our nicely worked out system for supplying
 the troops has in a moment been tangled up into a hundred knotty
 problems. Instead of our small craft working to and fro in half mile
 runs, henceforth they will have to cover 60 miles per trip. Until now
-the big ocean going ships have anchored close up to Helles or Anzac; in
+the big ocean going ships have anchored close up to <location peninsula="Helles">Helles</location> or Anzac; in
 future Mudros will be the only possible harbour for these priceless
 floating depots. Imbros, here, lies quite open to submarine attacks, and
 in a northerly gale, becomes a mere roadstead. The Admiral, who regards
 soldiers as wayward water babes, has insisted on lashing a merchantman
 to each side of the _Arcadian_ to serve as torpedo buffers. There are,
 it seems, at least two German submarines prowling about at the present
-moment between Gaba Tepe and Cape Helles. After torpedoing the _Triumph_
+moment between <location peninsula="Gaba Tepe"> Gaba Tepe </location> and Cape <location peninsula="Helles">Helles</location>. After torpedoing the _Triumph_
 the same submarine fired at and missed the _Vengeance_. The _Lord
 Nelson_ with the Admiral, as well as three French battleships,
 zig-zagged out of harbour and made tracks for Mudros in the afternoon.
@@ -165,7 +171,9 @@ held up cigarettes and called out "baksheesh."</p>
 <p>Last night the French and the Naval Brigade made a good advance with
 slight loss. The East Lancs also pushed on a little bit.</p>
 
-<p>_26th May, 1915. H.M.T. "Arcadian."_ Entertained a small party of
+</entry>
+
+<entry><p>_26th May, 1915. <location ship="H.M.T. Arcadian.">H.M.T. "Arcadian."</location>_ Entertained a small party of
 Australian officers as my private guests for 48 hours, my idea being to
 give them a bit of a rest. Colonel Monash, commanding 4th Australian
 Infantry Brigade, was the senior. He is a very competent officer. I have
@@ -217,10 +225,10 @@ estimate.</p>
 <p>Before operations began the strength of the defenders of the Dardanelles
 was:--</p>
 
-<p>  Gallipoli Peninsula          34,000 and about 100 guns.
+<p>  <location Peninsula="Gallipoli_Peninsula">Gallipoli Peninsula</location>          34,000 and about 100 guns.
   Asiatic side of Straits      41,000</p>
 
-<p>All the troops on the Gallipoli Peninsula and fifty per cent. of the
+<p>All the troops on the <location Peninsula="Gallipoli_Peninsula">Gallipoli Peninsula</location> and fifty per cent. of the
 troops on the Asiatic side were Nizam, that is to say, regular first
 line troops. They were transferable, and were actually transferred to
 this side upon which the invaders disembarked. Our Expeditionary Force
@@ -254,8 +262,10 @@ begin to put in an appearance, the Mediterranean Expeditionary Force
 will press forward with a fresh impulse to accomplish the greatest
 Imperial task ever entrusted to an army.</p>
 
-<p>_27th May, 1915. H.M.T. "Arcadian."_ The _Majestic_ has been torpedoed
-and has sunk off Cape Helles. Got the news at mid-day. Fuller, my
+</entry>
+
+<entry><p>_27th May, 1915. <location ship="H.M.T. Arcadian.">H.M.T. "Arcadian."</location>_ The _Majestic_ has been torpedoed
+and has sunk off Cape <location peninsula="Helles">Helles</location>. Got the news at mid-day. Fuller, my
 Artillery Commander, and Ashmead-Bartlett, the correspondent, were both
 on board, and both were saved--minus kit! About 40 men have gone under.
 Bad luck. A Naval Officer who has seen her says she is lying in shallow
@@ -266,15 +276,19 @@ of does. To my Staff, they tell me, he delivered himself further but, as
 I said to the Officer who repeated these criticisms to me, "judge not
 that ye be not judged."</p>
 
-<p>_28th May, 1915. H.M.T. "Arcadian."_ Went for a walk with the Admiral.
+</entry>
+
+<entry><p>_28th May, 1915. <location ship="H.M.T. Arcadian.">H.M.T. "Arcadian."</location>_ Went for a walk with the Admiral.
 He refuses any longer to accept the responsibility of keeping us afloat.
-As Helles, Anzac and Tenedos have each been ruled out, we are going to
+As <location peninsula="Helles">Helles</location>, Anzac and Tenedos have each been ruled out, we are going to
 doss down on this sandbank opposite us. One thing, it will be central to
 both my theatres of work.</p>
 
-<p>_29th May, 1915. H.M.T. "Arcadian."_ The Commodore, Roger Keyes, arrived
-mid-day and invited me to come over to Helles with him on a destroyer,
-H.M.S. _Scorpion._ He was crossing in hopes--_in hopes,_ if you
+</entry>
+
+<entry><p>_29th May, 1915. <location ship="H.M.T. Arcadian.">H.M.T. "Arcadian."</location>_ The Commodore, <person name="Roger_Keyes">Roger Keyes</person>, arrived
+mid-day and invited me to come over to <location peninsula="Helles">Helles</location> with him on a destroyer,
+<location ship="H.M.S. Scorpion">H.M.S. _Scorpion._</location> He was crossing in hopes--_in hopes,_ if you
 please--of hitting off the submarine. The idea that it might hit him had
 not seemed to occur to him. On the way we were greatly excited to see
 the bladder of an indicator net smoking. So we rushed about the place
@@ -283,7 +297,7 @@ as the water was too deep for the submarine to be lying at the bottom,
 it seemed (although no one dared to say so) that a porpoise had been
 poking fun at the Commodore.</p>
 
-<p>Landing at Helles inspected the various roads, which were in the making.
+<p>Landing at <location peninsula="Helles">Helles</location> inspected the various roads, which were in the making.
 Next saw Hunter-Weston. Canvassed plans with him and felt myself
 refreshed. Then went on to Gouraud's Headquarters, taking the Commodore
 with me. My Commanders are an asset which cancels many a debit. Gouraud
@@ -330,7 +344,9 @@ example.</p>
 say that all idea of sending me a Russian Army Corps to land at the
 Bosphorus has been abandoned!!!</p>
 
-<p>_30th May, 1915. H.M.T. "Arcadian."_ Went to Anzac in a destroyer. The
+</entry>
+
+<entry><p>_30th May, 1915. <location ship="H.M.T. Arcadian.">H.M.T. "Arcadian."</location>_ Went to Anzac in a destroyer. The
 Cove was being heavily shelled, and the troops near the beach together
 with the fatigue parties handling stores and ammunition, had dashed
 into their dugouts like marmots at the shadow of an eagle. Birdwood came
@@ -411,7 +427,7 @@ for a million by the date of landing five weeks later. But I got,
 practically, none; nor any promise for the future. In default of help
 from home, we have tried to manufacture these primitive but very
 effective projectiles for ourselves with jam pots, meat tins and any old
-rubbish we can scrape together. De Lothbiniere has shown ingenuity in
+rubbish we can scrape together.  <person name="De Lothbiniere">De Lothbiniere</person> has shown ingenuity in
 thus making bricks without straw. The Fleet, too, has played up and de
 Robeck has guaranteed me two thousand to be made by the artificers on
 the battleships. Maxwell in Egypt has been improvising a few; Methuen at
@@ -437,7 +453,9 @@ burst hard by just as we were scrambling up her side.</p>
 Cross man, dined; very helpful; very well stocked with comforts and
 everyone likes him, even the R.A.M.C.</p>
 
-<p>_31st May, 1915. H.M.T. "Arcadian."_ Worked in the forenoon. Gouraud,
+</entry>
+
+<entry><p>_31st May, 1915. <location ship="H.M.T. Arcadian.">H.M.T. "Arcadian."</location>_ Worked in the forenoon. Gouraud,
 Girodon and Hunter-Weston lunched and we spent the afternoon at the
 scheme for our next fight. Each of us agreed that Fortune had not been
 over kind. By one month's hard, close hammering we had at last made the
@@ -453,7 +471,9 @@ ready to let fly a salvo at anything that stirs. No more searchlights by
 night; no more big explosives flying from the Aegean into the
 Dardanelles!</p>
 
-<p>_1st June, 1915. Imbros._ Came ashore and stuck up my 80-lb. tent in the
+</entry>
+
+<entry><p>_1st June, 1915. Imbros._ Came ashore and stuck up my 80-lb. tent in the
 middle of a sandbank whereon some sanguine Greek agriculturalist has
 been trying to plant wheat.</p>
 
@@ -461,19 +481,21 @@ been trying to plant wheat.</p>
 are glad to be off the ship and able to stretch our legs.</p>
 
 <p>Hard fighting in the North zone and the South. Both outposts captured by
-us on the 29th May at Anzac and on the French right at Helles heavily
+us on the 29th May at Anzac and on the French right at <location peninsula="Helles">Helles</location> heavily
 attacked. In the North we had to give ground, but not before we had made
 the enemy pay ten times its value in killed and wounded. Had we only had
 a few spare rounds of shrapnel we need never have gone back. The War
 Office have called for a return of my 4.5 howitzer ammunition during the
 past fortnight, and I find that, since the 14th May, we have expended
-477 shell altogether at Anzac and Helles combined. In the South the
+477 shell altogether at Anzac and <location peninsula="Helles">Helles</location> combined. In the South the
 enemy twice recaptured the redoubt taken by the French on the 29th, but
 Gouraud, having a nice little parcel of high explosive on hand, was able
 to drive them out definitely and to keep them out.</p>
 
-<p>_2nd June, 1915. Imbros._ Working all day in camp. Blazing hot, tempered
-by a cool breeze towards evening. De Robeck came ashore and we had an
+</entry>
+
+<entry><p>_2nd June, 1915. Imbros._ Working all day in camp. Blazing hot, tempered
+by a cool breeze towards evening. <person name="John_de_Robeck">de Robeck</person> came ashore and we had an
 hour together in the afternoon. Everything is fixed up for our big
 attack on the 4th. From aeroplane photographs it would appear that the
 front line Turkish trenches are meant more as traps for rash forlorn
@@ -486,7 +508,7 @@ disposal. They are only ours for defensive purposes; that is to say,
 they remain in their own gun positions in the French lines and are to
 help by thickening the barrage in front of the Naval Division.</p>
 
-<p>De Robeck and Keyes are quite as much at sea as Braithwaite and myself
+<p><person name="John_de_Robeck">de Robeck</person> and Keyes are quite as much at sea as <person name="Walter_Braithwaite"> Braithwaite</person> and myself
 about this original scheme of the British Government for treating a
 tearing, raging crisis; i.e., by taking no notice of it. I guess that
 never before in the history of war has a Commander asked urgently that
@@ -499,7 +521,7 @@ disappointment; since then, nothing. During that fortnight of silence
 the whole of the Turkish Empire has been moving--closing in--on the
 Dardanelles. Then, by a side-wind I happen to hear of the abstraction of
 a Russian Army Corps from my supposed command; an Army Corps, who by the
-mere fact of "being," held off a large force of Turks from Gallipoli.</p>
+mere fact of "being," held off a large force of Turks from <location Peninsula="Gallipoli_Peninsula">Gallipoli</location>.</p>
 
 <p>So I have put down a few hard truths. Unpalatable they may be but some
 day they've got to be faced and the sooner the better. Time has slipped
@@ -513,7 +535,7 @@ which has to leg it from the German submarine; there is no ammunition
 for the guns; no drafts to keep my Divisions up to strength; my Russians
 have gone to Galicia and the Greeks are lying lower than ever.</p>
 
-<p>"No. M.F. 288. From General Sir Ian Hamilton to Earl Kitchener. With
+<p>"No. M.F. 288. From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to  <person name="Earl_Kitchener">Earl Kitchener</person>. With
 reference to my telegrams No. M.F. 274 of 29th May, and No. M.F. 234 of
 17th May. If the information sent by Hanbury-Williams, to which I
 referred in my No. M.F. 274, is correct it is advisable that I should
@@ -525,7 +547,7 @@ be kept occupied by the Russians. By the defection of Russia, 100,000
 Turks are set free in the Caucasus and European Turkey. After deduction
 of casualties there are at least 80,000 Turks now against us in the
 Peninsula. There are 20,000 Turks on the Bulgarian frontier which,
-assuming that Bulgaria remains neutral, are able to reinforce Gallipoli;
+assuming that Bulgaria remains neutral, are able to reinforce <location Peninsula="Gallipoli_Peninsula">Gallipoli</location>;
 some, in fact, have already arrived showing the restoration of Turkish
 confidence in King Ferdinand. Close by on the Asiatic side there remain
 10,000 Turks, making a total of 210,000, to which must be added 65,000
@@ -568,14 +590,16 @@ there should be got ready British reinforcements to the full extent
 mentioned in my No. M.F. 234, though as stated above the disappearance
 of Russian co-operation was not contemplated in my estimate."</p>
 
-<p>_3rd June, 1915. Imbros._ Meant to go to Anzac; sea too rough; in the
-afternoon saw de Robeck and Roger Keyes. Braithwaite came over and we
+</entry>
+
+<entry><p>_3rd June, 1915. Imbros._ Meant to go to Anzac; sea too rough; in the
+afternoon saw <person name="John_de_Robeck">de Robeck</person> and <person name="Roger_Keyes">Roger Keyes</person>. <person name="Walter_Braithwaite"> Braithwaite</person> came over and we
 went through my cable of yesterday. The sailors would just as soon I had
 left out that remark about the enemy being bucked up by the retreat of
 our battleships. But the passage implied also that their mere visible
 presence was shown to be most valuable. Both of them agree that I am
 well within the mark in saying what I did about the loss of my Russian
-Army Corps. Roger Keyes next launched a dry land criticism. He rightly
+Army Corps. <person name="Roger_Keyes">Roger Keyes</person> next launched a dry land criticism. He rightly
 thinks that the weakness of our _present_ units is _the_ real weakness:
 he thinks we are far more in need of drafts than of fresh units; he
 suggests that a rider be sent now to insist that the estimates in
@@ -589,7 +613,7 @@ upon his environment:--we are not going to convert one another now.</p>
 
 <p>As we were actually talking, Williams brought over an answer:--</p>
 
-<p>"No. 5104, cipher. From Earl Kitchener to General Sir Ian Hamilton. With
+<p>"No. 5104, cipher. From  <person name="Earl_Kitchener">Earl Kitchener</person> to General Sir  <person name="Ian_Hamilton">Ian Hamilton</person>. With
 reference to your No. M.F. 288. Owing to the restricted nature of the
 ground you occupy and the experience we have had in Flanders of
 increased forces acting in trench positions, I own I have some doubts of
@@ -614,7 +638,7 @@ clearly; viz., that the piling up of increased forces opposite
 entrenched positions is a spendthrift, unscientific proceeding. He
 wishes to know if I mean to do this. To draw me out he assumes if I get
 the troops, I _would_ at once commit them to trench warfare by crowding
-them in behind the lines of Helles or Anzac. Actually I intend to keep
+them in behind the lines of <location peninsula="Helles">Helles</location> or Anzac. Actually I intend to keep
 the bulk of them on the islands, so as to throw them unexpectedly
 against some key position which is _not_ prepared for defence. But I
 have to be very careful what I say, seeing that the Turks got wind of
@@ -639,13 +663,13 @@ results should have been decisive.</p>
 <p>(2) If the Army Corps are not sent at once, there can be no early
 decision.</p>
 
-<p>Braithwaite, De Robeck and Keyes agree to (1) and (2) but the cabled
+<p><person name="Walter_Braithwaite"> Braithwaite</person>, <person name="John_de_Robeck">de Robeck</person> and Keyes agree to (1) and (2) but the cabled
 answer will not be so simple and, in spite of K.'s sudden impatience, I
 must sleep over it first.</p>
 
 <p>Written whilst Williams waits:--</p>
 
-<p>"No. M.F. 292. From General Sir Ian Hamilton to Earl Kitchener. Secret.
+<p>"No. M.F. 292. From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to  <person name="Earl_Kitchener">Earl Kitchener</person>. Secret.
 To-morrow, 4th June, I am fighting a general action. Therefore I feel
 sure that you will wish me to defer my answer to your telegram No. 5104,
 cipher, until I see the result."</p>
@@ -668,7 +692,7 @@ included in accordance with the report of my military advisers."</p>
 
 <p>We now have his reply:--</p>
 
-<p>"No. 5088, cipher. From Earl Kitchener to Sir Ian Hamilton. With
+<p>"No. 5088, cipher. From  <person name="Earl_Kitchener">Earl Kitchener</person> to Sir  <person name="Ian_Hamilton">Ian Hamilton</person>. With
 reference to your telegrams No. M.F. 281 and No. M.F.G.T. 967. We cannot
 supply ammunition to maintain a 1,000 rounds a gun owing to the demands
 from France, but consignments are being sent which amount to 17 rounds
@@ -681,7 +705,7 @@ sent for 18 pounder guns and howitzers."</p>
 <p>If we get 17 rounds per gun per day for the 18 pounders and 4.5
 howitzers we shall indeed be on velvet. To be given what satisfies
 Joffre and French--that sounds too good to be true. So ran my thoughts
-and Braithwaite's on a first reading. Then came the C.R.A. who puts
+and <person name="Walter_Braithwaite"> Braithwaite</person>'s on a first reading. Then came the C.R.A. who puts
 another light on the proposal and points out that the implied comparison
 with France is fallacious. We are undergunned here as compared with
 France in the proportion of 1 to 3. I mean to say that, in proportion to
@@ -695,9 +719,11 @@ this cable together with yesterday's we all of us feel that the home
 folk are beginning to yawn and rub their eyes and that ere long they may
 really be awake.</p>
 
-<p>_4th June, 1915. Imbros._ Left camp after breakfast and boarded the
+</entry>
+
+<entry><p>_4th June, 1915. Imbros._ Left camp after breakfast and boarded the
 redoubtable _Wolverine_ under that desperado Lieutenant-Commander Keyes.
-The General Staff came alongside and we made our way to Cape Helles
+The General Staff came alongside and we made our way to Cape <location peninsula="Helles">Helles</location>
 through a blinding dust storm--at least, the dust came right out to sea,
 but it was on shore that it became literally blinding.</p>
 
@@ -783,9 +809,9 @@ the top of a cheaply won victory--these are the reverse side of our
 medal for the 4th June.</p>
 
 <p>Going back we fell in with a blood-stained crowd from the Hood, Howe and
-Anson Battalions. Down the little gully to the beach we could only walk
+Anson <unit type="Battalion">Battalions</unit>. Down the little gully to the beach we could only walk
 very slowly. At my elbow was Colonel Crauford Stuart, commanding the
-Hood Battalion. He had had his jaw smashed but I have seen men pull
+Hood <unit type="Battalion">Battalion</unit>. He had had his jaw smashed but I have seen men pull
 longer faces at breaking a collar stud. He told me that the losses of
 the Naval Division has been very heavy, the bulk of them during their
 retreat. From the moment the Turks drove the French out of the
@@ -800,9 +826,11 @@ of his Mounted Infantry straight for Pretoria; and my rage when, under
 orders from Headquarters, I had to send swift messengers to tell him he
 must rein back for some reason never made clear.</p>
 
-<p>_5th June, 1915. Imbros._ Best part of the day occupied in a hundred and
+</entry>
+
+<entry><p>_5th June, 1915. Imbros._ Best part of the day occupied in a hundred and
 one sequels of the battle. The enemy have been quiet; they have had a
-belly-full. De Robeck came off to see me at 5.30, to have a final talk
+belly-full. <person name="John_de_Robeck">de Robeck</person> came off to see me at 5.30, to have a final talk
 (amongst other things) as to the Enos and Bulair ideas before I send my
 final answer to K. If we dare not advertise the detail of our proposed
 tactics, we may take the lesser risk of saying what we are _not_ going
@@ -813,9 +841,11 @@ that I should commit myself to a statement that if I get the drafts and
 troops asked for in my various cables, I will make good. That, I find
 quite reasonable.</p>
 
-<p>_6th June, 1915. Imbros._ A very hot and dusty day. Still sweeping up
+</entry>
+
+<entry><p>_6th June, 1915. Imbros._ A very hot and dusty day. Still sweeping up
 the _debris_ of the battle. Besides my big cable have been studying
-strengths with my A.G. The Battalions are dwindling to Companies and the
+strengths with my A.G. The <unit type="Battalion">Battalions</unit> are dwindling to Companies and the
 Divisions to Brigades.</p>
 
 <p>The cable is being ciphered: not a very luminous document: how could it
@@ -910,7 +940,9 @@ short years ago, if K.'s heart had been set on Constantinople, why, to
 Constantinople he would have gone. Paris might have screamed; he would
 not have swerved a hair's breadth till he had gripped the Golden Horn.</p>
 
-<p>_7th June, 1915. Imbros._ Left camp early and went to Cape Helles on a
+</entry>
+
+<entry><p>_7th June, 1915. Imbros._ Left camp early and went to Cape <location peninsula="Helles">Helles</location> on a
 destroyer. On our little sandbag pier, built by Egyptians and Turkish
 prisoners, I met General Wallace and his A.D.C. (a son of Walter
 Long's). Wallace has come here to take up his duty as Inspector-General
@@ -980,14 +1012,14 @@ E.11 had returned safely after three fruitful weeks in the Marmora.</p>
 
 <p>"(No. 5199).</p>
 
-<p>"From Earl Kitchener to General Sir Ian Hamilton.</p>
+<p>"From  <person name="Earl_Kitchener">Earl Kitchener</person> to General Sir  <person name="Ian_Hamilton">Ian Hamilton</person>.</p>
 
 <p>"With reference to your telegram No. M.F. 301, instead of sending such
-telegrams reporting operations, privately to Earl Kitchener, will you
+telegrams reporting operations, privately to  <person name="Earl_Kitchener">Earl Kitchener</person>, will you
 please send them to the Secretary of State. A separate telegram might
 have been sent dealing with the latter part about Doran."</p>
 
-<p>May the devil fly away with me if I know what that means! Braithwaite is
+<p>May the devil fly away with me if I know what that means! <person name="Walter_Braithwaite"> Braithwaite</person> is
 as much at a loss as myself. No one knows better than we do how much
 store K. sets on having all these messages addressed to him personally.
 There's more in this than meets the common or garden optic!</p>
@@ -1026,7 +1058,7 @@ three weeks of stupefaction, thank God our rulers have got out of the
 right side of their beds and are not going to run away.</p>
 
 <p>The first thing to be done was to signal to the Admiral to come over. At
-2 p.m. he and Roger Keyes turned up. The great news was read out and
+2 p.m. he and <person name="Roger_Keyes">Roger Keyes</person> turned up. The great news was read out and
 yet, such is the contrariness of human nature that neither the hornpipe
 nor the Highland Fling was danced. Three weeks ago--two weeks ago--we
 should have been beside ourselves, but irritation now takes the fine
@@ -1046,7 +1078,7 @@ out. We have taken some prisoners.</p>
 
 <p>Dined on board the _Triad_. Sat up later than usual. Not only had we
 news from home and the news from the Peninsula to thresh out, but there
-was much to say and hear about E.11 and that apple of Roger Keyes' eye,
+was much to say and hear about E.11 and that apple of <person name="Roger_Keyes">Roger Keyes</person>' eye,
 the gallant Nasmith. Their adventures in the sea of Marmora take the
 shine out of those of the Argonauts.</p>
 
@@ -1057,7 +1089,9 @@ commanding 1st Australian Light Horse Brigade, waiting to see me. I had
 known him well in Melbourne where he helped me more than anyone else to
 get the hang of the Australian system. He stays the night.</p>
 
-<p>_9th June, 1915. Imbros._ A cable saying the new Divisions will form the
+</entry>
+
+<entry><p>_9th June, 1915. Imbros._ A cable saying the new Divisions will form the
 9th Corps and asking me my opinion of Mahon as Corps Commander. I shall
 reply at once he is good up to a point and brave, but not up to running
 a Corps out here.</p>
@@ -1070,11 +1104,13 @@ house-flies having a garden party on my nose I just opened one eye and
 looked at them running about outside my entrenchments, then closed it
 and fell asleep again for an hour.</p>
 
-<p>_10th June, 1915. Imbros._ Nothing doing but sheer hard work. The
+</entry>
+
+<entry><p>_10th June, 1915. Imbros._ Nothing doing but sheer hard work. The
 sailors the same. Sent one pretty stiff cable as we all agreed that we
 must make ourselves quite clear upon the question of guns and shell.
 After all, any outsider would think it a plain sailing matter enough--a
-demand, that is to say, from Simpson-Baikie at Helles that he should be
+demand, that is to say, from Simpson-Baikie at <location peninsula="Helles">Helles</location> that he should be
 gunned and shell supplied on the same scale as the formations he quitted
 on the Western Front only a few weeks ago. Simpson-Baikie has been
 specially sent to us by Lord K., who has a high opinion of his merits. A
@@ -1124,16 +1160,18 @@ for overland tactics--a fatal blind alley. All I could do I did this
 afternoon when the Admiral came to tea and took me for a good stiff walk
 afterwards.</p>
 
-<p>_11th June, 1915. Imbros._ Sailed over to Anzac with Braithwaite. Took
+</entry>
+
+<entry><p>_11th June, 1915. Imbros._ Sailed over to Anzac with <person name="Walter_Braithwaite"> Braithwaite</person>. Took
 Birdwood's views upon the outline of our plan (which originated between
 him and Skeen) for entering the New Army against the Turks. To do his
 share, _durch und durch_ (God forgive me), he wants three new Brigades;
 with them he engages to go through from bottom to top of Sari Bair.
 Well, I will give him four; perhaps five! Our whole scheme hinges on
 these crests of Sari Bair which dominate Anzac and Maidos; the
-Dardanelles and the Aegean. The destroyers next took us to Cape Helles
+Dardanelles and the Aegean. The destroyers next took us to Cape <location peninsula="Helles">Helles</location>
 where I held a pow wow at Army Headquarters, Generals Hunter-Weston and
-Gouraud being present as well as Birdwood and Braithwaite. Everyone keen
+Gouraud being present as well as Birdwood and <person name="Walter_Braithwaite"> Braithwaite</person>. Everyone keen
 and sanguine. Many minor suggestions; warm approval of the broad lines
 of the scheme. Afterwards I brought Birdie back to Anzac and then
 returned to Imbros. A good day's work. Half the battle to find that my
@@ -1150,7 +1188,9 @@ ago to put this very strongly to the War Office. After all, bombs and
 grenades are easy things to make if the tails of the manufacturers are
 well twisted.</p>
 
-<p>_12th June, 1915. Imbros._ Stayed in camp where de Robeck came to see
+</entry>
+
+<entry><p>_12th June, 1915. Imbros._ Stayed in camp where <person name="John_de_Robeck">de Robeck</person> came to see
 me. I wonder what K. is likely to do about Mahon and about ammunition.
 When he told me Joffre and French thought 17 rounds per gun per day good
 enough, and that he was going to give me as much, there were several
@@ -1168,7 +1208,7 @@ creating those 145 batteries of Territorial Field Artillery?</p>
 <p>A depressing wire in from the War Office expressing doubt as to whether
 they will be able to meet our wishes by embarking units complete and
 ready for landing; gear, supplies, munitions all in due proportion, in
-the transports coming out here from England. Should we be forced to
+the transports coming out here from <location country="England">England</location>. Should we be forced to
 redistribute men and material on arrival, we are in for another spell of
 delay.</p>
 
@@ -1181,11 +1221,13 @@ indirectly--as involving three lines of small craft to supply three
 separate military forces. The number of small craft required are not in
 existence.</p>
 
-<p>_13th June, 1915. Imbros._ The War Office forget every now and then
+</entry>
+
+<entry><p>_13th June, 1915. Imbros._ The War Office forget every now and then
 other things about the coastline above the Narrows. I have replied:</p>
 
-<p>"Your first question as to the fortification of the coast towards
-Gallipoli can be satisfactorily answered only by the Navy as naval
+     <p>"Your first question as to the fortification of the coast towards<location Peninsula="Gallipoli_Peninsula">
+Gallipoli</location> can be satisfactorily answered only by the Navy as naval
 aeroplane observation is the only means by which I can find out about
 the coast fortifications. From time to time it has been reported that
 torpedo tubes have been placed at the mouth of Soghan Dere and at Nagara
@@ -1203,7 +1245,7 @@ intended about plans. The following cable took me the best part of the
 morning. I hope it is too technical to effect a lodgment in the memories
 of the gossips:--</p>
 
-<p>"(No. M.F. 328). From General Sir Ian Hamilton to War Office. With
+<p>"(No. M.F. 328). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to War Office. With
 reference to your No. 5441, cipher. From the outset I have fully
 realized that the question of cutting off forces defending the Peninsula
 lay at the heart of my problem. See my No. M.F. 173, last paragraph, and
@@ -1267,7 +1309,7 @@ sailed, yet the date was cabled to the Turks from Vienna."</p>
 
 <p>The message took some doing and could not, therefore, get clear of camp
 till 11 o'clock when I boarded the destroyer _Grampus_, and sailed for
-Helles. Lunched with Hunter-Weston at his Headquarters, and then walked
+<location peninsula="Helles">Helles</location>. Lunched with Hunter-Weston at his Headquarters, and then walked
 out along the new road being built under the cliffs from "W" Beach to
 Gurkha Gully. On the way I stopped at the 29th Divisional Headquarters
 where I met de Lisle. Thence along the coast where the 88th Brigade were
@@ -1280,9 +1322,11 @@ the East Lancashire Division in their rest trenches.</p>
 
 <p>Got back to Hunter-Weston's about 6 and had a cup of tea. There Cox of
 the Indian Brigade joined me, and I took him with me to Imbros where he
-is going to stay a day or two with Braithwaite.</p>
+is going to stay a day or two with <person name="Walter_Braithwaite"> Braithwaite</person>.</p>
 
-<p>_14th June, 1915. Imbros._ K. sends me this brisk little pick-me-up:--</p>
+</entry>
+
+<entry><p>_14th June, 1915. Imbros._ K. sends me this brisk little pick-me-up:--</p>
 
 <p>"Report here states that your position could be made untenable by
 Turkish guns from the Asiatic shore. Please report on this."</p>
@@ -1303,14 +1347,14 @@ haven't got the guns--and we know it:--if ever they do get the guns it
 will take them weeks, months, before they can get them mounted and
 shells in proportion amassed.</p>
 
-<p>K. should know better than any other man in England--Lord Bobs, alas, is
+<p>K. should know better than any other man in <location country="England">England</location>-- <person name="Lord_Bobs">Lord Bobs</person>, alas, is
 gone--that if there was any real fear of guns from Asia being able to
 make us loosen our grip on the Peninsula, I would cable him quickly.
 Then why does he ask? Well--and why shouldn't he ask? I must not be so
 captious. Much better turn the tables on him by asking him to enable us
 to knock out the danger he fears:--</p>
 
-<p>"(No. M.F. 331). From General Sir Ian Hamilton to Earl Kitchener. With
+<p>"(No. M.F. 331). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to  <person name="Earl_Kitchener">Earl Kitchener</person>. With
 reference to your telegram No. 5460. As already reported in my telegram,
 fire from the Asiatic shore is at times troublesome, but I am taking
 steps to deal with it. Of course another battery of 6-inch howitzers
@@ -1424,7 +1468,7 @@ present and future of our show:--</p>
 
 <p>     Secundo, vers Gaba-Tepe.</p>
 
-<p>     Au Sud de Gaba Tepe s'etend une plaine que les cartes disent
+<p>     Au Sud de <location peninsula="Gaba Tepe"> Gaba Tepe </location> s'etend une plaine que les cartes disent
      accessible au debarquement. Des troupes debarquees la se trouvent a
      8 kilometres environ de Maidos, c'est a dire au point ou la
      presqu'ile est la plus etroite.</p>
@@ -1434,7 +1478,7 @@ present and future of our show:--</p>
      montagnes qui dominent la plaine au Nord. Mais alors que la prise
      d'Achi Baba ne sera qu'un grand succes militaire, qui nous mettra
      le lendemain devant les escarpements de Kilid-Bahr, l'occupation de
-     la region Gaba Tepe-Maidos nous placerait au dela des detroits,
+     la region <location peninsula="Gaba Tepe"> Gaba Tepe </location>-Maidos nous placerait au dela des detroits,
      nous permettrait d'y constituer une base ou les sous-marins de la
      mer de Marmara pourraient indefiniment s'approvisionner.</p>
 
@@ -1516,17 +1560,19 @@ having a look; flying around the shipping and Headquarters camp at a
 great height, but dropping no bombs. After a bit she scooted off to the
 South-east. Cox dined.</p>
 
-<p>_15th June, 1915. Imbros._ Yesterday I learned some detail about the
+</entry>
+
+<entry><p>_15th June, 1915. Imbros._ Yesterday I learned some detail about the
 conduct of affairs the other day--enough to make me very anxious indeed
 that no tired or nervy leaders should be sent out with the new troops.
 So I have sent K. a cable!--</p>
 
-<p>"(No. M.F. 334). From General Sir Ian Hamilton to Earl Kitchener.</p>
+<p>"(No. M.F. 334). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to  <person name="Earl_Kitchener">Earl Kitchener</person>.</p>
 
 <p>"With reference to the last paragraph of your telegram No. 5250, cipher,
 and my No. M.F. 313. I should like to submit for your consideration the
 following views of the qualities necessary in an Army Corps Commander on
-the Gallipoli Peninsula. In that position only men of good stiff
+the <location Peninsula="Gallipoli_Peninsula">Gallipoli Peninsula</location>. In that position only men of good stiff
 constitution and nerve will be able to do any good. Everything is at
 such close quarters that many men would be useless in the somewhat
 exposed headquarters they would have to occupy on this limited terrain,
@@ -1539,7 +1585,7 @@ cavalry Corps can give him in France."</p>
 <p>Left camp the moment I got this weight off my chest; boarded the
 _Savage_, or rather jumped on her ladder like a chamois and scrambled on
 deck like a monkey. It was blowing big guns and our launch was very
-nearly swamped. Crossing to Helles big seas were making a clean sweep of
+nearly swamped. Crossing to <location peninsula="Helles">Helles</location> big seas were making a clean sweep of
 the decks. Jolly to look at from the bridge.</p>
 
 <p>After a dusty walk round piers and beaches lunched with Hunter-Weston
@@ -1576,7 +1622,7 @@ ground by degrees--and we have not a yard to lose. If we are to remain
 we must keep on attacking here and there to maintain ourselves! But; to
 expect us to attack without giving us our fair share--on Western
 standards--of high explosive and howitzers shows lack of military
-imagination. A man's a man for a' that whether at Helles or Ypres. Let
+imagination. A man's a man for a' that whether at <location peninsula="Helles">Helles</location> or Ypres. Let
 me bring my lads face to face with Turks in the open field, we _must_
 beat them every time because British volunteer soldiers are superior
 individuals to Anatolians, Syrians or Arabs and are animated with a
@@ -1598,7 +1644,9 @@ this great enterprise for which they simply haven't got the nerve.</p>
 <p>If only K. would come and see for himself! Failing that--if only it were
 possible for me to run home and put my own case.</p>
 
-<p>_16th June, 1915. Imbros._ Gouraud, a sympathetic guest, left for French
+</entry>
+
+<entry><p>_16th June, 1915. Imbros._ Gouraud, a sympathetic guest, left for French
 Headquarters in one of our destroyers at 3.30 p.m. He is a real Sahib; a
 tower of strength. The Asiatic guns have upset his men a good deal. He
 hopes soon to clap on an extinguisher to their fire by planting down two
@@ -1607,13 +1655,13 @@ old naval six-inchers to this battery. During his stay we have very
 thoroughly threshed out our hopes and fears and went into the plan which
 Gouraud thinks offers chances of a record-breaking victory. If the
 character of the new Commanders and the spirit of their troops are of
-the calibre of those on his left flank at Helles he feels pretty
+the calibre of those on his left flank at <location peninsula="Helles">Helles</location> he feels pretty
 confident.</p>
 
 <p>Talking of Commanders, my appeal for a young Corps Commander of a "good
 stiff constitution" has drawn a startling reply:--</p>
 
-<p>"(No. 5501, cipher). From Earl Kitchener to Sir Ian Hamilton. Your No.
+<p>"(No. 5501, cipher). From  <person name="Earl_Kitchener">Earl Kitchener</person> to Sir  <person name="Ian_Hamilton">Ian Hamilton</person>. Your No.
 M.F. 334. I am afraid that Sir John French would not spare the services
 of the two Generals you mention, and they are, moreover, both junior to
 Mahon, who commands the 10th Division which is going out to you. Ewart,
@@ -1629,7 +1677,7 @@ Lieutenant-General senior to Mahon--himself the only man of his rank
 commanding a Division and almost at the top of the Lieutenant-Generals!
 Oh God, if I could have a Corps Commander like Gouraud! But this block
 by "Mahon" makes a record for the seniority fetish. I have just been
-studying the Army List with Pollen. Excluding Indians, Marines and
+studying the Army List with  <person name="Pollen">Pollen</person>. Excluding Indians, Marines and
 employed men like Douglas Haig and Maxwell, there _are_ only about one
 dozen British service Lieutenant-Generals senior to Mahon, and, of that
 dozen only two are _possible_--Ewart and Stopford! There _are_ no
@@ -1682,7 +1730,7 @@ we cannot send you any 4.5-inch howitzers with the other two Divisions,
 and even if more 5-inch were sent the fortnightly supply of ammunition
 for them would be very small."</p>
 
-<p>"(No. M.F. 337). From General Sir Ian Hamilton to War Office. With
+<p>"(No. M.F. 337). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to War Office. With
 reference to your No. 5489, cipher. I am very sorry that you cannot
 send the proper howitzers, and still more sorry for the reason, that of
 ammunition. The Turkish trenches are deep and narrow, and only effective
@@ -1701,7 +1749,9 @@ then a walk.</p>
 <p>There is quite a break in the weather. Very cold and windy with a little
 rain in the forenoon.</p>
 
-<p>_17th June, 1915. Imbros._ Smoother sea, but rough weather in office. A
+</entry>
+
+<entry><p>_17th June, 1915. Imbros._ Smoother sea, but rough weather in office. A
 cable from the Master General of the Ordnance in reply to my petition
 for another battery of 6-inch howitzers:--</p>
 
@@ -1727,7 +1777,7 @@ into the M.G.O.'s office and then proceed to walk into the M.G.O. I
 can't do that; a bad tempered cable is useless; I have no weapon at my
 disposal but very mild sarcasm:--</p>
 
-<p>"(No. M.F. 343). From General Sir Ian Hamilton to War Office. Your No.
+<p>"(No. M.F. 343). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to War Office. Your No.
 5537, cipher, M.G.O. Please send the battery of 6-inch howitzers. Your
 admonition will be borne in mind. Extra howitzers will be most useful to
 replace pieces damaged by enemy batteries on the Asiatic side of the
@@ -1811,7 +1861,7 @@ treat this letter as private. With all kind remembrance.</p>
 
 <p>                       "Believe me,
                            "Yours very sincerely,
-                               "(_Sd._) IAN HAMILTON."</p>
+                               "(_Sd._)  <person name="Ian_Hamilton">IAN HAMILTON</person>."</p>
 
 <p></p>
 
@@ -1825,7 +1875,7 @@ Our beautiful East Lancs. Division is in a very bad way. One more month
 of neglect and it will be ruined: if quickly filled up with fresh drafts
 it will be better than ever. Have cabled:--</p>
 
-<p>"(M.F.A. 871). From General Sir Ian Hamilton to War Office. The
+<p>"(M.F.A. 871). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to War Office. The
 following is the shortage of officers and rank and file in each Brigade
 of the XLIInd East Lancashire Division including the reinforcements
 reported as arriving:--</p>
@@ -1854,14 +1904,14 @@ that they are as brave as the old fighters. But, if the East Lancs. go
 on dwindling, the cadre will not retain strength enough to absorb and
 shape the recruits who will, we must suppose, some day be poured into
 it. A perishing formation loses moral force in more rapid progression
-than the mere loss of members would seem to warrant. When a battalion
+than the mere loss of members would seem to warrant. When a <unit type="Battalion">battalion</unit>
 which entered upon a campaign a thousand strong,--all keen and
 hopeful,--gets down to five hundred, comrades begin to look round at one
 another and wonder if any will be left. When it falls to three hundred,
 or less, the unit, in my experience, is better drawn out of the line.
 The bravest men lose heart when, on parade, they see with their own eyes
 that their Company--the finest Company in the Army--has become a
-platoon,--and the famous battalion a Company. A mould for shaping young
+platoon,--and the famous <unit type="Battalion">battalion</unit> a Company. A mould for shaping young
 enthusiasms into heroisms has been scrapped and it takes a desperate
 long time to recreate it.</p>
 
@@ -1890,8 +1940,10 @@ in the Greek Election. Also, that the King of Greece is dying, and that,
 therefore, the Greek Army can't join us until he has come round or gone
 under.</p>
 
-<p>_18th June, 1915. Imbros._ Went over to Kephalos Camp to inspect
-Rochdale's 127th (Manchester) Brigade. The Howe Battalion of the 2nd
+</entry>
+
+<entry><p>_18th June, 1915. Imbros._ Went over to Kephalos Camp to inspect
+Rochdale's 127th (Manchester) Brigade. The Howe <unit type="Battalion">Battalion</unit> of the 2nd
 Naval Brigade were there (Lieutenant-Colonel Collins), also, the 3rd
 Field Ambulance R.N.D. All these were enjoying an easy out of the
 trenches and, though only at about half strength, had already quite
@@ -1899,11 +1951,11 @@ forgotten the tragic struggles they had passed through. In fattest peace
 times, I never saw a keener, happier looking lot. I drew courage from
 the ranks. Surely these are the faces of men turned to victory!</p>
 
-<p>Some twenty unattached officers fresh from England were there: a likely
+<p>Some twenty unattached officers fresh from <location country="England">England</location> were there: a likely
 looking lot. One of the brightest a Socialist M.P.</p>
 
 <p>The inspection took me all forenoon so I had to sweat double shifts
-after lunch. Hunter-Weston came over from Helles at 7.15 p.m. and we
+after lunch. Hunter-Weston came over from <location peninsula="Helles">Helles</location> at 7.15 p.m. and we
 dined off crayfish. He was in great form.</p>
 
 <p>The War Office can get no more bombs for our Japanese trench mortars! A
@@ -1920,7 +1972,7 @@ an explosion and a sort of long drawn out ei-ei-ei-ei cry of horror from
 the Turks. It was fine,--a real corpse-reviving performance and now the
 W.O. have let the stock run out, because some ass has forgotten to order
 them in advance. Have cabled a very elementary question: "Could not the
-Japanese bombs be copied in England?"</p>
+Japanese bombs be copied in <location country="England">England</location>?"</p>
 
 <p>Being the Centenary of Waterloo, the thoughts and converse of
 Hunter-Weston and myself turned naturally towards the lives of the
@@ -1933,7 +1985,9 @@ to the accompaniment of unusually heavy shell fire on the Peninsula.</p>
 <p>_Later._--Have just heard that after a heavy bombardment the Turks made
 an attack and that fighting is going on now.</p>
 
-<p>_19th June, 1915. Imbros._ The Turks expended last night some 500 H.E.
+</entry>
+
+<entry><p>_19th June, 1915. Imbros._ The Turks expended last night some 500 H.E.
 shells; 250 heavy stuff from Asia and some thousands of shrapnel. They
 then attacked; we counter-attacked and there was some confused
 in-and-out Infantry fighting. We hear that the South Wales Borderers,
@@ -1964,7 +2018,9 @@ the 21st. Walked down in the evening to see what progress was being made
 with the new pier. Colonel Skeen, Birdwood's Chief of Staff, dined and
 seems clever, as well as a very pleasant fellow.</p>
 
-<p>_20th June, 1915. Imbros._ Rose early. Did a lot of business. The King's
+</entry>
+
+<entry><p>_20th June, 1915. Imbros._ Rose early. Did a lot of business. The King's
 Messenger's bag closed at 8 a.m. Told K. about the arrival of fresh
 Turkish troops and our fighting on the 18th. The trenches remain as
 before, but the Turks, having failed, are worse off.</p>
@@ -1982,12 +2038,12 @@ counterbalance, then I do not care so much."</p>
 
 <p>Fired off a second barrel through Fitz from whom I have just heard that
 my Despatch cannot be published as it stands but must be bowdlerized
-first, all the names of battalions being cut out. Instead of saying,
+first, all the names of <unit type="Battalion">battalions</unit> being cut out. Instead of saying,
 "The landing at 'W' had been entrusted to the 1st Bn. Lancashire
 Fusiliers (Major Bishop) and it was to the complete lack of the sense of
-danger or of fear of this daring battalion that we owed our astonishing
+danger or of fear of this daring <unit type="Battalion">battalion</unit> that we owed our astonishing
 success," I am to say, "The landing, etc., had been entrusted to a
-certain battalion."</p>
+certain <unit type="Battalion">battalion</unit>."</p>
 
 <p>The whole of this press correspondence; press censorship; despatch
 writing and operations cables hang together and will end by hanging the
@@ -2012,7 +2068,7 @@ the keenness or dullness of our own Nation."</p>
 bombs spread so great a consternation at Anzac that I have followed up
 my first remonstrance with a second and a stronger cable:--</p>
 
-<p>"(No. M.F. 348). From General Sir Ian Hamilton to War Office. Your No.
+<p>"(No. M.F. 348). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to War Office. Your No.
 5272, A.2.[21] I particularly request that you may reconsider your
 proposal not to order more Japanese bombs. These bombs are most
 effective and in high favour with our troops whose locally-made weapons,
@@ -2036,7 +2092,9 @@ Hospitals. Colonel Maher, P.M.O., came round, also Colonel Jones,
 R.A.M.C., and Captain Stanley, R.A.M.C. Talked with hundreds of men:
 these are the true philosophers.</p>
 
-<p>_21st June, 1915. Mudros._ Went at it again and overhauled No. 2
+</entry>
+
+<entry><p>_21st June, 1915. Mudros._ Went at it again and overhauled No. 2
 Stationary Hospital under Lieutenant-Colonel White, as well as No. 1
 Stationary Hospital commanded by Lieutenant-Colonel Bryant. The doctors
 praised me for inventing something new to say to each man. But all the
@@ -2051,17 +2109,19 @@ Division have carried a series of redoubts and trenches. The 1st
 Division did equally well but have been driven back again by
 counter-attacks. Fighting is still going on.</p>
 
-<p>While I have been away Braithwaite has cabled home in my name asking
+<p>While I have been away <person name="Walter_Braithwaite"> Braithwaite</person> has cabled home in my name asking
 which of the new Divisions is the best, as we shall have to use them
 before we can get to know them.</p>
 
-<p>_22nd June, 1915. Imbros._ An anxious night. Gouraud has done
+</entry>
+
+<entry><p>_22nd June, 1915. Imbros._ An anxious night. Gouraud has done
 splendidly; so have his troops. This has been a serious defeat for the
 Turks; a real bad defeat, showing, as it does, that given a modicum of
 ammunition we can seize the strongest entrenchments of the enemy and
 stick to them.</p>
 
-<p>"(No. M.F. 357). From General Sir Ian Hamilton to Secretary of State for
+<p>"(No. M.F. 357). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to Secretary of State for
 War. After 24 hours' heavy and continuous fighting a substantial
 success has been achieved. As already reported, the battle of 4th-5th
 June resulted in a good advance of my centre to which neither my right
@@ -2095,7 +2155,7 @@ launched, 600 yards of Turkish first line trenches were taken, and
 despite heavy counter-attacks during the night, especially at 3.20 a.m.,
 all captured positions are still in our hands. Am afraid casualties are
 considerable, but details are lacking. The enemy lost very heavily. One
-Turkish battalion coming up to reinforce, was spotted by an aeroplane,
+Turkish <unit type="Battalion">battalion</unit> coming up to reinforce, was spotted by an aeroplane,
 and was practically wiped out by the seventy-fives before they could
 scatter.</p>
 
@@ -2118,7 +2178,7 @@ casualties.</p>
 midnight and 4 a.m. Some of our newly arrived troops stood to their arms
 all night thinking the end of the world had come.</p>
 
-<p>At 6 p.m. de Robeck, Keyes, Ormsby Johnson and Godfrey came over from
+<p>At 6 p.m. <person name="John_de_Robeck">de Robeck</person>, Keyes, Ormsby Johnson and Godfrey came over from
 the flagship to see me.</p>
 
 <p>Have got an answer about the Japanese trench mortars and bombs. In two
@@ -2144,7 +2204,9 @@ grenades being used against us with effects so terrible, to be sent on
 to Methuen telling him it is simple, effective, that I hope he can make
 them and will be glad to take all he can turn out.</p>
 
-<p>_23rd June, 1915. Imbros._ Another day in camp. De Robeck and Keyes came
+</entry>
+
+<entry><p>_23rd June, 1915. Imbros._ Another day in camp. <person name="John_de_Robeck">de Robeck</person> and Keyes came
 over from the _Triad_ to unravel knotty points.</p>
 
 <p>Am enraged to recognize in Reuter one of my own cables which has been
@@ -2158,7 +2220,7 @@ lies, what a specially fatal description of falsehood to issue
 short-dated bulletins of victory with only one month to run. I have
 fired off a remonstrance as follows:--</p>
 
-<p>"(No M.F. 359). From General Sir Ian Hamilton to War Office. A Reuter
+<p>"(No M.F. 359). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to War Office. A Reuter
 telegram dated London, 16th June, has just been brought to my notice in
 which it is stated that the Press Bureau issues despatch in which the
 following sentence occurs: 'Day and night they (the Turks) have to
@@ -2169,7 +2231,9 @@ should be glad if you would trace whence it emanates.</p>
 
 <p>"Repeated to General Officer Commanding, Egypt."</p>
 
-<p>_24th June, 1915. Imbros._ Three days ago we asked the War Office to let
+</entry>
+
+<entry><p>_24th June, 1915. Imbros._ Three days ago we asked the War Office to let
 us know the merits of the three new Divisions. The War Office replied
 placing them in the order XIth; XIIth; Xth, and reminding me that the
 personality of the Commander would be the chief factor for deciding
@@ -2183,7 +2247,7 @@ moderate eulogy, but we out here are glad to have him for we know him.
 On these two War Office cables Hammersley and the 11th Division should
 be for it.</p>
 
-<p>After clearing my table, embarked with Braithwaite and Mitchell aboard
+<p>After clearing my table, embarked with <person name="Walter_Braithwaite"> Braithwaite</person> and Mitchell aboard
 the _Basilisk_ (Lieutenant Fallowfield) and made her stand in as close
 as we dared at Suvla Bay and the coast to the North of it. We have kept
 a destroyer on patrol along that line, and we were careful to follow the
@@ -2221,21 +2285,21 @@ hold the high crest line which dominates his own left, and in my own
 concurrence in that confidence. Sari Bair is the "keep" to the Narrows;
 Chunuk Bair and Hill 305 are its keys: i.e., from those points the
 Turkish trenches opposite Birdwood can be enfiladed: the land _and_ sea
-communications of the enemy holding Maidos, Kilid Bahr and Krithia can
+communications of the enemy holding Maidos, Kilid Bahr and <location town="Krithia"> Krithia </location> can
 be seen and shelled and, in fact, any strong force of Turks guarding the
 European side of the Narrows can then be starved out, whilst a weak
 force will not long resist Gouraud and Hunter-Weston. As to our tactical
 scheme for producing these strategical results, it is simple in outline
 though infernally complicated in its amphibious and supply aspects. The
-French and British at Helles will attack so as to draw the attention of
+French and British at <location peninsula="Helles">Helles</location> will attack so as to draw the attention of
 the Turks southwards. To add to this effect, we are thinking of asking
-the Anzacs to exert a preliminary pressure on the Gaba Tepe alarum to
+the Anzacs to exert a preliminary pressure on the <location peninsula="Gaba Tepe"> Gaba Tepe </location> alarum to
 the southwards. We shall then give Birdwood what he wants, an extra
 division, and it will be a problem how to do so without letting the
 enemy smell a rat. Birdwood's Intelligence are certain that no trenches
 have been dug by the enemy along the high ridge from Chunuk Bair to Hill
 305. He is sure that with one more Division under his direct command,
-plus the help of a push from Helles to ease his southern flank, he can
+plus the help of a push from <location peninsula="Helles">Helles</location> to ease his southern flank, he can
 make good these dominating heights.</p>
 
 <p>[Illustration: THE NARROWS FROM CHUNUK BAIR]</p>
@@ -2257,7 +2321,7 @@ their troops can tackle it. There are one or two in the know who think
 me "venturesome" but, after all, is not "nothing venture nothing win" an
 unanswerable retort?</p>
 
-<p>De Robeck is excited over some new anti-submarine nets. They are so
+<p><person name="John_de_Robeck">de Robeck</person> is excited over some new anti-submarine nets. They are so
 strong and he can run them out so swiftly that they open, he seems to
 think, new possibilities of making landings,--not on open coasts like
 the North of the Aegean but at places like Yukeri Bay, where the nets
@@ -2272,7 +2336,7 @@ to be busy along the whole of the coastline to the South of Besika Bay.</p>
 <p>I have raised a hornet's nest by my objection to faked cables; but I
 will not have it done. They may suppress but they shall not invent.</p>
 
-<p>"(No. M.F. 366). From General Sir Ian Hamilton to War Office. Your No.
+<p>"(No. M.F. 366). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to War Office. Your No.
 12431. I do not object to General Officer Commanding, Egypt, publishing
 any telegram I send him, as I write them for that purpose. But I do
 object to the addition of news which is untrue, and which can surely be
@@ -2289,7 +2353,7 @@ I find a mutilated and misleading Cairo telegram reproduced in London
 Press in place of the true version I sent to the Secretary of State for
 War."</p>
 
-<p>General Paris crossed from Helles to dine and stay the night. After
+<p>General Paris crossed from <location peninsula="Helles">Helles</location> to dine and stay the night. After
 dinner, Commodore Backhouse came over to make his salaams to his
 Divisional Chief.</p>
 
@@ -2301,10 +2365,12 @@ victory of the 21st. He says,</p>
      anglais qui ont debarque dans les fils de fer sur la plage de
      Seddulbahr_."</p>
 
-<p>_25th June, 1915. Imbros._ At 8 a.m. walked down with Paris to see him
+</entry>
+
+<entry><p>_25th June, 1915. Imbros._ At 8 a.m. walked down with Paris to see him
 off. Worked till 11 a.m. and then crossed over to "K" Beach where
 Backhouse, commanding the 2nd Naval Brigade, met me. Inspected the Hood,
-Howe and Anson Battalions into which had been incorporated the
+Howe and Anson <unit type="Battalion">Battalions</unit> into which had been incorporated the
 Collingwood and Benbow units--too weak now to carry on as independent
 units. The Hood, Howe and Anson are suffering from an acute attack of
 indigestion, and Collingwoods and Benbows are sick at having been
@@ -2358,12 +2424,14 @@ authority on the Middle East and is travelling on some ultra-mysterious
 mission, very likely, _en passant_, as a critic of our doings: never
 mind, he is thrice welcome as a large-hearted and generous person.</p>
 
-<p>Dined with de Robeck on board the _Triad_. He is _most_ hospitable and
+<p>Dined with <person name="John_de_Robeck">de Robeck</person> on board the _Triad_. He is _most_ hospitable and
 kind. I have not here the wherewithal to give back cutlet for cutlet,
 worse luck.</p>
 
-<p>_26th June, 1915._ Worked till past 11 o'clock, then started
-for Anzac with Braithwaite per destroyer _Pincher_ (Lieutenant-Commander
+</entry>
+
+<entry><p>_26th June, 1915._ Worked till past 11 o'clock, then started
+for Anzac with <person name="Walter_Braithwaite"> Braithwaite</person> per destroyer _Pincher_ (Lieutenant-Commander
 Wyld). After going a short way was shifted to the _Mosquito_
 (Lieutenant-Commander Clarke). We had biscuits in our pockets, but the
 hospitable Navy stood us lunch.</p>
@@ -2397,16 +2465,18 @@ Birdie's dugout en route. Boarded the _Mosquito_; sailed for and reached
 camp without further adventure. General Douglas of the East Lancs
 Division is here. He has dined and is staying the night. A melancholy
 man before whose eyes stands constantly the tragic melting away without
-replacement of the most beautiful of the Divisions of Northern England.</p>
+replacement of the most beautiful of the Divisions of Northern <location country="England">England</location>.</p>
 
-<p>_27th June, 1915. Imbros._ Blazing hot; wound up my mail letters; fought
+</entry>
+
+<entry><p>_27th June, 1915. Imbros._ Blazing hot; wound up my mail letters; fought
 files, flies and irritability; tackled a lot of stuff from Q.M.G. and
 A.G.; won a clear table by tea time. In the evening hung about waiting
-for de Robeck who had signalled over to say he wanted to talk business.
+for <person name="John_de_Robeck">de Robeck</person> who had signalled over to say he wanted to talk business.
 At the last he couldn't come.</p>
 
 <p>The sequel to the letter telling me I'd have to cut the names of
-battalions out of my Despatch has come in the shape of a War Office
+<unit type="Battalion">battalions</unit> out of my Despatch has come in the shape of a War Office
 cable telling me that, if I agree, it is proposed "to have the despatch
 reviewed and a slightly different version prepared for publication." I
 hope my reply to Fitz may arrive in time to prevent too much titivation.</p>
@@ -2454,14 +2524,14 @@ things these fellows produce are all read and checked by competent
 General Staff Officers. To think that it matters to the Turks whether a
 certain trench was taken by the 7th Royal Scots or the 3rd Warwicks is
 just really like children playing at secrets. The Censors who are by way
-of keeping everyone in England in darkness allow extremely accurate
+of keeping everyone in <location country="England">England</location> in darkness allow extremely accurate
 outline panoramas of the Australian position from the back; trenches,
 communication tracks, etc., all to scale; a true military sketch, to
 appear in the _Illustrated London News_ of 5th June. The wildest
 indiscretions in words could not equal this."</p>
 
 <p>Again I say the Press must win. On no subject is there more hypocrisy
-amongst big men in England. They pretend they do not care for the Press
+amongst big men in <location country="England">England</location>. They pretend they do not care for the Press
 and _sub rosa_ they try all they are worth to work it. How well I
 remember my Chief of the General Staff coming up to me at a big
 conference on Salisbury Plain where I had spent five very useful minutes
@@ -2484,7 +2554,7 @@ troops and the new outfit of ammunition:--not "wait and see" but "wait
 and suffer." A month is a desperate long halt to have in a battle. A
 month, at least, to let weariness and sickness spread whilst new armies
 of enemies replace those whose hearts we have broken,--at a cost of how
-many broken hearts, I wonder, in Australasia and England?</p>
+many broken hearts, I wonder, in Australasia and <location country="England">England</location>?</p>
 
 <p>This enforced pause in our operations is a desperate bad business: for
 to-day there is a feeling in the air--thrilling through the ranks--that
@@ -2506,7 +2576,7 @@ to the showers of shell wherewith they deluged the Turkish lines until
 their defenders were sitting dazed with their dugouts in ruins about
 them. Also, in the same epistle, I have tried to explain Anzac.</p>
 
-<p>In the domain of tactics our landing at Helles speaks for itself. Since
+<p>In the domain of tactics our landing at <location peninsula="Helles">Helles</location> speaks for itself. Since
 gunpowder was invented nothing finer than the 29th Division has been
 achieved. But it will be a long time yet before people grasp that the
 landing at Anzac is just as remarkable in the imaginative domain of
@@ -2519,7 +2589,7 @@ already how freely bleeds the wound. Daily the effort to escape this
 doom; to push away the threat of that painful point will increase. Even
 if we were never to make another yard's advance,--here--in the cove of
 Anzac--is the cup into which the life blood of the Caliphat shall be
-pressed. And on the whole Gallipoli Peninsula this little cove is the
+pressed. And on the whole <location Peninsula="Gallipoli_Peninsula">Gallipoli Peninsula</location> this little cove is the
 one and only spot whereon a base could have been established, which is
 sheltered (to a bearable extent) from the force of the enemy's fire.
 Dead ground; defiladed from inland batteries; deep water right close to
@@ -2534,7 +2604,7 @@ on a pond. Hold fast's the word. We have only to keep our grip firm and
 fast; Turkey will die of exhaustion trying to do what she can't do;
 drive us into the sea!</p>
 
-<p>Braithwaite and Amery dined. Great fun seeing Amery again. _What_
+<p><person name="Walter_Braithwaite"> Braithwaite</person> and Amery dined. Great fun seeing Amery again. _What_
 memories of his concealment in the Autocrat's "Special" going to the
 Vereeniging Conference; of our efforts to create a strategical training
 ground for British troops in South Africa; of our battles against one
@@ -2550,8 +2620,8 @@ another over the great Voluntary Service issue.</p>
 <p>
 _28th June, 1915. Imbros._ The fateful day.</p>
 
-<p>Left camp with Braithwaite, Dawnay and Ward. Embarked on the destroyer
-_Colne_ (Commander Seymour) and sailed for Helles. The fire fight was
+<p>Left camp with <person name="Walter_Braithwaite"> Braithwaite</person>, Dawnay and Ward. Embarked on the destroyer
+_Colne_ (Commander Seymour) and sailed for <location peninsula="Helles">Helles</location>. The fire fight was
 raging. From the bridge we got a fine view as our guns were being
 focused on and about the north-west coast. The cliff line and half a
 mile inland is shrouded in a pall of yellow dust which, as it twirls,
@@ -2626,7 +2696,7 @@ stay."</p>
 
 <p>At 3.15 I ran across and warmly congratulated Hunter-Weston, staying
 with him reading the messages until about 4 p.m. when I went on to see
-Gouraud. Hunter-Weston, Gouraud and Braithwaite agree that:--_had we
+Gouraud. Hunter-Weston, Gouraud and <person name="Walter_Braithwaite"> Braithwaite</person> agree that:--_had we
 only shell to repeat our bombardment of this morning, now, we could go
 on another 1,000 yards before dark,--result, Achi Baba to-morrow, or, at
 the latest, the day after; Achi Baba_ and fifty guns perhaps with, say,
@@ -2634,7 +2704,7 @@ the latest, the day after; Achi Baba_ and fifty guns perhaps with, say,
 
 <p>At 5 p.m. Gouraud and I walked back to Hunter-Weston's G.H.Q. A load was
 off our minds--we were wonderfully happy. At 5.30 a message from Birdie
-to say the Queenslanders had thrust out towards Gaba Tepe and had
+to say the Queenslanders had thrust out towards <location peninsula="Gaba Tepe"> Gaba Tepe </location> and had
 "drawn" the Turkish reserves who had been badly hammered by our guns.
 With this crowning mercy in my pocket, walked down and boarded the
 destroyer _Scourge_ (Lieutenant Tupper) and got back to camp before
@@ -2643,7 +2713,7 @@ _Kudos_--and the Gunners, too, may the good use they made of their shell
 ration create a legend.</p>
 
 <p>The French official photographer has fixed a moment by snapping Gouraud
-and myself overlooking the Hellespont from the old battlements.</p>
+and myself overlooking the <location peninsula="Helles">Helles</location>pont from the old battlements.</p>
 
 <p>[Illustration: GENERAL GOURAUD "Central News" photo.]</p>
 
@@ -2674,7 +2744,9 @@ One pellet of lead, it falls in a heap of dust; the Peninsula
 disappears; the fighting men fall asleep; the world and its glories
 become a blank--not even a dream--nothing!</p>
 
-<p>_29th June, 1915. Imbros._ Sunlight has scattered the spectres of the
+</entry>
+
+<entry><p>_29th June, 1915. Imbros._ Sunlight has scattered the spectres of the
 night,--they have fled, leaving behind them only the matter-of-fact
 residuum of heavy Turkish counter-attacks against our fresh-won ground.
 The fighting took place along the coastline, and the stillness of the
@@ -2686,7 +2758,7 @@ guns and rifles and were shot to pieces.</p>
 <p>Very early approved the revise of my long cable (for the Cabinet)
 outlining my hopes and fears:--</p>
 
-<p>"(No. M.F. 381). From General Sir Ian Hamilton to Earl Kitchener. With
+<p>"(No. M.F. 381). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to  <person name="Earl_Kitchener">Earl Kitchener</person>. With
 reference to your telegram No. 5770, cipher. As the Cabinet are anxious
 to consider my situation in all its bearings, it is necessary I should
 open to you all my mind. In my No. M.F. 328 of 13th June, I gave you an
@@ -2701,7 +2773,7 @@ reconsideration of the whole strategical and tactical situation as well
 as of the power of the Fleet to work up to the increased demands that
 would be placed upon it. The scheme which might tempt me (Naval
 considerations permitting) of landing the 4th and 5th Divisions together
-with the three divisions and one or two divisions from Cape Helles and
+with the three divisions and one or two divisions from Cape <location peninsula="Helles">Helles</location> and
 Anzac on flank of shore of Gulf of Saros to march on Rodosto and
 Constantinople I reject because the 4th and 5th Divisions cannot reach
 me simultaneously with all their transport.</p>
@@ -2709,7 +2781,7 @@ me simultaneously with all their transport.</p>
 <p>"But assuming that reinforcements can only reach me in echelon of
 divisions I have decided that the best policy would be to adhere to my
 original plan of endeavouring to turn the enemy's right at Anzac with
-the first three divisions and to gain a position from Gaba Tepe to
+the first three divisions and to gain a position from <location peninsula="Gaba Tepe"> Gaba Tepe </location> to
 Maidos. I should then use the 4th and 5th Divisions, in case of
 non-success at first to reinforce this wing, and in case of success
 possibly to effect a landing on the southern shore of the Dardanelles;
@@ -2746,9 +2818,9 @@ captured at an earlier date and success would be generally assured."</p>
 
 <p>Next, I boiled down yesterday's battle into telegraphic dispatch form:</p>
 
-<p>"(No. M.F. 383). From General Sir Ian Hamilton to Secretary of State for
+<p>"(No. M.F. 383). From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to Secretary of State for
 War. In continuation of my Nos. M.F. 379 and 382. Plan of operations
-yesterday was to throw forward left of my line south-east of Krithia,
+yesterday was to throw forward left of my line south-east of <location town="Krithia"> Krithia </location>,
 pivoting on point about one mile from the sea, and after advancing
 extreme left for about half a mile, to establish new line facing east on
 ground thus gained. This plan entailed the capture in succession of two
@@ -2761,8 +2833,7 @@ bombardment by heavy artillery of the trenches to be captured.</p>
 10.20 our field artillery opened fire to cut wire in front of Turkish
 trenches and this was effectively done. Great effect on enemy's trench
 near sea and in keeping down his artillery fire from that quarter was
-produced by very accurate fire of H.M.S. _Talbot_, _Scorpion_, and
-_Wolverine_. At 10.45 a small Turkish advanced work in the Saghir Dere,
+produced by very accurate fire of <location ship="H.M.S. Talbot">H.M.S. _Talbot_</location>,<location ship="H.M.S. Scorpion">Scorpion</location>, and <location ship="H.M.S. Wolverine">Wolverine</location>. At 10.45 a small Turkish advanced work in the Saghir Dere,
 known as the Boomerang Redoubt, was assaulted. This little fort was
 very strongly sited, protected by extra strong wire entanglements and
 has long been a source of trouble. After special bombardment by trench
@@ -2776,7 +2847,7 @@ was lengthened and infantry advanced. Infantry attack was carried out
 with great dash along whole line. West of Saghir Dere 87th Brigade
 captured three lines of trenches with little opposition. Trenches full
 of dead Turks, many buried by bombardment, and 100 prisoners were taken
-in them. East of Ravine two battalions Royal Scots made fine attack,
+in them. East of Ravine two <unit type="Battalion">battalions</unit> Royal Scots made fine attack,
 capturing the two lines of trenches assigned as their objective, but
 remainder of 156th Brigade on their right met severe opposition and were
 unable to get forward. At 11.30, 86th Brigade led by 2nd Bn. Royal
@@ -2788,7 +2859,7 @@ and forming line to connect with our new position East of Ravine.</p>
 
 <p>"The northernmost objective I had set out to reach had now been
 attained, but the Gurkhas pressing on under the cliffs captured an
-important knoll still further forward, actually due west of Krithia.
+important knoll still further forward, actually due west of <location town="Krithia"> Krithia </location>.
 This they fortified and held during the night, making our total gain on
 the left precisely 1,000 yards. During afternoon 88th Brigade attacked
 trenches, small portion of which remained uncaptured on right, but enemy
@@ -2843,13 +2914,15 @@ captured. So we still hold every yard we had gained.</p>
 <p>The attack by a part of the Lowland Division seems to have been
 mishandled. A Brigade made the assault East of the Ravine; the men
 advanced gallantly but there was lack of effective preparation. Two
-battalions of the Royal Scots carried a couple of the enemy's trenches
+<unit type="Battalion">battalions</unit> of the Royal Scots carried a couple of the enemy's trenches
 in fine style and stuck to them, but the rest of the Brigade lost a
 number of good men to no useful purpose in their push against H.12. One
 thing is clear. If the bombardment was ineffective, from whatever cause,
 then the men should not have been allowed to break cover.[23]</p>
 
-<p>_30th June, 1915. Imbros._ Writing in camp.</p>
+</entry>
+
+<entry><p>_30th June, 1915. Imbros._ Writing in camp.</p>
 
 <p>More good news. It never rains but it pours. The French have made a fine
 push and got the Quadrilateral by 8 a.m. with but little loss. The Turks
@@ -2866,7 +2939,7 @@ made. If our Government is pleased to send a finer brand of wine to
 replace what was wasted by the guns of Asia, we Frenchmen will drink it
 to the very good health of our British comrades in arms."</p>
 
-<p>How lucky I signalled de Robeck 8 p.m. yesterday to let us keep the
+<p>How lucky I signalled <person name="John_de_Robeck">de Robeck</person> 8 p.m. yesterday to let us keep the
 _Wolverine_ and _Scorpion_ "in case of a night attack!" Sure enough
 there was another onslaught made against our northernmost post. Two
 Turkish Regiments were discovered in mass creeping along the top of the
@@ -2877,7 +2950,7 @@ dead upon the ground. Also, hiding in furze, have gleaned 180 prisoners
 belonging to the 13th, 16th and 33rd Regiments. A Circassian prisoner
 carried in a wounded Royal Scot on his back under a heavy fire.</p>
 
-<p>Three wires from Helles; the first early this morning; the last just to
+<p>Three wires from <location peninsula="Helles">Helles</location>; the first early this morning; the last just to
 hand (11 p.m.) saying that the lack of hand grenades is endangering all
 our gains. The Turks are much better armed in this respect. De Lisle
 says that where we have hand grenades we can advance still further;
@@ -2896,12 +2969,12 @@ beginning to crack up a little (not much) but nothing less than
 murderous losses would have done it. In their diaries their officers
 speak of this Peninsula as the Slaughterhouse."</p>
 
-<p>Brigadier-General de Lothbiniere and Major Ruthven lunched and young
+<p>Brigadier-General  <person name="De Lothbiniere">de Lothbiniere</person> and Major Ruthven lunched and young
 Brodrick and I dined together on board the _Triad_ with the hospitable
 Vice-Admiral. We were all very cheery at the happy turn of our fortunes;
 outwardly, that is to say, for there was a skeleton at the feast who
 kept tap, tap, tapping on the mahogany with his bony knuckles; tap, tap,
-tap; the gunfire at Helles was insistent, warning us that the Turks had
+tap; the gunfire at <location peninsula="Helles">Helles</location> was insistent, warning us that the Turks had
 not yet "taken their licking." But when I get back, although there is
 nothing in from Hunter-Weston there is an officer from Anzac who has
 just given me the complete story of Birdwood's demonstration on the
@@ -2911,10 +2984,10 @@ just given me the complete story of Birdwood's demonstration on the
 and 156th Brigade the day before yesterday, as well as Gouraud's attack
 of yesterday, we had reckoned that the Turkish High Command would get to
 realize by about 11 a.m. on the 28th that an uncommon stiff fight had
-been set afoot to the sou'-west of Krithia. L. von S. would then, it
+been set afoot to the sou'-west of <location town="Krithia"> Krithia </location>. L. von S. would then, it
 might be surmised, draw upon his reserves at Maidos and upon his forces
 opposite Anzac: they would get their orders about mid-day: they would be
-starting about 1 p.m.: they would reach Krithia about dusk: they would
+starting about 1 p.m.: they would reach <location town="Krithia"> Krithia </location> about dusk: they would
 use their "pull" in the matter of hand grenades to counter-attack by
 moonlight. So we asked Birdie to make one of his most engaging gestures
 just to delay these reinforcements a little bit; and now it turns out
@@ -2922,14 +2995,14 @@ that the Australians and New Zealanders in their handsome, antipodean
 style went some 50 per cent. better than their bargain:--</p>
 
 <p>(1) At 1 p.m. on the 28th the Queensland giants darted out of their
-caves and went for the low ridge covering Gaba Tepe, that tenderest spot
+caves and went for the low ridge covering <location peninsula="Gaba Tepe"> Gaba Tepe </location>, that tenderest spot
 of the Turks. They got on to the foot of it and, by their dashing
 onslaught, drew the fire of all the enemy guns; but, what was still
 better, heavy Turkish columns, on the march, evidently, from Maidos to
-the help of Krithia, turned back northwards and closed in for the
-defence of Gaba Tepe. As they drew near they came under fire of our
+the help of <location town="Krithia"> Krithia </location>, turned back northwards and closed in for the
+defence of <location peninsula="Gaba Tepe"> Gaba Tepe </location>. As they drew near they came under fire of our
 destroyers and of the Anzac guns and were badly knocked about and broken
-up. So both Krithia and the French Quadrilateral have had to do without
+up. So both <location town="Krithia"> Krithia </location> and the French Quadrilateral have had to do without
 the help of these reinforcements from the reserves of Liman von Sanders.
 One of the neatest of strokes and the credit of it lies with the
 Queenslanders who were not content to flourish their fists in the
@@ -2937,7 +3010,7 @@ enemy's face but ran out and attacked him at close quarters.</p>
 
 <p>(2) Now comes the sequel! Birdie has just sent in word of the best
 business done at Anzac since May 19th!! The success of his demonstration
-towards Gaba Tepe had given the Turks a bad attack of the jumps,
+towards <location peninsula="Gaba Tepe"> Gaba Tepe </location> had given the Turks a bad attack of the jumps,
 followed by a thirst for vengeance. Yesterday, they got _very_ nervy
 during a dust storm and for two hours the whole of their Army kept up
 high pressure fire from every rifle and machine gun they could bring to
@@ -2947,16 +3020,18 @@ very serious assault--very serious for the enemy--was suddenly launched
 against the Anzac left, the brunt of it falling on Russell's New Zealand
 Mounted Rifles and Chauvel's Australian Light Horse; a bad choice too!
 Our victory complete; bloodless for us. Their defeat complete; very
-bloody. Nine fresh enemy battalions smashed to bits: fighting went on
+bloody. Nine fresh enemy <unit type="Battalion">battalions</unit> smashed to bits: fighting went on
 until dawn: five hundred Turks laid out and counted: no more detail but
 that is good enough to go to sleep upon.</p>
 
-<p>_1st July, 1915. Imbros._ Good news from Helles continues. In the early
+</entry>
+
+<entry><p>_1st July, 1915. Imbros._ Good news from <location peninsula="Helles">Helles</location> continues. In the early
 hours of last night an attack was made on the Gurkhas in J trenches.
 When they ran out of bombs the Turks bombed them out. Headed by Bruce
 their Colonel, whom they adore, they retook the trench and, for the
 first time, got into the enemy with their _kukris_ and sliced off a
-number of their heads. At dawn half a battalion of Turks tried to make
+number of their heads. At dawn half a <unit type="Battalion">battalion</unit> of Turks tried to make
 the attack along the top of the cliff and were entirely wiped out.</p>
 
 <p>Against this I must set down cruel bad news about Gouraud. An accursed
@@ -2977,10 +3052,12 @@ French, and indirectly by my whole force," is really most serious, as I
 know, I say, "the French War Minister cannot send us another General
 Gouraud."</p>
 
-<p>_2nd July, 1915. Imbros._ Worked all day in camp. Birdie, with Onslow,
+</entry>
+
+<entry><p>_2nd July, 1915. Imbros._ Worked all day in camp. Birdie, with Onslow,
 his A.D.C--_such_ a nice boy--came over from Anzac in the morning and
 stayed with me the day, during which we worked together at our plan. At
-night we all went over together to H.M.S. _Triad_ to dine with the
+night we all went over together to <location ship="H.M.S. Triad">H.M.S. _Triad_</location> to dine with the
 Vice-Admiral.</p>
 
 <p>Birdwood is quite confident that with a fresh Division and a decent
@@ -3000,7 +3077,7 @@ find it very awkward to show themselves in the Straits by night. As to
 the enemy land communications, as soon as we can haul up our big guns we
 should command, and be able to search, all the ground between the Aegean
 and the Dardanelles. Now is the moment. Birdwood says that he and his
-men have exactly the same feeling that we have down at Helles--the
+men have exactly the same feeling that we have down at <location peninsula="Helles">Helles</location>--the
 feeling, namely, that now at last, we have got a right moral pull over
 the Turks. All we want is enough material to turn that faith into a mile
 or two of mountains.</p>
@@ -3031,9 +3108,9 @@ me on tenterhooks during the past four days and nights. But we have on
 our maps little blue arrows showing the movements of at least a Division
 of troops in various little columns from above Kereves Dere, from Soghon
 Dere river, from Kilid Bahr and even from within gun-shot of Achi Baba,
-all converging on a point a mile or two north-west of Krithia. So it
+all converging on a point a mile or two north-west of <location town="Krithia"> Krithia </location>. So it
 looks as if they were going to have one more desperate go at the Gurkha
-knoll due west of Krithia, and at the line of trench we call J.13
+knoll due west of <location town="Krithia"> Krithia </location>, and at the line of trench we call J.13
 immediately behind it which was also held by the Gurkhas.</p>
 
 <p>"Last night they bombed the Gurkhas out of the eastern half of J.13 and
@@ -3041,7 +3118,7 @@ the Inniskilling Fusiliers had to take it again at the point of the
 bayonet just as day broke.</p>
 
 <p>"You can have small idea of what the troops are going through. The same
-old battalions being called on again and again to do the forlorn hope
+old <unit type="Battalion">battalions</unit> being called on again and again to do the forlorn hope
 sort of business. However, each day that passes, these captured
 positions get better dug in, and make the Turks' counter-attack more
 costly.</p>
@@ -3078,17 +3155,19 @@ which the enemy may be bound, perhaps for military or perhaps for
 political reasons, to attack. Then you can begin to kill them pretty
 fast."</p>
 
-<p>_3rd July, 1915. Imbros._ Very hot; very limp with the prevalent disease
+</entry>
+
+<entry><p>_3rd July, 1915. Imbros._ Very hot; very limp with the prevalent disease
 but greatly cheered up by the news of yesterday evening's battle at
-Helles. The Turks must have got hold of a lot of fresh shell for, at
-5.30 p.m., they began as heavy a bombardment as any yet seen at Helles,
+<location peninsula="Helles">Helles</location>. The Turks must have got hold of a lot of fresh shell for, at
+5.30 p.m., they began as heavy a bombardment as any yet seen at <location peninsula="Helles">Helles</location>,
 concentrating on our extreme left. We could only send a feeble reply. At
 6 o'clock the enemy advanced in swarms, but before they had covered more
 than 100 yards they were driven back again into the Ravine some 800
-yards to our front. H.M.S. _Scorpion_ and our machine guns played the
+yards to our front. <location ship="H.M.S. Scorpion">H.M.S. _Scorpion_</location> and our machine guns played the
 chief hand. At 7 p.m. the Turkish guns began again, blazing away as if
 shells were a drug in the market, whilst, under cover of this very
-intense fire, another two of their battalions had the nerve to emerge
+intense fire, another two of their <unit type="Battalion">battalions</unit> had the nerve to emerge
 from the Ravine to the north-east of our forward trenches and to move in
 regular lines--shoulder to shoulder--right across the open. Hardly had
 they shown themselves when the 10th Battery R.F.A. sprayed them
@@ -3116,7 +3195,7 @@ numbers we cannot put into the line of battle!</p>
 business brains to run the most intricate business proposition at
 present on tap in the world--our communications. During the past month
 the confusion at Mudros, our advanced base, becomes daily worse
-confounded. Things meant for Anzac go to Helles, and _vice versa_: or,
+confounded. Things meant for Anzac go to <location peninsula="Helles">Helles</location>, and _vice versa_: or,
 not infrequently, stores, supplies or luxuries arrive and are sent off
 on a little tour to Alexandria and Malta before delivery. The system
 would be perfect for the mellowing of port or madeira, but when it is
@@ -3187,7 +3266,7 @@ During the period 28th to 30th June, the Brigades of the XXIXth and
 Lowland Divisions dropped in strengths approximately as follows:--86th
 from 71 officers, 2,807 others to 36 and 1,994; 87th from 65 and 2,724
 to 48 and 2,075; 88th from 63 and 2,139 to 46 and 1,765; 156th from 102
-and 2,839 to 30 and 1,399. All Officers who have arrived from England to
+and 2,839 to 30 and 1,399. All Officers who have arrived from <location country="England">England</location> to
 date are included in the above figures. Maxwell has agreed to let me
 have 80 young Officers from Egypt. Of the other ranks I have no
 appreciable reinforcements to put in. This is the situation after an
@@ -3204,13 +3283,13 @@ available as further reinforcements.</p>
 
 <p>"In view of the operations on a larger scale, with increased forces, I
 feel I should draw your attention to the risk introduced by the theatre
-of operations being so far from England. I have no reserves in base
+of operations being so far from <location country="England">England</location>. I have no reserves in base
 depots now, while the operations we are engaged in are such that heavy
 casualties are to be expected. The want of drafts ready on the spot to
 fill up units which have suffered heavily might prevent me pressing to
 full advantage as the result of a local success. At a critical moment I
 might find myself compelled to suspend operations until the arrival of
-drafts from England. This might involve a month and in the meantime the
+drafts from <location country="England">England</location>. This might involve a month and in the meantime the
 enemy would have time to consolidate his position. The difficulty of the
 drafts question is fully realized, but I think you should know exactly
 how I am placed and that I should reflect and make clear the essential
@@ -3223,11 +3302,13 @@ deficiencies in depots on my lines of communications with Egypt."</p>
 had to do was to tell his A.G. to see to it that the XXIXth Division was
 kept up to strength. A word and a frown would have done it. But he has
 not said the word, or scowled, and the troops have by extraordinary
-efforts and self-sacrifice carried through the work of strong battalions
+efforts and self-sacrifice carried through the work of strong <unit type="Battalion">battalions</unit>
 with weak ones--but only to some extent. That is the whole story.</p>
 
-<p>_4th July, 1915. Imbros._ Church Parade this morning. Made a close
-inspection of the Surrey Yeomanry under Major Bonsor. Even with as free
+</entry>
+
+<entry><p>_4th July, 1915. Imbros._ Church Parade this morning. Made a close
+inspection of the Surrey Yeomanry under  <person name="Major_Bonsor">Major Bonsor</person>. Even with as free
 a hand as the Lord Almighty, it would be hard to invent a better type of
 fighting man than the British Yeomanry; only, they have never been
 properly appreciated by the martinets who have ruled our roost, and
@@ -3235,17 +3316,17 @@ chances have never been given to them to make the most of themselves as
 soldiers.</p>
 
 <p>The Escort was made up of men of the 29th Division under Lieutenant
-Burrell of the South Wales Borderers--that famous battalion which
+Burrell of the South Wales Borderers--that famous <unit type="Battalion">battalion</unit> which
 stormed so brilliantly de Tott's battery at the first landing,--also of
-a detachment of Australians under Lieutenant Edwards and a squad of New
-Zealanders under Lieutenant Sheppard, fine men all of them, but very
+a detachment of Australians under  <person name="Lieutenant_Edwards">Lieutenant Edwards</person> and a squad of New
+Zealanders under  <person name="Lieutenant_Sheppard">Lieutenant Sheppard</person>, fine men all of them, but very
 different (despite the superficial resemblance imparted by their slouch
 hats) when thus seen shoulder to shoulder on parade. The Australians
 have the pull in height and width of chest; the New Zealanders are
 thicker all through, chests, waists, thighs.</p>
 
-<p>After Church Parade, boarded H.M.S. _Basilisk_ (Lieutenant Fallowfield)
-and steamed to Helles. The Turks, inconsiderate as usual, were shelling
+<p>After Church Parade, boarded <location ship="H.M.S. Basilisk">H.M.S. _Basilisk_</location> (Lieutenant Fallowfield)
+and steamed to <location peninsula="Helles">Helles</location>. The Turks, inconsiderate as usual, were shelling
 Lancashire Landing as we got ashore. Every living soul had gone to
 ground. Strolled up the deserted road with an air of careless
 indifference, hopped casually over a huge splosh of fresh blood, and
@@ -3274,22 +3355,22 @@ Pallin, acting Brigadier; Captain Girdwood, Brigade Major; Captain Law,
 Staff Captain; Colonel Peebles, 7th Royal Scots; Captain Sinclair, 4th
 Royal Scots; Lieutenant McClay, 8th Scottish Rifles. The last Officer
 was one of the very few--I am not sure they did not say the only one--of
-his Battalion who went into the assault and returned untouched.</p>
+his <unit type="Battalion">Battalion</unit> who went into the assault and returned untouched.</p>
 
 <p>The whole Brigade had attacked H. 12 on the 28th ult. and lost a number
 of good men. The rank and file seemed very nice lads but--there was no
 mistaking it--they have been given a bad shake and many of them were
-down on their luck. As we came to each Battalion Headquarters we were
+down on their luck. As we came to each <unit type="Battalion">Battalion</unit> Headquarters we were
 told, "These are the remnants of the----," whatever the unit was. Three
 times was this remark repeated but the fourth time I had to express my
 firm opinion that in no case was the use of the word "remnant," as
 applied to a fighting unit "in being," an expression which authority
 should employ in the presence of the men.</p>
 
-<p>Re-embarked in H.M.S. _Basilisk_ and got back to Imbros fairly late.</p>
+<p>Re-embarked in <location ship="H.M.S. Basilisk">H.M.S. _Basilisk_</location> and got back to Imbros fairly late.</p>
 
 <p>A set of Turkish Divisional orders sent by the Turkish General to the
-Commander of their right zone at Helles has been taken from a wounded
+Commander of their right zone at <location peninsula="Helles">Helles</location> has been taken from a wounded
 Turkish officer. They bear out our views of the blow that the 29th
 Division have struck at the enemy's _moral_ by their brilliant attack on
 the 28th inst.</p>
@@ -3312,22 +3393,24 @@ responsible all Officers who do not shoot with their revolvers all the
 privates who try to escape from the trenches on any pretext. Commander
 of the 11th Division, Colonel Rifaat."</p>
 
-<p>In sending on this order to his battalions, the Colonel of the 127th
+<p>In sending on this order to his <unit type="Battalion">battalions</unit>, the Colonel of the 127th
 Regiment adds:--</p>
 
-<p>"To Commander of the 1st Battalion. The contents will be communicated to
+<p>"To Commander of the 1st <unit type="Battalion">Battalion</unit>. The contents will be communicated to
 the Officers and I promise to carry out the orders till the last drop of
 our blood has been shed."</p>
 
-<p>Then followed the signatures of the company commanders of the Battalion.
+<p>Then followed the signatures of the company commanders of the <unit type="Battalion">Battalion</unit>.
 There is a savage ring about these orders but they are, I am sure, more
 bracing to the recipients than laments and condolences over their
 losses.</p>
 
-<p>_5th July, 1915. Imbros._ Spent a long, hot day hanging at the end of
+</entry>
+
+<entry><p>_5th July, 1915. Imbros._ Spent a long, hot day hanging at the end of
 the wire. Heavy firing on the Peninsula last night under cover of which
 the Turks at dawn made, or tried to make, a grand, concerted attack. Not
-a soul in England, outside the Ordnance, realizes, I believe, that
+a soul in <location country="England">England</location>, outside the Ordnance, realizes, I believe, that
 barring the guns of the 29th Division and the few guns of the Anzacs,
 our field artillery consists of the old 15-prs., relics of South Africa,
 and of 5-inch hows., some of them Omdurman veterans. Quite a number of
@@ -3351,9 +3434,9 @@ they would not touch with a barge pole and, of the good stuff, one
 Division in France will fire away in one day what would serve to take
 the Peninsula.</p>
 
-<p>Braithwaite has a letter from the D.M.I. telling him that 5,000 Russians
+<p><person name="Walter_Braithwaite"> Braithwaite</person> has a letter from the D.M.I. telling him that 5,000 Russians
 sailed from Vladivostock on the 1st inst. to join us here. One Regiment
-of four Battalions plus one Sotnia of Cossacks. A reinforcement of 5,000
+of four <unit type="Battalion">Battalions</unit> plus one Sotnia of Cossacks. A reinforcement of 5,000
 stout soldiers tumbling out of the skies! Russians placed here are worth
 twice their number elsewhere, not only because we need rifles so badly,
 but because of the moral effect their presence should have in the
@@ -3367,13 +3450,13 @@ from Adrianople. I do not grumble at the attack (on the contrary we like
 it), but at the reason they had for making it, which is that two fresh
 Divisions, newly arrived, asked leave to show their muscle by driving us
 into the sea. Full details are only just in. The biggest bombardment
-took place at Anzac. A Turkish battleship joined in from the Hellespont,
-dropping about twenty 11.2-inch shells into our lines. At Helles, all
+took place at Anzac. A Turkish battleship joined in from the <location peninsula="Helles">Helles</location>pont,
+dropping about twenty 11.2-inch shells into our lines. At <location peninsula="Helles">Helles</location>, all
 night, the Turks blazed away from their trenches. At 4 a.m. they opened
 fire on our trenches and beaches with every gun they could bring to
 bear from Asia or Achi Baba. Their Asiatic Batteries alone fired 1,900
 rounds, of which 700 fell on Lancashire Landing. At least 5,000 shell
-were loosed off on to Helles. A lot of the stuff was 6-inch and over.
+were loosed off on to <location peninsula="Helles">Helles</location>. A lot of the stuff was 6-inch and over.
 The bombardment was very wild and seemed almost unaimed. Soon after 4
 a.m. very heavy columns of Turks tried to emerge from the Ravine against
 the left of the 29th Division. "It wanted to be the hell of a great
@@ -3420,7 +3503,7 @@ and dated 4th instant, saying that 1,200 Turkish dead can be counted
 corpse by corpse from the left front. The actual numbers de Lisle
 estimates as between 2,000 and 3,000. Now we have to-day's losses to
 throw in. The Turks are burning their candle fast at the Anzac as well
-as the Helles end. Ten days of this and they are finished.[25]</p>
+as the <location peninsula="Helles">Helles</location> end. Ten days of this and they are finished.[25]</p>
 
 <p>Naturally, my mind dwells happily just now upon our incoming New Army
 formations. Yet every now and then I feel compelled to look back to
@@ -3436,9 +3519,11 @@ knocks itself to bits. Then a second expeditionary force is sent, but
 that would have been unnecessary had any sort of arrangement been
 thought out for promptly replacing first wastages in men and in shell.</p>
 
-<p>_6th July, 1915._ From early morning till 5 p.m. stuck as persistently
+</entry>
+
+<entry><p>_6th July, 1915._ From early morning till 5 p.m. stuck as persistently
 to my desk as the flies stuck persistently to me. After tea went riding
-with Maitland. Then with Pollen to dine on board H.M.S. _Triad_. The two
+with Maitland. Then with  <person name="Pollen">Pollen</person> to dine on board <location ship="H.M.S. Triad">H.M.S. _Triad_</location>. The two
 Territorial Divisions are coming. What with them and the Rooskies we
 ought to get a move on this time. Discoursed small craft with the
 Admiral. The French hate the overseas fire--small blame to them--and
@@ -3450,7 +3535,9 @@ hands now that the Turks have pushed on with their Asiatic defences, and
 it is too much to ask of either the New Army or of the Territorials that
 they should start off with a terrible landing.</p>
 
-<p>_7th July, 1915._ No escape from the steadily rising flood of letters
+</entry>
+
+<entry><p>_7th July, 1915._ No escape from the steadily rising flood of letters
 and files,--none from the swarms of filthy flies. General Bailloud and
 Colonel Piepape (Chief of Staff) came across with Major Bertier in a
 French torpedo boat to see me. They stayed about an hour. Bailloud's
@@ -3490,7 +3577,7 @@ is a real puzzler, demanding experience, energy, good temper as well as
 the power of entering into the point of view of sailors as well as
 soldiers, and of being (mentally) in at least three places at once:--</p>
 
-<p>"_From General Sir Ian Hamilton to Earl Kitchener. (No. M.F. 424)._</p>
+<p>"_From General Sir  <person name="Ian_Hamilton">Ian Hamilton</person> to  <person name="Earl_Kitchener">Earl Kitchener</person>. (No. M.F. 424)._</p>
 
 <p>"Private. I am becoming seriously apprehensive about my Lines of
 Communication and am forced to let you know the state of affairs.</p>
@@ -3513,7 +3600,7 @@ of tried business capacity and great character, to Mudros to-day as
 dry-nurse."</p>
 
 <p>I have followed up this cable in my letter to Lord K. of date, where I
-say, "I have just seen Bertie Lawrence who I am sending to reinforce
+say, "I have just seen  <person name="Bertie_Lawrence">Bertie Lawrence</person> who I am sending to reinforce
 Wallace. He is bitterly disappointed at losing his Brigade, but there is
 no help for it. He is a business man of great competence, and I think he
 ought to be able to do much to get things on to a ship-shape footing.
@@ -3522,7 +3609,7 @@ best Brigadiers imaginable."</p>
 
 <p>The last sentence has been written, I confess, with a spice of malice.
 When, about a month ago, I had hurriedly to lay my hands on a Commander
-for the 127th Brigade, I bethought me of Bertie Lawrence, then G.S.O. to
+for the 127th Brigade, I bethought me of  <person name="Bertie_Lawrence">Bertie Lawrence</person>, then G.S.O. to
 the Yeomanry in Egypt. The thrust of a Lancer and the circumspection of
 a Banker do not usually harbour in the same skull, but I believed I knew
 of one exception. So I put Lawrence in. By return King's Messenger came
@@ -3552,7 +3639,9 @@ regularly?"</p>
 
 <p>De Lisle came over to dine and stay the night.</p>
 
-<p>_8th July, 1915. H.M.S. "Triad." Tenedos._ Started off in H.M.S. _Triad_
+</entry>
+
+<entry><p>_8th July, 1915. <location ship="H.M.S. Triad">H.M.S. "Triad."</location> Tenedos._ Started off in <location ship="H.M.S. Triad">H.M.S. _Triad_</location>
 with Freddie Maitland, Aspinall and our host, the Admiral.</p>
 
 <p>Had a lovely sail to Tenedos where Colonel Nuillion (acting Governor)
@@ -3589,7 +3678,9 @@ big fish had already given them the slip. Cast anchor about 7 o'clock.</p>
 
 <p>Colonel Dick and Mr. Graives dined.</p>
 
-<p>_9th July, 1915._ Spent the morning writing for the King's Messenger. My
+</entry>
+
+<entry><p>_9th July, 1915._ Spent the morning writing for the King's Messenger. My
 letter to K. (an answer to that of Fitz to me) tells him:--</p>
 
 <p>(1) That we have passed through the most promising week since the first
@@ -3623,16 +3714,18 @@ officers: with rest they will all of them come round.</p>
 <p>(6) That Baldwin's Brigade of the 13th Division have been landed on the
 Peninsula and are now mixed up by platoons with the 29th Division where
 they are tumbling to their new conditions quite quickly. They have
-already created a very good impression at Helles.</p>
+already created a very good impression at <location peninsula="Helles">Helles</location>.</p>
 
 <p>Godley and his New Zealander A.D.C. (Lieutenant Rhodes), both old
-friends, came over from H.M.S. _Triad_ to lunch. Hunter-Weston crossed
-from Helles to dine and stay the night.</p>
+friends, came over from <location ship="H.M.S. Triad">H.M.S. _Triad_</location> to lunch. Hunter-Weston crossed
+from <location peninsula="Helles">Helles</location> to dine and stay the night.</p>
 
-<p>_10th July, 1915. Imbros._ These Imbros flies actually drink my fountain
-pen dry! Hunter-Weston left for Helles in the evening.</p>
+</entry>
 
-<p>Yesterday a cable saying there were no men left in England to fill
+<entry><p>_10th July, 1915. Imbros._ These Imbros flies actually drink my fountain
+pen dry! Hunter-Weston left for <location peninsula="Helles">Helles</location> in the evening.</p>
+
+<p>Yesterday a cable saying there were no men left in <location country="England">England</location> to fill
 either the 42nd Division or the 52nd. We have already heard that the
 Naval Division must fade away. Poor old Territorials! The War Office are
 behaving like an architect who tries to mend shaky foundations by
@@ -3656,6 +3749,6 @@ be decently buried, I find myself forced to say no.</p>
 
 <p>Patrick Shaw Stewart came to see me. I made Peter take his photo. He was
 on a rat of a pony and sported a long red beard. How his lady friends
-would laugh!</p>
+would laugh!</p> </entry>
 
 </root>
