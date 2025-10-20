@@ -15,7 +15,7 @@ person = element person{name, text}
 name = attribute name{text}
 # person chunk
 
-location = element location{(ship | island | town | peninsula | hill | region| country | city | bay | heights | straits), text}
+location = element location{(ship | island | town | peninsula | hill | region| country | city | bay | heights | straits | mountain | sea | coast), text}
 ship = attribute ship{text}
 island = attribute island{text}
 town = attribute town{text}
@@ -27,7 +27,11 @@ city = attribute city{text}
 bay = attribute bay{text}
 heights = attribute heights{text}
 straits = attribute straits{text}
+mountain = attribute mountain{text}
+sea = attribute sea{text}
+coast = attribute coast{text}
 # location chunk; may want to tighten parameters later
 
 unit = element unit{type, text}
 type = attribute type{"brigade"| "division"| "infantry"| "regiment"| "battalion"| "expeditionary_force"}
+# unit chunk
