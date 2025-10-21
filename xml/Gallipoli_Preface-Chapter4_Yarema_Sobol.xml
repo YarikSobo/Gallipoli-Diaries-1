@@ -2,30 +2,11 @@
 
 <root>
 
-<title>GALLIPOLI DIARY</title>
-
-<p>
-BY GENERAL SIR IAN HAMILTON, G.C.B.</p>
-
-<p>AUTHOR OF "A STAFF-OFFICER'S SCRAP-BOOK," ETC.</p>
-
-<p>WITH ILLUSTRATIONS AND MAPS</p>
-
-<p>
-IN TWO VOLUMES</p>
-
-<p>VOL. I</p>
+  <bookTitle>GALLIPOLI DIARY BY GENERAL SIR IAN HAMILTON, G.C.B.</bookTitle>
 
 
 
-<p>
-NEW YORK GEORGE H. DORAN COMPANY 1920
-PRINTED BY UNWIN BROTHERS, LTD.--WOKING--ENGLAND</p>
-
-
-
-
-<chapter n="0" title="PREFACE"></chapter>
+<chapter n="0" heading="PREFACE">
 
 <p>
 On the heels of the South African War came the sleuth-hounds pursuing
@@ -208,75 +189,7 @@ l'annonciateur de cette aurore.
      Gironde, <location country="France">France</location></location>.
   22 decembre, 1919.</p>
 
-<p></p>
 
-<p>  CONTENTS</p>
-
-<p>
-                                                                    PAGE</p>
-
-<p>  PREFACE                                                              v</p>
-
-<p>  LETTER FROM GENERAL D'AMADE TO THE AUTHOR                            x</p>
-
-<p>  CHAPTER</p>
-
-<p>  I. THE START                                                         1</p>
-
-<p>  II. THE STRAITS                                                     21</p>
-
-<p>  III. EGYPT                                                          54</p>
-
-<p>  IV. CLEARING FOR ACTION                                             86</p>
-
-<p>  V. THE LANDING                                                     127</p>
-
-<p>  VI. MAKING GOOD                                                    159</p>
-
-<p>  VII. SHELLS                                                        196</p>
-
-<p>  VIII. TWO CORPS OR AN ALLY?                                        219</p>
-
-<p>  IX. SUBMARINES                                                     243</p>
-
-<p>  X. A DECISION AND THE PLAN                                         283</p>
-
-<p>  XI. BOMBS AND JOURNALISTS                                          314</p>
-
-<p>  XII. A VICTORY AND AFTER                                           343</p>
-
-<p></p>
-
-<p>
-LIST OF ILLUSTRATIONS</p>
-
-<p>SIR ROGER KEYES, VICE-ADMIRAL DE ROBECK, SIR IAN HAMILTON, GENERAL
-BRAITHWAITE _Frontispiece_</p>
-
-<p>LIEUT.-GEN. SIR J.G. MAXWELL, G.C.B., K.C.M.G                         58</p>
-
-<p>REVIEW OF FRENCH TROOPS AT ALEXANDRIA                                 78</p>
-
-<p>S.S. "RIVER CLYDE"                                                   132</p>
-
-<p>"W" BEACH                                                            176</p>
-
-<p>GENERAL D'AMADE                                                      222</p>
-
-<p>VIEW OF "V" BEACH, TAKEN FROM S.S. "RIVER CLYDE"                     254</p>
-
-<p>MEN BATHING AT HELLES                                                294</p>
-
-<p>THE NARROWS FROM CHUNUK BAIR                                         330</p>
-
-<p>GENERAL GOURAUD                                                      346</p>
-
-<p>
-MAPS</p>
-
-<p>KEY MAP _Inside front cover_</p>
-
-<p>CAPE HELLES AND THE SOUTHERN AREA _At end of volume_</p>
 
 <p></p>
 
@@ -284,8 +197,9 @@ MAPS</p>
 GALLIPOLI DIARY</p>
 
 <p></p>
+</chapter>
 
-<chapter n="1" title="THE START">
+<chapter n="1" heading="THE START">
 
 
 <entry><p>In the train between Paris and Marseilles, 14th March, 1915._</p>
@@ -397,15 +311,15 @@ his usual affability, that I would find myself walking about in civilian
 costume instead of going to <location city="Constantinople">Constantinople</location> if he found me making any
 wild statements of that sort to the politicians. I laughed and reminded
 him of my testimony before the Committee of Imperial Defence about my
-Malta amphibious manoeuvres; about the Malta Submarines and the way
+Malta amphibious manoeuvres; about the <location city="Malta">Malta</location> Submarines and the way
 they had destroyed the battleships conveying my landing forces. If there
 was any politician, I said, who cared a hang about my opinions he knew
 quite well already my views on an invasion of <location country="England">England</location>; namely, that it
 would be like trying to hurt a monkey by throwing nuts at him. I didn't
 want to steal what French wanted, but now that the rifles had come and
 the troops had finished their musketry, there was no need to squabble
-over a Division. Why not let French have two of my Central Force
-Territorial Division at once,--they were jolly good and were wasting
+over a Division. Why not let French have two of my <unit type="Division">Central Force
+Territorial Division</unit> at once,--they were jolly good and were wasting
 their time over here. That would sweeten French and he and Joffre would
 make no more trouble about the <unit type="Division">29th</unit>.</p>
 
@@ -416,7 +330,7 @@ came into the room with some papers.</p>
 attack upon the Forts at the <location strait="Dardanelles">Dardanelles</location>, worked out by the Greek
 General Staff. The Greeks had meant to employ (as far as I can remember)
 150,000 men. Their landing was to have taken place on the North-west
-coast of the Southern part of <location peninsula="Gallipoli_Peninsula">the Peninsula</location>, opposite <location height="Kilid_Bahr">Kilid Bahr</location>. "But,"
+coast of the Southern part of <location peninsula="Gallipoli_Peninsula">the Peninsula</location>, opposite <location heights="Kilid_Bahr">Kilid Bahr</location>. "But,"
 said <person name="Herbert_Kitchener">K.</person>, "half that number of men will do you handsomely; the Turks are
 busy elsewhere; I hope you will not have to land at all; if you _do_
 have to land, why then the powerful Fleet at your back will be the prime
@@ -630,8 +544,8 @@ most of the ground of yesterday's debate and were too vague. When<person name="I
 </person>asked the crucial question:--the enemy's strength? <person name="Herbert_Kitchener">K.</person> thought I had
 better be prepared for 40,000. How many guns? No one knows. Who was in
 command? <person name="Djavad_Pasha">Djavad Pasha</person>, it is believed. But, <person name="Herbert_Kitchener">K.</person> says, I may take it that
-the <location height="Kilid_Bahr">Kilid Bahr Plateau</location> has been entrenched and is sufficiently held.
-South of <location height="Kilid_Bahr">Kilid Bahr Plateau</location> to the point at <location peninsula="Cape_Helles">Cape Helles</location>, I may take it that the
+the <location heights="Kilid_Bahr">Kilid Bahr Plateau</location> has been entrenched and is sufficiently held.
+South of <location heights="Kilid_Bahr">Kilid Bahr Plateau</location> to the point at <location peninsula="Cape_Helles">Cape Helles</location>, I may take it that the
 Peninsula is open to a landing on very easy terms. The cross fire from
 the Fleet lying part in the <location sea="Aegean_Sea">Aegean</location> and part in the mouth of the Straits
 must sweep that flat and open stretch of country so as to render it
@@ -756,7 +670,7 @@ true.[4]</p></entry>
   
 
 
-<chapter n="2" title="THE STRAITS">
+<chapter n="2" heading="THE STRAITS">
 
 
 <entry><p>
@@ -1000,7 +914,7 @@ couple of Divisions. All the coast between <location coast="Suvla_Bay">Suvla Bay
 way South of <location coast="Gaba Tepe">Gaba Tepe</location> seems feasible for landing. I mean we could get
 ashore on a calm day if there was no enemy. <location coast="Gaba Tepe">Gaba Tepe</location> itself would be
 ideal, but, alas, the Turks are not blind; it is a mass of trenches and
-wire. Further, it must be well under fire of guns from <location height="Kilid Bahr">Kilid Bahr plateau</location>
+wire. Further, it must be well under fire of guns from <location heights="Kilid Bahr">Kilid Bahr plateau</location>
 , and is entirely commanded by the high ridge to the North of it.
 To land there would be to enter a defile without first crowning the
 heights.</p>
@@ -1012,7 +926,7 @@ in going for at least one spot that _seems_ impracticable.</p>
 
 <p>Sailing Southwards we are becoming more and more conscious of the
 tremendous bombardment going on in the Straits. Now and then, too, we
-can see a huge shell hit the top of <location height="Achi_Baba">Achi Baba</location> and turn it into the
+can see a huge shell hit the top of <location heights="Achi_Baba">Achi Baba</location> and turn it into the
 semblance of a volcano. Everyone excited and trying to look calm.</p>
 
 <p>At 4 p.m., precisely, we rounded <location peninsula="Cape_Helles">Cape Helles</location>. I had promised <person name="John_de_Robeck">de Robeck</person>
@@ -1369,7 +1283,7 @@ as 40,000 on <location peninsula="Gallipoli_Peninsula">the Gallipoli Peninsula</
 Division, but there _may_ be several Divisions. The <person name="Rosslyn_Wemyss">Admiral</person>'s
 information tallies and, so <person name="William_Birdwood">Birdie</person> says, does that of the Army in <location country="Egypt">Egypt</location>.
 The War Office notion that the guns of the Fleet can sweep the enemy off
-the tongue of <location peninsula="Gallipoli_Peninsula">the Peninsula</location> from <location height="Achi_Baba">Achi Baba</location> Southwards is moonshine. My
+the tongue of <location peninsula="Gallipoli_Peninsula">the Peninsula</location> from <location heights="Achi_Baba">Achi Baba</location> Southwards is moonshine. My
 trump card turns out to be the Joker; best of all cards only it don't
 happen to be included in this particular pack!</p>
 
@@ -1410,7 +1324,7 @@ to be quite clear about it, and there the matter dropped.</p>
 
 <p>Actually I had thought a lot about that possibility. To a man of my
 temperament there was every temptation to have a go in and revenge the
-loss of the battleships forthwith. We might sup to-morrow night on <location height="Achi_Baba">Achi
+loss of the battleships forthwith. We might sup to-morrow night on <location heights="Achi_Baba">Achi
 Baba</location>. With luck we really might. Had I been here for ten days instead of
 five, and had I had any time to draft out any sort of scheme, I might
 have had a dart. But the operation of landing in face of an enemy is the
@@ -1427,7 +1341,7 @@ reckon--not complete--for another three weeks.</p>
 <p>All the same, I might chance it, for, by taking all these off chances we
 _might_ pull off the main chance of stealing a march upon the Turks.
 What puts me off is not the chances of war but the certainties of
-commonsense. If I did so handle my troops on the spot as to sup on <location height="Achi_Baba">Achi
+commonsense. If I did so handle my troops on the spot as to sup on <location heights="Achi_Baba">Achi
 Baba</location> to-morrow night, I still could not counter the inevitable reaction
 of numbers, time and space. The Turks would have at least a fortnight to
 concentrate their whole force against my half force; to defeat them and
@@ -1609,7 +1523,7 @@ cable was approved by Navy; duly despatched; and now--up anchor!</p></entry>
 <p></p>
 </chapter>
 
-<chapter n="3" title="Egypt">
+<chapter n="3" heading="Egypt">
 
 
 <entry><p>_25th March, 1915. <location ship="H.M.S._Franconia">H.M.S. "Franconia.</location>" At Sea._ A fine smooth sea and a
@@ -2080,7 +1994,7 @@ long last, he fell, he had the plum in his pocket.</p>
 
 <p>The Turks lie close within a few yards of the water's edge on the
 Peninsula. <person name="Lt.Col.Matthews">Matthews</person> smiled sarcastically at the War Office idea that no
-Turks can exist South of <location height="Achi_Baba">Achi Baba</location>! At <location town="Sedd-el-Bahr">Sedd-el-Bahr</location>, the first houses
+Turks can exist South of <location heights="Achi_Baba">Achi Baba</location>! At <location town="Sedd-el-Bahr">Sedd-el-Bahr</location>, the first houses
 are empty, being open to the fire of the Fleet, but the best part of the
 other houses are defiladed by the ground and a month ago they were held.
 Glad I did not lose a minute after seeing the ground in asking <person name="John_Maxwell">Maxwell</person>
@@ -2415,7 +2329,7 @@ are not one but two. <person name="John_Maxwell">Maxwell</person> and I are co-e
 under a Boss!</p></entry>
 </chapter>
 
-<chapter n="4" title="CLEARING FOR ACTION">
+<chapter n="4" heading="CLEARING FOR ACTION">
   
 <entry><p>_9th April, 1915. <location ship="S.S._Arcadian">S.S. "Arcadian</location>."_ Isles of the Aegean; one more lovely
 than the other; weather warm; wireless off; a great ship steaming fast
@@ -2477,7 +2391,7 @@ based on severance from the Fleet we must delay another month or six
 weeks to collect pack transport.</p>
 
 <p>Thirdly, the Asiatic side _does not_ dominate <location peninsula="Gallipoli_Peninsula">the Peninsula</location> whereas the
-  <location height="Kilid Bahr">Kilid Bahr plateau</location>  _does_ dominate the Asiatic narrows.</p>
+  <location heights="Kilid Bahr">Kilid Bahr plateau</location>  _does_ dominate the Asiatic narrows.</p>
 
 <p>Fourthly, the whole point of our being here is to work hand-in-glove
 with the Fleet. We are here to help get the Fleet through the
@@ -2533,17 +2447,17 @@ places worth serious consideration are:</p>
 <p>  "(1). Those near Cape Suvla,
    (2). Those near <location peninsula="Cape_Helles">Cape Helles</location>."</p>
 
-<p>Of these two he advises Helles, because:--"the Fleet can also surround
+<p>Of these two he advises <location peninsula="Cape_Helles">Helles</location>, because:--"the Fleet can also surround
 this end of <location peninsula="Gallipoli_Peninsula">the Peninsula</location> and bring a concentrated fire on any Turks
 holding it. We, therefore, should be able to make sure of securing the
-<location height="Achi_Baba">Achi Baba</location> position." Also, because our force is too weak to hold the big
-country round Suvla Bay and at the same time operate against <location height="Kilid Bahr">Kilid Bahr</location>.</p>
+<location heights="Achi_Baba">Achi Baba</location> position." Also, because our force is too weak to hold the big
+country round <location coast="Suvla_Bay">Suvla Bay</location> and at the same time operate against <location heights="Kilid Bahr">Kilid Bahr</location>.</p>
 
-<p>If this landing at Helles is successful, he considers the probable
+<p>If this landing at <location peninsula="Cape_Helles">Helles</location> is successful, he considers the probable
 further course of the operations. Broadly, he thinks that we are so
 short of ammunition and particularly of high explosive shell that there
 is every prospect of our getting tied up on an extended line across the
-Peninsula in front of the <location height="Kilid Bahr">Kilid Bahr</location> trenches. Should the enemy
+Peninsula in front of the <location heights="Kilid Bahr">Kilid Bahr</location> trenches. Should the enemy
 submarines arrive we should be "up a tree."</p>
 
 <p>The cards in the game of life are the characters of men. Staking on
@@ -2561,7 +2475,7 @@ contrary. Here are the conclusions as written at Malta:--</p>
 
 <p>"Conclusion. The information available goes to show that if this
 Expedition had been carefully and secretly prepared in <location country="England">England</location>, <location country="France">France</location>
-and Egypt, and the Naval and Military details of organisation, equipment
+and <location country="Egypt">Egypt</location>, and the Naval and Military details of organisation, equipment
 and disembarkation carefully worked out by the General Staff and the
 Naval War Staff, and if no bombardment or other warning had been given
 till the troops, landing gear, etc., were all ready and despatched, (the
@@ -2572,7 +2486,7 @@ Peninsula and the forcing of the <location strait="Dardanelles">Dardanelles</loc
 <p>"Von der Goltz is reported to have visited the <location strait="Dardanelles">Dardanelles</location> on 11th
 February and before that date it appears that very little had been done.</p>
 
-<p>"Now big guns have been brought from Chatalja, Adrianople and
+<p>"Now big guns have been brought from <location region="Chatalja">Chatalja</location>, <location city="Adrianople">Adrianople</location> and
 elsewhere,--roads have been made,--heavy movable armaments
 provided,--troops and machine guns have been poured into the
 Peninsula,--several lines of trenches have been dug,--every landing
@@ -2618,7 +2532,7 @@ there is a reasonable _probability_ of success.</p>
 
 <p>                                              "<person name="Aylmer_Hunter-Weston">A. HUNTER-WESTON, M.G.</person>"</p>
 
-<p>Paris's appreciation gives no very clear lead. "The enemy is of strength
+<p><person name="Archibald_Paris">Paris's</person> appreciation gives no very clear lead. "The enemy is of strength
 unknown," he says, "but within striking distance there must be 250,000."
 He also lays stress on the point that the enemy are expecting
 us--"Surprise is now impossible--.... The difficulties are now increased
@@ -2688,19 +2602,19 @@ everything on the one hazard.</p>
 
 <p>I would like to land my whole force in one,--like a hammer stroke--with
 the fullest violence of its mass effect--as close as I can to my
-  objective, the <location height="Kilid Bahr">Kilid Bahr plateau</location> . But, apart from lack of small craft,
+  objective, the <location heights="Kilid Bahr">Kilid Bahr plateau</location> . But, apart from lack of small craft,
 the thing cannot be done; the beach space is so cramped that the men and
 their stores could not be put ashore. I have to separate my forces and
 the effect of momentum, which cannot be produced by cohesion, must be
 reproduced by the simultaneous nature of the movement. From the South,
-<location height="Achi_Baba">Achi Baba</location> mountain is our first point of attack, and the direct move
+<location heights="Achi_Baba">Achi Baba</location> mountain is our first point of attack, and the direct move
 against it will start from the beaches at <location peninsula="Cape_Helles">Cape Helles</location> and <location town="Sedd-el-Bahr">Sedd-el-Bahr</location>.
 As it is believed that the Turks are there in some force to oppose us,
 envelopment will be attempted by landing detachments in <location coast="Morto_Bay">Morto Bay</location> and
 opposite <location town="Krithia">Krithia</location> village. At the same time, also, the A. and N.Z. Corps
 will land between <location coast="Gaba Tepe">Gaba Tepe</location> and Fisherman's Hut to try and seize the
 high backbone of <location peninsula="Gallipoli_Peninsula">the Peninsula</location> and cut the line of retreat of the enemy
-on the <location height="Kilid Bahr">Kilid Bahr plateau</location>. In any case, the move is bound to interfere
+on the <location heights="Kilid Bahr">Kilid Bahr plateau</location>. In any case, the move is bound to interfere
 with the movements of Turkish reinforcements towards the toe of the
 Peninsula. While these real attacks are taking place upon the foot and
 at the waist of <location peninsula="Gallipoli_Peninsula">the Peninsula</location>, the knife will be flourished at its neck.
@@ -2724,7 +2638,7 @@ Sanders will not dare concentrate and that he will fight with his local
 troops only for the first forty-eight hours. But what is the number of
 these local troops? Alas, there is the doubtful point. We think forty
 thousand rifles and a hundred guns, but, if my scheme comes off, not a
-tenth of them should be South of <location height="Achi_Baba">Achi Baba</location> for the first two days. Hints
+tenth of them should be South of <location heights="Achi_Baba">Achi Baba</location> for the first two days. Hints
 have been thrown out that we are asking the French cat to pull the
 hottest chestnut out of the fire. Not at all. At<location town=" Kum Kale"> Kum Kale</location>, with their
 own ships at their back, and the deep <location river="Mendere_River">Mendere River</location> to their front,
@@ -2741,7 +2655,7 @@ war, only more so. They must if they can and if they can they must; that
 is all that can be said at present.</p>
 
 <p>As to the effort to be made to envelop the enemy's right flank along the
-coast between Helles and <location town="Krithia">Krithia</location>, I have not yet quite fixed on the
+coast between <location peninsula="Cape_Helles">Helles</location> and <location town="Krithia">Krithia</location>, I have not yet quite fixed on the
 exact spot, but I am personally bent upon having it done as even a small
 force so landed should threaten the line of retreat and tend to shake
 the confidence of any Turks resisting us at the Southernmost point.
@@ -2945,7 +2859,7 @@ a Jingo in war. Too often it is the other way about.</p>
 Hunter-Weston was here. He has been out since last night on <location ship="H.M.S._Dathmouth">H.M.S.
 _Dartmouth_</location> to inspect the various landing places. His whole tone about
 the Expedition has been transformed. Now he has become the most sanguine
-of us all. He has great hopes that we shall have <location height="Achi_Baba">Achi Baba</location> in our hands
+of us all. He has great hopes that we shall have <location heights="Achi_Baba">Achi Baba</location> in our hands
 by sunset on the day of landing. If so he thinks we need have no fear
 for the future.</p>
 
@@ -2963,7 +2877,7 @@ landing at the point of <location peninsula="Gallipoli_Peninsula">the Peninsula<
 any reserve under my own hand. I am inclined, all the same, to squeeze
 one Marine Battalion out of the <unit type="Division">Naval Division</unit> to strengthen our threat
 to <location town="Krithia">Krithia</location>. Hunter-Weston will be in executive command of everything
-South of <location height="Achi_Baba">Achi Baba</location>; Birdwood of everything to the North.</p>
+South of <location heights="Achi_Baba">Achi Baba</location>; Birdwood of everything to the North.</p>
 
 <p>I went very closely with Hunter-Weston into the question of a day or
 night attack. My own leanings are in favour of the first boat-loads
