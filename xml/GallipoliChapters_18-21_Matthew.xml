@@ -1,7 +1,7 @@
-<letters>
-<chapter n="18">CHAPTER XVIII</chapter>
-
-<title>MISUNDERSTANDINGS</title>
+<?xml-model href="gallipoliSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+  
+<chapter n="18" heading="Misunderstandings">CHAPTER XVIII</chapter>
 
 <entry>
 <p>_25th August, 1915. <location island="Imbros"> Imbros </location> <person name="Davies">Davies</person>left for <location country="Greece">Helles</location> at mid-day. Was to
@@ -31,16 +31,12 @@ of 23rd August would never have been sent.</p>
   
 <p>On the heels of this has followed another:--</p>
   
-<section_break>       *       *       *       *       *</section_break>
-  
 <p>"(No. 7319, cipher). From <person name="Herbert_Kitchener">Earl Kitchener</person> to General <person name="Ian_Hamilton">Sir Ian Hamilton.</person> My
 No. 7315. <person name="Herbert_Kitchener">I</person> hope that the result of <person name="Ian_Hamilton">your</person> deliberations will reach <person name="Herbert_Kitchener">me</person> by
 Friday morning, as the decision to be taken is one of considerable
 importance."</p>
   
 <p><person name="Herbert_Kitchener">I</person> have replied off the reel:--</p>
-  
-<section_break>       *       *       *       *       *</section_break>
   
 <p>"(No. M.F. 588). From <person name="Ian_Hamilton">General Sir Ian Hamilton</person> to <person name="Herbert_Kitchener">Earl Kitchener.</person> With
 reference to your telegrams Nos. 7315 and 7319. I feel sure you cannot
@@ -50,7 +46,7 @@ responsibility which remains unaffected by any amount of conferences
 with my subordinate commanders. I was careful in this instance, however,
 to discuss the situation on the spot with both Corps Commanders
 concerned and I then cabled <person name="Herbert_Kitchener">you</person> my considered opinion. I constantly
-visit both <location bay="Suvla">Suvla</location> and <location cove="Anzac">Anzac</location> and have personally thoroughly examined the
+visit both <location bay="Suvla">Suvla</location> and <location bay="Anzac">Anzac</location> and have personally thoroughly examined the
 state of affairs. In view of your telegram No. 7172, cipher, I do not
 understand <person name="Herbert_Kitchener">your</person> allusion to 47,000 drafts and reinforcements from 6th
 August as we have not been advised of any such number as 47,000. I felt
@@ -92,7 +88,7 @@ Mail bag closed 9.30.</p>
 <p>During our inspection at <location bay="Suvla">Suvla</location> this "Personal" from <person name="Herbert_Kitchener">K.</person> to myself has
 been deciphered:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(No. 7337, cipher). From <person name="Herbert_Kitchener">Earl Kitchener</person> to General <person name="Ian_Hamilton">Sir Ian Hamilton.</person>
 Personal. <person name="Herbert_Kitchener">I</person> considered it advisable, that as the decision the Government
@@ -112,12 +108,12 @@ were being sent out.</p>
 <p>"A detailed telegram is being sent <person name="Ian_Hamilton">you</person> from the office of the 47,000 men
 mentioned in <person name="Herbert_Kitchener">my</person> No. 7315.</p>
 
-<p>"<person name="Herbert_Kitchener">I</person> hope that the return of <unit type="Brigade">Younghusband's Brigade</unit> from <location town="Aden">Aden</location> to <location country="Egypt">Egypt</location>
+<p>"<person name="Herbert_Kitchener">I</person> hope that the return of <unit type="brigade">Younghusband's Brigade</unit> from <location town="Aden">Aden</location> to <location country="Egypt">Egypt</location>
 will still further increase these in a day or two (less one battalion).</p>
 
 <p>"But <person name="Ian_Hamilton">you</person> should look on the forces in <location country="Egypt">Egypt</location> and <person name="Ian_Hamilton">your</person> own as a whole,
 allowing, of course, for the proper defence of <location country="Egypt">Egypt</location>, when you take the
-general situation at the <location strait="Dardanelles">Dardanelles</location> into consideration.</p>
+general situation at the <location straits="Dardanelles">Dardanelles</location> into consideration.</p>
 
 <p>"Do <person name="Ian_Hamilton">you</person> think the Navy could do anything more than they are already
 doing to help the situation? <person name="Herbert_Kitchener">I</person> hear it is thought that they could land
@@ -128,7 +124,7 @@ bring a heavy and effective shell fire on the <location country="Turkey">Turkish
 behind <location town="Anafarta">Anafarta</location>. There is a cabinet to-morrow."</p>
 
 <p><person name="Herbert_Kitchener">I</person> would much like to sleep over this cable--so plain seemingly; really
-so obscure. At face value, how splendidly it simplifies the <location strait="Dardanelles">Dardanelles</location>
+so obscure. At face value, how splendidly it simplifies the <location straits="Dardanelles">Dardanelles</location>
 problem! Had <person name="Herbert_Kitchener">I</person> been, all along, as this cable seems to make <person name="Herbert_Kitchener">me</person>, the
 C.-in-C. of the Eastern Mediterranean with <person name="Maxwell">Maxwell</person> administering <person name="Herbert_Kitchener">my</person>
 <location country="Egypt">Egypt</location>ian Base, then, humanly speaking, this entry would have been dated
@@ -140,7 +136,7 @@ momentous wire without too much time to think it over. To clear <person name="He
 let <person name="Herbert_Kitchener">me</person> set down the sequence of facts as they have so far appeared to
 <person name="Herbert_Kitchener">me</person>:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>Less than a week ago--20th inst.<person name="Herbert_Kitchener">--K.</person> cables me <person name="Herbert_Kitchener">he</person> is sending certain
 units to <location country="Egypt">Egypt</location> and certain other units to the <location straits="Dardanelles">Dardanelles.</location> The units and
@@ -167,7 +163,7 @@ message _per se_, any one might imagine I could draw any troops I liked
 from that country provided that <person name="Ian_Hamilton">_I_</person> thought <person name="Ian_Hamilton">_I_</person> was leaving enough to
 defend the Suez Canal: and, apparently, the 47,000 men are about to
 make an effort to materialize inasmuch as we are told that details are
-being wired us. Finally, <unit type="Brigade">Younghusband's Brigade</unit> sails to help us!</p>
+being wired us. Finally, <unit type="brigade">Younghusband's Brigade</unit> sails to help us!</p>
 </entry>
 
 <entry>
@@ -175,7 +171,7 @@ being wired us. Finally, <unit type="Brigade">Younghusband's Brigade</unit> sail
 off my answer last night. In it I have made a desperate effort to
 straighten out the tangle:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(No. M.F. 589). From <person name="Ian_Hamilton">General Sir Ian Hamilton</person> to <person name="Herbert_Kitchener">Earl Kitchener.</person> On
 returning from <location bay="Suvla">Suvla</location> I have just found <person name="Herbert_Kitchener">your</person> No. 7337, cipher. I hope
@@ -198,7 +194,7 @@ line. This welcome news of 47,000 reinforcements, however, alters the
 whole situation. Such a number will do much to complete my diminished
 cadres, and should materially lessen sick rate by giving more chance of
 taking tired troops out of the trenches. <person name="Gen.Byng">Byng</person> can certainly remain where
-<person name="Gen.Byng">he</person> is at present, and will even be able to rest some of the tired <unit type="Division">XXIXth Division</unit>, while the arrival of the <location country="Australia">Australia</location> Brigade will give <person name="Cpt.Birdwood">General
+<person name="Gen.Byng">he</person> is at present, and will even be able to rest some of the tired <unit type="division">XXIXth Division</unit>, while the arrival of the <location country="Australia">Australia</location> Brigade will give <person name="Cpt.Birdwood">General
 Birdwood</person> a similar chance of resting some of <person name="Cpt.Birdwood">his</person> troops.</p>
 
 <p>"<person name="Cpt.Birdwood">General Birdwood</person> meanwhile is to make a further advance to-morrow on
@@ -209,7 +205,7 @@ and cheeriness and has quickly grasped the whole situation.</p>
 
 <p>"In communication with <person name="Maxwell">Maxwell</person> I find I can have seven Territorial Force
 units and the Scottish Horse, and now I have your welcome news of
-<unit type="Brigade">Younghusband's Brigade.</unit> Please believe I am the last man in the world to
+<unit type="brigade">Younghusband's Brigade.</unit> Please believe I am the last man in the world to
 give up anything we have gained except under direct necessity, which I
 trust may now never arise. The Navy is supporting me to its full
 capacity. The guns of the four ships in <location bay="Suvla">Suvla Bay</location> take on the <location country="Turkey">Turkish</location>
@@ -232,7 +228,7 @@ hours with the Corps Commanders."</p>
 <p>In the evening my A.G. brought me the promised details of the 47,000
 drafts and reinforcements. He has gone into the detail in proper A.G.
 spirit, namely, as an arithmetician rather than a tactician. The result
-has given us a shock! 10,000 men of the <unit type="Division">54th Division</unit> and 4,000 drafts
+has given us a shock! 10,000 men of the <unit type="division">54th Division</unit> and 4,000 drafts
 are shown in the War Office cable as being still due to come to me as
 reinforcements whereas they had actually landed on the <location peninsula="Gallipoli">Gallipoli</location>"; had,
 indeed, been shown in my total fighting strength of 68,000 in my
@@ -248,10 +244,10 @@ their way to the <location straits="Dardanelles">Dardanelles!</location></p>
 On paper, he says, it looks as if I might expect to draw from <location country="Egypt">Egypt</location> and
 <location country="England">England</location> 30,000 reinforcements, but--he remarks sententiously--"we know
 by now that paper is one thing and men are different." As to
-<unit type="Brigade">Younghusband's Brigade</unit>, it turns out they cannot be employed here: too
+<unit type="brigade">Younghusband's Brigade</unit>, it turns out they cannot be employed here: too
 many Mahomedans. Have sent the following reply:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(No. M.F. 595). From <person name="Ian_Hamilton">General Sir Ian Hamilton</person> to Secretary of State for
 War. With reference to your telegram No. 7337, cipher. Have now received
@@ -272,7 +268,7 @@ establishment only 17,000 of these 29,000 are drafts, and before the
 last of the drafts can arrive these divisions will have lost another 25
 per cent. of their remaining number by normal wastage.</p>
 
-<p>"In regard to <unit type="Brigade">Younghusband's Brigade</unit>, I learn that the three battalions
+<p>"In regard to <unit type="brigade">Younghusband's Brigade</unit>, I learn that the three battalions
 are practically half Mahomedans, and I am advised that it is better if
 it can be avoided not to use Mahomedans so near the heart of Islam.
 Would it not be possible to exchange these for some Hindu regiments in
@@ -310,14 +306,14 @@ well. The <location country="New Zealand">New Zealanders</location> under <perso
 brilliantly. Fighting is still going on.</p>
 
 <p>A reply from the War Office to mine of last week wherein I pointed out
-that the once splendid <unit type="Battalion">5th Battalion Royal Scots</unit> had fallen from a
+that the once splendid <unit type="battalion">5th Battalion Royal Scots</unit> had fallen from a
 strength of 1,000 down to 289. They have had no one since the campaign
 began. To-day the Battalion is just over 250--a Company! Now I am
 officially told that "no reinforcements can be found for the 1/5th
 Battalion of Royal Scots." This is the Battalion which did so well about
 11 o'clock on the dreadful night of the 2nd May. I shall cable the <person name="Lord_Provost">Lord
 Provost of Edinburgh.</person> If we could get into touch with the human beings
-of Edinburgh they would help us to keep a battalion like the <unit type="Battalion">Royal Scots</unit>
+of Edinburgh they would help us to keep a battalion like the <unit type="battalion">Royal Scots</unit>
 on their legs even if they had to break up half a dozen new formations
 for the purpose.</p>
 
@@ -328,7 +324,7 @@ well pleased with my cable of the 26th.</p>
 <entry>
 <p>_29th August, 1915. <location island="Imbros">Imbros._</location> Last night two cables:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(No. 7414, cipher. C.I.G.S.). From War Office to General Headquarters,
 Mediterranean Expeditionary Force. Reference your No. M.F.Q.T. 2737.
@@ -380,13 +376,13 @@ they could be trained in <location country="Egypt">Egypt</location> or <location
 Stations and walked up to site for new camp. Then back to G.H.Q., to
 meet the V.A. and <person name="Roger_Keyes">Roger Keyes.</person> They remain the best of friends always.</p>
 
-<p>This evening we were all in good form owing to the news from <location cove="Anzac">Anzac.</location>
+<p>This evening we were all in good form owing to the news from <location bay="Anzac">Anzac.</location>
 Knoll 60, now ours throughout, commands the Biyuk Anafarta valley with
 view and fire--a big tactical scoop.</p>
 </entry>
 
 <entry>
-<p>_30th August, 1915. <location island="Imbros">Imbros._</location> Still good news from <location cove="Anzac">Anzac.</location> Seeing that the
+<p>_30th August, 1915. <location island="Imbros">Imbros._</location> Still good news from <location bay="Anzac">Anzac.</location> Seeing that the
 stunt was on a small scale, we seem to have got into the Turks with a
 vengeance. In falling back as well as in counter-attacking after we had
 taken <location mountain="Hill 60">Hill 60</location>, the enemy were exposed to the fire from our trenches
@@ -405,15 +401,15 @@ Galicia and <location country="Poland">Poland</location>, had prevented <person 
 standing by to help.</p>
 
 <p>At 1.30 the C.G.S., <person name="Deedes">Deedes</person>, <person name="Val.">Val.,</person> <person name="Freddy">Freddy</person> and I crossed to <location country="Greece">Helles</location> in the
-<location ship="H.M.S. Arno">_Arno_.</location> Had a hard afternoon's walking, going first to <unit type="Corps">8th Corps</unit>
+<location ship="H.M.S. Arno">_Arno_.</location> Had a hard afternoon's walking, going first to 8th Corps
 Headquarters; next to the Royal Naval Division and last to the 52nd
-Divisional Headquarters. Returned to the <unit type="Corps">8th Corps</unit> Headquarters and
+Divisional Headquarters. Returned to the 8th Corps Headquarters and
 there met <person name="Bailloud">Bailloud.</person> <person name="Bailloud">He</person> is now full of good cheer. Got back to
 Headquarters without adventure or misadventure.</p>
 
-<p>Have cabled home a suggestion made to me by <person name="Mahon">Mahon</person>, that the <unit type="Division">16th Irish
+<p>Have cabled home a suggestion made to me by <person name="Mahon">Mahon</person>, that the <unit type="division">16th Irish
 Division</unit> at home might be used to fill up the gaps in the units of the
-<unit type="Division">10th Division</unit> out here.</p>
+<unit type="division">10th Division</unit> out here.</p>
 </entry>
 
 <entry>
@@ -434,14 +430,14 @@ climbed back on to <location mountain="Karakol Dagh">Karakol Dagh</location> and
 stone whereon I sweated blood during that confused and indecisive battle
 of the 21st August. From the <location mountain="Karakol Dagh">Karakol Dagh</location> I got a very fair idea of our
 whole trench system. On either flank we hold the hills; elsewhere we are
-on the flat. <unit type="Division">The 11th Division</unit> have recovered and only need drafts to be
+on the flat. <unit type="division">The 11th Division</unit> have recovered and only need drafts to be
 as good a formation as any General could wish to command. In the evening
 I left in the <location ship="H.M.S. Arno">_Arno_</location> carrying off with me <person name="de_Lisle">de Lisle</person> and <person name="Hardress_Lloyd">Captain Hardress
 Lloyd</person> to dine and stay the night. <person name="Quentin_Agnew">Quentin Agnew</person> also dined.</p>
 
 <p>My first feeble little attempt to act on <person name="Herbert_Kitchener">K.'s</person> assumption that <location country="Egypt">Egypt</location> and
 its army are mine has fallen a bit flat. The War Office promptly agreed
-to my taking these two weak, half-trained battalions, the and <unit type="Battalion">2/5th Devons,</unit> to be trained in my trenches. That was
+to my taking these two weak, half-trained battalions, the and <unit type="battalion">2/5th Devons,</unit> to be trained in my trenches. That was
 yesterday. But the Senoussi must have heard of it at once, for <person name="Maxwell">Maxwell</person>
 forthwith cables, "The attitude of the Senoussi is distinctly dangerous
 and his people have been latterly executing night manoeuvres round our
@@ -458,7 +454,7 @@ round <location town="Sollum">Sollum</location> and resume his old strategic pos
 <p>_1st September, 1915. <location island="Imbros">Imbros._ </location>Remained at Headquarters working. Wrote,
 amongst other things, to <person name="Herbert_Kitchener">K.</person> as follows:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"I have just finished two days' hard physical exercise going round
 visiting <location town="Egerton">Egerton</location> and <location town="Paris">Paris</location> with <person name="Davies">Davies,</person> and <person name="Fanshawe">Fanshawe</person> and <person name="de_Lisle">de Lisle</person> with
@@ -468,12 +464,12 @@ and the really only anxious feature of the situation is the health of
 the men who are very, very tired right through, having had no sort of
 relief for months, and who go sick in large numbers.</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"<person name="Fanshawe">Fanshawe</person> is first class. Full of go and plans, <person name="Fanshawe">he</person> will, if the Lord
 spares him, be a real treasure. <person name="Maude">Maude</person> and <person name="Mahon">Mahon</person> I am going to see after
 Mail-day, and then I shall hope to inspect our new captured position on
-the left of <location cove="Anzac">Anzac.</location></p>
+the left of <location bay="Anzac">Anzac.</location></p>
 
 <p>"I do not know if they showed you the cable saying <person name="Hammersley">Hammersley</person> has gone
 home very ill with a clot of blood in his leg. <person name="Hammersley">He</person> has to lie perfectly
@@ -516,10 +512,7 @@ two other battalions turned out to be non-fighting formations.--IAN H.,
 </entry>  
   
   
-<chapter n="19">CHAPTER XIX</chapter>
-
-<title>THE FRENCH PLAN</title>
-
+<chapter n="19" heading="The French Plan">CHAPTER XIX</chapter>
 
 <entry>
 <p>_2nd September, 1915. <location island="Imbros">Imbros</location>._ An ugly dream came to me last night. My
@@ -532,7 +525,7 @@ carried back with me into the realms of consciousness an idea that some
 uncanny visitor had entered my tent. Already the vision was fading. I
 could visualize the form of the presence, but the face remained hidden
 in shadow. Never had I suffered from so fearful a dream. For hours
-afterwards I was haunted by the thought that the <location strait="Dardanelles">Dardanelles</location> were fatal;
+afterwards I was haunted by the thought that the <location straits="Dardanelles">Dardanelles</location> were fatal;
 that something sinister was a-foot; that we, all of us, were pre-doomed.</p>
 
 <p>Dreams go by contraries. Strange that so black a night should be
@@ -555,12 +548,12 @@ at <location town="Mitylene">Mitylene</location>, and us to help with transport 
 
 <p>"So far I have not discussed any details with the French, and have
 simply told them we shall be delighted to have the help, which would be
-given by such an expedition, towards the solution of the <location strait="Dardanelles">Dardanelles</location>
+given by such an expedition, towards the solution of the <location straits="Dardanelles">Dardanelles</location>
 problem.</p>
 
 <p>"Presumably they would require their two divisions now at Cape <location country="Greece">Helles</location>.
 What forces would you require to relieve them? I have asked Sir John
-French if the <unit type="Division">XXVIIth</unit> and <unit type="Division">XXVIIIth</unit> Divisions could be spared for this
+French if the <unit type="division">XXVIIth</unit> and <unit type="division">XXVIIIth</unit> Divisions could be spared for this
 purpose.</p>
 
 <p>"Wire me any points that you think I had better settle with the French
@@ -571,7 +564,7 @@ forth the mosques and minarets of the Golden Horn.</p>
 
 <p>Mr.<person name="Murdoch">Murdoch</person>, an <location country="Australia">Australia</location> journalist, paid me a visit to thank me for
 having stretched a point in <person name="Murdoch">his</person> favour by letting <person name="Murdoch">him</person> see the
-<loocation peninsula="Gallipoli">Peninsula.</loocation> Seemed a sensible man.</p>
+<location peninsula="Gallipoli">Peninsula.</location> Seemed a sensible man.</p>
 
 <p><person name="Glyn">Glyn</person> and <person name="Holdich">Holdich</person> dined: both clever fellows in different ways. <person name="Dawnay">Dawnay</person>
 and <person name="Glyn">Glyn</person> after dinner left for <location country="England">England</location>. <person name="Dawnay">Dawnay</person> goes to explain matters
@@ -610,7 +603,7 @@ than <person name="Maude">Maude</person>. <person name="Maude">His</person> mind
 firmly convinced that no very out-of-the-way effort by the Allies is
 needed to score a big point in the War Game and that our hold-up here is
 not a reality but only a hold-up or petrefaction of the brains of the
-French and of our <location strait="Dardanelles">Dardanelles</location> Committee. I longed to tell him <person name="Maude">he</person> was
+French and of our <location straits="Dardanelles">Dardanelles</location> Committee. I longed to tell him <person name="Maude">he</person> was
 doing them both, especially the French, an injustice, and that four
 splendid divisions were as good as on their way, but I had to content
 myself with saying to <person name="Maude">him</person> and to all the Generals that I was overjoyed
@@ -620,8 +613,8 @@ at a piece of news received yesterday.</p>
 <entry>
 <p>_4th September, 1915. <location island="Imbros">Imbros</location>._ Life would be as ditchwater were it not
 stirred to its depths by <person name="Herbert_Kitchener">Lord K.</person>'s secret cable. Sailed over with <person name="Freddie">Freddie</person> at
-11.30 to "K" Beach and inspected the <unit type="Brigade">88th Brigade.</unit> Had given orders to
-the <location ship="H.M.S. Arno">_Arno_</location> to stand by and to take me over to <location cove="Anzac">Anzac</location> in the afternoon,
+11.30 to "K" Beach and inspected the <unit type="brigade">88th Brigade.</unit> Had given orders to
+the <location ship="H.M.S. Arno">_Arno_</location> to stand by and to take me over to <location bay="Anzac">Anzac</location> in the afternoon,
 but the weather was so bad that I could not get off to her in the motor
 boat.</p>
 
@@ -718,7 +711,7 @@ up my first request for a Field Force Canteen.</p>
 
 <p>Here is one of the enclosures to <person name="Cpt.Birdwood">Birdwood's</person> memo.:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>  "N. Z. and A. Division.</p>
 
@@ -751,7 +744,7 @@ my call. At 11.50 <person name="Walter_Braithwaite">Braithwaite</person>, <perso
 
 <p>A five course lunch and I had to make a speech in French.</p>
 
-<p>When I got back I found that General <person name="Marshall">Marshall</person>, commanding the <unit type="Division">53rd
+<p>When I got back I found that General <person name="Marshall">Marshall</person>, commanding the <unit type="division">53rd
 Division</unit>, had come over from <location bay="Suvla">Suvla</location> to stay with me. <person name="Lancelot Lowther">Lancelot Lowther</person>
 dined; <person name="Lancelot Lowther">he</person> told us all the important things <person name="Lancelot Lowther">he</person> was doing.</p>
 </entry>
@@ -799,7 +792,7 @@ night rained a little.</p>
 
 <entry>
 <p>_13th September, 1915. <location island="Imbros">Imbros</location>._ Crossed again with <person name="Freddie">Freddie</person> Maitland and
-inspected the <unit type="Corps">87th Field Ambulance</unit> (Highland Territorials from <location town="Aberdeen">Aberdeen</location>)
+inspected the 87th Field Ambulance (Highland Territorials from <location town="Aberdeen">Aberdeen</location>)
 under <person name="Fraser">"Colonel Fraser.</person> Became so interested the dinner hour was
 forgotten--a bad mark for a General. Much pleased with the whole show:
 up to date, and complete in all respects. Got back lateish. <person name="Altham">Altham</person>
@@ -814,7 +807,7 @@ home and done their duty as good little tit-bits should. The B.P. cannot
 work up the full steam of their war energy when the furnaces of their
 enthusiasms are systematically damped down; shut off from any breath
 from outside. Your sealed pattern censor sees nothing beyond the
-mischief that may happen if the enemy gets to know too much about us; <person>he</person>
+mischief that may happen if the enemy gets to know too much about us; he
 does not see that this danger is negligible when compared with the
 keenness or dullness of the nation.</p>
 
@@ -844,9 +837,9 @@ become more elevated and commanding; they have been entirely released
 from shelling on the one flank and, on the other, the shelling has
 dwindled away to next door to nothing. North of them again we have
 captured a more or less practicable winter harbour, and have extended
-our grip on the coastline. From the extreme South point of <location cove="Anzac">Anzacs</location> to
+our grip on the coastline. From the extreme South point of <location bay="Anzac">Anzacs</location> to
 their extreme North was formerly 2-3/4 miles. From the extreme South
-point of <location cove="Anzac">Anzacs</location> to our extreme North point (along which there is
+point of <location bay="Anzac">Anzacs</location> to our extreme North point (along which there is
 inter-communication) is now 13 miles. Thus we force the enemy to
 maintain a much larger number of troops on the <location peninsula="Gallipoli">Peninsula</location> (where he is
 already slowly bleeding to death under the stress of his supply and
@@ -929,7 +922,7 @@ large mindedness, I feel sure you will be able to spare me some
 sympathy, and perhaps even get some recognition for the general
 principle I herewith put forward:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(1). Do not too curiously censor false alarmist reports put about by
 the enemy. Let the papers publish them with a query and then smash them
@@ -970,9 +963,9 @@ very indefinite state owing apparently to a decision having been arrived
 at by the French Government without reference to their military
 advisers. The outcome of my meeting with <person name="Millerand">Millerand</person>, <person name="Joffre">Joffre</person> and <person name="Sarrail">Sarrail</person>
 was that the French force of four Divisions proposed to be sent to the
-<location strait="Dardanelles">Dardanelles</location> cannot leave until the result of the approaching offensive
+<location straits="Dardanelles">Dardanelles</location> cannot leave until the result of the approaching offensive
 in <location country="France">France</location> is determined. If it be as successful as hoped for your
-position in the <location strait="Dardanelles">Dardanelles</location> would naturally be affected favourably. It
+position in the <location straits="Dardanelles">Dardanelles</location> would naturally be affected favourably. It
 is hoped that the issue will be clear in the first few days of October,
 and if indecisive, that by 10th October two of our Divisions may be at
 Marseilles for embarkation to be followed closely by the four French
@@ -1044,14 +1037,14 @@ waged a world war in the world as we know it to-day. Napoleon said, I
 think it was on the famous raft, "Who holds <location town="Constantinople">Constantinople</location> is master of
 the world." And there it lies at the mercy of the Briton--could he only
 convince <person name="Joffre">Joffre</person> that the shortest cut to freeing <person name="Joffre">his</person> country from the
-Germans lies through the <location strait="Dardanelles">Dardanelles</location>.</p>
+Germans lies through the <location straits="Dardanelles">Dardanelles</location>.</p>
 
 <p>The principles which should underlie Entente strategy will be clear to
 military historians although obscured to-day by jealousies and
 amateurishness: just the usual one, two, three they are, in this
 order:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>(a) Hold the sea.</p>
 
@@ -1077,7 +1070,7 @@ ruined!!</p>
 attack upon the main strength of the entrenched Germans is beaten off?
 To <person name="Joffre">Joffre</person> <location country="France">France</location> comes first and the rest nowhere--every time: that
 is natural. But our Higher Direction are not Frenchmen--not yet!
-Armageddon is actually being fought _here_, at the <location strait="Dardanelles">Dardanelles</location>, and the
+Armageddon is actually being fought _here_, at the <location straits="Dardanelles">Dardanelles</location>, and the
 <location country="England">British</location> outlook is focused on <location country="France">France</location>. We are to sit here and rot away
 with cholera, and see the winter gales approach, until the big push has
 been made in the West where men can afford to wait--where they are
@@ -1130,7 +1123,7 @@ all uses to which 50,000 <location country="England">British</location> soldiers
 in the East. But <person name="Herbert_Kitchener">he</person> is no longer the <person name="Herbert_Kitchener">Lord K.</person> of <person name="Herbert_Kitchener">Lord K.</person>, the old <person name="Herbert_Kitchener">Lord K.</person> of Khartoum
  and Pretoria. <person name="Herbert_Kitchener">He</person> still has <person name="Herbert_Kitchener">his</person> moments of God-sent intuition. First, <person name="Herbert_Kitchener">he</person>
 had _absolute_ knowledge that the Germans would come through Belgium: I
-repeat this. The assumption was not uncommon perhaps, but <person>he</person> _knew the
+repeat this. The assumption was not uncommon perhaps, but he _knew the
 fact_! Secondly, when everyone else spoke of a six weeks' war; when
 every other soldier I can think of except <person name="Douglas_Haig">Douglas Haig</person> believed he'd be
 back before the grouse shooting was over; <person name="Herbert_Kitchener">Lord K.</person> went nap on a three years'
@@ -1179,7 +1172,7 @@ essential to success; especially with troops who have suffered heavy
 losses. Perhaps <person name="Gen.Byng">he</person> is right. This para. from a letter written to the
 great man to-night explains more generally what I feel:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"<person name="Maude">Maude</person> is burning to get on and do something and I heard him myself ask
 <person name="Gen.Byng">Byng</person> when <person name="Maude">he</person> was going to let him have a dash. As to <person name="Gen.Byng">Byng</person>, I think
@@ -1217,7 +1210,7 @@ a great admiration for <person name="Gen.Byng">Byng</person> and so, though sadl
 
 <p><person name="Fanshawe">Fanshawe</person> met me at the South end of the Division trenches, as bright and
 keen as a new nail. His men, too, seem full of go. <person name="Fanshawe">Fanshawe</person> hopes to
-carry the whole ridge whenever <person name="Fanshawe">he</person> gets the order. The <unit type="Division">11th Division</unit>
+carry the whole ridge whenever <person name="Fanshawe">he</person> gets the order. The <unit type="division">11th Division</unit>
 promise to be as fine a unit as any in the Army once they get their gaps
 filled in.</p>
 </entry>
@@ -1253,35 +1246,35 @@ spirit.</p>
 </entry>
 
 <entry>
-<p>_17th September, 1915. <location island="Imbros">Imbros</location>._ Had been going to <location cove="Anzac">Anzac</location> to inspect and
+<p>_17th September, 1915. <location island="Imbros">Imbros</location>._ Had been going to <location bay="Anzac">Anzac</location> to inspect and
 then to bring <person name="Cpt.Birdwood">Birdie</person> back to stay with me. But the weather was too bad.
-<person name="Cpt.Birdwood">He</person> got here all right as the wind is from the North and <person>he</person> was able to
+<person name="Cpt.Birdwood">He</person> got here all right as the wind is from the North and he was able to
 climb aboard under the lee of Nibrunesi Point. Just as well, perhaps, we
 did not go, for one way or another a good deal of extra work had to be
 got through. One thing; two cables from <person name="Maxwell">Maxwell</person> to the War Office have
 been repeated to us here; inadvertently we think; divertingly for sure.
 The story is this:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
 
-<p>A few days ago we were offered the <unit type="Brigade">51st</unit> and <unit type="Brigade">53rd Sikhs</unit> who, despite
+
+<p>A few days ago we were offered the <unit type="brigade">51st</unit> and <unit type="brigade">53rd Sikhs</unit> who, despite
 their titles, are half Mahomedan. After consulting <person name="Cox">Cox</person>, <person name="Cpt.Birdwood">Birdie</person> and
 other <location country="India">Indian</location> Army Officers I cabled back saying we would gladly have
 them "as soon as transport can be arranged," unless French is willing to
 exchange them for two purely non-Mahomedan units. Here are the
 collateral cables from <person name="Maxwell">Maxwell</person> to the War Office:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
 
-<p>"Both the <unit type="Brigade">51st</unit> and <unit type="Brigade">53rd Sikhs</unit> have already been disembarked. They had
+
+<p>"Both the <unit type="brigade">51st</unit> and <unit type="brigade">53rd Sikhs</unit> have already been disembarked. They had
 better remain off ship as long as possible, I think, since they are
 reported to be feverish. The troopship can wait at Port Said. The men on
 the canal, I should like to point out, barely get two nights in bed per
 week."</p>
 
 <p>"I have been asked by Hamilton to send him a double Company of Patiala
-Sikhs to reinforce the <unit type="Brigade">14th Sikhs.</unit> I can do this, and if you concur I
-think it is a better arrangement than to send him the <unit type="Brigade">51st</unit> and <unit type="Brigade">53rd</unit>
+Sikhs to reinforce the <unit type="brigade">14th Sikhs.</unit> I can do this, and if you concur I
+think it is a better arrangement than to send him the <unit type="brigade">51st</unit> and <unit type="brigade">53rd</unit>
 Sikhs."</p>
 
 <p>The Sikhs meant for <location peninsula="Gallipoli">Gallipoli</location> are gone; we shall never see them more;
@@ -1303,11 +1296,11 @@ clear as they can of <location country="England">British</location> command. So 
 away _that_ obstacle by offering to stand down. Now they can fix up the
 problem on its merits:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"Closest consideration has been given to your No. 7843, cipher. Until
 now I have consistently opposed a landing on the Asiatic side of the
-<loction strait="Dardanelles">Straits</loction> with less than 6 divisions--see my telegram No. M.F. 349 of 19th
+<location straits="Dardanelles">Straits</location> with less than 6 divisions--see my telegram No. M.F. 349 of 19th
 June. On <location peninsula="Gallipoli">Gallipoli</location> Peninsula area and difficulties of supply limited
 liabilities of the opposing forces whereas mainland of Asia gave scope
 for the deployment of large forces by the enemy. Now, however, the
@@ -1405,9 +1398,7 @@ Divisions: one to be at <location town="Mudros">Mudros</location>, the other at 
 In spite of delay, in spite of lost chances, is it business?</p>
 </entry>
 
-<chapter n="20">CHAPTER XX</chapter>
-
-<title>LOOS AND SALONIKA</title>
+<chapter n="20" heading="Loos and Salonika">CHAPTER XX</chapter>
 
 <entry>
 <p>Left G.H.Q. at noon to-day, 18th, sailed to <location country="Greece">Helles</location>; lunched with Davies;
@@ -1427,15 +1418,15 @@ bomb aboard. No harm.</p>
 <p>When we got back found this from War Office. Rather amusing to be in the
 know of the counter moves and to see their outcome:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"The exchange of battalions mentioned in No. 7873, cipher, of 14th
-September cannot be effected, so that at present the <unit type="Brigade">51st</unit> and <unit type="Brigade">53rd</unit> Sikhs
+September cannot be effected, so that at present the <unit type="brigade">51st</unit> and <unit type="brigade">53rd</unit> Sikhs
 will not proceed to <location country="France">France</location>. From the <person name="Commanding">General Officer Commanding</person>,
 <location country="Egypt">Egypt</location>'s, telegram No. 1854. E. of 15th September, it is understood that
 <person name="Commanding">he</person> can send you another double company of Patiala Sikhs to reinforce the
-<unit type="Brigade">14th Sikhs.</unit> Possibly this will suffice for your requirements in the
-meantime, and the <unit type="Brigade">51st</unit> and <unit type="Brigade">53rd</unit> Sikhs will be left at the disposal of
+<unit type="brigade">14th Sikhs.</unit> Possibly this will suffice for your requirements in the
+meantime, and the <unit type="brigade">51st</unit> and <unit type="brigade">53rd</unit> Sikhs will be left at the disposal of
 <person name="Commanding">General Officer Commanding</person>, <location country="Egypt">Egypt</location>. If so, will you please make
 arrangements with him accordingly?</p>
 
@@ -1450,11 +1441,11 @@ at present, and <person name="Cpt.Birdwood">Birdie</person> has become most anxi
 the 53rd. So I am cabling to <person name="Maxwell">Maxwell</person> just to send us our troops (for
 they are ours) forthwith and have cabled to the War Office:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"With reference to your telegram No. 8012, cipher. In accordance with
 your telegram No. 8711, of 11th September, I am asking General Officer
-Commanding, <location country="Egypt">Egypt</location>, to send here, at once, the <unit type="Brigade">51st</unit> and <unit type="Brigade">53rd Sikhs</unit>, as I
+Commanding, <location country="Egypt">Egypt</location>, to send here, at once, the <unit type="brigade">51st</unit> and <unit type="brigade">53rd Sikhs</unit>, as I
 cannot do without them. I shall be very glad to receive the Patiala
 Sikhs as well, as the 14th Sikhs are badly in need of a reinforcement."</p>
 
@@ -1467,9 +1458,9 @@ contingents would have been commonplaces of frontier warfare to our
 vain do I write and cable my personal entreaties to <person name="Beauchamp_Duff">Beauchamp Duff</person>, the
 all-powerful Commander-in-Chief in <location country="India">India</location>, and a very old friend, for two
 hundred Sikhs: first <person name="Beauchamp_Duff">he</person> offers me a couple of hundred Brahmins wherewith
-to fill the ranks of the famous <unit type="Brigade">14th Sikhs</unit> and then, when I hesitate
+to fill the ranks of the famous <unit type="brigade">14th Sikhs</unit> and then, when I hesitate
 before a proposal which appears monstrous, withdraws even that offer.
-Again, I beg for 200 recruits for the <unit type="Brigade">14th</unit>, saying I will train them
+Again, I beg for 200 recruits for the <unit type="brigade">14th</unit>, saying I will train them
 myself; I am refused--very politely and at great length--refused,
 because it would be "politically inexpedient" to send them. In vain do
 we try to get our own two battalions through the <location country="Egypt">Egypt</location>ian morass; they
@@ -1495,7 +1486,7 @@ moment the mobilization flag was dropped it was up to them to work tooth
 and nail to treble or quadruple these sound, vigorous existing entities.
 What have they done? After a year of war, the <location country="India">Indian</location> Army and the
 Territorial Army are staggering on their last legs instead of being the
-best part of our forces. Compare the <unit type="Division">East Lanes Division</unit>, who had the
+best part of our forces. Compare the <unit type="division">East Lanes Division</unit>, who had the
 good fortune to escape from War Office clutches by getting right out to
 <location country="Egypt">Egypt</location> at the outbreak of the war, with Territorial Divisions which have
 remained since then under the eyes and in the hands of the War Office!</p>
@@ -1503,7 +1494,7 @@ remained since then under the eyes and in the hands of the War Office!</p>
 <p>The Turks are still withdrawing troops from the Caucasus front to ours.
 Good for the Russians. Whilst I was at <location country="Greece">Helles</location>, the enemy guns started a
 heavy bombardment along the whole of our nine mile front from the right
-of <location cove="Anzac">Anzac</location> to the left of <location bay="Suvla">Suvla</location>; a heavy musketry fire also along the
+of <location bay="Anzac">Anzac</location> to the left of <location bay="Suvla">Suvla</location>; a heavy musketry fire also along the
 <location country="Turkey">Turkish</location> trenches. An attempt was then made to launch infantry assaults
 against our lines, but these fizzled out, the rank and file having no
 heart for the job. There is no doubt the Turks have had enough of it.
@@ -1534,7 +1525,7 @@ and <person name="Anglesey">Anglesey</person> went back to Anzac.</p>
 comedy:--<person name="Maxwell">Maxwell</person> cables, "No. 1883 E. Your No. M.F. 648. <person name="Maxwell">I</person> have received
 no orders to send these regiments. According to <person name="Maxwell">my</person> last information from
 the War Office they were to remain here, as <person name="Maxwell">I</person> require them, but that <person name="Maxwell">I</person>
-should send you a double company of Patiala Sikhs to reinforce the <unit type="Battalion">14th
+should send you a double company of Patiala Sikhs to reinforce the <unit type="battalion">14th
 Sikhs.</unit>"</p>
 
 <p>I have cabled this on to the War Office, saying, "As I understand it,
@@ -1548,7 +1539,7 @@ Expeditionary Force."</p>
 as to the grand army I commanded; now where are they?</p>
 
 <p>Started off with <person name="Taylor">Taylor</person>, <person name="Freddie">Freddie</person> and Colonel <person name="Napier">Napier</person> (<location country="England">British</location> Military
-Attaché to <location country="Bulgaria">Bulgaria</location>) for <location cove="Anzac">Anzac</location>. No shelling. Went round the whole left
+Attaché to <location country="Bulgaria">Bulgaria</location>) for <location bay="Anzac">Anzac</location>. No shelling. Went round the whole left
 centre and left of <person name="Cpt.Birdwood">Birdie</person>'s position to right and left of Cheshire
 Point, and saw the new <location country="Australia">Australia</location> Division--very fine fellows. Bullets
 were on the whistle and "the boys" were as keen and happy as any real
@@ -1588,8 +1579,8 @@ is no other way. I said all this to <person name="Napier">Napier</person> and a 
 left him keener on <location city="Salonika">Salonika</location> than ever.</p>
 
 <p><person name="Napier">He</person> actually thinks that from <location city="Salonika">Salonika</location> we could do what could be done by
-us at any time at the <location strait="Dardanelles">Dardanelles</location>! <location city="Salonika">Salonika</location> is no alternative to the
-<location strait="Dardanelles">Dardanelles</location>. I wish the War Office could hear <person name="Gouraud">Gouraud</person>; <person name="Gouraud">Gouraud</person>, that big
+us at any time at the <location straits="Dardanelles">Dardanelles</location>! <location city="Salonika">Salonika</location> is no alternative to the
+<location straits="Dardanelles">Dardanelles</location>. I wish the War Office could hear <person name="Gouraud">Gouraud</person>; <person name="Gouraud">Gouraud</person>, that big
 sane man with local knowledge. How strong <person name="Gouraud">he</person> used to be on the point
 that <location country="Greece">Greece</location> lay altogether outside the sphere of any military action by
 the Entente. We can't feed <location country="Russia">Russia</location> with munitions through <location city="Salonika">Salonika</location>, nor
@@ -1602,7 +1593,7 @@ King's Messenger arrived with the Mails.</p>
 
 <p>Three cables:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(No. M.F. 654). From General Sir <person name="Ian_Hamilton">Ian Hamilton</person> to War Office. Only two
 machine guns per battalion are being brought by the City of <location town="London">London</location>
@@ -1669,7 +1660,7 @@ May--August--September a new world for old battleships:--two--four--six!</p>
 <p>_23rd September, 1915._ Stormy weather: the <location ship="H.M.S. Imogene">_Imogene_</location> could hardly crawl
 out. Have written <person name="Herbert_Kitchener">Lord K.</person> to tell him how day succeeds day, never without
 incident, but never with achievement; how we are burnt up with longing
-to get on and how we know that <person>he</person> is as anxious. Yet, as I tell him,
+to get on and how we know that he is as anxious. Yet, as I tell him,
 _we_ "can't force the pace." How can we? We have not the
 wherewithal--the stuff. "<person name="Gen.Byng">Byng</person> would like to have four days' successive
 bombardment for an hour, and then attack, and speaks of one H.E. shell
@@ -1683,7 +1674,7 @@ existence,--not here, at least."</p>
 <p>_24th September, 1915. <location island="Imbros">Imbros</location>._ Fought against exasperation all day. As
 I thought:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(No. 8193, cipher). From <person name="Herbert_Kitchener">Earl Kitchener</person> to General Sir <person name="Ian_Hamilton">Ian Hamilton</person>. In
 the existing situation, the two battalions referred to in your No. M.F.
@@ -1703,10 +1694,10 @@ oppose the Russians in Asia, or for other enterprises."</p>
 <p>Another cable also sent dealing with the ever present, ever pressing,
 ever ghastlier shortage upon the Peninsula generally:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"My present shortages, 21st September, of infantry rank and file are
-2,645 in the <unit type="Division">XXIXth Division</unit>, 17,166 in the three New Army Divisions,
+2,645 in the <unit type="division">XXIXth Division</unit>, 17,166 in the three New Army Divisions,
 and 23,986 in the four Territorial Divisions, totalling 43,797; out of
 respective establishments of 11,652, 37,869 and 44,824, total, 97,345."</p>
 
@@ -1741,12 +1732,12 @@ orders in the fullest of full dress!</p>
 </entry>
 
 <entry>
-<p>_25th September, 1915._ To <location cove="Anzac">Anzac</location> in the <location ship="H.M.S. Arno">_Arno_</location>. <person name="Cpt.Birdwood">Birdie</person> met me and we
+<p>_25th September, 1915._ To <location bay="Anzac">Anzac</location> in the <location ship="H.M.S. Arno">_Arno_</location>. <person name="Cpt.Birdwood">Birdie</person> met me and we
 walked along the lower part of the left of the <location country="Australia">Australia</location> trenches until
 we reached the <location country="New Zealand">New Zealanders</location> and were joined by <person name="Godley">Godley</person>. Lunched with
 <person name="Inglefield">General Inglefield;</person> then plodded through the trenches held by <person name="Inglefield">his</person>
-Division (the <unit type="Division">54th</unit>; nice-looking boys) and by the <location country="India">Indian</location> Brigade. On the
-left of the <location country="India">Indian</location> Brigade I was met by <person name="Peyton">Peyton</person> who did pilot to <person >me</person>
+Division (the <unit type="division">54th</unit>; nice-looking boys) and by the <location country="India">Indian</location> Brigade. On the
+left of the <location country="India">Indian</location> Brigade I was met by <person name="Peyton">Peyton</person> who did pilot to me
 through the Scottish Horse section. The Bard joined us here and was in
 great form, full of administrative good works as in <location country="South Africa">South Africa</location>. The
 Scottish Horse are as keen as schoolboys out for their first shoot. They
@@ -1760,7 +1751,7 @@ sped. Not a very big mark a loophole at over 100 yards but they got it,
 they said, one try out of three.</p>
 
 <p>At the end of the Scottish Horse we came to the Worcester Yeomanry
-trench. But time was up[12] and I had to make tracks for <location cove="Anzac">Anzac</location> where we
+trench. But time was up[12] and I had to make tracks for <location bay="Anzac">Anzac</location> where we
 had tea with <person name="Cpt.Birdwood">Birdie</person>, who had stuck to us throughout the tour. <location island="Imbros">Imbros</location> by
 dinner-time. The quietest day, bar none, we have had on the <location peninsula="Gallipoli">Peninsula</location>
 since we first landed. Not a shot was fired anywhere except by our own
@@ -1771,7 +1762,7 @@ snipers.</p>
 <p>_26th September, 1915. <location island="Imbros">Imbros</location>._ Last night, after dinner, <person name="Walter_Braithwaite">Braithwaite</person>
 came across with a black piece of news in <person name="Walter_Braithwaite">his</person> pocket:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(No. 8229, cipher). From <person name="Herbert_Kitchener">Earl Kitchener</person> to General Sir <person name="Ian_Hamilton">Ian Hamilton</person>. On
 account of the mobilization of the Bulgarian Army <location country="Greece">Greece</location> has asked the
@@ -1785,9 +1776,9 @@ of ammunition or troops, rendering your position very hazardous.</p>
 <p>"Both <location country="France">France</location> and ourselves have promised to send between us the troops
 asked for, viz., 150,000 men, and urgency is essential. It is evident
 that under these circumstances some troops will have to be taken from
-the <location strait="Dardanelles">Dardanelles</location> to go to <location city="Salonika">Salonika</location>, but it must be clearly understood
+the <location straits="Dardanelles">Dardanelles</location> to go to <location city="Salonika">Salonika</location>, but it must be clearly understood
 that there is no intention of withdrawing from the <location peninsula="Gallipoli">Peninsula</location> or of
-giving up the <location strait="Dardanelles">Dardanelles</location> operations until the Turks are defeated. Your
+giving up the <location straits="Dardanelles">Dardanelles</location> operations until the Turks are defeated. Your
  taff officer has suggested to me that you saw no difficulty in reducing
 the length of your line and concentrating your forces by withdrawing
 from the position now held around <location bay="Suvla">Suvla</location> Bay to the neighbourhood of the
@@ -1805,25 +1796,25 @@ anticipated which, if secured, should greatly affect your situation.</p>
 
 <p>"The projected dispatch of reinforcements of French and <location country="England">British</location>
 divisions for Asiatic operations must be in abeyance until a decision
-in the Western theatre can be reached. The troops now at the <location strait="Dardanelles">Dardanelles</location>
+in the Western theatre can be reached. The troops now at the <location straits="Dardanelles">Dardanelles</location>
 which are required for <location city="Salonika">Salonika</location> would be two divisions, preferably the
-<unit type="Division">Xth</unit> and <unit type="Division">XIth</unit>. The French would also have to withdraw either a brigade or
+<unit type="division">Xth</unit> and <unit type="division">XIth</unit>. The French would also have to withdraw either a brigade or
 a division from their force at <location country="Greece">Helles</location> for the same purpose. The Yeomanry
 now _en route_ to you would also have to be diverted to <location city="Salonika">Salonika</location> and we
 should have to arrange to mount them from <location country="Egypt">Egypt</location> after their arrival.</p>
 
 <p>"Cable me at once your ideas as to meeting these requirements. The
-<location strait="Dardanelles">Dardanelles</location> Committee consider a withdrawal from <location bay="Suvla">Suvla</location> to be advisable
+<location straits="Dardanelles">Dardanelles</location> Committee consider a withdrawal from <location bay="Suvla">Suvla</location> to be advisable
 under the circumstances, but they had not seen your telegram No. 664. We
 have been asked to send the 15-inch howitzer, now on board ship at
 <location town="Mudros">Mudros</location>, to <location town="Belgrade">Belgrade</location> as soon as possible."</p>
 
 <p>Amen--so be it! Our mighty stroke at the vitals of the enemy is to break
 itself to pieces against the Balkans. God save the King! May the Devil
-fly away with the whole of the <location strait="Dardanelles">Dardanelles</location> Committee!!</p>
+fly away with the whole of the <location straits="Dardanelles">Dardanelles</location> Committee!!</p>
 
 <p>What arguments--what pressure--I wonder can have moved <person name="Herbert_Kitchener">Lord K.</person> to swap horse
-in mid-<location strait="Dardanelles">Dardanelles</location>? In December <person name="Herbert_Kitchener">Lord K.</person> as good as told me <person name="Herbert_Kitchener">I</person> was "for it" if
+in mid-<location straits="Dardanelles">Dardanelles</location>? In December <person name="Herbert_Kitchener">Lord K.</person> as good as told me <person name="Herbert_Kitchener">I</person> was "for it" if
 the day should come along for <person name="Herbert_Kitchener">his</person> New Army to help the <location country="Serbia">Serbians.</location> G.H.Q.
 in <location country="France">France</location> had belittled <person name="Herbert_Kitchener">his</person> effort to create it; they had tried to throw
 cold water on it (the New Army) and now we should see how they liked it
@@ -1834,8 +1825,8 @@ seriously in that direction, it would be gobbled up. But two Army Corps
 would starve, seeing we had no pack transport and that the railway would
 only feed 40,000 men. Nor had we any mountain guns. In February <person name="Herbert_Kitchener">he</person>
 resurrected the question but that time <person name="Herbert_Kitchener">he</person> was put off by the typhus.
-"Whatever destroys my New Army," <person>he</person> said, "it shall not be the <location country="Serbia">Serbian</location>
-lice." Now <person>he</person> cables as if <person name="Herbert_Kitchener">he</person> was being quite consistent and sensible,
+"Whatever destroys my New Army," he said, "it shall not be the <location country="Serbia">Serbian</location>
+lice." Now he cables as if <person name="Herbert_Kitchener">he</person> was being quite consistent and sensible,
 _now_, when in every aspect, the odds have turned against the
 undertaking. As to the <location country="Bulgaria">Bulgarians</location> having "a clear road to <location town="Constantinople">Constantinople</location>
 and <location peninsula="Gallipoli">Gallipoli</location>" my memorable dinner with <person name="Ferdinand">Ferdinand</person>, and <person name="Ferdinand">his</person> insistence on
@@ -1843,7 +1834,7 @@ and <location peninsula="Gallipoli">Gallipoli</location>" my memorable dinner wi
 <location country="Bulgaria">Bulgarian</location> grenadier will fertilize the <location peninsula="Gallipoli">Peninsula</location>--whatever happens. And
 if the inconceivable were conceivable and <person name="Ferdinand">Ferdinand</person> were to work for
 anything but <person name="Ferdinand">his</person> own immediate gain--there is no room for them here!
-That fact is cast iron. The <location country="Turkey"><location country="Turkey">Turkish</location> Empire</location> is _here_ in full force.
+That fact is cast iron. The <location country="Turkey">Turkish Empire</location> is _here_ in full force.
 <person name="Enver_Pasha">Enver</person> can't feed more! These numbers cause us no alarm. Since the last
 abortive effort of the <location country="Turkey">Turkish</location> Command to get their men to attack every
 soldier in the trenches knows well that the enemy are afraid of us. They
@@ -1866,7 +1857,7 @@ were it feasible--something more hopeful than sitting at <location city="Salonik
 its salubrious suburbs, the "political" advantages of which were
 preached to us by <person name="Napier">Napier</person>.</p>
 
-<p>But let no man hereafter talk of <location strait="Dardanelles">Dardanelles</location> adventures. _Mon Dieu!_</p>
+<p>But let no man hereafter talk of <location straits="Dardanelles">Dardanelles</location> adventures. _Mon Dieu!_</p>
 
 <p>Once again see the dupes of maps preparing to dash out their brains, or
 rather the brains of others, against the rocks. If only <person name="Joffre">Joffre</person> and <person name="Herbert_Kitchener">Lord K.</person>
@@ -1881,10 +1872,10 @@ is easier to square the circle than square a fox.</p>
 
 <p>On the Danube, the Central Powers can put _and keep_ six men to our one,
 _unless_ we control the river from its mouth to <location town="Belgrade">Belgrade</location>. This we can
-only do by forcing the <location strait="Dardanelles">Dardanelles</location>.</p>
+only do by forcing the <location straits="Dardanelles">Dardanelles</location>.</p>
 
 <p>After outlining an answer for <person name="Walter_Braithwaite">Braithwaite</person> to draft, I started off at
-10.45 for <location cove="Anzac">Anzac</location> and <location bay="Suvla">Suvla</location>. With me were <person name="Taylor">Taylor</person>, <person name="Gascoigne">Gascoigne</person>, <person name="Moore">Lieutenant
+10.45 for <location bay="Anzac">Anzac</location> and <location bay="Suvla">Suvla</location>. With me were <person name="Taylor">Taylor</person>, <person name="Gascoigne">Gascoigne</person>, <person name="Moore">Lieutenant
 Moore</person> and <person name="Freddie">Freddie</person>. From Anzac I walked along the old communication
 trench for a couple of miles, and then went round General <person name="Taylor">Taylor</person>'s
 Brigade along the front by <location mountain="Green Hill">Green Hill</location> and the <location mountain="Chocolate Hills">Chocolate Hills</location>. The heat
@@ -1899,25 +1890,25 @@ bayonets and shouting "Allah!" and the only result has been to render
 <p>After invigorating myself with a good draught of regimental spirit, set
 forth to walk back to Anzac. Half way I halted at the <location country="India">Indian</location> Brigade
 Headquarters, and, on the invitation of the hospitable <person name="Palin">Colonel Palin</person>,
-had a square meal. Met <person name="Allanson">Allanson</person>, the brave commander of the <unit type="Division">6th Gurkhas</unit>;
+had a square meal. Met <person name="Allanson">Allanson</person>, the brave commander of the <unit type="division">6th Gurkhas</unit>;
 <person name="Allanson">Allanson</person> who scaled the heights of <location heights="Sari Bair">Sari Bair</location> and entered for a few
 hectic hours into the promised land. Oh, what a wonderful adventure <person name="Allanson">his</person>
-has been! To have seen the <location strait="Dardanelles">Dardanelles</location> and their defences lying flat at
+has been! To have seen the <location straits="Dardanelles">Dardanelles</location> and their defences lying flat at
 <person name="Allanson">his</person> feet! To feel--as <person name="Allanson">he</person> says <person name="Allanson">he</person> did--that <person name="Allanson">he</person> held the whole <location country="Turkey">Turkish</location>
 Army by the throat!</p>
 
 <p>To-day's inspection has once more brought me into personal touch with
-the perfect confidence felt both at <location cove="Anzac">Anzac</location> and <location bay="Suvla">Suvla</location> in the
+the perfect confidence felt both at <location bay="Anzac">Anzac</location> and <location bay="Suvla">Suvla</location> in the
 demoralization of the Turks. This has nerved me to cable agreeing to
-spare the <unit type="Division">10th</unit> and <unit type="Division">53rd</unit> Divisions from <location bay="Suvla">Suvla</location> as well as a Brigade of
+spare the <unit type="division">10th</unit> and <unit type="division">53rd</unit> Divisions from <location bay="Suvla">Suvla</location> as well as a Brigade of
 French from <location country="Greece">Helles</location> and four and a half Brigades of <location country="England">British</location> Field
 Artillery:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(No. M.F. 675). From General Sir <person name="Ian_Hamilton">Ian Hamilton</person> to Secretary of State for
 War. Reference your No. 8229. Let me begin by saying that I quite
-realize that, to you, playing for your large stakes, the <location strait="Dardanelles">Dardanelles</location>
+realize that, to you, playing for your large stakes, the <location straits="Dardanelles">Dardanelles</location>
 operation may temporarily become of a secondary nature. In spite of the
 <location city="Salonika">Salonika</location> scheme I am, however, particular to note that it is not
 intended to withdraw from the <location peninsula="Gallipoli">Gallipoli</location> Peninsula, nor to give up here
@@ -1947,10 +1938,10 @@ bombing distance in places. They have a large number of guns in the
 northern zone and a retirement could only be effected under heavy fire,
 which with unseasoned troops would make the retreat a hazardous one. As
 explained in my No. M.F. 664 evacuation of the Bay would involve with it
-the _eventual_ evacuation of all but the original <location cove="Anzac">Anzac</location> position. But
+the _eventual_ evacuation of all but the original <location bay="Anzac">Anzac</location> position. But
 even if this last step were not necessary the withdrawal of <location country="England">British</location>
 soldiers from <location bay="Suvla">Suvla</location> would be an overwhelming victory for the Turks. Our
-position in the <location strait="Dardanelles">Dardanelles</location> would be entirely altered for the worse and
+position in the <location straits="Dardanelles">Dardanelles</location> would be entirely altered for the worse and
 even the effect of our landing of troops at <location city="Salonika">Salonika</location> might be discounted
 in <location country="Bulgaria">Bulgarian</location> eyes. At the present moment the <location country="Turkey">Turkish</location> commissariat
 difficulties and tales of starving families which the wounded bring back
@@ -1965,11 +1956,11 @@ would be a most serious, and might prove a disastrous step. I would
 therefore prefer to run the risk of holding the line defensively with
 fewer troops in order to spare two divisions for the new enterprise.</p>
 
-<p>"I have at present one division in Corps Reserve at <location bay="Suvla">Suvla</location> and the <unit type="Division">1st
+<p>"I have at present one division in Corps Reserve at <location bay="Suvla">Suvla</location> and the <unit type="division">1st
 Australian Division</unit> resting at <location town="Mudros">Mudros</location> and also one brigade resting at
 <location island="Imbros">Imbros</location>. By bringing the tired <location country="Australia">Australians</location> back and making them replace
 the Mounted Division in the section north of Susak Kuyu I could spare
-<unit type="Division">Xth</unit> and <unit type="Division">LIIIrd</unit> Divisions or else <unit type="Division">Xth</unit> and <unit type="Division">XIth.</unit> I could also spare one
+<unit type="division">Xth</unit> and <unit type="division">LIIIrd</unit> Divisions or else <unit type="division">Xth</unit> and <unit type="division">XIth.</unit> I could also spare one
 French brigade from Cape <location country="Greece">Helles</location> without replacing it by troops from
 <location bay="Suvla">Suvla</location>, and a total of 4-1/2 <location country="England">British</location> Field Artillery brigades. This would
 at any rate enable me to postpone any evacuation at <location bay="Suvla">Suvla</location> and if the
@@ -1980,9 +1971,9 @@ for this deplorable contingency.</p>
 <p>"The 15-inch howitzer is at <location city="Alexandria">Alexandria</location> and can be sent whenever you
 desire on the receipt of instructions. To-morrow I am having a
 conference here with the Corps Commanders concerned to consider the
-details. I hope that you realize that though the <unit type="Corps">IXth Corps</unit> consists of
-<unit type="Division">Xth</unit>, <unit type="Division">XIth</unit> and <unit type="Division">XIIIth</unit> Divisions there are attached to it <unit type="Division">LIIIrd Welsh
-Division</unit>, Mounted Division and <unit type="Division">XXIXth</unit> Division, and I therefore
+details. I hope that you realize that though the IXth Corps consists of
+<unit type="division">Xth</unit>, <unit type="division">XIth</unit> and <unit type="division">XIIIth</unit> Divisions there are attached to it <unit type="division">LIIIrd Welsh
+Division</unit>, Mounted Division and <unit type="division">XXIXth</unit> Division, and I therefore
 sincerely trust you will not contemplate the withdrawal of the Corps
 Staff and Corps Commander to accompany the two divisions destined for
 <location city="Salonika">Salonika</location>, for I have absolutely no one to replace them."</p>
@@ -1994,7 +1985,7 @@ across from <location town="Chanak">Chanak</location> and dropped four bombs on 
 no damage. At 11 o'clock <person name="Cpt.Birdwood">Birdwood</person> and <person name="Gen.Byng">Byng</person> came over for a confab on the
 last upset. Both Generals went word by word through my M.F. 657 of the
 26th September,--(1) as to drawing in our horns at <location bay="Suvla">Suvla</location>,--(2) as to our
-power of holding on after we lose the <unit type="Division">10th</unit> and <unit type="Division">53rd</unit> Divisions. They
+power of holding on after we lose the <unit type="division">10th</unit> and <unit type="division">53rd</unit> Divisions. They
 concur in my cables and are emphatic as to the futility of making a gift
 of ground to any enemy who are shaking in their shoes. What the Turks
 want is a gift, not of ground but of high explosive shell. A few
@@ -2037,7 +2028,7 @@ and rifle they could bring to bear, and rarely, I imagine, has a
 "furious joy" expressed itself more furiously.</p>
 
 <p>Nowhere in the Empire has this fine victory brought more heartfelt
-relief and joy than at the <location strait="Dardanelles">Dardanelles</location>: to have been brought to a
+relief and joy than at the <location straits="Dardanelles">Dardanelles</location>: to have been brought to a
 standstill, for the third time of asking, for _nothing_; that was the
 fear which had haunted us.</p>
 </entry>
@@ -2086,7 +2077,7 @@ considerable forces to Asia as well as run an entirely new show
 elsewhere. Indeed, Naval requirements alone would seem entirely to
 forbid it. But I must not worry you any more with surmises. After all,
 nothing great in this world was ever easily accomplished. Never has
-there been such an example of that as in the <location strait="Dardanelles">Dardanelles</location> Expedition. How
+there been such an example of that as in the <location straits="Dardanelles">Dardanelles</location> Expedition. How
 many times has success seemed to be on the point of crowning our
 efforts, and yet, on each occasion, just as we are beginning to see
 light through the tangle of obstacles, preparing for an assault, or
@@ -2097,9 +2088,9 @@ moment when your own must be infinitely greater.</p>
 
 <p>"Reading over this letter which I have not now time to re-write or
 correct, it strikes me that in concentrating my mind purely on the
-<location strait="Dardanelles">Dardanelles</location> I may have given a wrong impression of my general attitude
+<location straits="Dardanelles">Dardanelles</location> I may have given a wrong impression of my general attitude
 towards your latest demand. No one can realize, I believe, more clearly
-than I do that the <location strait="Dardanelles">Dardanelles</location> operations themselves hinge for their
+than I do that the <location straits="Dardanelles">Dardanelles</location> operations themselves hinge for their
 success to a very large extent upon the maintenance of a barrier between
 the Central Powers and <location town="Constantinople">Constantinople</location>. As far as reinforcements of men
 to the enemy in the field are concerned, such inter-communication would
@@ -2113,7 +2104,7 @@ being in this instance, the sea."</p>
 <p>My A.D.C. has brought me an irritated message from the A.G., War
 Office:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"<person name="Ian_Hamilton">Your</person> No. M.F.A. 4003 of the 24th instant. Are <person name="Ian_Hamilton">you</person> aware that <person name="Ian_Hamilton">your</person>
 telegram was really a demand for 60,000 men with a weekly supply in
@@ -2130,7 +2121,7 @@ God's name do they go on telling the people they _have_ got them?</p>
 
 <p>Have drafted out this answer:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"A.G. My telegram No. M.F.A. 4003 told you the number required to bring
 and keep all formations up to establishment and, as an estimate, the
@@ -2164,7 +2155,7 @@ establishment."</p>
 
 <entry>
 <p>_30th September, 1915. <location island="Imbros">Imbros</location>._ Peace on the Peninsula; trouble at
-G.H.Q. The <unit type="Division">10th Division</unit> is taking its departure from <location bay="Suvla">Suvla</location> undisturbed
+G.H.Q. The <unit type="division">10th Division</unit> is taking its departure from <location bay="Suvla">Suvla</location> undisturbed
 by the enemy. Not a shot is being fired. Some say this denotes
 extraordinary skill in the conduct of the withdrawal; others,
 extraordinary delight on the part of the Turks to see them clearing
@@ -2173,7 +2164,7 @@ standstill and there is no attack left in them--not under _any_
 circumstances or temptation; that is what I believe in my heart,
 otherwise I would refuse point blank to strip myself of two full
 divisions under their noses. Still, it is nervous work presuming to this
-extent upon their fatigue and I will not agree to the <unit type="Division">53rd</unit> going too, as
+extent upon their fatigue and I will not agree to the <unit type="division">53rd</unit> going too, as
 the loss of three Divisions would leave an actual hole in our line.
 Meanwhile, it is a relief to hear that the move is going on just like
 peacetime. As to G.H.Q., all is held up by uncertainty. Our whole
@@ -2184,7 +2175,7 @@ the 2nd Brigade of the French go!</p>
 
 <p>This cable sent to-day to <person name="Herbert_Kitchener">Lord K.</person> explains itself:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"The following has just been received from <person name="Bailloud">Bailloud</person>:--'I have the honour
 to inform you that I have received a telegram from the French Minister
@@ -2199,10 +2190,10 @@ General Brulard.'</p>
 
 <p>"I said in my telegram No. M.F. 675, that I could only spare one brigade
 of the <location country="France">French.</location> I desire to place on record that if this order of the
-<location country="France">French Government</location> is carried out the <unit type="Division>">LIIIrd</unit> Division cannot possibly be
+<location country="France">French Government</location> is carried out the <unit type="division">">LIIIrd</unit> Division cannot possibly be
 spared without seriously endangering the safety of this force and the
-whole future of the <location strait="Dardanelles">Dardanelles</location> enterprise. Even if I were to keep the
-<unit type="Division">LIIIrd Division</unit> it would not relieve me of intense anxiety. The fact
+whole future of the <location straits="Dardanelles">Dardanelles</location> enterprise. Even if I were to keep the
+<unit type="division">LIIIrd Division</unit> it would not relieve me of intense anxiety. The fact
 will not escape your notice that the division to go is being
 re-constructed so that nothing but European troops are included, thus
 leaving an undue proportion of <location country="Senegal">Senegalese.</location> This constitutes such a grave
@@ -2210,7 +2201,7 @@ danger that, if I had the power, I would refuse to allow <person name="Bailloud"
 carry out this order of <person name="Bailloud">his</person> Government. It need hardly be pointed out
 that all your hopes of success in the Balkans would be upset by a
 disaster at Cape <location country="Greece">Helles</location>. Even when I said that I could spare one French
-Infantry Brigade the Commander of the <unit type="Corps">VIIIth Corps</unit>, who is one of the
+Infantry Brigade the Commander of the VIIIth Corps, who is one of the
 last men in the Army to express alarmist views, represented to me, in
 view of the physical condition of a large proportion of <person name="Ian_Hamilton">his</person> troops, the
 gravity of the case in the strongest terms."</p>
@@ -2218,7 +2209,7 @@ gravity of the case in the strongest terms."</p>
 <p>A reminder of mine _re_ the Ashmead-Bartlett incident has drawn an
 amusing and highly unexpected answer from the War Office:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"<person name="Murdoch">Murdoch</person> was found to be carrying a despatch for the Prime Minister
 criticizing military operations in <location peninsula="Gallipoli">Gallipoli</location>. <person name="Murdoch">He</person> carried nothing for
@@ -2233,7 +2224,7 @@ I have reassured <person name="Tyyrell">Tyrrell</person>. Tittle-tattle will eff
 
 <p><person name="Lt._Moore">Lieutenant Moore</person> from the Military Secretary's office in <location city="London">London</location> dined.
 <person name="Moore">He</person> has been useful to us. During the night there was rain and heavy fog.
-The evacuation of <location bay="Suvla">Suvla</location> by the <unit type="Division">10th</unit> Division goes on without the
+The evacuation of <location bay="Suvla">Suvla</location> by the <unit type="division">10th</unit> Division goes on without the
 smallest hitch and is almost finished--all except the guns. Whether the
 Turks have fallen asleep or only closed an eye is the question of the
 hour but <person name="Cpt.Birdwood">Birdwood's</person> Intelligence are certain they are stone cold and
@@ -2257,7 +2248,7 @@ system cannot be fully developed, there the old ideas hold good and
 there are the theatres for the offensive. In <location country="France">France</location> and <location town="Flanders">Flanders</location> where
 both sides are within a few hours' run, on good railways, from their own
 chief arsenals and depôts the new system attains prodigious power. In
-the <location country="Turkey"><location country="Turkey">Turkish</location> Empire</location> almost all the conditions; railways, material,
+the <location country="Turkey">Turkish Empire</location> almost all the conditions; railways, material,
 factories, etc., are favourable to the old and unfavourable to the new
 conditions.</p>
 
@@ -2270,11 +2261,11 @@ getting through by the gate called strait.</p>
 
 <p>Next <person name="Walter_Braithwaite">Braithwaite</person> with the following electrical bombshell:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"By <person name="Bailloud">Bailloud</person>'s report I see that <person name="Ian_Hamilton">he</person> considers that the French line can
 be held by one division. If, on reconsideration, you agree with this
-view can you spare the <unit type="Division">LIIIrd</unit> Division?"</p>
+view can you spare the <unit type="division">LIIIrd</unit> Division?"</p>
 
 <p><person name="Herbert_Kitchener">Lord K.</person> has pounced like a hawk on <person name="Bailloud">Bailloud</person>'s statement (which I cabled to
 him yesterday) that <person name="Herbert_Kitchener">he</person> is taking steps for Brulard to hold the French
@@ -2282,12 +2273,12 @@ section with one division.</p>
 
 <p>Have answered:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(No. M.F. 703). From General Sir <person name="Ian_Hamilton">Ian Hamilton</person> to <person name="Herbert_Kitchener">Earl Kitchener</person>. Your
 No. 8409, cipher. Not one word of my No. M.F. 693 can I take back. The
 situation at Cape <location country="Greece">Helles</location> cannot be fully realized. May I remind you that
-when on 20th August I moved the <unit type="Division">XXIXth</unit> Division to <location bay="Suvla">Suvla</location>, I left at Cape
+when on 20th August I moved the <unit type="division">XXIXth</unit> Division to <location bay="Suvla">Suvla</location>, I left at Cape
 <location country="Greece">Helles</location> only the minimum garrison compatible with safety. Since that date
 the total <location country="England">British</location> troops there have decreased in strength from 15,300 to
 13,300 rifles, and now I am losing a French composite division which is
@@ -2295,10 +2286,10 @@ made up of the only troops of the Corps Expéditionnaire on whom I can
 rely, as well as 44 guns. It is my considered opinion that to leave
 protection of Cape <location country="Greece">Helles</location> to one division of Colonial troops, plus
 13,300 worn-out <location country="England">British</location> Territorials and Naval Volunteers, is running
-too serious a risk. To-day, therefore, I am moving one brigade of <unit type="Division">XXIXth</unit>
-Division back from <location bay="Suvla">Suvla</location> to reinforce <unit type="Corps">VIIIth</unit> Corps in order to have some
+too serious a risk. To-day, therefore, I am moving one brigade of <unit type="division">XXIXth</unit>
+Division back from <location bay="Suvla">Suvla</location> to reinforce VIIIth Corps in order to have some
 regular troops there on whom I can rely. This makes it impossible to
-spare the <unit type="Division">LIIIrd</unit> Division. The change of opinion on the part of
+spare the <unit type="division">LIIIrd</unit> Division. The change of opinion on the part of
 <person name="Bailloud">Bailloud</person>, when <person name="Bailloud">he</person> gets away from a position which I have found it
 difficult to persuade <person name="Bailloud">him</person> to hold with two divisions, and which <person name="Bailloud">he</person> now,
 as <person name="Herbert_Kitchener">you</person> say, thinks can be held with one division composed largely of
@@ -2310,7 +2301,7 @@ blacks, is startling enough to need no comment. If you want to get at
 French section after <person name="Bailloud">his</person> own departure with one division. It is as
 follows:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"'One division will then be defending our present line with an effective
 strength reduced by half, and with Infantry which comprises only
@@ -2324,8 +2315,8 @@ dealing with any situation.'</p>
 <p>"I believe this indicates <person name="Bailloud">Bailloud</person>'s real opinion; it is a curious
 contrast to that quoted in your No. 8409, cipher, dated 30th September."</p>
 
-<p>At 11.30 crossed to "K" and inspected the <unit type="Brigade">87th Brigade</unit> of the <unit type="Division">29th</unit>
-Division. <person name="Lucas">Lucas</person>, of the <unit type="Regiment">Berks Regiment</unit>, commanded. Saw the Border
+<p>At 11.30 crossed to "K" and inspected the <unit type="brigade">87th Brigade</unit> of the <unit type="division">29th</unit>
+Division. <person name="Lucas">Lucas</person>, of the <unit type="regiment">Berks Regiment</unit>, commanded. Saw the Border
 Regiment under Colonel Pollard; then the renowned Royal Inniskilling
 Fusiliers under <person name="Pierce">Major Pierce</person>, the full strength of the Battalion on
 parade "all present" was 220! Next the <person name="Herbert_Kitchener">Lord K.</person>O.S.B.s; they were under the
@@ -2337,19 +2328,19 @@ the campaign our rank and file have seemed sorry for themselves. Ten
 days of rest had been promised them and now they are being hurried back
 to the trenches before they have had a week. My heart goes out to them
 entirely. Were I they I would feel mad with me. The breaking of my word
-to the <unit type="Division">29th Division</unit> has to be shouldered by me just like all the other
+to the <unit type="division">29th Division</unit> has to be shouldered by me just like all the other
 results of this new Balkan adventure; the withdrawal of the <location country="Ireland">Irish</location> and
 the French for <location city="Salonika">Salonika</location> leaves no margin of rest for what's left.</p>
 
 <p>Inspected also the West Riding Field Company of Royal Engineers under
 <person name="Major_Bayley">Major Bayley</person>, and the West Lancashire Field Ambulance.</p>
 
-<p>A long letter from <person name="Maxwell">Maxwell</person> putting <person name="Maxwell">his</person> point of view about the <unit type="Brigade">51st</unit> and
-<unit type="Brigade">53rd Sikhs</unit>. Were we both sealed-pattern Saints we'd be bound to fall
+<p>A long letter from <person name="Maxwell">Maxwell</person> putting <person name="Maxwell">his</person> point of view about the <unit type="brigade">51st</unit> and
+<unit type="brigade">53rd Sikhs</unit>. Were we both sealed-pattern Saints we'd be bound to fall
 foul of one another working under so perverse a system. <person name="Maxwell">He</person> has written
 me very nicely; nothing could be nicer. I have replied by return:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"Yours of 24th just received. As to the wires about the 51st and 53rd
 between myself and the War Office, and your remarks thereon, we stand so
@@ -2394,7 +2385,7 @@ have represented the facts home, and it is for them to decide."</p>
 <entry>
 <p>_2nd October, 1915._ The despatch of the <location city="Salonika">Salonika</location> force and their outfit
 are absorbing all my energies. Our whole Expeditionary Force is being
-drawn upon to send the <unit type="Division">10th Division</unit> creditably turned out to the new
+drawn upon to send the <unit type="division">10th Division</unit> creditably turned out to the new
 theatre. The twenty-four hours' delay caused by the political crisis at
 <location city="Athens">Athens</location> has been a godsend in enabling me to reclothe and re-equip the
 detachment from top to toe. The supplies for my own force are now
@@ -2419,10 +2410,10 @@ down in our gamble with the Clerk of the Weather. Yet in that very
 moment when the burden of an intolerable anxiety had just been lifted
 from <person name="Herbert_Kitchener">his</person> shoulders <person name="Herbert_Kitchener">he</person> took the occasion to declare to me that <person name="Herbert_Kitchener">he</person> stood
 by every word <person name="Herbert_Kitchener">he</person> had said. What <person name="Herbert_Kitchener">he</person> "had said," was that any withdrawal
-from the <location strait="Dardanelles">Dardanelles</location> must react in due course upon Islam, and especially
+from the <location straits="Dardanelles">Dardanelles</location> must react in due course upon Islam, and especially
 upon <location country="Egypt">Egypt</location>. Cairo, <person name="Herbert_Kitchener">he</person> held to be the centre of the Mahomedan doctrine
 and the pivotal point of our great Mahomedan Imperium. An evacuation of
-the <location strait="Dardanelles">Dardanelles</location> would serve as an object lesson to <location country="Egypt">Egypt</location> just as our
+the <location straits="Dardanelles">Dardanelles</location> would serve as an object lesson to <location country="Egypt">Egypt</location> just as our
 blunders in the <location peninsula="Crimea">Crimea</location> had served as a motive to the <location country="India">Indian</location> mutineers.
 Ultimate success was not the point in either case. The point was that
 the legend of the invincibility of <location country="England">British</location> troops should be shattered in
@@ -2433,9 +2424,7 @@ paid!"--IAN H., 1920.]</p>
 </entry>
 
 
-<chapter n="21">CHAPTER XXI</chapter>
-
-<title>THE BEGINNING OF THE END</title>
+<chapter n="21" heading="The Beginning of the End">CHAPTER XXI</chapter>
 
 
 <entry>
@@ -2491,7 +2480,7 @@ Surely the cable message carries with it some deeper significance!</p>
 <p>I am grateful to old <person name="Herbert_Kitchener">Lord K.</person> <person name="Herbert_Kitchener">He</person> is trying to save me. <person name="Herbert_Kitchener">He</person> picked out
 <person name="Walter_Braithwaite">Braithwaite</person> himself. Not so long ago <person name="Herbert_Kitchener">he</person> cabled me in <person name="Herbert_Kitchener">his</person> eagerness to
 promote him to Major-General; <person name="Herbert_Kitchener">he</person> would not suggest substituting the
-industrious Kiggell if <person>he</person> didn't fear for me and for the whole of this
+industrious Kiggell if he didn't fear for me and for the whole of this
 enterprise.</p>
 
 <p><person name="Herbert_Kitchener">Lord K.</person> wants, so <person name="Herbert_Kitchener">he</person> says, "some important change"; that cannot mean, surely,
@@ -2522,17 +2511,17 @@ should change our minds.</p>
 
 <entry>
   <p>_5th October, 1915._ First thing another cable from <person name="Herbert_Kitchener">Lord K.</person> saying, "<person name="Herbert_Kitchener">I</person> think
-it well to let you know" that it is "quite understood by the <location strait="Dardanelles">Dardanelles</location>
+it well to let you know" that it is "quite understood by the <location straits="Dardanelles">Dardanelles</location>
 Committee that you are adopting only a purely defensive attitude at
 present." Also:--"<person name="Herbert_Kitchener">I</person> have no reason to imagine <person name="Ian_Hamilton">you</person> have any intention of
 taking the offensive anywhere along the line seeing <person name="Herbert_Kitchener">I</person> have been unable
 to replace your sick and wounded men." But, if <person name="Herbert_Kitchener">he</person> knows I _can't_ take
-the offensive, why trouble to cable me that the <location strait="Dardanelles">Dardanelles</location> Committee
+the offensive, why trouble to cable me that the <location straits="Dardanelles">Dardanelles</location> Committee
 expect me to adopt "only a purely defensive attitude"? I realize where
 we stand; <person name="Herbert_Kitchener">Lord K.</person>, <person name="Walter_Braithwaite">Braithwaite</person> and I,--on the verge. We are getting on for
 two months now since the August fighting--all that time we have been
 allowed to do nothing--literally, allowed to do nothing, seeing we have
-been given no shell. What a fiasco! The <location strait="Dardanelles">Dardanelles</location> is not a sanatorium;
+been given no shell. What a fiasco! The <location straits="Dardanelles">Dardanelles</location> is not a sanatorium;
 <location bay="Suvla">Suvla</location> is not Southend. With the men we have lost from sickness in the
 past six weeks we could have beaten the Turks twice over. Now Government
 seem to be about to damn everything--themselves included.</p>
@@ -2550,18 +2539,18 @@ refrained absolutely from interference with my plan of campaign or with
 the tactical execution thereof.</p>
 
 <p>But things are happening now which seem beyond belief. That the
-<location strait="Dardanelles">Dardanelles</location> Committee should complacently send me a message to say we
+<location straits="Dardanelles">Dardanelles</location> Committee should complacently send me a message to say we
 "quite understand that you are adopting only a purely defensive
 attitude at present" is staggering when put side by side with the carbon
 of this, the very last cable I have sent them. "I think you should know
-immediately that the numbers of sick evacuated in the <unit type="Corps">IXth Corps</unit> during
+immediately that the numbers of sick evacuated in the IXth Corps during
 the first three days of October were 500 men on the 1st instant; 735 men
 on the 2nd instant and 607 men on the 3rd instant. Were this rate kept
 up it would come to 45 per cent. of our strength evacuated in one
 month."</p>
 
 <p>Three quarters of this sickness is due to inaction--and now the
-<location strait="Dardanelles">Dardanelles</location> Committee "quite understand" I am "adopting only a purely
+<location straits="Dardanelles">Dardanelles</location> Committee "quite understand" I am "adopting only a purely
 defensive action at present." I have never adopted a defensive attitude.
 They have forced us to sit idle and go sick because--at the very last
 moment--they have permitted the French offensive to take precedence of
@@ -2590,7 +2579,7 @@ felt most grateful to <person name="Walter_Braithwaite">you</person> for <person
 
 <p>The plot thickens. A cable just come in from the S. of S. for War:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"The following statement has been made in letter to Prime Minister,
 <location country="Australia">Australia</location>, by Mr.<person name="Murdoch">Murdoch</person>: 'The fact is that after the first day at
@@ -2603,7 +2592,7 @@ truth or otherwise of this allegation."</p>
 <p>Mr.<person name="Murdoch">Murdoch</person> was not a war correspondent; <person name="Murdoch">he</person> is purely a civilian and
 could hardly have invented this "order" on <person name="Murdoch">his</person> own. No soldier could
 have told <person name="Murdoch">him</person> this. Someone not a soldier--someone so interested in
-discrediting the <location strait="Dardanelles">Dardanelles</location> Campaign that he does not scruple to do so
+discrediting the <location straits="Dardanelles">Dardanelles</location> Campaign that he does not scruple to do so
 even by discrediting our own troops must have put this invention about,
 _per_ <person name="Murdoch">Murdoch</person>. Doubtless we strike here upon the source of these
 "unofficial statements" which have been flowing into the War Office.
@@ -2628,11 +2617,11 @@ board. As we came into harbour the Turks gave us a shell or two from
 their field guns, then stopped. <person name="Titchfield">Young Titchfield</person>, the <person name="Duke_of_Portland">Duke of Portland's</person>
 son, met us at the beach and brought us along to <person name="Gen.Byng">Byng</person>'s Headquarters,
 where I met also de <person name="de_Lisle">Lisle</person> and <person name="Reed">Reed</person>. After hearing their news I started
-off with the whole band to make a tour of the trenches held by the <unit type="Brigade">88th</unit>
+off with the whole band to make a tour of the trenches held by the <unit type="brigade">88th</unit>
 Brigade, under <person name="General_Cayley">General Cayley</person>. On the way I was taken up to "Gibraltar"
 observation post to get a bird's-eye view of the line. Besides my old
-friends of the <unit type="Division">29th Division</unit> I saw some of the new boys, especially the
-<unit type="Battalion">1st Newfoundland Battalion</unit> under <person name="Colonel_Burton">Colonel Burton,</person> and the 2/1st Coy. of
+friends of the <unit type="division">29th Division</unit> I saw some of the new boys, especially the
+<unit type="battalion">1st Newfoundland Battalion</unit> under <person name="Colonel_Burton">Colonel Burton,</person> and the 2/1st Coy. of
 the <location town="London">London</location> Regiment. This was the Newfoundlanders' first day in the
 trenches and they were very pleased with themselves. They could not
 understand why they were not allowed to sally forth at once and do the
@@ -2662,14 +2651,14 @@ him very much.</p>
 
 <entry>
 <p>_6th October, 1915._ Left General Headquarters soon after 11 o'clock for
-<location country="Greece">Helles</location>, taking with me Aspinall and <person name="Freddie">Freddie</person>. Lunched with <person name="Davies">Davies</person> at <unit type="Corps">8th
-Corps</unit> Headquarters.</p>
+<location country="Greece">Helles</location>, taking with me Aspinall and <person name="Freddie">Freddie</person>. Lunched with <person name="Davies">Davies</person> at 8th
+Corps Headquarters.</p>
 
 <p>Afterwards rode across to Royal Naval Division and saw Paris. Then went
-with <person name="Bertie_Lawrence">Bertie Lawrence</person>, commanding <unit type="Division">52nd Division</unit>, to <person name="Bertie_Lawrence">his</person> lines. Our route
+with <person name="Bertie_Lawrence">Bertie Lawrence</person>, commanding <unit type="division">52nd Division</unit>, to <person name="Bertie_Lawrence">his</person> lines. Our route
 lay up <location heights="Achi Baba">Achi Baba</location> Nallah and along the trenches to the Horse Shoe; then
 along Princes Street trench up the Vineyard, and back along the Krithia
-Nallah to the Headquarters of the <unit type="Brigade">156th Brigade</unit>. There we mounted our
+Nallah to the Headquarters of the <unit type="brigade">156th Brigade</unit>. There we mounted our
 horses and rode back to Corps Headquarters. I brought <person name="Steward">Steward</person> back with
 me to dine and sleep the night. <person name="Colonel_Tyrrell">Colonel Tyrrell</person> and <person name="Major_Hunlokel">Major Hunloke</person>
 (King's Messenger) also dined.</p>
@@ -2689,7 +2678,7 @@ take it easy?</p>
 
 <entry>
 <p>_8th October, 1915. <location island="Imbros">Imbros</location>._ At 11 a.m. <person name="Ellison">Ellison</person>, <person name="Taylor">Taylor</person>, <person name="Gascoigne">Gascoigne</person> and
-<person name="Freddie">Freddie</person> sailed with me for <location cove="Anzac">Anzac</location>. There we lunched with the ascetic
+<person name="Freddie">Freddie</person> sailed with me for <location bay="Anzac">Anzac</location>. There we lunched with the ascetic
 <person name="Cpt.Birdwood">Birdie</person> and Staff off bully beef, biscuits and water. Then, the whole lot
 of us, together with <person name="de_Crespigny">de Crespigny</person>, <person name="Cpt.Birdwood">Birdie</person>'s Staff Officer, hurried five
 miles an hour down the communication trench to the Headquarters of the
@@ -2700,11 +2689,11 @@ very good fettle, and it would have been hard to find a finer lot of
 men. Taking leave of the 2nd Lovat Scouts, we worked along the trenches
 of the Fife and Forfar Yeomanry, under Colonel <person name="Mitchell">Mitchell</person>, until we came
 to the 1st Lovat Scouts under <person name="Colonel_Bailey">Colonel Bailey.</person> <person name="Lovat">Lovat</person> himself was sick,
-but <person name="Peyton">Peyton</person> commanding the <unit type="Division">2nd Mounted Division</unit> turned up just when the
+but <person name="Peyton">Peyton</person> commanding the <unit type="division">2nd Mounted Division</unit> turned up just when the
 inspection was at an end. <person name="Peyton">He</person> had got lost in the trenches, or we had.
 Next time the way was lost there was no mistake as to who had made the
 mistake. <person name="Cpt.Birdwood">Birdie</person> and I were pushing along as fast as we could leg it back
-towards <location cove="Anzac">Anzac</location>. In the maze of trenches we came to a dividing of the
+towards <location bay="Anzac">Anzac</location>. In the maze of trenches we came to a dividing of the
 ways. Two jolly old Sikhs were sitting at the junction. I asked if the
 road to the left led to the Headquarters of the <location country="India">Indian</location> Brigade. They
 said, "Yes," so on we went, I leading, <person name="Cpt.Birdwood">Birdie</person> following. The trench got
@@ -2739,7 +2728,7 @@ the double insult to their men and to themselves.</p>
 
 <p>Have cabled accordingly:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"(No. M.F.A.B. 4491). From General Sir <person name="Ian_Hamilton">Ian Hamilton</person> to Secretary of
 State for War. With reference to your No. 8554 M.O. 414 of the 5th inst.
@@ -2756,11 +2745,11 @@ A lot of damage was done last night to the Anzac piers, two of them
 being clean washed away. Peter Pollen is off colour. <person name="Freddie">Freddie</person> and I dined
 on board the _<location ship="H.M.S. Triad">Triad</location>_.</p>
 
-<p>Whilst at dinner got full reports both from <location bay="Suvla">Suvla</location> and <location cove="Anzac">Anzac</location> as to the
+<p>Whilst at dinner got full reports both from <location bay="Suvla">Suvla</location> and <location bay="Anzac">Anzac</location> as to the
 effects of the storm. The southerly gale, which not only washed away the
-piers but sunk the water lighters at <location cove="Anzac">Anzac</location>, has done no harm at <location bay="Suvla">Suvla</location>
+piers but sunk the water lighters at <location bay="Anzac">Anzac</location>, has done no harm at <location bay="Suvla">Suvla</location>
 except that three motor lighters have been driven ashore. The Admiral is
-clear that, during southerly gales we shall have to supply both <location cove="Anzac">Anzac</location>
+clear that, during southerly gales we shall have to supply both <location bay="Anzac">Anzac</location>
 and <location bay="Suvla">Suvla</location> by the new pier just north of Ari Burnu. The promontory is
 small but last night it gave complete protection to everything in its
 lea. By sinking an old ship we can turn Ari Burnu into quite a decent
@@ -2775,11 +2764,11 @@ in company with <person name="Jimmy_Watson">Jimmy Watson</person> and <person na
 Headquarters where we had a fine lunch with <person name="Davies">Davies</person>, <person name="de_Rougemont">de Rougemont</person> and the
 melancholy <person name="Yarr">Yarr</person>. Afterwards rode across to the Headquarters of the
 Royal Naval Division and on to their trenches, some 3-1/2 miles.
-<person name="General_Mercer">Generals Mercer</person> and <person name="General_Paris">Paris</person> followed us through their trenches. The <unit type="Battalion">Hood</unit>
-and <unit type="Battalion">Hawke Battalions</unit> were in the firing line where we talked to great
+<person name="General_Mercer">Generals Mercer</person> and <person name="General_Paris">Paris</person> followed us through their trenches. The <unit type="battalion">Hood</unit>
+and <unit type="battalion">Hawke Battalions</unit> were in the firing line where we talked to great
 numbers of old comrades of all ranks. Glad to meet <person name="Fredyberg">Freyberg</person> again (the
-man who swam to light the flares at Enos). <person name="Kelly">Kelly</person> of the <unit type="Battalion">Hood Battalion</unit>
-too, I saw, and <person name="Fairfax">Fairfax</person> of the <unit type="Battalion">Hawke</unit>, also <person name="Commander_King">Commander King</person> of the <unit type="Battalion">Drake
+man who swam to light the flares at Enos). <person name="Kelly">Kelly</person> of the <unit type="battalion">Hood Battalion</unit>
+too, I saw, and <person name="Fairfax">Fairfax</person> of the <unit type="battalion">Hawke</unit>, also <person name="Commander_King">Commander King</person> of the <unit type="battalion">Drake
 Battalion</unit> and <person name="Burrows">Burrows</person>, a gunner who was running a bombing school with
 much zeal on a piece of ground specially patronized by the Turks as a
 target for their own shelling practice. Got back to <location country="Greece">Helles</location> by the Saghur
@@ -2792,7 +2781,7 @@ Clifton-Browne</person>, an officer whose command I had inspected both at
 <location town="Potchefstroom">Potchefstroom</location> and near <location town="Canterbury">Canterbury</location>, with a Brigade of West and East Kent
 and Sussex Yeomen. They made a brave showing, but <person name="Clifton-Browne">he</person> tells me some of
   them have caught this wretched enteritis already. Amongst others, I
-spoke to <person name="Douglas">Douglas</person>, commanding the <unit type="Division">East Lancashire Division</unit>, <person name="Major_Edwards">Major Edwards</person>
+spoke to <person name="Douglas">Douglas</person>, commanding the <unit type="division">East Lancashire Division</unit>, <person name="Major_Edwards">Major Edwards</person>
 of the Sussex Yeomanry, <person name="Sir_S._Scott">Major Sir S. Scott</person> and <person name="Colonel_Whitburn">Colonel Whitburn</person> of the
 West Kent Yeomanry, Colonel Lord Guilford, East Kent Yeomanry. A
 cheerier crowd no one could wish to meet. If these are the type of men
@@ -2802,7 +2791,7 @@ rode part of the way back with us.</p>
 
 <p>After all this hard exercise, got back to the <location ship="H.M.S. Arno">_Arno_</location> in a lather of
 sweat about 6 o'clock carrying <person name="Davies">Davies</person> with me. <person name="Leslie_Wilson">Leslie Wilson</person>, commanding
-the <divsion type="Hawke Battalion">Hawke Battalion</divsion>, had gone sick to-day, so sent <person name="Leslie_Wilson">him</person> a telegram after
+the <unit type="division">Hawke Battalion</unit>, had gone sick to-day, so sent <person name="Leslie_Wilson">him</person> a telegram after
 dinner to the Hospital ship _Somali_, telling <person name="Leslie_Wilson">him</person> <person name="Leslie_Wilson">his</person> trenches had been
 found in apple-pie order.</p>
 </entry>
@@ -2838,7 +2827,7 @@ the most careful manner?</p>
 <p>"In <person name="Ian_Hamilton">your</person> reply <person name="Ian_Hamilton">you</person> need not consider the possible future danger to the
 <location country="England">Empire</location> that might be thus caused."[15]</p>
 
-<p>If they do this they make the <location strait="Dardanelles">Dardanelles</location> into the bloodiest tragedy of
+<p>If they do this they make the <location straits="Dardanelles">Dardanelles</location> into the bloodiest tragedy of
 the world! Even if we were to escape without a scratch, they would stamp
 our enterprise as the bloodiest of all tragedies! <person name="Herbert_Kitchener">Lord K.</person> has always sworn by
 all <person name="Herbert_Kitchener">his</person> Gods <person name="Herbert_Kitchener">he</person> would have no hand in it. I won't touch it, and I think
@@ -2860,7 +2849,7 @@ is to say. My troops can sail back to <location country="Egypt">Egypt</location>
 Turks--or the Senoussi for that matter--can march to the Canal.</p>
 
 <p>In the same cable the S. of S. asks what is the cause of the sick rate
-and remarks that, "some accounts from the <location strait="Dardanelles">Dardanelles</location> indicate that the
+and remarks that, "some accounts from the <location straits="Dardanelles">Dardanelles</location> indicate that the
 men are dispirited." Small wonder if they were! When they see two
 Divisions taken away from the <location peninsula="Gallipoli">Peninsula</location>; when their guns can't answer
 those of the enemy; when each unit finds itself half-strength, and
@@ -2869,9 +2858,9 @@ through till next year, they _ought_ to be unhappy. But the funny thing
 is that the Cabinet, the Secretaries of State, are the people who are
 "dispirited" and _not_ the people out here. If the P.M. could walk round
 the trenches of the Naval Division at <location country="Greece">Helles</location>, or if <person name="Herbert_Kitchener">Lord K.</person> could exchange
-greetings with the rank and file at <location cove="Anzac">Anzac</location> and <location bay="Suvla">Suvla</location>, they would find a
+greetings with the rank and file at <location bay="Anzac">Anzac</location> and <location bay="Suvla">Suvla</location>, they would find a
 sovereign antidote for the blues and would realize that it was they who
-were down-hearted and _not_ the men at the <location strait="Dardanelles">Dardanelles</location>. There was an
+were down-hearted and _not_ the men at the <location straits="Dardanelles">Dardanelles</location>. There was an
 old French Colonel, killed at Gravelotte; he had studied the classic
 world battles and he shows that it was never the front line who gave way
 first, but always the reserves:--they, the reserves, watched bloodshed
@@ -2892,7 +2881,7 @@ message sent to <person name="Walter_Braithwaite">Braithwaite</person> for me by
 I possessed <person name="Fitz">his</person> fullest confidence. The change of manner was marked and
 <person name="Dawnay">Dawnay</person> is sure <person name="Dawnay">he</person> made no mistake about it. But nothing has happened
 since the date of <person name="Dawnay">Dawnay</person>'s arrival and departure save a very well
-engineered withdrawal of the <unit type="Division">10th</unit> and the French Divisions for which, in
+engineered withdrawal of the <unit type="division">10th</unit> and the French Divisions for which, in
 point of fact, we have all been rather expecting congratulations. <person name="Dawnay">Dawnay</person>
 thinks some queer things are happening. <person name="Dawnay">He</person> could--or would--say nothing
 more.</p>
@@ -2951,22 +2940,22 @@ see that if they are feeling the economic pinch of keeping their side of
 the show in being, the Turks, much weaker economically, must be feeling
 it much more--!</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>It was a relief to get this perilous stuff off my chest, and in a
-brighter frame of mind, sailed for <location cove="Anzac">Anzac</location> on the destroyer <location ship="H.M.S. Lewis">_Lewis_.</location> We
+brighter frame of mind, sailed for <location bay="Anzac">Anzac</location> on the destroyer <location ship="H.M.S. Lewis">_Lewis_.</location> We
 took biscuits and bully beef with us but the hospitable sailors insisted
 on regaling us with a hot meal. Sat in cabin all the way as usual
 writing up my record. <person name="Freddie">Freddie</person> tells me that these studious habits of
 mine have started the shave that I spend my time composing poetry,
 especially during our battles!</p>
 
-<p>At <location cove="Anzac">Anzac</location> <person name="Cpt.Birdwood">Birdwood</person> took us round the trenches and underground passages
-about <person name="Russell">Russell</person>'s Top and Turk's Head, held by the <divsion type="5th Brigade">5th Brigade</divsion>, <unit type="Division">2nd</unit>
-Division, under <person name="Legge">Legge</person>. Half way up to <person name="Russell">Russell</person>'s Top was the <unit type="Battery">3rd Battery</unit>
+<p>At <location bay="Anzac">Anzac</location> <person name="Cpt.Birdwood">Birdwood</person> took us round the trenches and underground passages
+about <person name="Russell">Russell</person>'s Top and Turk's Head, held by the <unit type="division">5th Brigade</unit>, <unit type="division">2nd</unit>
+Division, under <person name="Legge">Legge</person>. Half way up to <person name="Russell">Russell</person>'s Top was the 3rd Battery
 <location country="Australia">Australia</location> Field Artillery:--talked with Major King, the C.O. Next unit
-was the <unit type="Battalion">20th Infantry Battalion</unit> under <person name="Major_Fitzgerald">Major Fitzgerald.</person> <person name="Colonel_Holmes">Colonel Holmes,</person>
-commanding the <unit type="Brigade">5th Infantry Brigade,</unit> and <person name="Wilson">Wilson</person>, <person name="Wilson">his</person> Brigade Major, took
+was the <unit type="battalion">20th Infantry Battalion</unit> under <person name="Major_Fitzgerald">Major Fitzgerald.</person> <person name="Colonel_Holmes">Colonel Holmes,</person>
+commanding the <unit type="brigade">5th Infantry Brigade,</unit> and <person name="Wilson">Wilson</person>, <person name="Wilson">his</person> Brigade Major, took
 us through their cave dwellings. Ex-westerners say that in <location country="France">France</location> they
 have nothing to touch these <location country="Australia">Australia</location> tunnellings. In one place they
 are boring into a crater only 20 feet from the <location country="Turkey">Turkish</location> trench. There is
@@ -2981,7 +2970,7 @@ going to chip off the whole upper crust of earth, and when light dawns
 the Turks will find a well equipped trench, every loophole manned,
 within bombing range of their own line.</p>
 
-<p>Other notables met with were <person name="Major_Murphy">Major Murphy</person> of the <unit type="Battalion">20th Infantry
+<p>Other notables met with were <person name="Major_Murphy">Major Murphy</person> of the <unit type="battalion">20th Infantry
 Battalion</unit>, <person name="Major_Anderson">Major Anderson</person> (an old friend) commanding the <location country="Australia">Australia</location>
 Field Artillery, and <person name="Cpt.Perry_Oakdene">Captain Perry Oakdene</person>, the Engineer Officer on the
 job. Saw <person name="Cpt.Birdwood">Birdie</person> and returned in the destroyer about 6.30. The day had
@@ -3058,7 +3047,7 @@ the heart of the Balkans, the result of which it is very difficult to
 foresee."</p>
 
 <p><person name="Godley">Godley</person> dined. <person name="Cpt.Davidson">Captain Davidson</person>, R.N., the Senior Naval Officer in
-harbour now, is a real Godsend. <person>He</person> looks after us as if we were Admirals
+harbour now, is a real Godsend. He looks after us as if we were Admirals
 of the Fleet.</p>
 
 <p>Have now read, marked, learnt and inwardly indigested <person name="Callwell">Callwell</person>'s
@@ -3168,7 +3157,7 @@ hearty and well. Meanwhile, they have turned to winged limpets.</p>
 
 <p>Being Mail day as well as rough, stuck to camp. My friend <location country="England">England</location> sailed
 into harbour in the <location ship="H.M.S. Chelmer">_Chelmer_</location> and came up to lunch. In the evening he
-took <person name="Godley">Godley</person> back to <location cove="Anzac">Anzac.</location> <person name="Duncannon">Duncannon</person> came to dinner. I have made him
+took <person name="Godley">Godley</person> back to <location bay="Anzac">Anzac.</location> <person name="Duncannon">Duncannon</person> came to dinner. I have made him
 liaison officer with the French in place of de Putron who has gone to
 <location city="Salonika">Salonika</location> with <person name="Bailloud">Bailloud</person>.</p>
 
@@ -3263,7 +3252,7 @@ is in my possession."</p>
 <p>"Dear Sir,</p>
 
 <p>"On the advice of Brigadier-General <person name="Legge">Legge</person> <person name="Murdoch">I</person> beg to request permission to
-visit <location cove="Anzac">Anzac.</location></p>
+visit <location bay="Anzac">Anzac.</location></p>
 
 <p>"I am proceeding from <location town="Melbourne">Melbourne</location> to <location city="London">London</location> to take up the position of
 managing editor of the <location country="Australia">Australia</location> news cable service in connection with
@@ -3362,17 +3351,17 @@ the emphasis laid by the writer upon <person name="Murdoch">his</person> accepta
 and so I took upon myself to exceed my powers and asked <person name="Walter_Braithwaite">Braithwaite</person> to
 cable to Mr.<person name="Murdoch">Murdoch</person>:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"This cable is your authority to come to G.H.Q. at once whence you will
-be sent to <location cove="Anzac">Anzac</location>.</p>
+be sent to <location bay="Anzac">Anzac</location>.</p>
 
 <p>  C.G.S., Medforce."</p>
 
 <p>Mr.<person name="Murdoch">Murdoch</person> landed on the 2nd instant and on that date signed the
 following declaration:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>DECLARATION TO BE USED BY WAR CORRESPONDENTS.</p>
 
@@ -3395,7 +3384,7 @@ for censorship and passed for publication by him.</p>
 
 <p>(_Signature of Correspondent_)................</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 </entry>
 
 <entry>
@@ -3444,7 +3433,7 @@ other strange and half-forgotten antique images. Then I fell asleep.</p>
 bow-string. I got <person name="Herbert_Kitchener">Lord K.</person>'s message pat in my dreams last night and here it
 is, to a word, in black and white:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>"The War Council held last night decided that though the Government
 fully appreciate your work and the gallant manner in which you
@@ -3456,7 +3445,7 @@ opportunity of seeing you."</p>
 <p>How far we have travelled, in spirit, since <person name="Herbert_Kitchener">Lord K.</person> sent me <person name="Herbert_Kitchener">his</person> September
 greetings with spontaneous assurances of complete confidence! Yet, since
 then, on the ground, I have not travelled at all--have indeed been under
-the order of the <location strait="Dardanelles">Dardanelles</location> Committee to stand still.</p>
+the order of the <location straits="Dardanelles">Dardanelles</location> Committee to stand still.</p>
 
 <p><person name="Charles_Munro">Charles Munro</person> is to relieve me and brings with him a Chief of Staff who
 will take <person name="Walter_Braithwaite">Braithwaite</person>'s place. On my way back I "might visit <location city="Salonika">Salonika</location>
@@ -3482,7 +3471,7 @@ Roberts</person>, had revolutionized the whole system of <location country="Engl
 went there.</p>
 
 <p><person name="Charles_Munro">He</person> was born with another sort of mind from me. Had <person name="Charles_Munro">he</person> been sent out here
-in the first instance <person name="Charles_Munro">he</person> would never have touched the <location strait="Dardanelles">Dardanelles</location>, and
+in the first instance <person name="Charles_Munro">he</person> would never have touched the <location straits="Dardanelles">Dardanelles</location>, and
 people who have realized so much may conclude <person name="Charles_Munro">he</person> will now clear out. But
 it does not follow. <person name="Charles_Munro">Munro</person>'s refusal to attempt a landing in the first
 instance would have served as the foundation stone for some totally
@@ -3587,7 +3576,7 @@ course--threading in and out amongst the warships at anchor. Each as we
 passed manned ship and sent us on our way with the cheers of brave men
 ringing in our ears.</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>FAREWELL ORDER BY GENERAL SIR IAN HAMILTON.</p>
 
@@ -3616,7 +3605,7 @@ confidence they will achieve."</p>
 <p>[Footnote 14: I think I hardly knew _how_ often till I came to read
 through my diary in cold print. But all the time I was conscious, and am
 still more so now, of <person name="Herbert_Kitchener">Lord K.</person>'s greatness. Still more so now because, when I
-compare him with <person name="Herbert_Kitchener">his</person> survivors, they seem measurable, <person>he</person> remains
+compare him with <person name="Herbert_Kitchener">his</person> survivors, they seem measurable, he remains
 immeasurable.</p>
 
 <p>I wish very much I could make people admire <person name="Herbert_Kitchener">Lord K.</person> understandingly. To
@@ -3626,9 +3615,9 @@ same. Lord Fisher gives fresh currency to the fable that <person name="Herbert_K
 organizer. <person name="Herbert_Kitchener">Lord K.</person> hated organization with all <person name="Herbert_Kitchener">his</person> primitive heart and soul,
 because it cramped <person name="Herbert_Kitchener">his</person> style.</p>
 
-<p><person name="Herbert_Kitchener">Lord K.</person> was an individualist. <person>He</person> was a Master of Expedients; the greatest
+<p><person name="Herbert_Kitchener">Lord K.</person> was an individualist. He was a Master of Expedients; the greatest
 probably the world has ever seen. Whenever <person name="Herbert_Kitchener">he</person> saw _any_ organization <person name="Herbert_Kitchener">his</person>
-inclination was to smash it, and often--but not always--<person>he</person> was right.
+inclination was to smash it, and often--but not always--he was right.
 This may sound odd in Anglo-Celtic ears. But most <location country="England">British</location> organizations
 are relics of the past. They are better smashed than patched, and <person name="Herbert_Kitchener">Lord K.</person>
 loved smashing.--IAN H., 1920.]</p>
@@ -3637,7 +3626,7 @@ loved smashing.--IAN H., 1920.]</p>
 obscure unless I make it clear. As explained in a previous footnote,
 <person name="Herbert_Kitchener">Lord K.</person>knew that I knew <person name="Herbert_Kitchener">his</person> strong personal view that the smashing blow
 to our military reputation which would be caused by an evacuation of the
-<location strait="Dardanelles">Dardanelles</location> must, in course of time, imperil our hold upon <location country="Egypt">Egypt</location>.
+<location straits="Dardanelles">Dardanelles</location> must, in course of time, imperil our hold upon <location country="Egypt">Egypt</location>.
 Therefore, for the moment, it was necessary to warn me that the problem
 must be considered in the purely military, tactical, aspect.--IAN H.
 1920.]</p>
@@ -3650,7 +3639,7 @@ marginal comment.--IAN H., 1920.]</p>
 
 
 
-<appendix>APPENDIX I</appendix>
+<p>APPENDIX I</p>
 
 <p>STATEMENT ON ARTILLERY BY BRIGADIER GENERAL SIR HUGH SIMPSON BAIKIE,
 EX-COMMANDER OF THE BRITISH ARTILLERY AT CAPE HELLES.</p>
@@ -3703,7 +3692,7 @@ H.E., but I am not sure.</p>
 <p>The fact that does remain indelibly impressed on my mind is that I am
 convinced from the cables that passed through my office that no
 provision had been made by the War Office to keep up a regular supply of
-artillery ammunition to the <location strait="Dardanelles">Dardanelles</location> Expedition. The W.O. authority
+artillery ammunition to the <location straits="Dardanelles">Dardanelles</location> Expedition. The W.O. authority
 appeared to have given a bonus of ammunition when the Expedition sailed,
 and to have been somewhat taken aback and annoyed by the fact that a
 sure and continuous supply should afterwards be demanded.</p>
@@ -3748,7 +3737,7 @@ the Western Front also, but never, I believe, had Infantry to attack
 with so little artillery support as the above. My position in <location country="France">France</location> did
 not give me any inside knowledge of the details of artillery supply, but
 in one action at St. Eloi (near Ypres) on 14th or 15th February, in
-which only <unit type="Division">27th Division</unit> was concerned, the artillery of this Division
+which only <unit type="division">27th Division</unit> was concerned, the artillery of this Division
 (so the C.R.A. informed me) alone fired 10,000 18-pr. rounds in one
 night. At a similar action at the same place by the same division about
 a month later the divisional artillery fired, I believe, a slightly
@@ -3758,7 +3747,7 @@ worked out to 150 rounds per 18-pr. gun. These official figures were
 shown me a few days after the battle by the G.O.C., 2nd Army.</p>
 
 <p>In comparing the ammunition expenditure of <location country="France">France</location> in 1915 and in the
-<location strait="Dardanelles">Dardanelles</location>, the enormous discrepancy in the number of 18-prs. per
+<location straits="Dardanelles">Dardanelles</location>, the enormous discrepancy in the number of 18-prs. per
 Division must be taken into account. Reckoning on the scale of the
 number of 18-prs. allotted to a <location country="England">British</location> Division in <location country="France">France</location>, we had at
 <location country="Greece">Helles</location> little more than sufficient 18-prs. for one Division, yet with
@@ -3788,18 +3777,18 @@ General and his Staff, with all of whom I was great friends.</p>
 
 <p>At the battle of 28th June the French were unable to spare us the
 howitzers or ammunition we begged of them. The failure of the gallant
-<unit type="Brigade">156th</unit> Brigade of the <unit type="Division">52nd Division</unit> to take the H.12 trenches was
+<unit type="brigade">156th</unit> Brigade of the <unit type="division">52nd Division</unit> to take the H.12 trenches was
 essentially due to lack of artillery ammunition, especially of H.E.
 Allowing for losses that must have been suffered under any condition, I
 believe that some 700 or 800 Scottish casualties were due to this cause.
-Before the action the Corps Commander sent for me to say that <person>he</person> did not
+Before the action the Corps Commander sent for me to say that he did not
 consider that enough guns and ammunition had been allotted to this
 portion of the <location country="Turkey">Turkish</location> trenches. I replied that I agreed, but that there
 were no more available and that to reduce the bombardment of the
 hostile trenches on the left of our front would gravely prejudice the
-success of the <unit type="Division">29th Division</unit> in that quarter and that I understood
+success of the <unit type="division">29th Division</unit> in that quarter and that I understood
 success there was more vital than on our right flank. After consultation
-with the G.O.C. <unit type="Division">29th Division</unit>, the Corps Commander agreed with my
+with the G.O.C. <unit type="division">29th Division</unit>, the Corps Commander agreed with my
 allotment of the artillery. We then did our utmost to obtain the loan of
 more guns, howitzers or ammunition from the French without success and
 with the result that the attack was beaten off.</p>
@@ -3812,11 +3801,11 @@ bombardment from every gun and howitzer we possessed. All artillery
 arrangements for this were completed before 2.30 p.m., from which hour
 all the guns waited alert and ready for the Infantry to inform us of the
 hour they wished us to commence fire. I was in direct telephonic
-communication with the commander of the <unit type="Division">52nd Division</unit>, having had a
+communication with the commander of the <unit type="division">52nd Division</unit>, having had a
 private wire laid on to his Headquarters the previous day. Suddenly, to
 my horror, I received a telephone message from my Artillery Group
 Commander, Colonel Stockdale, saying the Infantry were making the
-assault and that <person>he</person> had no time to do more than fire half a dozen shots!</p>
+assault and that he had no time to do more than fire half a dozen shots!</p>
 
 <p>In the attacks of 12th and 13th July, the French placed some thirty or
 forty guns and howitzers under <location country="England">British</location> command, and on account of the
@@ -3848,7 +3837,7 @@ successfully accomplished after two days' delay.</p>
 
 <p>During June two Batteries, and during July two more Batteries of 5-inch
 howitzers, manned by Territorials, arrived at <location country="Greece">Helles</location>. During the last
-week of July the first two Batteries were sent to <location cove="Anzac">Anzac.</location> Some of these
+week of July the first two Batteries were sent to <location bay="Anzac">Anzac.</location> Some of these
 howitzers were very old and worn by corrosion, and were consequently
 inaccurate.</p>
 
@@ -3869,7 +3858,7 @@ ammunition!</p>
 <p>On another occasion, when we were in the greatest straits for 15-pr.
 ammunition, many hundreds of rounds arrived at <location country="Greece">Helles</location>, which on being
 landed were discovered by my Staff only to be suitable for the Ehrhardt
-R.H.A. guns in <location country="Egypt">Egypt</location>, no such guns being in the <location strait="Dardanelles">Dardanelles</location>.</p>
+R.H.A. guns in <location country="Egypt">Egypt</location>, no such guns being in the <location straits="Dardanelles">Dardanelles</location>.</p>
 
 <p>As for heavy artillery, practically speaking, there was none! Only one
 6-inch Howitzer Battery (4 howitzers) and one 60-pr. Battery (4 guns)
@@ -3903,7 +3892,7 @@ for days short of guns on account of the lack of spare parts.</p>
 
 <p>When I assumed command of the artillery at <location country="Greece">Helles</location>, there were two
 Batteries of mountain guns (10-prs.) in action, but they were of a
-prehistoric pattern. In 1899 the Khedive of <location country="Egypt">Egypt</location> possessed in <person>his</person> Army,
+prehistoric pattern. In 1899 the Khedive of <location country="Egypt">Egypt</location> possessed in his Army,
 in which I was then serving, mountain guns which were more up-to-date in
 every respect. So inaccurate were these 10-prs. that they had to be
 placed close behind the front trenches lest they should hit our own
@@ -3921,7 +3910,7 @@ possess almost as few aeroplanes as the <location country="England">British</loc
 
 <p>In no point of their equipment did the force at <location country="Greece">Helles</location> suffer so much in
 comparison with their comrades in <location country="France">France</location> as in the matter of aeroplanes
-which, at the <location strait="Dardanelles">Dardanelles</location>, were hopelessly deficient not only in the
+which, at the <location straits="Dardanelles">Dardanelles</location>, were hopelessly deficient not only in the
 numbers but also in quality. There were not sufficient pilots and there
 were no observers at all. Brave and efficient as the naval pilots were,
 they could not be expected to be of any use as artillery spotters unless
@@ -3984,7 +3973,7 @@ shells without range tables. These serious faults provoked their own
 penalties in the shape of the heavy losses suffered by our Infantry and
 artillery, which might have been to a great measure averted if
 sufficient forethought and attention had been devoted to the "side-show"
-at the <location strait="Dardanelles">Dardanelles</location>.</p>
+at the <location straits="Dardanelles">Dardanelles</location>.</p>
 
 <p>After commanding the starved artillery at <location country="Greece">Helles</location> it was my good fortune
 to command the artillery of the 21st Army Corps at the third Battle of
@@ -4033,7 +4022,7 @@ gun positions were discovered.</p>
 course, been vastly extended and perfected since <location peninsula="Gallipoli">Gallipoli</location> days, but the
 point I wish to make is this: that in 1917 and 1918 the Palestine Front
 was fitted out on the same scale, proportionately, as the Western Front;
-whereas in 1915 this was not the case in the <location strait="Dardanelles">Dardanelles</location> as regards
+whereas in 1915 this was not the case in the <location straits="Dardanelles">Dardanelles</location> as regards
 artillery, for instance, only one Division (the 29th) at <location country="Greece">Helles</location> having
 18-pr. guns and the Naval Division having been given no artillery at
 all!</p>
@@ -4116,7 +4105,7 @@ tragedies, but was also one of <location country="England">England</location>'s 
 
 
 
-<appendix>APPENDIX II</appendix>>
+<p>APPENDIX II</p>
 
 <p>DARDANELLES EXPEDITION</p>
 
@@ -4160,7 +4149,7 @@ disembarkation of guns. Colonel Johnstone, however, by this time had one
 be landed and it was brought into action close to the beach against guns
 at Gaba Tepe, undoubtedly temporarily silencing them.</p>
 
-<p>In the meantime the Indian <unit type="Battery">Mountain Battery</unit> attached to <unit type="Division">1st Australia
+<p>In the meantime the Indian Mountain Battery attached to <unit type="division">1st Australia
 Division</unit>, which had landed early in the day, was in action doing
 splendid work though suffering severe casualties.</p>
 
@@ -4191,17 +4180,17 @@ Headquarters personnel worked untiringly in preparing a track from the
 beach to the selected sites for guns, and it was not till 5.30 a.m. on
 26th that I learned approval to land guns had been cancelled overnight.</p>
 
-<p>During the morning of 26th April one gun of <unit type="Battery">1st Battery</unit>, 1st Brigade,
-and one gun of <unit type="Battery">4th Battery</unit>, 2nd Brigade, were landed, hauled up the
+<p>During the morning of 26th April one gun of 1st Battery, 1st Brigade,
+and one gun of 4th Battery, 2nd Brigade, were landed, hauled up the
 steep hill to their positions, and came into action on the extreme right
 of ridge overlooking Gaba Tepe.</p>
 
-<p>Later in the day the <unit typ="Battery"> 7th Battery</unit> of my Brigade came into action on the
+<p>Later in the day the 7th Battery of my Brigade came into action on the
 same ridge and the single guns of 1st and 4th Batteries were withdrawn
 for return to their respective Brigades.</p>
 
 <p>During the afternoon there also came ashore, apparently without order,
-  two guns of <unit typ="Battery">3rd Battery</unit>, 1st Brigade, and <unit typ="Battery">8th Battery</unit>, 3rd Brigade, but
+  two guns of 3rd Battery, 1st Brigade, and 8th Battery, 3rd Brigade, but
 were returned to their respective ships by the C.R.A.</p>
 
 <p>My guns were placed absolutely in the Infantry front trenches, on the
@@ -4224,7 +4213,7 @@ hand to the guns over a bullet-swept area, the distance from the beach
 to the guns being about half a mile, while in this distance the hills
 rose 400 feet.</p>
 
-  <p>By the afternoon of the 3rd May, two guns of <unit typ="Battery">8th Battery</unit>, 3rd Brigade,
+  <p>By the afternoon of the 3rd May, two guns of 8th Battery, 3rd Brigade,
 were in action, and 2nd Brigade also had guns in position on the left
 flank of 1st <location country="Australia">Australia</location> Divisional Front.</p>
 
@@ -4252,7 +4241,7 @@ right flank to deal with innumerable targets beyond the range of
 gun arrived, and was placed in position on right flank, firing its first
 round on 26th July.</p>
 
-  <p>On 24th June a Scottish Territorial Howitzer Battery (the <unit typ="Battery">5th Battery</unit>,
+  <p>On 24th June a Scottish Territorial Howitzer Battery (the 5th Battery,
 City of Glasgow Lowland Howitzer Brigade) arrived and came under my
 command.</p>
 
@@ -4263,7 +4252,7 @@ ammunition was still very scarce.</p>
 <p>On 15th July a 5-inch Howitzer Brigade under Colonel Hope Johnstone
 commenced to arrive and was complete in position by 18th July.</p>
 
-  <p>On 28th July the <unit typ="Battery">4th Battery</unit> of Lowland Brigade arrived.</p>
+  <p>On 28th July the 4th Battery of Lowland Brigade arrived.</p>
 
 <p>About this time some alterations were made in artillery dispositions and
 grouping in preparation for impending battle at <location bay="Suvla">Suvla</location> Bay and Lone Pine,
@@ -4354,7 +4343,7 @@ D.S.O.--IAN H. 1920.]</p>
 
 
 
-<appendix>APPENDIX III</appendix>
+<p>APPENDIX III</p>
 
 
 <p>The Dispatch of a Commander-in-Chief is not a technical document. In it
@@ -4369,8 +4358,8 @@ European and Japanese capitals set to work in a scientific spirit to
 apportion praise or blame they are more influenced by the actual
 instructions and orders issued by the Commander-in-Chief _before and
 during the battle_, than by any after-the-event stories of what
-happened. They are glad to know the intentions of the Commander, but <person>his</person>
-instructions i.e., the actual steps <person>he</person> took to give practical effect to
+happened. They are glad to know the intentions of the Commander, but his
+instructions i.e., the actual steps he took to give practical effect to
 those intentions, are what really interest them.</p>
 
 <p>When I came to write my Dispatch of the 11th December, so much about the
@@ -4440,7 +4429,7 @@ disembarkation, etc., will be forwarded to you later.</p>
 <p>                                            _General, Commanding_
                               _Mediterranean Expeditionary Force._</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 
 <p>TABLE A.</p>
@@ -4460,7 +4449,7 @@ AUTHORITIES.</p>
                           |            |        |          |
  1/3rd City of Glasgow 5" | <location country="Greece">Helles</location>     |Anzac   |     78   |
                           |            |        |          |
- <unit typ="Battery">10th Heavy Battery</unit>       |On board    |Anzac   |     11   |
+ 10th Heavy Battery       |On board    |Anzac   |     11   |
  R.G.A.                   |ship at     |Cove    |          |
                           |<location town="Mudros">Mudros</location>      |        |          |
                           |            |        |          |
@@ -4555,7 +4544,7 @@ COVE ON THE NIGHTS OF AUGUST 3RD/4TH, AUGUST 4TH/5TH AND AUGUST 5TH/6TH.</p>
          Unit.        | From.| Date. |Personnel.|Vehicles.|      Remarks.
  ---------------------+------+-------+----------+---------+---------------------
  6 Battalions (_a_),  |<location town="Mudros">Mudros</location>|Night, |  4,650   |   Nil   |Machine guns and
- <unit type="Division">13th Division</unit>        |      |August |          |         |other equipment
+ <unit type="division">13th Division</unit>        |      |August |          |         |other equipment
                       |      |3rd/4th|          |         |carried by hand.
                       |      |       |          |         |
  Bearer Sub-Division, |<location town="Mudros">Mudros</location>|Night, |    100   |   Nil   |      --
@@ -4563,12 +4552,12 @@ COVE ON THE NIGHTS OF AUGUST 3RD/4TH, AUGUST 4TH/5TH AND AUGUST 5TH/6TH.</p>
                       |      |3rd/4th|          |         |
                       |      |       |          |         |
  7 Battalions (_a_),  |<location town="Mudros">Mudros</location>|Night, |  5,425   |   Nil   |Machine guns and
- <unit type="Division">13th Division</unit>        |      |August |          |         |other equipment
+ <unit type="division">13th Division</unit>        |      |August |          |         |other equipment
                       |      |4th/5th|          |         |carried by hand.
                       |      |       |          |         |
  Bearer Sub-Division, |<location town="Mudros">Mudros</location>|Night, |    125   |   Nil   |      --
  1 Field Ambulance,   |      |August |          |         |
- <unit type="Division">13th Division</unit>        |      |4th/5th|          |         |
+ <unit type="division">13th Division</unit>        |      |4th/5th|          |         |
                       |      |       |          |         |
  4 Battalions, 10th   |<location town="Mudros">Mudros</location>|Night, |  3,100   |   Nil   |Machine guns and
  Division             |      |August |          |         |other equipment
@@ -4580,7 +4569,7 @@ COVE ON THE NIGHTS OF AUGUST 3RD/4TH, AUGUST 4TH/5TH AND AUGUST 5TH/6TH.</p>
                       |      |       |          |         |
  Bearer Sub-Divisions,|<location town="Mudros">Mudros</location>|Night, |    255   |   Nil   |      --
  2 Field Ambulance,   |      |August |          |         |
- <unit type="Division">13th Division</unit>        |      |5th/6th|          |         |
+ <unit type="division">13th Division</unit>        |      |5th/6th|          |         |
                       |      |       |          |         |
  3 Field Companies    |<location town="Mudros">Mudros</location>|Night, |    525   |   Nil   |Machine guns and
  R.E. (_a_), 13th     |      |August |          |         |other equipment
@@ -4707,7 +4696,7 @@ BEGINNING AT DAWN AUGUST 7TH.</p>
  One 18-pr. Battery and H.Q. |    120   |   92  |   Nil   |
  F.A. Bde. ("A" Bde.)        |          |       |         |
                              |          |       |         |
-<unit typ="Battery">10th Heavy Battery</unit>R.G.A.   |    110   |   70  |   Nil   |
+10th Heavy Battery R.G.A.   |    110   |   70  |   Nil   |
                              |          |       |         |
  Three 18-pr. Batteries ("A" |    300   |  246  |   Nil   |Guns and personnel
  Brigade)                    |          |       |         |already ashore, (See
@@ -4772,7 +4761,7 @@ AT NEW BEACH OR ANZAC COVE AS CIRCUMSTANCES MAY DICTATE.</p>
 provide transport for the following ammunition to be landed at Anzac by
 the 3rd August:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>_For A. and N.Z.A.C._--Sufficient S.A.A. to bring the amount on shore up
 to 500 rounds per rifle and 27,500 per machine-gun.</p>
@@ -4825,7 +4814,7 @@ animals, stores, etc., which the Navy is being asked to land at Anzac.</p>
          9TH CORPS.</p>
 
 <p>The General Commanding wishes me to send you the following outline of
-<person>his</person> plans for the next general attack, for the exclusive information of
+his plans for the next general attack, for the exclusive information of
 yourself, your Divisional Generals, and such Officers of your Corps
 Headquarters and Divisional Headquarters as you may consider it
 necessary to take into your confidence. I am to add that it is Sir Ian's
@@ -4870,7 +4859,7 @@ enemy on Hill 305 will be carried out by the <location country="Australia">Austr
 Corps, temporarily reinforced by the following units of the 9th Army
 Corps:--</p>
 
-<p>  <unit type="Division">13th Division</unit> (less 66th, 67th and 68th Brigades, R.F.A.).</p>
+<p>  <unit type="division">13th Division</unit> (less 66th, 67th and 68th Brigades, R.F.A.).</p>
 
 <p>  29th Infantry Brigade (10th Division).</p>
 
@@ -4959,7 +4948,7 @@ disembarkation of all the personnel, horses and vehicles enumerated in
 the attached table will be complete.</p>
 
 <p>One brigade R.F.A. 11th Division, 1/4th Lowland 5th Howitzer Brigade
-(two batteries) and the <unit typ="Battery">10th Heavy Battery</unit>, will be landed at Anzac
+(two batteries) and the 10th Heavy Battery, will be landed at Anzac
 before the operations commence, and their personnel and horses will
 disembark on the morning following your disembarkation, and will then be
 directed along the beach to join your command.</p>
@@ -4994,7 +4983,7 @@ be sent to <location town="Mudros">Mudros</location> in charge of an officer.</p
                                                telegraph wagons,
                                                10 carts.</p>
 
-<p>  <unit typ="Battery">1 Heavy Battery R.G.A.</unit>              45      4 guns, 4 wagons, 2
+<p>  1 Heavy Battery R.G.A.              45      4 guns, 4 wagons, 2
                                                G.S. wagons, 1 cart.</p>
 
 <p>  3 Field Coys. R.E.                   48      12 tool carts.</p>
@@ -5021,7 +5010,7 @@ be sent to <location town="Mudros">Mudros</location> in charge of an officer.</p
 
 <p>1. Troops landing at Anzac are to land equipped as follows:</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>F.S. equipment, including respirator;</p>
 
@@ -5132,7 +5121,7 @@ in Anzac Cove for removal to Hospital Ship.</p>
 
 <p>14. The following is to be practised by all troops after landing:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>Falling in once during the night in any close formation, and to remain
 so closed up for a period of at least half an hour, during which passing
@@ -5162,7 +5151,7 @@ at Anzac Headquarters.</p>
 <p>Staffs of formations higher than brigades will be located within easy
 reach of Anzac Headquarters.</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>G.S.R. Z. 18/2.</p>
 
@@ -5171,7 +5160,7 @@ reach of Anzac Headquarters.</p>
 <p>Reference Sheet Anafarta Sagir <location peninsula="Gallipoli">Gallipoli</location> Map 1/20,000.</p>
 
 <p>1. The intentions of the General Commanding for the impending
-operations, and a rough outline of the task which <person>he</person> has allotted to the
+operations, and a rough outline of the task which he has allotted to the
 troops under your command, were communicated to you in my G.S.R. Z. 18,
 dated 22nd instant.</p>
 
@@ -5191,14 +5180,14 @@ terrain, it is possible that the attainment of this objective will, in
 the first instance, require the use of the whole of the troops at your
 disposal. Should, however, you find it possible to achieve this object
 with only a portion of your force, your next step will be to give such
-direct assistance as is in your power to the G.O.C. Anzac in <person>his</person> attack
+direct assistance as is in your power to the G.O.C. Anzac in his attack
 on Hill 305, by an advance on Biyuk Anafarta, with the object of moving
 up the eastern spurs of that hill.</p>
 
-<p>4. Subject only to <person>his</person> final approval, the General Commanding gives you
+<p>4. Subject only to his final approval, the General Commanding gives you
 an entirely free hand in the selection of your plan of operations.</p>
 
-<p><person>He</person>, however, directs your special attention to the fact that the hills
+<p>He, however, directs your special attention to the fact that the hills
 Yilghin and Ismail Oglu Tepe are known to contain guns which can bring
 fire to bear on the flank and rear of an attack on Hill 305, and that on
 this account they assume an even greater importance in the first
@@ -5259,13 +5248,13 @@ you will wish them to land.</p>
 <p>9. Special attention is directed to paragraph 8 of my letter G.S.R. Z.
 18, dated 22nd July.</p>
 
-<p>10. The infantry of the <unit type="Division">53rd Division</unit> will be available as Army Reserve,
+<p>10. The infantry of the <unit type="division">53rd Division</unit> will be available as Army Reserve,
 and will be at the disposal of the General Commanding.</p>
 
 <p>11. Special instructions regarding signal communications will be issued
 later. In general terms the arrangements will be as follows:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>There is a submarine cable between <location island="Imbros">Imbros</location> and Anzac, and a cable will be
 laid as soon as practicable from <location island="Imbros">Imbros</location> to <location bay="Suvla">Suvla</location> Bay. A submarine cable
@@ -5517,7 +5506,7 @@ dawn, viz.:--</p>
 
 <p>Remainder of F.A. Brigade (18 pr.).
 Remainder of Ammunition Park Personnel.
-<unit typ="Battery">15th Heavy Battery R.G.A.</unit>
+15th Heavy Battery R.G.A.
 Brigade Ammunition Column.
 Remainder of Casualty Clearing Stations.
 Mule Corps.
@@ -5556,7 +5545,7 @@ desire.)</p>
 <p>(2) One F.A. Brigade 11th Division (modified scale of horses). One F.A.
 Brigade 10th Division (modified scale of horses).</p>
 
-<p>(3) Two F.A. Brigades <unit type="Divsion">13th Division</unit>.</p>
+<p>(3) Two F.A. Brigades <unit type="division">13th Division</unit>.</p>
 
 <p>(4) Horses for 11th Division.</p>
 
@@ -5583,7 +5572,7 @@ G.H.Q. for approval at the earliest possible date.</p>
 <p>  GENERAL OFFICER COMMANDING,
           8TH CORPS.</p>
 
-<p>The General Commanding has decided that <person>his</person> next main attack shall be
+<p>The General Commanding has decided that his next main attack shall be
 made in the vicinity of Anzac with the object of placing ourselves
 astride the Peninsula to the north of Kilid Bahr.</p>
 
@@ -5607,7 +5596,7 @@ your disposal, the following reinforcements may be expected:--</p>
 
 <p>  29th Division       280 due 29th July.
   29th Division       900 due 4th August.
-  <unit type="Division">42nd Division</unit>       100 due 29th July.
+  <unit type="division">42nd Division</unit>       100 due 29th July.
                     -----
   Total             1,280</p>
 
@@ -5707,7 +5696,7 @@ upon <location country="Turkey">Turkish</location> artillery north of the ridge 
 
 <p>Reference Map Anafarta Sagir <location peninsula="Gallipoli">Gallipoli</location> Map 1/20,000.</p>
 
-<p>1. The General Commanding has decided to mass the whole of <person>his</person>
+<p>1. The General Commanding has decided to mass the whole of his
 reinforcements in and immediately north of the area occupied by the
 corps under your command, with a view to securing <location bay="Suvla">Suvla</location> Bay as a base of
 operations, driving the enemy off the <location heights="Sari Bair">Sari Bair</location>, and eventually securing
@@ -5721,7 +5710,7 @@ N.Z. Army Corps contained in your G a 89 of 1st July are approved.</p>
 August 6th with a strong and sustained attack on Hill 125 (Plateau 400),
 every effort being made to deceive the enemy as to the locality against
 which our main effort is to be made, and to induce him to believe that
-it will be directed against <person>his</person> lines opposite the southern portion of
+it will be directed against his lines opposite the southern portion of
 your position. In pursuance of this object the Vice-Admiral has arranged
 that H.M. ships shall in the meantime display increased activity off
 the coast between Gaba Tepe and Kum Tepe. It has been arranged that
@@ -5747,7 +5736,7 @@ against Hill 180 (Baby 700).</p>
 <p>4. (_a_) For the above operations the following troops will be at your
 disposal:--</p>
 
-<p>A. and N.Z. Army Corps. <unit type="Division">13th Division</unit>, less all artillery except 69th
+<p>A. and N.Z. Army Corps. <unit type="division">13th Division</unit>, less all artillery except 69th
 F.A. (Howitzer) Brigade. 29th Brigade (10th Division). 29th <location country="India">Indian</location>
 Brigade.</p>
 
@@ -5758,7 +5747,7 @@ will not, except so far as is stated hereunder, be at your disposal:--</p>
 <p>One F.A. Brigade, 11th Division: To rejoin 9th Army Corps as soon as
 horses are landed.</p>
 
-<p><unit typ="Battery">10th Heavy Battery</unit>, R.G.A.: Ditto.</p>
+<p>10th Heavy Battery, R.G.A.: Ditto.</p>
 
 <p>14th Lowland (Howitzer) Brigade (two Batteries): Arrangements must be
 made so that these batteries may be free to rejoin the 9th Army Corps
@@ -5774,7 +5763,7 @@ of August 6th-7th.</p>
 will attack the <location country="Turkey">Turkish</location> lines south of Krithia on August 4th and 5th.
 The attack will be made on a large scale, and will be vigorously
 pressed, and it is hoped that by its means the enemy will be induced to
-move part of <person>his</person> central reserves southward into the Cape <location country="Greece">Helles</location> zone
+move part of his central reserves southward into the Cape <location country="Greece">Helles</location> zone
 during the 5th and 6th, so that they may not be available in the
 northern zone on the 6th and 7th.</p>
 
@@ -5786,7 +5775,7 @@ brigades and additional artillery and engineers.</p>
 
 <p>The G.O.C. 9th Army Corps has been informed:--</p>
 
-<p>(i) That <person>his</person> mission is to secure <location bay="Suvla">Suvla</location> Bay as a base of operation for
+<p>(i) That his mission is to secure <location bay="Suvla">Suvla</location> Bay as a base of operation for
 all the forces in the northern zone.</p>
 
 <p>(ii) That the seizure of Yilghin Burnu and Ismail Oglu Tepe ("W" and
@@ -5794,8 +5783,8 @@ Chocolate Hills), on account of the presence there of artillery which
 may interfere with your operations, must be considered as of very
 special importance.</p>
 
-<p>(iii) That so far as is possible after the fulfilment of <person>his</person> primary
-mission, <person>he</person> is to render you such direct assistance as may be
+<p>(iii) That so far as is possible after the fulfilment of his primary
+mission, he is to render you such direct assistance as may be
 practicable by moving any available troops via Biyuk Anafarta up the
 eastern slopes of the <location heights="Sari Bair">Sari Bair</location>.</p>
 
@@ -5882,7 +5871,7 @@ Divisions); and 37,000 are in Reserve (9th Division less one regiment,
 12th less one regiment, 13th, 14th, and 25th less one regiment, and 10th
 Divisions). Of this reserve force two Divisions are in the Bulair
 district and one Division in the Eyerli Tepe zone. There are 12,000 on
-the Asiatic shore of the <location strait="Dardanelles">Dardanelles</location> (<unit type="Division">2nd Division</unit> and <unit type="Division">8th Division</unit> less
+the Asiatic shore of the <location straits="Dardanelles">Dardanelles</location> (<unit type="division">2nd Division</unit> and <unit type="division">8th Division</unit> less
 one regiment). There are believed to be five Divisions (45,000 men) in
 the Keshan area belonging to the 5th and 6th Corps.</p>
 
@@ -5896,18 +5885,18 @@ simultaneous attack on the enemy in the northern and southern zone
 commencing on 6th August, in accordance with the special instructions
 already issued to the Corps Commanders concerned.</p>
 
-<p>During the first phase of these operations the <unit type="Division">13th Division</unit> (less three
+<p>During the first phase of these operations the <unit type="division">13th Division</unit> (less three
 18-pdr. Bdes. R.F.A.), the 29th Infantry Brigade will be attached to the
 A. and N.Z. Army Corps. Three squadrons R.N. Armoured Car Division and
-two batteries Highland Mounted Artillery will be attached to <unit type="Corps">9th Corps.</unit>
-86th Brigade R.F.A. and <unit typ="Battery">91st Heavy Battery</unit> R.G.A. will be attached to
+two batteries Highland Mounted Artillery will be attached to 9th Corps.
+86th Brigade R.F.A. and 91st Heavy Battery R.G.A. will be attached to
 8th Corps.</p>
 
 <p>3. Special instructions regarding embarkation and disembarkation are
 issued to G.O.C. 9th Corps, G.O.C., A. and N.Z. Corps, and I.G.C., as
 appended to this order.</p>
 
-<p>4. The <unit type="Division">53rd Division</unit> will remain at the disposal of the General
+<p>4. The <unit type="division">53rd Division</unit> will remain at the disposal of the General
 Commanding as general reserve.</p>
 
 <p>5. G.H.Q. will remain in the first instance in its present situation.</p>
@@ -5918,7 +5907,7 @@ Commanding as general reserve.</p>
                                  Mediterranean Expeditionary Force._</p>
 
 <p>Issued to: G.O.C. Corps Expéditionnaire; G.O.C. A. and N.Z. Army Corps;
-G.O.C. 8th Army Corps; G.O.C. 9th Army Corps; G.O.C. <unit type="Division">53rd Division</unit>;
+G.O.C. 8th Army Corps; G.O.C. 9th Army Corps; G.O.C. <unit type="division">53rd Division</unit>;
 I.G.C.; Vice-Admiral.</p>
 
 
@@ -5939,7 +5928,7 @@ vessels to be in their allotted positions at the hours arranged.</p>
 <p>G.O.C. 9th Corps will also be responsible for the allocation to ships or
 lighters, and for the embarkation of the following units:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>At <location island="Imbros">Imbros</location>: One W.T. Section (Nos. W. 10 and W. 11 Pack Wireless
 Stations); Two Anson Battalions R.N.D. (for duties on the beach); No. 16
@@ -5979,7 +5968,7 @@ embarkation of which they are severally responsible (_vide_ paragraph
 <p>4. The following naval and military beach control personnel have been
 appointed for the landing places of the 9th Corps:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>Principal Beach Master: Captain H. F. G. Talbot, R.N.</p>
 
@@ -6007,14 +5996,14 @@ been issued to the G.O.C. 9th Corps.</p>
 
 <p>G.O.C., A. and N.Z. Army Corps will detail such military landing
 officers, assistant military landing officers, and beach parties for
-A.N.Z.A.C. as <person>he</person> may consider necessary. The names of officers so
+A.N.Z.A.C. as he may consider necessary. The names of officers so
 appointed will be reported as early as possible to V.A. and to G.H.Q.</p>
 
 <p>The following special service officers are attached to H.Q., A. and N.Z.
 Army Corps, for such duties in connection with the landing as the G.O.C.
 may direct:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>Major P. R. Bruce, S. Notts Hussars.</p>
 
@@ -6077,7 +6066,7 @@ divisional troops for allotment as circumstances may require.</p>
 <p>Senior transport officers of Divisions will be ordered to report to the
 following representatives of the D.S.T. immediately on landing:--</p>
 
-<section_break>       *       *       *       *       *</section_break>
+
 
 <p>At Anzac: Lieutenant-Colonel Streidinger, A.D.T.</p>
 
@@ -6117,7 +6106,7 @@ evacuation of the wounded from the beach.</p>
 
 
 
-<appendix>APPENDIX IV</appendix>
+<p>APPENDIX IV</p>
 
 <p>INSTRUCTIONS TO MAJOR-GENERAL H. DE LISLE, C.B., D.S.O.</p>
 
@@ -6125,8 +6114,8 @@ evacuation of the wounded from the beach.</p>
 <p>1. The operations of the northern wing of the Army have only been
 partially successful.</p>
 
-<p>(_a_) The <location country="Australia">Australia</location> and <location country="New Zealand">New Zealand</location> Army Corps, with the <unit type="Division">13th Division</unit>
-and the 29th Brigade of <unit type="Division">10th Division</unit> attached, has greatly extended the
+<p>(_a_) The <location country="Australia">Australia</location> and <location country="New Zealand">New Zealand</location> Army Corps, with the <unit type="division">13th Division</unit>
+and the 29th Brigade of <unit type="division">10th Division</unit> attached, has greatly extended the
 area occupied, and now holds a position under the Chunuk Bair Ridge,
 which the G.O.C. considers a favourable one from which to launch the
 final attack on the ridge. The necessity for reorganization after the
@@ -6145,15 +6134,15 @@ became very much disorganized, and since August 11th the work of
 reorganization and consolidation has been proceeding.</p>
 
 <p>2. At present the enemy has shown no great strength north of an east and
-west line through Anafarta Sagir. <person>He</person> has a force operating on and near
+west line through Anafarta Sagir. He has a force operating on and near
 the Kiretch Tepe Sirt, the strength of which cannot yet be accurately
 estimated. From present indications this appears to be a detachment
 which is known to have guarded the coast from Ejelmer Bay to <location bay="Suvla">Suvla</location> Bay;
 it does not appear to have been reinforced to any extent. Across the
 Kuchuk Anafarta Ova there appear to be no more than snipers. In the
 region Anafarta Sagir--Ismail Oglu Tepe and the Biyuk Anafarta Valley
-the enemy has developed considerable strength--<person>his</person> intention being, no
-doubt, to protect the right of <person>his</person> main force which opposes the
+the enemy has developed considerable strength--his intention being, no
+doubt, to protect the right of his main force which opposes the
 <location country="Australia">Australia</location> and <location country="New Zealand">New Zealand</location> Army Corps, and to prevent our advance on the
 Anafarta gap.</p>
 
@@ -6162,9 +6151,9 @@ great strength as possible against the enemy's on the line Ismail Oglu
 Tepe--Anafarta Sagir with the objects, first, of driving in this flank
 and preparing a further enveloping advance; and, secondly, by clearing
 the Anafarta spur to deny to the enemy the gun positions and facilities
-for observation therefrom, which would otherwise endanger <location bay="Suvla">Suvla</location> Bay. <person>He</person>
+for observation therefrom, which would otherwise endanger <location bay="Suvla">Suvla</location> Bay. He
 considers it imperative to effect this with the least possible delay. In
-<person>his</person> view the left flank of this advance will require comparatively
+his view the left flank of this advance will require comparatively
 little protection, at all events in the first instance, in view of the
 difficulty which the enemy may be expected to find in throwing any
 considerable force round our left over the high and difficult country
@@ -6173,15 +6162,15 @@ the enemy and securing <location bay="Suvla">Suvla</location> Bay as a port for 
 Army can best be served by an attack on the enemy's right on the
 Anafarta spur, made with all the strength at our command, while leaving
 a comparatively small force as left flank guard to clear the enemy's
-snipers out of the Kuchuk Anafarta Ova and to occupy and press back <person>his</person>
+snipers out of the Kuchuk Anafarta Ova and to occupy and press back his
 detachment in the Ejelmer Bay region.</p>
 
 <p>4. You will have at your disposal the following troops:--</p>
 
 <p>  11th Division,
   10th Division (less 29th Brigade),
-  <unit type="Division">53rd Division</unit>,
-  <unit type="Division">54th Division</unit>,</p>
+  <unit type="division">53rd Division</unit>,
+  <unit type="division">54th Division</unit>,</p>
 
 <p>and there is on its way from <location country="Egypt">Egypt</location> to join you the 2nd Mounted Division
 (5,000 men dismounted), which should be available by August 18th. The
@@ -6210,7 +6199,7 @@ Corps and the C.E.O. will be in a position to do more than undertake
 vigorous demonstrations.</p>
 
 <p>6. With the above in view, you will proceed at once to <location bay="Suvla">Suvla</location> Bay and
-take over command of the <unit type="Corps">9th Corps.</unit> Your immediate and most urgent
+take over command of the 9th Corps. Your immediate and most urgent
 concern will be to complete the reorganization of the Corps and to
 prepare as large a force as possible for the offensive against Ismail
 Oglu Tepe and the Anafarta spur, bearing in mind that time is of vital
@@ -6229,4 +6218,4 @@ importance. You will then consider and report at the earliest moment:--</p>
 <p>  _Major-General, Chief of the General Staff,</p>
 
 <p>  Mediterranean Expeditionary Force._</p>
-</letters>
+</root>
