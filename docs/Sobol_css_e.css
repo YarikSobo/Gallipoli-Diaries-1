@@ -1,0 +1,36 @@
+h1{
+    color: red
+}
+h2{
+    color: green;
+    }
+td {
+  height: 50px;
+  vertical-align: top;
+}
+tr:hover {background-color: green;}
+h3{
+    text-decoration-line: underline;
+    text-decoration-color: yellow
+}
+.location{
+ background-color: blue;
+ font-weight: bold;
+ color: #b45309;
+ padding: 2px 5px;
+ border-radius: 4px;
+}
+.person{
+ background-color: brown;
+ font-weight: bold;
+ color: #b45309;
+ padding: 2px 5px;
+ border-radius: 4px;
+}
+.unit{
+ background-color: green;
+ font-weight: bold;
+ color: #b45309;
+ padding: 2px 5px;
+ border-radius: 4px;
+}
