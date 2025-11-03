@@ -16,21 +16,21 @@ h3{
 .location{
  background-color: blue;
  font-weight: bold;
- color: #b45309;
+ color: white;
  padding: 2px 5px;
  border-radius: 4px;
 }
 .person{
  background-color: brown;
  font-weight: bold;
- color: #b45309;
+ color: white;
  padding: 2px 5px;
  border-radius: 4px;
 }
 .unit{
  background-color: green;
  font-weight: bold;
- color: #b45309;
+ color: white;
  padding: 2px 5px;
  border-radius: 4px;
 }

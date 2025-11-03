@@ -10,7 +10,7 @@
     <xsl:variable name="gallipoli" select="document('../xml/gallipoli_all_chapters.xml')"/>
     
     <xsl:template match="$gallipoli">
-        <xsl:result-document method="xhtml" indent="yes" href="../docs/Sobol_E_Output">
+        <xsl:result-document method="xhtml" indent="yes" href="../docs/Sobol_E_Output.html">
             <html>
                 <head><title>Names and Terms in Gallipoli Diaries</title>
                <link rel="stylesheet" type="text/css" href="../docs/Sobol_css_e.css"/>
@@ -55,6 +55,12 @@
                             </tr>
                         </xsl:for-each-group>
                     </table>
+                    <xsl:for-each select="//title">
+                        <h1><xsl:apply-templates/></h1>
+                    </xsl:for-each>
+                    <xsl:for-each select="//chapter">
+                        <ol><xsl:apply-templates/></ol>
+                    </xsl:for-each>                    
                     <xsl:for-each select=".//p">
                         <p><xsl:apply-templates/></p>
                     </xsl:for-each>
