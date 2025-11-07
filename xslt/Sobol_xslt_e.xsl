@@ -25,7 +25,7 @@
                         <xsl:for-each-group select="//person" group-by="@name">
                             <xsl:sort select="count(current-group())" order="descending"/>
                             <tr>
-                                <td><xsl:apply-templates/></td>
+                                <td><xsl:value-of select="@name"/></td>
                                 <td><xsl:value-of select="count(current-group())"/></td>
                             </tr>
                         </xsl:for-each-group>
@@ -50,7 +50,7 @@
                         <xsl:for-each-group select="//location" group-by="@ship">
                             <xsl:sort select="count(current-group())" order="descending"/>
                             <tr>
-                                <td><xsl:apply-templates/></td>
+                                <td><xsl:value-of select="@ship"/></td>
                                 <td><xsl:value-of select="count(current-group())"/></td>
                             </tr>
                         </xsl:for-each-group>
@@ -58,8 +58,8 @@
                     <xsl:for-each select="//title">
                         <h1><xsl:apply-templates/></h1>
                     </xsl:for-each>
-                    <xsl:for-each select="//chapter">
-                        <ol><xsl:apply-templates/></ol>
+                    <xsl:for-each select="//@heading">
+                        <ol><xsl:value-of select="@heading"/></ol>
                     </xsl:for-each>                    
                     <xsl:for-each select=".//p">
                         <p><xsl:apply-templates/></p>

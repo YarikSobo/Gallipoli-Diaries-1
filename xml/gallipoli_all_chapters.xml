@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="gallipoliSchema.rnc" type="application/relax-ng-compact-syntax"?>
+
 <root>
 <title>GALLIPOLI DIARY BY GENERAL SIR IAN HAMILTON, G.C.B.</title>
   
-<chapter n="0" heading="PREFACE">PREFACE</chapter>
+<chapter n="0" heading="PREFACE">PREFACE
 
 <entry><p>
 On the heels of the South African War came the sleuth-hounds pursuing
@@ -192,9 +192,9 @@ l'annonciateur de cette aurore.
 <p></p>
 
 </entry>
+</chapter>
 
-
-  <chapter n="1" heading="THE START">CHAPTER I THE START</chapter>
+  <chapter n="1" heading="THE START">CHAPTER I THE START
 
 
 <entry><p>In the train between Paris and Marseilles, 14th March, 1915. </p>
@@ -660,11 +660,11 @@ Bull. The German General is the product of an organising nation. The
 British General is the product of an improvising nation. Each army would
 be better commanded by the other army's General. Sounds fantastic but is
 true.[4]</p></entry>
-
+  </chapter>
   
 
 
-<chapter n="2" heading="THE STRAITS">CHAPTER II THE STRAITS</chapter>
+<chapter n="2" heading="THE STRAITS">CHAPTER II THE STRAITS
 
 
 <entry><p>
@@ -1513,8 +1513,9 @@ Admiralty.</p>
 
 <p> Later .--Have sent Doughty Wylie to <location city="Athens">Athens</location> to do "Intelligence": the
 cable was approved by Navy; duly despatched; and now--up anchor!</p></entry>
+</chapter>
 
-  <chapter n="3" heading="Egypt">CHAPTER III Egypt</chapter>
+<chapter n="3" heading="EGYPT">CHAPTER III EGYPT
 
 
 <entry><p> 25th March, 1915. <location ship="H.M.S. Franconia">H.M.S. "Franconia.</location>" At Sea.  A fine smooth sea and a
@@ -2274,7 +2275,7 @@ remains sole arbiter between them.</p>
 <p>'Phoned Maxwell last thing telling him to be sure not to forget to jog
 <person name="Herbert Kitchener">K.</person>'s elbow about <person name="Herbert Cox">Cox</person> and his Gurkhas.</p></entry>
 
-<entry><p> 7th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian."</location> 10 p.m.  <person name="Albert d'Amade">D'Amade</person> looked in to say
+<entry><p> 7th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian"</location> 10 p.m.  <person name="Albert d'Amade">D'Amade</person> looked in to say
 good-bye.</p>
 
 <p>On my way down to the harbour I overhauled the Assyrian Jewish Refugee
@@ -2318,8 +2319,8 @@ some aeroplanes. But, then I have none. No matter: I should have
 promised him <person name="John de Robeck">de Robeck</person>'s! South Africa repeats itself! Egypt and Mudros
 are not one but two. <person name="John Maxwell">Maxwell</person> and I are co-equal allies;  not  a combine
 under a Boss!</p></entry>
-
-  <chapter n="4" heading="CLEARING FOR ACTION"> CHAPTER IV CLEARING FOR ACTION</chapter>
+</chapter>
+  <chapter n="4" heading="CLEARING FOR ACTION"> CHAPTER IV CLEARING FOR ACTION
   
 <entry><p> 9th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian</location>."  Isles of the Aegean; one more lovely
 than the other; weather warm; wireless off; a great ship steaming fast
@@ -2711,7 +2712,7 @@ for the fight have been satisfied by their appreciation of its dangers.</p>
 <p>Units of the <unit type="division">29th Division</unit> have been coming along in their transports
 all day. The bay is alive with ships.</p></entry>
 
-<entry><p> 11th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian.</location>"  One of those exquisite days when
+<entry><p> 11th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian</location>"  One of those exquisite days when
 the sunlight penetrates to the heart. <person name="Emile Guepratte">Admiral Guepratte</person>, commanding the
 French Fleet, called at 9.45 and in due course I returned his visit,
 when I was electrified to find at his cabin door no common sentry but a
@@ -2745,7 +2746,7 @@ Peninsula from there and land right away until things on <location island="Lemno
 our lumbering seaplanes went up after it like an owl in sunlight, but
 could rise no higher than the masts of the Fleet.</p></entry>
 
-<entry><p> 12th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian."</location> <location island="Lemnos">Lemnos</location>.  The  Queen Elizabeth  has
+<entry><p> 12th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian"</location> <location island="Lemnos">Lemnos</location>.  The  Queen Elizabeth  has
 been having some trouble with her engines and in the battle of the 18th
 was only able to use one of her propellers. Now she has been overhauled
 and the Admiral has asked me to come on board for her steam trials.
@@ -2774,7 +2775,7 @@ latter dined and is now more sanguine than myself. He has been getting
 to know his new command better and he says that he did not appreciate
 the <unit type="division">29th Division</unit> when he wrote his appreciation!</p></entry>
 
-<entry><p> 13th April, <location ship="S.S. Arcadian">1915. S.S. "Arcadian."</location>  Heavy squalls of rain and wind last
+<entry><p> 13th April, <location ship="S.S. Arcadian">1915. S.S. "Arcadian"</location>  Heavy squalls of rain and wind last
 night.  Band-o-bast  badly upset; boats also bottoms upwards and at
 dawn--here in harbour--we found ourselves clean cut off from the shore.
 What a ticklish affair the great landing is going to be! How much at the
@@ -2904,7 +2905,7 @@ Robeck to the Russian Admiral in the Black Sea.</p>
 
 <p>Dick dines, also Birdwood.</p></entry>
 
-<entry><p> 15th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian."</location> <location island="Lemnos">Lemnos</location>.  Boarded <location ship="H.M.S. Dublin">H.M.S.  Dublin </location>
+<entry><p> 15th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian"</location> <location island="Lemnos">Lemnos</location>.  Boarded <location ship="H.M.S. Dublin">H.M.S.  Dublin </location>
 (Captain Kelly) at 9.30 this morning, where <person name="John de Robeck">Admiral de Robeck</person> met me.
 Sailed at once and dropped anchor off <location island="Tenedos">Tenedos</location> at noon.</p>
 
@@ -3032,7 +3033,7 @@ these photos are frightening. So I said, "You don't seem to like the
 look of that barbed wire, Colonel?" To which he replied, "I was worrying
 how and where I would feed and water the prisoners."</p></entry>
   
-<entry><p> 16th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian."</location> <location island="Lemnos">Lemnos</location>.  Spent the forenoon in
+<entry><p> 16th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian"</location> <location island="Lemnos">Lemnos</location>.  Spent the forenoon in
 interviews beginning at 10 a.m. with <person name="John de Robeck">de Robeck</person> and Mr. Fitzmaurice, late
 dragoman at the Embassy at <location city="Constantinople">Constantinople</location>. Mr. Fitzmaurice says the
 Turks will put up a great fight at the <location straits="Dardanelles">Dardanelles</location>. They had believed in
@@ -3102,7 +3103,7 @@ our landing parties.</p>
 <p>At 7.30 p.m. <person name="Aylmer Hunter-Weston">Hunter-Weston</person> came along and I had the best part of an hour
 with him.</p></entry>
 
-<entry><p> 17th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian."</location> <location island="Lemnos">Lemnos</location>.  Hunter-Weston came over
+<entry><p> 17th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian"</location> <location island="Lemnos">Lemnos</location>.  Hunter-Weston came over
 early to finish off business left undone last night. Admiral Wemyss also
 took part in our discussions over the landing. Picture puzzles are
 child's play compared with this game of working an unheard of number of
@@ -3123,7 +3124,7 @@ through Australia last year.</p>
 
 <p><person name="Archibald Paris">General Paris</person> came to see me this evening.</p></entry>
 
-<entry><p> 18th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian.</location>" <location island="Lemnos">Lemnos</location>.  Working all morning in
+<entry><p> 18th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian</location>" <location island="Lemnos">Lemnos</location>.  Working all morning in
 office. In the afternoon inspected embarkation of some howitzers.
 <person name="Albert d'Amade">D'Amade</person> turned up later from the  Southland . We went over the landing
 at<location town=" Kum Kale"> Kum Kale</location>. He is in full sympathy and understands. Winter, <person name="Gen.Woodward">Woodward</person>
@@ -3170,7 +3171,7 @@ suave and distinguished; the second is a savant and knows the habits of
 obscure and out of the way people. What de la Borde's points may be, I
 English.</p></entry>
 
-<entry><p> 20th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian."</location> <location island="Lemnos">Lemnos</location>.  A big wind rose in the
+<entry><p> 20th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian"</location> <location island="Lemnos">Lemnos</location>.  A big wind rose in the
 night.</p>
 
 <p>A clerk from my central office at the Horse Guards developed small pox
@@ -3183,7 +3184,7 @@ vaccinated.</p>
 <p>Got the full text of <person name="Albert d'Amade">d'Amades'</person> orders for his<location town=" Kum Kale"> Kum Kale</location> landing as well
 as for the <location coast="Besica Bay">Besika Bay</location> make-believe.</p></entry>
 
-<entry><p> 21st April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian."</location> <location island="Lemnos">Lemnos</location>.  Blowing big guns. The event
+<entry><p> 21st April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian"</location> <location island="Lemnos">Lemnos</location>.  Blowing big guns. The event
 with which old mother time is in labour is so big that her pains are
 prodigious and prolonged out of all nature. So near are we now to our
 opening that the storm means a twenty four hours' delay.</p>
@@ -3236,7 +3237,7 @@ Commanding:--</p>
 <p>"The King wishes you and your Army every success, and you are
 constantly in His Majesty's thoughts and prayers."</p></entry>
 
-<entry><p> 23rd April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian."</location> <location island="Lemnos">Lemnos</location>.  A gorgeous day at last;
+<entry><p> 23rd April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian"</location> <location island="Lemnos">Lemnos</location>.  A gorgeous day at last;
 fitting frame to the most brilliant and yet touching of pageants.</p>
 
 <p>All afternoon transports were very, very slowly coming out of harbour
@@ -3349,8 +3350,8 @@ the riddle?</p>
 have mercy upon us, smallest of the heavenly Shiners. Our star burns dim
 as a corpse light: the huge black chasm of space closes in: if only by
 blood ...? Thy Will be done.  En avant --at all costs-- en avant !</p></entry>
-
-<chapter n="5" heading="THE LANDING">CHAPTER V THE LANDING</chapter>
+  </chapter>
+<chapter n="5" heading="THE LANDING">CHAPTER V THE LANDING
 
 <entry>
 <p> 24th April, 1915. <location ship="H.M.S. Queen Elizabeth"> H.M.S. "Queen Elizabeth." </location> <location island="Tenedos"> Tenedos.   </location> Boarded the Queen
@@ -4163,8 +4164,9 @@ When in far off ages men discuss over vintages ripened in Mars the black
 superstitions and bloody mindedness of the Georgian savages, still they
 will have to drain a glass to the memory of the soldiers and sailormen
 who fought here.</p></entry>
-
-  <chapter n="6" heading="MAKING GOOD">CHAPTER VI MAKING GOOD</chapter>
+</chapter>
+  
+  <chapter n="6" heading="MAKING GOOD">CHAPTER VI MAKING GOOD
 
 <entry>
 <p>  27th April, 1915. Getting on for midnight. <location ship="H.M.S. Queen Elizabeth"> H.M.S. "Queen Elizabeth ." </location>
@@ -4820,7 +4822,7 @@ smoke is rising up into the evening sky. A proper bonfire on the very
 altar of Mars.</p></entry>
 
 <entry>
-<p> 1st May, 1915. <location ship="S.S. Arcadian"> H.M.S. "Arcadian."  </location> Went ashore first thing. Odd shells
+<p> 1st May, 1915. <location ship="S.S. Arcadian"> H.M.S. "Arcadian"  </location> Went ashore first thing. Odd shells
 on the wing. Visited French Headquarters. Again <person name="Albert d'Amade"> d'Amade </person> was away. Had a
 long talk with des Coigns, the Chief of Staff, and told him I had just
 heard from <person name="Herbert Kitchener"> Lord K. </person> that the <unit type="brigade"> 1st Brigade </unit> of the new French Division would
@@ -4875,7 +4877,7 @@ our own troops must instantly press in to the attack and with the help
 of our reserves in rear he will forthwith be flung back into the sea."</p></entry>
 
 <entry>
-<p> 2nd May, 1915. <location ship="S.S. Arcadian"> H.M.S. "Arcadian."  </location> Had a sleepless night and strain was
+<p> 2nd May, 1915. <location ship="S.S. Arcadian"> H.M.S. "Arcadian"  </location> Had a sleepless night and strain was
 too great to write or do anything but stand on bridge and listen to the
 firing or go down to the General Staff and see if any messages had come
 to hand.</p>
@@ -5024,7 +5026,7 @@ be fair to them to do so. That is exactly why I asked <person name="Herbert Kitc
 <unit type="brigade"> Brigade of Gurkhas </unit>; not a mixed Brigade.</p></entry>
 
 <entry>
-<p> 3rd May, 1915. <location ship="S.S. Arcadian"> "H.M.T. Arcadian." </location> At 9 p.m. last night there was
+<p> 3rd May, 1915. <location ship="S.S. Arcadian"> "H.M.T. Arcadian" </location> At 9 p.m. last night there was
 another furious outburst of fire; mainly from the French. 75's and
 rifles vied against one another in making the most infernal  fracas . I
 thought we were in for an  encore  performance, but gradually the uproar
@@ -5056,7 +5058,7 @@ bomb, which fell exactly between the <location ship="S.S. Arcadian">  Arcadian  
 anchored only about 60 or 70 yards off us!</p></entry>
 
 <entry>
-<p> 4th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian."  </location> Last night again there was all sorts
+<p> 4th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian"  </location> Last night again there was all sorts
 of firing and fighting going on, throughout those hours peaceful
 citizens ear-mark for sleep. I had one or two absolutely hair-raising
 messages. Not only were the French troops broken but the 29th Division
@@ -5087,8 +5089,9 @@ won't like to hear it. I say, "I hope the new French Division will not
 steam at economic, but full, speed"; and I sum up by the sentence, "The
 times are anxious, but I believe the enemy's cohesion should suffer more
 than ours by these repeated night attacks."</p></entry>
+  </chapter>
 
-  <chapter n="7" heading="SHELLS">CHAPTER VII SHELLS</chapter>
+  <chapter n="7" heading="SHELLS">CHAPTER VII SHELLS
 
 <entry>
 <p>To-day, the 4th, shells were falling from Asia on both "V" and "W"
@@ -5104,7 +5107,7 @@ has not turned up and has but a small supply when she does. 18 pr. shell
 is vital necessity."</p></entry>
 
 <entry>
-<p> 5th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian."  </location> A wearing, nerve-racking, night-long
+<p> 5th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian"  </location> A wearing, nerve-racking, night-long
 fire by the Turks and the French 75's. They, at least, both of them,
 seem to have a good supply of shell. To the Jews, God showed Himself
 once as a pillar of fire by night; to the French soldier whose God is
@@ -5241,7 +5244,7 @@ spiders' webs of steel before they connect into elastic but unbreakable
 patterns.</p></entry>
 
 <entry>
-<p> 9th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian." </location> Three days on the rack! Since the
+<p> 9th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian" </location> Three days on the rack! Since the
 morning of the 6th not a word have I written barring one or two letters
 and one or two hasty scraps of cables. Now, D.V., there is the best part
 of a day at my disposal and it is worth an effort to put that story
@@ -5548,7 +5551,7 @@ and will henceforth be available to help us to make good and improve
 upon the positions we have so hardly won."</p></entry>
 
 <entry>
-<p> 10th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian." </location> Fell asleep last night thinking of
+<p> 10th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian" </location> Fell asleep last night thinking of
 Admirals, Commodores and men-o'-war and of how they  might , within the
 next forty-eight hours, put another complexion upon our prospects. So it
 seemed quite natural when, the first thing in the morning, a cable came
@@ -5649,11 +5652,12 @@ Marseilles." I am glad. I am deeply grateful. Our anxieties will be
 lessened, but  that same message, had it only reached us on Saturday
 morning, would have enabled us to fire 5,000 more shrapnel and 500 more
 4.5 howitzer H.E. to cover our last assault! </p></entry>
+  </chapter>
 
-  <chapter n="8" heading="TWO CORPS OR AN ALLY?">CHAPTER VIII TWO CORPS OR AN ALLY?</chapter>
+  <chapter n="8" heading="TWO CORPS OR AN ALLY?">CHAPTER VIII TWO CORPS OR AN ALLY?
 
 <entry>
-<p> 11th May, 1915. H.M.T. <location ship="S.S. Arcadian"> "Arcadian."  </location> Day dull and overcast. Vice-Admiral
+<p> 11th May, 1915. H.M.T. <location ship="S.S. Arcadian"> "Arcadian"  </location> Day dull and overcast. Vice-Admiral
 came over to see me in the morning. Neither of us has had a reply to his
 cable; instead, he has been told two enemy submarines are on their way
 to pay us a visit. The approach of these mechanical monsters opens up
@@ -5666,7 +5670,7 @@ squeezed in cheek by jowl, within a few hundred yards of the two
 Divisional Headquarters Staffs.</p></entry>
 
 <entry>
-<p> 12th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian."  </location> Raining hard. Busy all morning. A
+<p> 12th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian"  </location> Raining hard. Busy all morning. A
 cable from <person name="Herbert Kitchener"> Lord K. </person> to say he is sending out the <unit type="division"> Lowland Division </unit>. We are
 all as pleased as Punch! especially (so <person name="Walter Braithwaite"> Braithwaite </person> tells me) <person name="Roger Keyes"> Roger
 Keyes </person> who looks on this as a good omen for the naval attack proposals.
@@ -5785,7 +5789,7 @@ render the same valuable service you have already given to France.</p>
 <p> I remain, Mon General, Your sincere friend, <person name="Ian Hamilton"> IAN HAMILTON </person>,  General. </p></entry>
 
 <entry>
-<p> 13th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian."  </location> Hot and bright. Dead calm sea. Last
+<p> 13th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian"  </location> Hot and bright. Dead calm sea. Last
 night a dense fog during which a Turkish Torpedo boat sneaked down the
 Straits and torpedoed the <location ship="H.M.S. Goliath">  Goliath  </location>. David and his sling on the grand
 scale. No details yet to hand. The enemy deserve decorations--confound
@@ -5835,7 +5839,7 @@ rushed a bluff 600 yards ahead of our line and are sticking to their
 winnings.</p></entry>
 
 <entry>
-<p>  14th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian."  </location> Hot day, smooth sea. Disembarking
+<p>  14th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian"  </location> Hot day, smooth sea. Disembarking
 to bivouac on shore. What a contrast we must present to the Headquarters 
 in France! There the stately  Chateau ; sheets, table-cloths and motor
 cars. Here the red tab patricians have to haul their own kits over the
@@ -5863,7 +5867,7 @@ party of <location coast="Besika Bay"> Besika Bay </location> ruffians, unless w
 the pomp and circumstance of a Commander-in-Chief's guard here.</p></entry>
 
 <entry>
-<p> 15th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian."  </location> Till 3 p.m. the perspiring Staff
+<p> 15th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian"  </location> Till 3 p.m. the perspiring Staff
 were re-embarking their gear. Sailed then for <location peninsula="Helles"> Helles </location> when I saw
 <person name="Aylmer Hunter-Weston"> Hunter-Weston </person> who gave me a full account of the attacks made on the
 newly gained bluff upon our left. Shells busy bursting on "W" Beach.
@@ -5880,7 +5884,7 @@ and yet I am not even supposed to have knowledge, much less an opinion,
 as to what passes between the Fleet and the Admiralty!</p></entry>
 
 <entry>
-<p> 16th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian."  </location> De Robeck came off the <location ship="H.M.S. Lord Nelson">  Lord
+<p> 16th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian"  </location> De Robeck came off the <location ship="H.M.S. Lord Nelson">  Lord
 Nelson  </location>, his new Flagship, in the morning. The submarines are shadowing
 him already, and there seems little doubt they are on their way.</p>
 
@@ -5921,7 +5925,7 @@ incurring any loss to speak of. They are real good chaps. They suffer
 only from the regular soldiers' fault; there are too few of them here.</p></entry>
 
 <entry>
-<p> 17th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian. </location>" 10 p.m.  Too much work to move. In
+<p> 17th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian </location>" 10 p.m.  Too much work to move. In
 the evening the Admiral came to see me and read my rough draft for an
 answer to <person name="Roger Keyes"> Lord K.'s </person> cable. We show the Navy all our important operations
 cables; they have their own ways of doing things and don't open out so
@@ -6030,7 +6034,7 @@ enemy, greatly strengthening the bluff upon which the Gurkhas dug
 themselves in.</p></entry>
 
 <entry>
-<p> 18th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian."  </location> Villiers Stuart, <person name="William Birdwood"> Birdie's </person> Staff
+<p> 18th May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian"  </location> Villiers Stuart, <person name="William Birdwood"> Birdie's </person> Staff
 Officer, has been killed on Anzac by a shell. The submarine E.14 sailed
 into harbour after a series of hair-raising adventures in the Sea of
 Marmora. She is none the worse, bar the loss of one periscope from a
@@ -6156,7 +6160,7 @@ news to <person name="Herbert Kitchener"> K. </person> The cloud of these coming
 shadow over us for awhile and now the sun shines again.</p></entry>
 
 <entry>
-<p> 20th May, 1919. <location ship="S.S. Arcadian"> H.M.T. "Arcadian."  </location> <person name="Aubrey Herbert"> Aubrey Herbert </person> saw me before
+<p> 20th May, 1919. <location ship="S.S. Arcadian"> H.M.T. "Arcadian"  </location> <person name="Aubrey Herbert"> Aubrey Herbert </person> saw me before
 dinner. <person name="Aubrey Herbert"> He </person> brings a message from <person name="William Birdwood"> Birdie </person> to say that there has been some
 sort of parley with the enemy who wish to fix up an armistice for the
 burial of their dead. <person name="Aubrey Herbert"> Herbert </person> is keen on meeting the Turks half way and
@@ -6177,7 +6181,7 @@ than 100 yards. On the 18th fifty heavy shells, including 12-inch and
 14-inch, dropped out of the blue vault of heaven on to the Anzacs.
 Everyone sorry to say good-bye to Thursby who goes to <location country="Italy"> Italy </location>.</p>
 
-<p>Rumours that <person name="Winston"> Winston </person> is leaving the Admiralty. This would be an awful
+<p>Rumours that <person name="Winston Churchil"> Winston </person> is leaving the Admiralty. This would be an awful
 blow to us out here, would be a sign that Providence had some grudge
 against the Dardanelles. Private feelings do not count in war, but alas,
 how grievous is this set-back to one who has it in him to revive the
@@ -6189,13 +6193,13 @@ turns out true about Winston, there will be a colder spirit (let them
 appoint whom they will) at the back of our battleships here.</p></entry>
 
 <entry>
-<p> 21st May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian." </location><location island="Imbros">Imbros</location>.  <person name="John de Robeck">De Robeck</person> came on board
+<p> 21st May, 1915. <location ship="S.S. Arcadian"> H.M.T. "Arcadian" </location><location island="Imbros">Imbros</location>.  <person name="John de Robeck">De Robeck</person> came on board
 with Lieutenant-Commander <person name="Boyle"> Boyle </person> of E. 4 fame. I was proud indeed to meet
 the young and modest hero. He gets the V.C.; his other two officers the
 D.S.O.; his crew the D.C.M.</p>
 
 <p>Also he brought with him the Reuter giving us the Cabinet changes and
-the resignations of <person name="Fisher"> Fisher </person> and <person name="Winston"> Winston </person> and this, in its interest, has
+the resignations of <person name="Fisher"> Fisher </person> and <person name="Winston Churchil"> Winston </person> and this, in its interest, has
 eclipsed even V.C.s for the moment. <person name="John de Rebeck Herbert"> De Robeck </person> reminded me that <person name="Roger Keyes"> Lord K.'s </person>
 cable (begging me to help him to combat any idea of withdrawal) must
 have been written that very day. A significant straw disclosing the
@@ -6229,11 +6233,11 @@ others who have only  heard  and  read . <person name="Herbert Kitchener"> K. </
 the new hands in the Cabinet once he had been out and got the real
 Gallipoli at their tips.</p>
 
-<p>I can't keep my thoughts from dwelling on the fate of <person name="Winston"> Winston </person>. How will
+<p>I can't keep my thoughts from dwelling on the fate of <person name="Winston Churchil"> Winston </person>. How will
 he feel now he realizes he is shorn of his direct power to help us
 through these dark and dreadful Straits? Since I started nothing has
 handicapped me more than the embargo which a double loyalty to <person name="Herbert Kitchener"> K. </person> and to
-<person name="John de Robeck"> de Robeck </person> has imposed upon my communications to <person name="Winston"> Winston </person>. What a tragedy
+<person name="John de Robeck"> de Robeck </person> has imposed upon my communications to <person name="Winston Churchil"> Winston </person>. What a tragedy
 that his nerve and military vision have been side-tracked: his eclipse
 projects a black shadow over the Dardanelles.</p>
 
@@ -6243,15 +6247,16 @@ brilliant effort of unaided genius in history than that recorded in the
 scene when Winston burst into the Council Chamber and bucked up the
 Burgomeisters to hold on a little bit longer. Any comfort our people may
 enjoy from being out of cannon shot of the Germans--they owe it to the
-imagination, bluff and persuasiveness of <person name="Winston"> Winston </person> and to this gallant
+imagination, bluff and persuasiveness of <person name="Winston Churchil"> Winston </person> and to this gallant
 Naval Division now destined to be starved to death!</p>
 
 <p>Sent my first despatch home to-day by King's Messenger. Never has story
 been penned amidst so infernal a racket.</p></entry>
+  </chapter>
+  
+  <chapter n="9" heading="SUBMARINES">CHAPTER IX SUBMARINES
 
-  <chapter n="9" heading="SUBMARINES">CHAPTER IX SUBMARINES</chapter>
-
-<entry><p> 22nd May, 1915. <location ship="S.S. Arcadian.">H.M.T. "Arcadian."</location>  News in to say that yesterday,
+<entry><p> 22nd May, 1915. <location ship="S.S. Arcadian">H.M.T. "Arcadian"</location>  News in to say that yesterday,
 whilst Herbert was here to take orders about an armistice, some sort of
 an informal parley actually took place. Both sides suddenly got panic
 stricken, thinking the others were treacherous, and fire was opened,
@@ -6345,7 +6350,7 @@ decent burial to so many men.</p>
       Sir John Hamilton, Excellence."</p>
 
 
-<entry><p> 23rd May, 1915. <location ship="S.S. Arcadian.">H.M.T. "Arcadian."</location>  Blazing hot. Wrote all day. Had an
+<entry><p> 23rd May, 1915. <location ship="S.S. Arcadian">H.M.T. "Arcadian"</location>  Blazing hot. Wrote all day. Had an
 hour and a half's talk with <person name="John de Robeck">de Robeck</person>--high politics as well as our own
 rather anxious affairs. No one knows how the new First Lord will play
 up, but Asquith, for sure, chucks away his mainspring if he parts with
@@ -6356,7 +6361,7 @@ than all the Turks and all their German guns.</p>
 
 </entry>
 
-<entry><p> 24th May, 1915. <location ship="S.S. Arcadian.">H.M.T. "Arcadian."</location>  Vice-Admiral Nicol, French Naval
+<entry><p> 24th May, 1915. <location ship="S.S. Arcadian">H.M.T. "Arcadian"</location>  Vice-Admiral Nicol, French Naval
 Commander-in-Chief, came aboard to pay me a visit.</p>
 
 <p>Armistice from 9.30 a.m. to 4.30 p.m. for burial of Turkish dead. All
@@ -6370,7 +6375,7 @@ for sure.</p>
 
 </entry>
 
-<entry><p> 25th May, 1915. <location ship="S.S. Arcadian.">H.M.T. "Arcadian."</location>  Bad news confirmed. The Admiral
+<entry><p> 25th May, 1915. <location ship="S.S. Arcadian">H.M.T. "Arcadian"</location>  Bad news confirmed. The Admiral
 came aboard and between us we tried to size up the new situation and to
 readjust ourselves thereto. Our nicely worked out system for supplying
 the troops has in a moment been tangled up into a hundred knotty
@@ -6381,7 +6386,7 @@ future Mudros will be the only possible harbour for these priceless
 floating depots. <location island="Imbros">Imbros</location>, here, lies quite open to submarine attacks, and
 in a northerly gale, becomes a mere roadstead. The Admiral, who regards
 soldiers as wayward water babes, has insisted on lashing a merchantman
-to each side of the <location ship="S.S. Arcadian."> Arcadian </location> to serve as torpedo buffers. There are,
+to each side of the <location ship="S.S. Arcadian"> Arcadian </location> to serve as torpedo buffers. There are,
 it seems, at least two German submarines prowling about at the present
 moment between <location peninsula="Gaba Tepe"> Gaba Tepe </location> and Cape <location peninsula="Helles">Helles</location>. After torpedoing the  Triumph 
 the same submarine fired at and missed the  Vengeance . The  Lord
@@ -6415,7 +6420,7 @@ held up cigarettes and called out "baksheesh."</p>
 slight loss. The East Lancs also pushed on a little bit.</p>
 </entry>
 
-<entry><p> 26th May, 1915. <location ship="S.S. Arcadian.">H.M.T. "Arcadian."</location>  Entertained a small party of
+<entry><p> 26th May, 1915. <location ship="S.S. Arcadian">H.M.T. "Arcadian"</location>  Entertained a small party of
 Australian officers as my private guests for 48 hours, my idea being to
 give them a bit of a rest. <person name="Colonel Monash">Colonel Monash</person>, commanding <unit type="brigade">4th Australian
 Infantry Brigade</unit>, was the senior. He is a very competent officer. I have
@@ -6506,7 +6511,7 @@ Imperial task ever entrusted to an army.</p>
 
 </entry>
 
-<entry><p> 27th May, 1915. <location ship="S.S. Arcadian.">H.M.T. "Arcadian."</location>  The  Majestic  has been torpedoed
+<entry><p> 27th May, 1915. <location ship="S.S. Arcadian">H.M.T. "Arcadian"</location>  The  Majestic  has been torpedoed
 and has sunk off Cape <location peninsula="Helles">Helles</location>. Got the news at mid-day. Fuller, my
 Artillery Commander, and Ashmead-Bartlett, the correspondent, were both
 on board, and both were saved--minus kit! About 40 men have gone under.
@@ -6520,7 +6525,7 @@ that ye be not judged."</p>
 
 </entry>
 
-<entry><p> 28th May, 1915. <location ship="S.S. Arcadian.">H.M.T. "Arcadian."</location>  Went for a walk with the Admiral.
+<entry><p> 28th May, 1915. <location ship="S.S. Arcadian">H.M.T. "Arcadian"</location>  Went for a walk with the Admiral.
 He refuses any longer to accept the responsibility of keeping us afloat.
 As <location peninsula="Helles">Helles</location>, Anzac and Tenedos have each been ruled out, we are going to
 doss down on this sandbank opposite us. One thing, it will be central to
@@ -6528,7 +6533,7 @@ both my theatres of work.</p>
 
 </entry>
 
-<entry><p> 29th May, 1915. <location ship="S.S. Arcadian.">H.M.T. "Arcadian."</location>  The Commodore, <person name="Roger Keyes">Roger Keyes</person>, arrived
+<entry><p> 29th May, 1915. <location ship="S.S. Arcadian">H.M.T. "Arcadian"</location>  The Commodore, <person name="Roger Keyes">Roger Keyes</person>, arrived
 mid-day and invited me to come over to <location peninsula="Helles">Helles</location> with him on a destroyer,
 <location ship="H.M.S. Scorpion">H.M.S.  Scorpion. </location> He was crossing in hopes-- in hopes,  if you
 please--of hitting off the submarine. The idea that it might hit him had
@@ -6588,7 +6593,7 @@ Bosphorus has been abandoned!!!</p>
 
 </entry>
 
-<entry><p> 30th May, 1915. <location ship="S.S. Arcadian.">H.M.T. "Arcadian."</location>  Went to Anzac in a destroyer. The
+<entry><p> 30th May, 1915. <location ship="S.S. Arcadian">H.M.T. "Arcadian"</location>  Went to Anzac in a destroyer. The
 Cove was being heavily shelled, and the troops near the beach together
 with the fatigue parties handling stores and ammunition, had dashed
 into their dugouts like marmots at the shadow of an eagle. Birdwood came
@@ -6696,7 +6701,7 @@ everyone likes him, even the R.A.M.C.</p>
 
 </entry>
 
-<entry><p> 31st May, 1915. <location ship="S.S. Arcadian.">H.M.T. "Arcadian."</location>  Worked in the forenoon. Gouraud,
+<entry><p> 31st May, 1915. <location ship="S.S. Arcadian">H.M.T. "Arcadian"</location>  Worked in the forenoon. Gouraud,
 Girodon and Hunter-Weston lunched and we spent the afternoon at the
 scheme for our next fight. Each of us agreed that Fortune had not been
 over kind. By one month's hard, close hammering we had at last made the
@@ -7267,11 +7272,10 @@ There's more in this than meets the common or garden optic!</p>
 
 <p>Very heavy firing on the Peninsula at 8 o'clock; a ceaseless tremor of
 the air which--faint here--denotes tremendous musketry there.</p>
+  </entry>
+</chapter>
 
-</entry>
-
-
-  <chapter n="10" heading="A DECISION AND THE PLAN">CHAPTER X A DECISION AND THE PLAN</chapter>
+  <chapter n="10" heading="A DECISION AND THE PLAN">CHAPTER X A DECISION AND THE PLAN
 
 <entry><p>8th June, 1915.<location island="Imbros">Imbros</location>.  We are getting "three Divisions of the New
 Army"! The Cabinet "are determined to support" us! And why wouldn't they
@@ -8101,9 +8105,9 @@ treat this letter as private. With all kind remembrance.</p>
 
 <p></p>
 </entry>
-
-  <chapter n="11" heading="BOMBS AND JOURNALISTS">CHAPTER XI BOMBS AND JOURNALISTS</chapter>
-
+  </chapter>
+  
+  <chapter n="11" heading="BOMBS AND JOURNALISTS">CHAPTER XI BOMBS AND JOURNALISTS
 
 <entry><p>
 Our beautiful East Lancs. Division is in a very bad way. One more month
@@ -8845,8 +8849,9 @@ another over the great Voluntary Service issue.</p>
 
 <p></p>
 </entry>
-
-  <chapter n="12" heading="A VICTORY AND AFTER">CHAPTER XII A VICTORY AND AFTER</chapter>
+  </chapter>
+  
+  <chapter n="12" heading="A VICTORY AND AFTER">CHAPTER XII A VICTORY AND AFTER
 
 <entry><p>28th June, 1915.<location island="Imbros">Imbros</location>.  The fateful day.</p>
 
@@ -9977,8 +9982,9 @@ be decently buried, I find myself forced to say no.</p>
 <p>Patrick Shaw Stewart came to see me. I made Peter take his photo. He was
 on a rat of a pony and sported a long red beard. How his lady friends
 would laugh!</p> </entry>
-
-  <chapter n="13" heading="K.'S ADVICE AND THE P.M.'S ENVOY">CHAPTER XIII K.'S ADVICE AND THE P.M.'S ENVOY</chapter>
+  </chapter>
+  
+  <chapter n="13" heading="K.'S ADVICE AND THE P.M.'S ENVOY">CHAPTER XIII K.'S ADVICE AND THE P.M.'S ENVOY
 
 <entry><p> 11th July, 1915.  Worked in my office from early morning till 12.45.
 The whole scheme for to-morrow's attack is cut and dried, according to
@@ -10620,8 +10626,8 @@ saying it is imperative.</p>
 
 </entry>
 
-
-  <chapter n="14" heading="THE FORCE--REAL AND IMAGINARY">CHAPTER XIV THE FORCE--REAL AND IMAGINARY</chapter>
+  </chapter>
+  <chapter n="14" heading="THE FORCE--REAL AND IMAGINARY">CHAPTER XIV THE FORCE--REAL AND IMAGINARY
 
 <entry><p> 22nd July, 1915. <location island="Imbros">Imbros</location> Had a jolly outing to-day. Left for Cape
 <location peninsula="Helles">Helles</location> by trawler just before 10 o'clock. <person name="Cecil Aspinall-Oglander">Aspinall</person>, Bertier and young
@@ -11373,8 +11379,8 @@ with a brief explanatory heading.--IAN H., 1920.]</p>
 
 </entry>
 
-
-  <chapter n="15" heading="SARI BAIR AND SUVLA">CHAPTER XV SARI BAIR AND SUVLA</chapter>
+  </chapter>
+  <chapter n="15" heading="SARI BAIR AND SUVLA">CHAPTER XV SARI BAIR AND SUVLA
 
 <entry><p> 6th August, 1915. <location island="Imbros">Imbros</location> O! God of Bethel, by whose hand thy people
 still are fed,--I am wishing the very rare wish,--that it was the day
@@ -12283,8 +12289,9 @@ on."]</p>
 
 </entry>
 
-
-  <chapter n="16" heading="KAVAK TEPE ATTACK COLLAPSES">CHAPTER XVI KAVAK TEPE ATTACK COLLAPSES</chapter>
+  </chapter>
+  
+  <chapter n="16" heading="KAVAK TEPE ATTACK COLLAPSES">CHAPTER XVI KAVAK TEPE ATTACK COLLAPSES
 
 
 <entry><p> 10th August, 1915. <location island="Imbros">Imbros</location> Had to remain at G.H.Q. all day--the worst
@@ -13227,8 +13234,8 @@ instructions.--IAN H., 1920.]</p>
 
 </entry>
 
-
-  <chapter n="17" heading="THE LAST BATTLE">CHAPTER XVII THE LAST BATTLE</chapter>
+  </chapter>
+  <chapter n="17" heading="THE LAST BATTLE">CHAPTER XVII THE LAST BATTLE
 
 <entry><p> 18th August, 1915. <location island="Imbros">Imbros</location> Freddie and I left in the  Arno  this
 morning; <person name="Walter Braithwaite">Braithwaite</person> and his boy Val came with us. We sailed for <location coast="Suvla Bay">Suvla</location>
@@ -13832,8 +13839,8 @@ and already fairly well entrenched. Since the morning of the 7th the
 chances had been rising steadily against us. Still, even so, the lack of
 precise detail baffles me almost as much as in the case of the first
 <location coast="Suvla Bay">Suvla</location> landing.</p></entry>
-
-  <chapter n="18" heading="MISUNDERSTANDINGS">CHAPTER XVIII MISUNDERSTANDINGS</chapter>
+  </chapter>
+  <chapter n="18" heading="MISUNDERSTANDINGS">CHAPTER XVIII MISUNDERSTANDINGS
 
 <entry>
 <p> 25th August, 1915. <location island="Imbros">Imbros </location> <person name="Davies">Davies</person>left for <location peninsula="Helles">Helles</location> at mid-day. Was to
@@ -14343,8 +14350,8 @@ two other battalions turned out to be non-fighting formations.--IAN H.,
 1920.]</p>
 </entry>  
   
-  
-  <chapter n="19" heading="THE FRENCH PLAN">CHAPTER XIX THE FRENCH PLAN</chapter>
+  </chapter> 
+  <chapter n="19" heading="THE FRENCH PLAN">CHAPTER XIX THE FRENCH PLAN
 
 <entry>
 <p> 2nd September, 1915. <location island="Imbros">Imbros</location>.  An ugly dream came to me last night. My
@@ -14526,7 +14533,7 @@ in.</p>
 
 <entry>
 <p> 7th September, 1915. <location island="Imbros">Imbros</location>.  At 9.30 left the  <location ship="H.M.S. Triad">Triad</location>  to call on
-Admiral <person name="de la Perriera">de la Perriera</person> on board the  <location ship="F.S Gaulois">Gaulois</location> . Thence to <location ship="H.M.S. Racoon"> H.M.S. Racoon </location>
+<person name="de la Perriera"> Admiral de la Perriera</person> on board the  <location ship="M.N. Gaulois">Gaulois</location> . Thence to <location ship="H.M.S. Racoon"> H.M.S. Racoon </location>
 (Lieutenant-Commander Hardy) and started back for <location island="Imbros">Imbros</location>, where we
 arrived in time for tea.</p>
 </entry>
@@ -14545,7 +14552,7 @@ up my first request for a Field Force Canteen.</p>
 
 
 
-<p>  "N. Z. and A. Division.</p>
+<p>  "<unit type="division">N. Z.</unit> and <unit type="division">A. Division</unit>."</p>
 
 <p><person name="William Birdwood">I</person> desire to draw attention to the remarkable drop in the sick
 evacuations from this Brigade as shown by the following figures:--</p>
@@ -14570,7 +14577,7 @@ supplies.</p>
 
 <entry>
 <p> 9th September, 1915. <location island="Imbros">Imbros</location>.  At 9.30 <person name="de la Perriera">Admiral de la Perriera</person> returned
-my call. At 11.50 <person name="Walter Braithwaite">Braithwaite</person>, <person name="Freddy">Freddy</person> and I went aboard the <location ship="F.S Gaulois">Gaulois</location>.</p>
+my call. At 11.50 <person name="Walter Braithwaite">Braithwaite</person>, <person name="Freddy">Freddy</person> and I went aboard the <location ship="M.N. Gaulois">Gaulois</location>.</p>
 
 <p>[Illustration: FISH FROM THE ENEMY,  "Central News" phot. ]</p>
 
@@ -14966,7 +14973,7 @@ must go out to the East. There is no more question about this than there
 is about Belgium and the three years' duration. <person name="Herbert Kitchener">He</person> has told me so; time
 and again.</p>
 
-<p>Why then does <person name="Herbert Kitchener">he</person> not act accordingly if <person name="Herbert Kitchener">he</person>'s in the Almighty know?
+<p>Why then does <person name="Herbert Kitchener">he</person> not act accordingly if he's in the Almighty know?
 Because <person name="Herbert Kitchener">he</person> can't. With the one exception of the Battle of <location town="Paardeberg">Paardeberg</location>, <person name="Herbert Kitchener">he</person>
 never in <person name="Herbert Kitchener">his</person> palmiest days pretended to be a man of action. But now <person name="Herbert Kitchener">he</person>
 has lost <person name="Herbert Kitchener">his</person> faculty of forcing others to act. <person name="Herbert Kitchener">He</person> makes a spurt but <person name="Herbert Kitchener">he</person>
@@ -14974,7 +14981,7 @@ can't stay the distance. <person name="Herbert Kitchener">He</person> has met <p
 Council and allowed the searchlights of <person name="Herbert Kitchener">his</person> genius to be snuffed out!
 That is what surprises me:--<person name="Herbert Kitchener">He</person>, who once could deflect <person name="Joe Chamberlain">Joe Chamberlain</person>
 and <person name="Milner">Milner</person> from their orbits; who twisted stiff-necked Boers round his
-little finger; who bore down <person name="Mr.Asquith">Asquith</person>, <person name="Winston">Winston</person>, <person name="Prince Louis">Prince Louis</person> and <person name="Beatty">Beatty</person>
+little finger; who bore down <person name="Mr.Asquith">Asquith</person>, <person name="Winston Churchil">Winston</person>, <person name="Prince Louis">Prince Louis</person> and <person name="Beatty">Beatty</person>
 in Valetta Harbour--East  versus  West--Mediterranean  versus  N/orth
 Sea--who, from 8 p.m. to 2 a.m., withstood, wrestled with and overthrew
 Haldane's arguments in favour of his taking up the succession to the
@@ -15229,8 +15236,9 @@ Government are anxious to form two bases each capable of supplying three
 Divisions: one to be at <location town="Mudros">Mudros</location>, the other at <location town="Mitylene">Mitylene</location>. Is it business?
 In spite of delay, in spite of lost chances, is it business?</p>
 </entry>
-
-  <chapter n="20" heading="LOOS AND SALONIKA">CHAPTER XX LOOS AND SALONIKA</chapter>
+  </chapter>
+  
+  <chapter n="20" heading="LOOS AND SALONIKA">CHAPTER XX LOOS AND SALONIKA
 
 <entry>
 <p>Left G.H.Q. at noon to-day, 18th, sailed to <location peninsula="Helles">Helles</location>; lunched with Davies;
@@ -15254,15 +15262,15 @@ know of the counter moves and to see their outcome:--</p>
 
 <p>"The exchange of battalions mentioned in No. 7873, cipher, of 14th
 September cannot be effected, so that at present the <unit type="brigade">51st</unit> and <unit type="brigade">53rd</unit> Sikhs
-will not proceed to <location country="France">France</location>. From the <person name="Commanding">General Officer Commanding</person>,
+will not proceed to <location country="France">France</location>. From the General Officer Commanding,
 <location country="Egypt">Egypt</location>'s, telegram No. 1854. E. of 15th September, it is understood that
-<person name="Commanding">he</person> can send you another double company of Patiala Sikhs to reinforce the
+he can send you another double company of Patiala Sikhs to reinforce the
 <unit type="brigade">14th Sikhs.</unit> Possibly this will suffice for your requirements in the
 meantime, and the <unit type="brigade">51st</unit> and <unit type="brigade">53rd</unit> Sikhs will be left at the disposal of
-<person name="Commanding">General Officer Commanding</person>, <location country="Egypt">Egypt</location>. If so, will you please make
+General Officer Commanding, <location country="Egypt">Egypt</location>. If so, will you please make
 arrangements with him accordingly?</p>
 
-<p>"Repeated to <person name="Commanding">General Officer Commanding</person>, <location country="Egypt">Egypt</location>."</p>
+<p>"Repeated to General Officer Commanding, <location country="Egypt">Egypt</location>."</p>
 
 <p>Our defeat is a foregone conclusion: the Senoussi is too strong for us.
 All the same I am determined to press the matter to an issue, if only to
@@ -15429,7 +15437,7 @@ King's Messenger arrived with the Mails.</p>
 
 <p>"(No. M.F. 654). From General Sir <person name="Ian Hamilton">Ian Hamilton</person> to War Office. Only two
 machine guns per battalion are being brought by the City of <location town="London">London</location>
-battalions, the balance, by order of <person name="Commanding">General Officer Commanding</person>, <location country="Egypt">Egypt</location>,
+battalions, the balance, by order of General Officer Commanding, <location country="Egypt">Egypt</location>,
 being handed over to Chief Ordnance Officer, <location country="Egypt">Egypt</location>. The former
 telegraphs that this has been done by your order. There is nothing that
 is more important to my force than an ample supply of these guns. I
@@ -16255,8 +16263,8 @@ wonderful delivery but--depend upon it--the price has yet to be
 paid!"--IAN H., 1920.]</p>
 </entry>
 
-
-  <chapter n="21" heading="THE BEGGINING OF THE END">CHAPTER XXI THE BEGGINING OF THE END</chapter>
+  </chapter>
+  <chapter n="21" heading="THE BEGGINING OF THE END">CHAPTER XXI THE BEGGINING OF THE END
 
 
 <entry>
@@ -17431,8 +17439,8 @@ way they have seconded <person name="Ian Hamilton">his</person> efforts to lead 
 victory, which, under their new Chief, <person name="Ian Hamilton"> he</person> has the most implicit
 confidence they will achieve."</p>
 </entry>
-  
-<p>FOOTNOTES:</p>
+  </chapter>  
+<chapter n="22" heading="FOOTNOTES AND APPENDIXES"> 
 
 <p>[Footnote 14: I think I hardly knew  how  often till I came to read
 through my diary in cold print. But all the time I was conscious, and am
@@ -17471,7 +17479,8 @@ marginal comment.--IAN H., 1920.]</p>
 
 
 
-<p>APPENDIX I</p>
+
+<entry>  <p>APPENDIX I</p>
 
 <p>STATEMENT ON ARTILLERY BY BRIGADIER GENERAL SIR HUGH SIMPSON BAIKIE,
 EX-COMMANDER OF THE BRITISH ARTILLERY AT CAPE HELLES.</p>
@@ -17932,12 +17941,12 @@ astonishing good fortune to be associated with such a body of officers
 and men; to them I owe a debt of gratitude that is beyond redemption,
 and to them alone is due the credit for any success which the artillery
 at <location peninsula="Helles">Helles</location> may have attained in what was one of <location country="England">England</location>'s greatest
-tragedies, but was also one of <location country="England">England</location>'s greatest glories.</p>
+tragedies, but was also one of <location country="England">England</location>'s greatest glories.</p></entry>
 
 
 
 
-<p>APPENDIX II</p>
+<entry><p>APPENDIX II</p>
 
 <p>DARDANELLES EXPEDITION</p>
 
@@ -18170,12 +18179,12 @@ for the artificers our most grateful appreciation and thanks.</p>
 <p>FOOTNOTES:</p>
 
 <p>[Footnote 17: Now Major-General Sir Charles Rosenthal, <person name="Herbert Kitchener">Lord K.</person>C.B., C.M.G.,
-D.S.O.--IAN H. 1920.]</p>
+D.S.O.--IAN H. 1920.]</p></entry>
 
 
 
 
-<p>APPENDIX III</p>
+<entry><p>APPENDIX III</p>
 
 
 <p>The Dispatch of a Commander-in-Chief is not a technical document. In it
@@ -18259,7 +18268,7 @@ disembarkation, etc., will be forwarded to you later.</p>
                                     ( Signed ) IAN HAMILTON,</p>
 
 <p>                                             General, Commanding 
-                               Mediterranean Expeditionary Force. </p>
+                               Mediterranean Expeditionary Force. </p></entry>
 
 
 
@@ -20049,6 +20058,6 @@ importance. You will then consider and report at the earliest moment:--</p>
 
 <p>   Major-General, Chief of the General Staff,</p>
 
-<p>  Mediterranean Expeditionary Force. </p>
+<p>  Mediterranean Expeditionary Force. </p></chapter>
 
 </root>
