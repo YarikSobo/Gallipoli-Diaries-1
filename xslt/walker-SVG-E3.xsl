@@ -18,7 +18,7 @@
     <xsl:template match="$gal_text">
         <xsl:result-document method="xhtml" indent="yes" href="../docs/walker-SVG-E3-output.html">
             <html>
-                <head><title>Gallipoli Diaries - Chapters 13-17</title> <link rel="stylesheet" type="CSS"></link></head>
+                <head><title>Gallipoli Diaries - Chapters 13-17</title></head>
                 <body>
                     <h1>Towns in the Gallipoli Diaries, by frequency</h1>
                     <svg viewBox="0 0 2250 1850">
