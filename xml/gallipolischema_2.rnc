@@ -33,7 +33,7 @@ sea = attribute sea{text}
 coast = attribute coast{text}
 # location chunk; may want to tighten parameters later
 
-unit = element unit{(type | unitName), text}
+unit = element unit{(type | unitName)+, text}
 type = attribute type{"brigade"| "division"| "infantry"| "regiment"| "battalion"| "expeditionary_force"|"battery"| "corps"}
 unitName = attribute unitName{text}
 # unit chunk
