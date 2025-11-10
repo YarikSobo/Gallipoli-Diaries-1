@@ -255,15 +255,15 @@ edgeways.[3]</p>
 
 <p>My troops were to be Australians and New Zealanders under <person name="William Birdwood">Birdwood</person> (a
 friend); strength, say, about 30,000. (A year ago I inspected them in
-their own Antipodes and no finer material exists); the <unit type="division">29th Division</unit>,
+their own Antipodes and no finer material exists); the <unit type="division" unitName="29th Division">29th Division</unit>,
 strength, say 19,000 under <person name="Aylmer Hunter-Weston">Hunter-Weston</person>--a slashing man of action; an
-acute theorist; the <unit type="division">Royal Naval Division</unit>, 11,000 strong (an excellent
+acute theorist; the <unit type="division" unitName="Naval Division">Royal Naval Division</unit>, 11,000 strong (an excellent
 type of Officer and man, under a solid Commander--<person name="Archibald Paris">Paris</person>); a French
 contingent, strength at present uncertain, say, about a Division, under
 my old war comrade the chivalrous <person name="Albert d'Amade">d'Amade</person>, now at Tunis.</p>
 
 <p>Say then grand total about 80,000--probably panning out at some 50,000
-rifles in the firing line. Of these the <unit type="division">29th Division</unit> are
+rifles in the firing line. Of these the <unit type="division" unitName="29th Division">29th Division</unit> are
 extras-- division de luxe. </p>
 
 <p><person name="Herbert Kitchener">K.</person> went on; he was now fairly under weigh and got up and walked about
@@ -271,9 +271,9 @@ the room as he spoke. I knew, he said, his (<person name="Herbert Kitchener">K.<
 political and strategic value of the Near East where one clever tactical
 thrust delivered on the spot and at the spot might rally the wavering
 Balkans. Rifle for rifle,  at that moment , we could nowhere make as
-good use of the <unit type="division">29th Division</unit> as by sending it to the <location straits="Dardanelles">Dardanelles</location>, where
+good use of the <unit type="division" unitName="29th Division">29th Division</unit> as by sending it to the <location straits="Dardanelles">Dardanelles</location>, where
 each of its 13,000 rifles might attract a hundred more to our side of
-the war. Employed in <location country="France">France</location> or Flanders the <unit type="division">29th</unit> would at best help to
+the war. Employed in <location country="France">France</location> or Flanders the <unit type="division" unitName="29th Division">29th</unit> would at best help to
 push back the German line a few miles; at the <location straits="Dardanelles">Dardanelles</location> the stakes
 were enormous. He spoke, so it struck me, as if he was defending himself
 in argument: he asked if I agreed. I said, "Yes." "Well," he rejoined,
@@ -288,9 +288,9 @@ I'll give it to them. French and his Staff believe firmly that the
 British Imperial Armies can pitch their camp down in one corner of
 Europe and there fight a world war to a finish. The thing is absurd but
 French, plus <location country="France">France</location>, are a strong combine and they are fighting tooth
-and nail for the <unit type="division">29th Division</unit>. It must clearly be understood then:--"</p>
+and nail for the <unit type="division" unitName="29th Division">29th Division</unit>. It must clearly be understood then:--"</p>
 
-<p>(1) That the <unit type="division">29th Division</unit> are only to be a loan and are to be returned
+<p>(1) That the <unit type="division" unitName="29th Division">29th Division</unit> are only to be a loan and are to be returned
 the moment they can be spared.</p>
 
 <p>(2) That all things ear-marked for the East are looked on by powerful
@@ -299,7 +299,7 @@ West.</p>
 
 <p>Did I take this in? I said, "I take it from you." Did I myself, speaking
 as actual Commander of the Central Striking Force and executively
-responsible for the land defence of <location country="England">England</location>, think the <unit type="division">29th Division</unit>
+responsible for the land defence of <location country="England">England</location>, think the <unit type="division" unitName="29th Division">29th Division</unit>
 could be spared at all? "Yes," I said, "and four more Territorial
 Divisions as well." <person name="Herbert Kitchener">K.</person> used two or three very bad words and added, with
 his usual affability, that I would find myself walking about in civilian
@@ -313,10 +313,10 @@ quite well already my views on an invasion of <location country="England">Englan
 would be like trying to hurt a monkey by throwing nuts at him. I didn't
 want to steal what French wanted, but now that the rifles had come and
 the troops had finished their musketry, there was no need to squabble
-over a Division. Why not let French have two of my <unit type="division">Central Force
+over a Division. Why not let French have two of my <unit type="division" unitName="54th Division">Central Force
 Territorial Division</unit> at once,--they were jolly good and were wasting
 their time over here. That would sweeten French and he and Joffre would
-make no more trouble about the <unit type="division">29th</unit>.</p>
+make no more trouble about the <unit type="division" unitName="29th Division">29th</unit>.</p>
 
 <p><person name="Herbert Kitchener">K.</person> glared at me. I don't know what he was going to say when <person name="Charles Callwell">Callwell</person>
 came into the room with some papers.</p>
@@ -408,7 +408,7 @@ the cart. <location coast="Besika Bay">Besika Bay</location> and <location city=
 touched! Even after we force the Narrows no troops are to be landed
 along the Asian coastline. Nor are we to garrison any part of the
 <location peninsula="Gallipoli Peninsula">Gallipoli Peninsula</location> excepting only the <location town="Bulair">Bulair</location> Lines which had best be
-permanently held, <person name="Herbert Kitchener">K.</person> thinks, by the <unit type="division">Naval Division</unit>.</p>
+permanently held, <person name="Herbert Kitchener">K.</person> thinks, by the <unit type="division" unitName="Naval Division">Naval Division</unit>.</p>
 
 <p>When we get into the <location sea="Marmora Sea">Marmora</location> I shall be faced by a series of big
 problems. What would I do? From what quarter could I attack
@@ -446,7 +446,7 @@ Russians will be very jealous and prickly. Luckily we British have an
 easy part to play as the more we efface ourselves at that stage, the
 better he, <person name="Herbert Kitchener">K.</person>, will be pleased. The Army in <location country="France">France</location> have means of making
 their views work in high places and pressure is sure to be put on by
-them and by their friends for the return of the <unit type="division">29th</unit> and <unit type="division">Naval</unit> Divisions
+them and by their friends for the return of the <unit type="division" unitName="29th Division">29th</unit> and <unit type="division">Naval</unit> Divisions
 the moment we bring <location country="Turkey">Turkey</location> to book. Therefore, it will be best in any
 case to "let the French and Russians garrison <location city="Constantinople">Constantinople</location> and sing
 their hymns in S. Sophia," whilst my own troops hold the railway line
@@ -601,7 +601,7 @@ hurried jottings by <person name="Walter Braithwaite">Braithwaite</person>:--"On
 Howitzers!!! High Explosive essential. Who is to be C.R.E.? Engineer
 Stores? French are to remain at <location country="Tunis">Tunis</location> until the day comes that they are
 required. Egyptian troops also remain in <location country="Egypt">Egypt</location> till last moment.
-Everything we want by 30th (it is hoped). Await arrival of <unit type="division">29th Division</unit>
+Everything we want by 30th (it is hoped). Await arrival of <unit type="division" unitName="29th Division">29th Division</unit>
 before undertaking anything big. If <person name="Sackville Carden">Carden</person> wants military help it is for
 <person name="Ian Hamilton">Sir Ian's</person> consideration whether to give or to withhold it." These rough
 notes; the text book on the Turkish Army, and two small guide books: not
@@ -822,10 +822,10 @@ dinner got back here.</p></entry>
 a.m. and reached <location island="Lemnos">Lemnos</location> at 6 a.m. I never saw so many ships collected
 together in my life; no, not even at <location city="Hong-Kong">Hong Kong</location>, <location city="Bombay">Bombay</location> or <location city="New-York">New York</location>.
 Filled up with oil fuel and at 7 a.m. <person name="Albert d'Amade">d'Amade</person> and Major-General <person name="Archibald Paris">Paris</person>,
-commanding the <unit type="division">Royal Naval Division</unit>, came on board with one or two Staff
+commanding the <unit type="division" unitName="Naval Division">Royal Naval Division</unit>, came on board with one or two Staff
 Officers. After consulting these Officers as well as <person name="Ewan McLagan">McLagan, the
 Australian Brigadier</person>, cabled <person name="Herbert Kitchener">Lord K.</person> to say <location city="Alexandria">Alexandria</location>  must  be our
-base as "the <unit type="division">Naval Division</unit> transports have been loaded up as in peace
+base as "the <unit type="division" unitName="Naval Division">Naval Division</unit> transports have been loaded up as in peace
 time and they must be completely discharged and every ship reloaded," in
 war fashion. At <location island="Lemnos">Lemnos</location>, where there are neither wharfs, piers, labour
 nor water, the thing could not be done. Therefore, "the closeness of
@@ -1328,7 +1328,7 @@ degree. There are no small craft to speak of. There is no provision for
 carrying water. There is no information  at all  about springs or wells
 ashore. There is no arrangement for getting off the wounded and my
 Principal Medical Officer and his Staff won't be here for a fortnight.
-My orders against piecemeal occupation are specific. But <unit type="division">the 29th</unit>
+My orders against piecemeal occupation are specific. But <unit type="division" unitName="29th Division">the 29th</unit>
 Division is our  piece de resistance  and it won't be here, we
 reckon--not complete--for another three weeks.</p>
 
@@ -1341,15 +1341,15 @@ of numbers, time and space. The Turks would have at least a fortnight to
 concentrate their whole force against my half force; to defeat them and
 then to defy the other half.</p>
 
-<p>I must wait for the <unit type="division">29th Division</unit>. By the time they come I can get
+<p>I must wait for the <unit type="division" unitName="29th Division">29th Division</unit>. By the time they come I can get
 things straight for a smashing simultaneous blow and I am resolved that,
 so far as in me lies, the orders and preparations will then be so
 thoroughly worked out--so carefully rehearsed as to give every chance to
 my men.[6]</p>
 
-<p>If the <unit type="division">29th Division</unit> were here--or near at hand--I could balance
+<p>If the <unit type="division" unitName="29th Division">29th Division</unit> were here--or near at hand--I could balance
 shortage against the obvious evils of giving the Turks time to reinforce
-and to dig. Could I hope for the <unit type="division">29th Division</unit> within a week it might be
+and to dig. Could I hope for the <unit type="division" unitName="29th Division">29th Division</unit> within a week it might be
 worth my while to fly in the face of <person name="Herbert Kitchener">K.</person> by grasping <location peninsula="Gallipoli Peninsula">the Peninsula</location> firmly
 by her toe: or,--had my staff and self been here ten days ago, we could
 have already got well forward with our plans and orders, as well as with
@@ -1358,7 +1358,7 @@ invasion of a barren, trackless extremity of an Empire--odds and ends
 never thought of by anyone until the spur of reality brought them
 galloping to the front. Then the moment the Fleet cried off, we might
 have had a dash in, right away, with what we have here. The onslaught
-could have been supported from <location country="Egypt">Egypt</location> and the <unit type="division">29th Division</unit> might have
+could have been supported from <location country="Egypt">Egypt</location> and the <unit type="division" unitName="29th Division">29th Division</unit> might have
 been treated as a reserve.</p>
 
 <p>But, taking things as they are:--</p>
@@ -1366,7 +1366,7 @@ been treated as a reserve.</p>
 <p>(1). No detail thought out, much less worked out or practised, as to
 form or manner of landing;</p>
 
-<p>(2). Absence of <unit type="division">29th Division</unit>;</p>
+<p>(2). Absence of <unit type="division" unitName="29th Division">29th Division</unit>;</p>
 
 <p>(3). Lack of gear (naval and military) for any landing on a large scale
 or maintenance thereafter;</p>
@@ -1424,7 +1424,7 @@ encounter. But the men are superb specimens.</p>
 afternoon. Bad to see these transports sailing the wrong way. What a
 d----d pity! is what every soldier here feels--and says. But to look
 on the bright side, our fellows will be twice as well trained to boat
-work, and twice as well equipped by the time the <unit type="division">29th</unit> turn up, and by
+work, and twice as well equipped by the time the <unit type="division" unitName="29th Division">29th</unit> turn up, and by
 then the weather will be more settled. As <person name="Albert d'Amade">d'Amade</person> said too, it will be
 worth a great deal to us if the French troops get a chance of working a
 little over the ground together with their British comrades before they
@@ -1488,17 +1488,17 @@ sinews in our calves playing lawn tennis--a bond of union.</p>
 
 <p>Have cabled to <person name="Herbert Kitchener">Lord K.</person> telling him I am just off to Alexandria. Have
 said that the ruling factor of my date of landing must be the arrival of
-the <unit type="division">29th Division</unit> "(see para. 2 of your formal instructions to me the
+the <unit type="division" unitName="29th Division">29th Division</unit> "(see para. 2 of your formal instructions to me the
 foresight of which appeals to me with double force now we are at close
 quarters with the problem[7])." I have pointed out that <person name="William Birdwood">Birdwood's</person>
-Australians are very weak in artillery; that the <unit type="division">Naval Division</unit> has none
-at all and that the guns of the <unit type="division">29th Division</unit> make that body even more
+Australians are very weak in artillery; that the <unit type="division" unitName="Naval Division">Naval Division</unit> has none
+at all and that the guns of the <unit type="division" unitName="29th Division">29th Division</unit> make that body even more
 indispensable than he had probably realised. I would very much like to
 add that these are no times for infantry divisions minus artillery
 seeing that they ought to have three times the pre-war complement of
 guns, but <person name="Walter Braithwaite">Braithwaite's</person> good advice has prevailed. As promised at the
 Conference I express a hope that I may be allowed "to complete
-<person name="William Birdwood">Birdwood's</person> <unit type="division">New Zealand Division</unit> with a <unit type="brigade">Brigade of Gurkhas</unit> who would work
+<person name="William Birdwood">Birdwood's</person> <unit type="division" unitName="New Zealandl Division">New Zealand Division</unit> with a <unit type="brigade">Brigade of Gurkhas</unit> who would work
 admirably in the terrain" of <location peninsula="Gallipoli Peninsula">the Peninsula</location>. In view of what we have
 gathered from <person name="Roger Keyes">Keyes</person>, I wind up by saying, "The <person name="Rosslyn Wemyss">Admiral</person>, whose confidence
 in the Navy seems to have been raised even higher by recent events, and
@@ -1603,13 +1603,13 @@ the General, "but  you may take liberties with a Waziri if only you can
 make him laugh ."</p></entry>
 
 <entry><p> 26th March, 1915. <location ship="H.M.S. Franconia">H.M.S. "Franconia</location>." At Sea.  Inspected troops on
-board. A keen, likely looking lot. All <unit type="division">Naval Division</unit>; living monuments,
+board. A keen, likely looking lot. All <unit type="division" unitName="Naval Division">Naval Division</unit>; living monuments,
 these fellows, to <person name="Winston Churchil">Winston</person> Churchill's contempt for convention.</p>
 
 <p>Reached <location city="Port Said">Port Said</location> about 3.30 p.m. Nipped into a "Special" which seems to
 have become my "ordinary" vehicle and left for <location city="Cairo">Cairo</location>. Opened despatches
 from <location city="London">London</location>. "Bullet-proof lighters cannot be provided." "I quite agree
-that the <unit type="division">29th Division</unit> with its artillery is necessary." Not a word
+that the <unit type="division" unitName="29th Division">29th Division</unit> with its artillery is necessary." Not a word
 about <unit type="brigade">the Gurkhas</unit>. Arrived at 10 p.m., and was met by <person name="John Maxwell">Maxwell</person>.</p></entry>
 
 <entry><p> 27th March, 1915 <location city="Cairo">Cairo</location>.  Working hard at Headquarters all day till 6.15
@@ -1703,7 +1703,7 @@ thought and has added one cubit to their stature.</p>
 join my Staff. They seem to be nice fellows. The French have been here
 some days and they are getting on well. <person name="Aylmer Hunter-Weston">Hunter-Weston</person> landed this
 morning; his first batch of transports are in the harbour. I am to see
-the French troops in four days' time; <person name="Aylmer Hunter-Weston">Hunter-Weston's</person> <unit type="division">29th Division</unit> on
+the French troops in four days' time; <person name="Aylmer Hunter-Weston">Hunter-Weston's</person> <unit type="division" unitName="29th Division">29th Division</unit> on
 the fifth day. Neither Commander has yet worked out how long it will
 take before he has reloaded his transports. They declare it takes three
 times as long to repack a ship loaded at haphazard as it would have
@@ -1921,7 +1921,7 @@ supply; tackling questions of procedure and discipline. We are all sorry
 for the Q. Staff who, through no fault of their own, have been late for
 the fair,  their  special fair, the preparation, and find the show is
 practically over. On paper at least, the Australians and New Zealanders
-and the <unit type="division">29th Division</unit> are properly fixed up. We should begin embarking
+and the <unit type="division" unitName="29th Division">29th Division</unit> are properly fixed up. We should begin embarking
 these formations within the next three days. After that will come <unit type="division">the
 Naval Division</unit> from <location city="Port Said">Port Said</location> and <unit type="division">the French Division</unit> from here.</p></entry>
 
@@ -1940,7 +1940,7 @@ wore on my finger the magic ring of the Arabian fairy tale: so I do I
 suppose, in the command it has pleased <person name="Herbert Kitchener">K.</person>, Imperial Grand Vizier, to
 bestow upon this humble but lively speck of dust. Mounting we cantered
 through the heavy sand towards the parade ground near the docks. Here,
-like a wall, stood <person name="Winston Churchil">Winston's</person> far-famed <unit type="division">Naval Division</unit> drawn up in its
+like a wall, stood <person name="Winston Churchil">Winston's</person> far-famed <unit type="division" unitName="Naval Division">Naval Division</unit> drawn up in its
 battle array. <person name="Archibald Paris">General Paris</person> received me backed by Olivant and Staff.
 After my inspection <unit type="division">the Division marched</unit> past, and marched past very
 well indeed, much better than they did when I saw them some months ago
@@ -2059,7 +2059,7 @@ already forgetting his warning not to put him in the cart by asking for
 too many things. <location country="France">France</location> must not be made jealous and <location country="Egypt">Egypt</location> ditto, I
 letter. The whole is  most  disappointing. Here is <person name="Herbert Cox">Cox</person> and here are his
 men, absolutely wasted and frightfully keen to come. There are the
-<location straits="Dardanelles">Dardanelles</location> short-handed; there is the <unit type="division">New Zealand Division</unit> short of a
+<location straits="Dardanelles">Dardanelles</location> short-handed; there is the <unit type="division" unitName="New Zealandl Division">New Zealand Division</unit> short of a
 Brigade. If surplus and deficit had the same common denominator, say
 "<person name="Herbert Kitchener">K.</person>" or "G.S." they would wipe themselves out to the instant
 simplification of the problem. As it is, they are kept on separate
@@ -2089,7 +2089,7 @@ it in one, even down to details, only I have not shells enough to cut
 through barbed wire with my field guns or howitzers." I say also, "I
 should much like to have some hint as to my future supply of gun and
 rifle ammunition. <unit type="division">The Naval Division</unit> has only 430 rounds per rifle and
-the <unit type="division">29th Division</unit> only 500 rounds which means running it fine."</p>
+the <unit type="division" unitName="29th Division">29th Division</unit> only 500 rounds which means running it fine."</p>
 
 <p>What might seem, to a civilian, a marvellous case of coincidence or
 telepathy were he ever to compare my completed plan with <person name="Herbert Kitchener">K.</person>'s cabled
@@ -2233,13 +2233,13 @@ had fain to be content.</p>
 <person name="John Maxwell">Maxwell</person> has just arrived.</p></entry>
 
 <entry><p> 6th April, 1915. <location city="Alexandria">Alexandria</location>.  Started out at 9.15 with d'Amade and Sir
-John to review the Mounted troops of the <unit type="division">29th Division</unit>. We first saw
+John to review the Mounted troops of the <unit type="division" unitName="29th Division">29th Division</unit>. We first saw
 them march down the road in column of route. What a contrast between
 these solid looking men on their magnificent weight-carrying horses and
 our wiry little Allies on their barbs and Arabs. The R.H.A. were superb.</p>
 
-<p>After seeing the troops I motored to Mex Camp and inspected the <unit type="brigade">86th</unit> and
-<unit type="brigade">87th Infantry Brigades</unit>. There was a strong wind blowing which tried to
+  <p>After seeing the troops I motored to Mex Camp and inspected the <unit type="brigade" unitName="87 Brigade">86th</unit> and
+<unit type="brigade" unitName="87 Brigade">87th Infantry Brigades</unit>. There was a strong wind blowing which tried to
 spoil the show, but could not--that Infantry was too superb! Alexander,
 Hannibal, Caesar, Napoleon; not one of them had the handling of
 legionaries like these. <unit type="brigade">The Fusilier Brigade</unit> were the heavier. If we
@@ -2636,7 +2636,7 @@ own ships at their back, and the deep <location coast="Mendere River">Mendere Ri
 <person name="Albert d'Amade">d'Amade's</person> men should easily be able to hold their own for a day or
 two,--all that we ask of them.</p>
 
-<p>The backbone of my enterprise is the <unit type="division">29th Division</unit>. At dawn I intend to
+<p>The backbone of my enterprise is the <unit type="division" unitName="29th Division">29th Division</unit>. At dawn I intend to
 land the covering force of that Division at <location town="Sedd-el-Bahr">Sedd-el-Bahr</location>, <location peninsula="Cape Helles">Cape Helles</location>
 and, D.V., in <location coast="Morto Bay">Morto Bay</location>. I tack my D.V. on to <location coast="Morto Bay">Morto Bay</location> because the
 transports will there be under fire from Asia unless the French succeed
@@ -2676,7 +2676,7 @@ more deadly than we could ever hope to exercise from far away <location town="Bu
 and also during the first part of our landing before we can win ground
 for our guns. That is part of the hardness of the nut. The landings at
 <location coast="Gaba Tepe">Gaba Tepe</location> and to the South will between them take up all our small craft
-and launches. So I am unable to throw <unit type="division">the Naval Division</unit> into action at
+  and launches. So I am unable to throw <unit type="division" unitName="Naval Division">the Naval Division</unit> into action at
 the first go off. They will man the transports that sail to make a show
 at <location town="Bulair">Bulair</location>.</p>
 
@@ -2709,7 +2709,7 @@ our plans come off the Turk won't have time to turn; much less to bring
 into play all the clever moves foreseen for him by some whose stomachs
 for the fight have been satisfied by their appreciation of its dangers.</p>
 
-<p>Units of the <unit type="division">29th Division</unit> have been coming along in their transports
+<p>Units of the <unit type="division" unitName="29th Division">29th Division</unit> have been coming along in their transports
 all day. The bay is alive with ships.</p></entry>
 
 <entry><p> 11th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian</location>"  One of those exquisite days when
@@ -2773,7 +2773,7 @@ decorations. At 6 p.m. dropped anchor and I transhipped myself to the
 <location ship="S.S. Arcadian"> Arcadian </location>. Birdwood and Hunter-Weston had turned up during the day; the
 latter dined and is now more sanguine than myself. He has been getting
 to know his new command better and he says that he did not appreciate
-the <unit type="division">29th Division</unit> when he wrote his appreciation!</p></entry>
+the <unit type="division" unitName="29th Division">29th Division</unit> when he wrote his appreciation!</p></entry>
 
 <entry><p> 13th April, <location ship="S.S. Arcadian">1915. S.S. "Arcadian"</location>  Heavy squalls of rain and wind last
 night.  Band-o-bast  badly upset; boats also bottoms upwards and at
@@ -2811,7 +2811,7 @@ up to his sobriquet. The little ewe lamb is an epistle from Fitz giving
 me a lively sketch of the rumpus at the War Office when its pontiffs
 grasped for the first time the true bearing of their own orders. There
 was a rush to saddle poor us with the delay as soon as the Cabinet began
-to show impatience. They seem to have expected the <unit type="division">29th Division</unit> to
+to show impatience. They seem to have expected the <unit type="division" unitName="29th Division">29th Division</unit> to
 arrive at top speed in a united squadron to rush straightway ashore.
 They don't yet quite realise, I daresay, that not one of their lovely
 ships has yet put in an appearance. That the men who packed the
@@ -2840,7 +2840,7 @@ disembarking drill. Colonel Paterson, the very man who bear-led me on
 tour during my Australian inspection, was keeping an eye on the "Boys."
 The work of the Australians and Senegalese gave us a good object lesson
 of the relative brain capacities of the two races. Next I went and
-inspected the Armoured Car Section of the <unit type="division">Royal Naval Division</unit> under
+inspected the Armoured Car Section of the <unit type="division" unitName="Naval Division">Royal Naval Division</unit> under
 Lieutenant-Commander Wedgwood. He is a mighty queer chap. Took active
 part in the South African War. Afterwards became a pacifist M.P.; here
 he is again with war paint and tomahawk. Give me a Pacifist in peace and
@@ -2866,7 +2866,7 @@ would add to our prospects of making a real big scoop. But we cannot
 spare the sea transport except by too much weakening and delaying the
 landing at the point of <location peninsula="Gallipoli Peninsula">the Peninsula</location>; nor dare I leave myself without
 any reserve under my own hand. I am inclined, all the same, to squeeze
-one Marine Battalion out of the <unit type="division">Naval Division</unit> to strengthen our threat
+one Marine Battalion out of the <unit type="division" unitName="Naval Division">Naval Division</unit> to strengthen our threat
 to <location town="Krithia">Krithia</location>. Hunter-Weston will be in executive command of everything
 South of <location heights="Achi Baba">Achi Baba</location>; Birdwood of everything to the North.</p>
 
@@ -4089,7 +4089,7 @@ trenches and castles. Ah, well;  that  load is off our minds: every one
 smiling.</p>
 
 <p>Passed on the news to <person name="William Birdwood"> Birdwood </person>: I doubt the Turks coming on again--but,
-in case, the <unit type="division"> 29th Division's </unit> feat of arms will be a tonic.</p>
+  in case, the <unit type="division" unitName="29th Division"> 29th Division's </unit> feat of arms will be a tonic.</p>
 
 <p>I was wrong. At 3 p.m. the enemy made another effort, this time on the
 left of our line. We shook them badly and were rewarded by seeing a <location country="New Zealand"> New
@@ -4288,7 +4288,7 @@ were simply done to a turn.</p>
 <p>We did not talk much about the past at dinner, except--ah me, how
 bitterly we regretted our 10 per cent. margin to replace casualties,--a
 margin allowed by regulation and afforded to the B.E.F. Just think of
-it. To-day each Battalion of the <unit type="division"> 29th Division </unit> would have been joined by
+it. To-day each Battalion of the <unit type="division" unitName="29th Division">29th Division</unit> would have been joined by
 two keen Officers and one hundred keen men--fresh--all of them fresh!
 The fillip given would have been far, far greater than that which the
 mere numbers (1,200 for the Division) would seem to imply. <person name="Aylmer Hunter-Weston"> Hunter-Weston </person>
@@ -4348,7 +4348,7 @@ illustrious deeds of <location country="France"> France </location>. I hope the 
 this dashing stroke of <person name="Albert d'Amade"> d'Amade </person>'s by something more solid than a thank
 you.</p>
 
-<p>At 9.40 General Paris and the Staff of the<unit type="division"> Naval Division</unit> also came
+  <p>At 9.40 General Paris and the Staff of the<unit type="division" unitName="Naval Division"> Naval Division</unit> also came
 aboard, and were telling me their doings and their plans when the noise
 of the battle cut short the pow-wow. The fire along the three miles
 front is like the rumble of an express train running over fog signals.
@@ -4440,7 +4440,7 @@ establishing, in its way, a record in the annals of destruction.</p>
 rather more after doing so, apparently by fresh enemy forces. What would
 have been a promenade if our original covering party had stuck to "Y"
 Beach, had become too difficult for that wearied and greatly weakened
-Brigade. On the British right the <unit type="brigade"> 88th Brigade </unit> pushed back the Turks
+Brigade. On the British right the <unit type="brigade" unitName="86 Brigade"> 88th Brigade </unit> pushed back the Turks
 easily enough at first, but afterwards they too came up against stiffer
 resistance from what seemed to be fresh enemy formations until at last,
 i.e., about mid-day, they were held up. The Reserve were then ordered to
@@ -4535,7 +4535,7 @@ it better that way.</p>
 <p>(1) "Last night the Turks attacked the Australians and New Zealanders in
 great force, charging right up to the trenches, bugles blowing and
 shouting 'Allah Hu!' They were bayoneted. The French are landing to lend
-a hand to the <unit type="division"> 29th Division </unit>. <person name="William Birdwood"> Birdwood's </person> men are very weary and I am
+a hand to the <unit type="division" unitName="29th Division">29th Division</unit>. <person name="William Birdwood"> Birdwood's </person> men are very weary and I am
 supporting them with the <unit type="division"> Naval Division </unit>." These, I may say, are my very
 last reserves.</p>
 
@@ -4626,7 +4626,7 @@ through this pandemonium pass the quiet stretchers bearing pale,
 blood-stained, smiling burdens. First we spent some time speaking to
 groups of Officers and men and hearing what the Beachmasters and
 Engineers had to say; next we saw as many of the wounded as we could and
-then I walked across to the Headquarters of the <unit type="division"> 29th Division </unit> (half a
+then I walked across to the Headquarters of the <unit type="division" unitName="29th Division">29th Division</unit> (half a
 mile) to see <person name="Aylmer Hunter-Weston"> Hunter-Weston </person>. A strange abode for a Boss; some holes
 burrowed into a hillock. In <location country="South Africa"> South Africa </location>, this feature which looks like,
 and actually is, a good observing post, would have been thoroughly
@@ -4915,7 +4915,7 @@ that darkness and confusion, yet my anxious mind was stretched on the
 rack by inability to get contact with the Headquarters of the <unit type="division"> 29th
 Division </unit> and the French. Bullets or shell had cut some of the wires, and
 the telephone only worked intermittently. At 2 in the morning I had to
-send a battalion of my reserve from the <unit type="division">Royal Naval Division</unit> to
+send a battalion of my reserve from the <unit type="division" unitName="Naval Division">Royal Naval Division</unit> to
 strengthen the French right. At 3 a.m. we heard--not from the
 British--that the British had been broken and were falling back upon the
 beaches. At 4 we heard from <person name="Aylmer Hunter-Weston"> Hunter-Weston </person> that, although the enemy had
@@ -4947,7 +4947,7 @@ by sheer physical exertion. Small wonder then that one weak spot in our
 barrier gave way before the solid mass of the attacking Turks, who came
 on with the bayonet like true Ghazis. The first part of the rifle fire
 last night was entirely from our own men. The break by one battalion
-gave a grand chance to the only Territorial unit in the <unit type="division"> 29th Division </unit>,
+gave a grand chance to the only Territorial unit in the <unit type="division" unitName="29th Division">29th Division</unit>,
 the <unit type="battalion"> 5th Royal Scots </unit>, who have a first-class commanding Officer and are
 inspired not only by the indomitable spirit of their regular comrades,
 but by the special fighting traditions of Auld Reekie. They formed to a
@@ -4999,7 +4999,7 @@ evening he got a cable from his own War Ministry confirming <person name="Roger 
 to me about the new French Division; Numbered the <unit type="brigade"> 156th </unit>, it is to be
 commanded by Bailloud, a distinguished General who has held high office
 in Africa--seventy years old, but sharp as a needle. <person name="Albert d'Amade"> D'Amade </person> is most
-grateful for the battalion of the <unit type="division">Naval Division</unit>; most complimentary
+grateful for the battalion of the <unit type="division" unitName="Naval Division">Naval Division</unit>; most complimentary
 about the Officers and men and is dying to have another which is,
  evidemment , a real compliment. He promises if I will so to ration
 them on the best of French conserves and wine. The fact is, that the
@@ -5735,7 +5735,7 @@ what he has done, suffered and lost he deserves great Kudos in his
 country.</p>
 
 <p>By order of the Vice-Admiral this ship is to anchor at <location island="Tenedos"> Tenedos </location>. My
-informal confab with the heroes of the <unit type="division"> 29th Division </unit>, and their utter
+informal confab with the heroes of the <unit type="division" unitName="29th Division">29th Division</unit>, and their utter
 unconsciousness of their own glorious conduct have moved me to write
 these few words in their honour:--</p></entry>
 
@@ -5743,7 +5743,7 @@ these few words in their honour:--</p></entry>
 <p>GENERAL HEADQUARTERS,  12th May, 1915. </p>
 
 <p>For the first time for 18 days and nights it has been found possible to
-withdraw the <unit type="division"> 29th Division </unit> from the fire fight. During the whole of that
+withdraw the <unit type="division" unitName="29th Division">29th Division</unit> from the fire fight. During the whole of that
 long period of unprecedented strain the Division has held ground or
 gained it, against the bullets and bayonets of the constantly renewed
 forces of the foe. During the whole of that long period they have been
@@ -5796,7 +5796,7 @@ scale. No details yet to hand. The enemy deserve decorations--confound
 them!</p>
 
 <p>Got hold of a Fleet-sweeper and went off to <location peninsula="Helles"> Cape Helles </location>. Again visited
-Headquarters <unit type="division"> 29th Division </unit>, and afterwards walked through the trenches
+Headquarters <unit type="division" unitName="29th Division">29th Division</unit>, and afterwards walked through the trenches
 of the 87th Brigade. Saw that fine soldier, Brigadier-General Marshall,
 in command. Chatted to no end of his men-- <unit type="regiment"> Inniskillings </unit>, <unit type="regiment"> Dublin
 Fusiliers </unit>, etc. They have recovered their exhaustion; have cleaned up,
@@ -5820,7 +5820,7 @@ can make more elbow room on Gallipoli.</p>
 rush! They are absolutely the boys for this class of country and for
 this class of enemy.</p>
 
-<p>Cabled <person name="Herbert Kitchener"> Lord K. </person> about the weakness of the <unit type="division"> 29th Division </unit>. At the very
+<p>Cabled <person name="Herbert Kitchener"> Lord K. </person> about the weakness of the <unit type="division" unitName="29th Division">29th Division</unit>. At the very
 moment when we are hoping so much from a fresh push made in conjunction
 with a naval attack, the Division, the backbone of my force, are short
 by over 11,000 men and 400 Officers! As a fighting unit they are on
@@ -5828,7 +5828,7 @@ their last legs and when they will be set upon their feet again <person name="He
 knows. Were we in France we'd get the men to-morrow. If I had my own
 depots in Egypt still I could see my way, but, as things are, there
 seems no chance of getting a move on for another fortnight. Have cabled
-<person name="Herbert Kitchener"> K. </person> saying, "I hope the <unit type="division"> 29th Division </unit> is soon to be made up to strength.
+<person name="Herbert Kitchener"> K. </person> saying, "I hope the <unit type="division" unitName="29th Division">29th Division</unit> is soon to be made up to strength.
 I had no idea when I left England that the customary 10 per cent.
 reinforcement was not being taken with it by the Division although it
 was to operate at so great a distance from its base." If <person name="Herbert Kitchener"> K. </person> gets into a
@@ -6029,7 +6029,7 @@ legging it like the wind as they did at the first whistle of a bullet?
 On the other hand, who but <person name="Herbert Kitchener"> K. </person>, at that time, could have run the war at
 all?</p>
 
-<p>The <unit type="division"> 29th Division </unit> have managed to snatch another 150 yards from the
+<p>The <unit type="division" unitName="29th Division">29th Division</unit> have managed to snatch another 150 yards from the
 enemy, greatly strengthening the bluff upon which the Gurkhas dug
 themselves in.</p></entry>
 
@@ -6316,7 +6316,7 @@ the War Office theory; no more than is left of a soap bubble when you
 strike it with a battleaxe. Some other stimulus to our Territorial
 recruiting than the fear of invasion will have to be invented in future.</p>
 
-<p>After lunch went to the Headquarters of the <unit type="division">29th Division</unit> where all the
+<p>After lunch went to the Headquarters of the <unit type="division" unitName="29th Division">29th Division</unit> where all the
 British Divisional Generals had assembled together to meet me. The same
 story everywhere--lack of men, meaning extra work--which again means
 sickness and still greater lack of men. On my return found a letter from
@@ -6934,7 +6934,7 @@ opinion the supply of gun ammunition can hardly be considered adequate
 or safe until the following conditions can be filled:--(1) That the
 amounts with units and on the Lines of Communication should be made up
 to the number of rounds per gun which is allowed in War Establishment
-figures of <unit type="division">29th Division</unit>. (2) That these full amounts should be
+figures of <unit type="division" unitName="29th Division">29th Division</unit>. (2) That these full amounts should be
 maintained and despatched automatically without any further application
 from us, beyond a weekly statement of the expenditure which will be
 cabled to you every Saturday. (3) In view of the number and the extent
@@ -7070,7 +7070,7 @@ retreat. From the moment the Turks drove the French out of the
 _"Haricot"_ the enfilade fire became murderous.</p>
 
 <p>On the beach was General de Lisle, fresh from <location country="France">France</location>. He is taking over
-the <unit type="division">29th Division</unit> from Hunter-Weston who ascends to the command of the
+the <unit type="division" unitName="29th Division">29th Division</unit> from Hunter-Weston who ascends to the command of the
      newly formed <unit type="corps">8th Army Corps</unit>. <person name="De_Lisle">De Lisle</person> seemed in very good form although
 it must have been rather an eye-opener landing in the thick of this huge
 stream of wounded. How well I remember seeing him galloping at the head
@@ -7564,7 +7564,7 @@ sailed, yet the date was cabled to the Turks from Vienna."</p>
 till 11 o'clock when I boarded the destroyer _Grampus_, and sailed for
 <location peninsula="Helles">Helles</location>. Lunched with Hunter-Weston at his Headquarters, and then walked
 out along the new road being built under the cliffs from "W" Beach to
-Gurkha Gully. On the way I stopped at the <unit type="division">29th Division</unit>al Headquarters
+Gurkha Gully. On the way I stopped at the <unit type="division" unitName="29th Division">29th Division</unit>al Headquarters
      where I met de Lisle. Thence along the coast where the <unit type="brigade">88th Brigade</unit> were
 bathing. In the beautiful hot afternoon weather the men were happy as
 sandboys. Their own mothers would hardly know them--burnt black with the
@@ -7784,10 +7784,10 @@ present and future of our show:--</p>
 
 <p>Boarded a destroyer at 11.15 a.m. and sailed straight for Gully Beach.
 Then into dinghy and paddled to shore where I lunched with de Lisle at
-the <unit type="division">29th Division</unit>al Headquarters. Hunter-Weston had come up to meet me
+the <unit type="division" unitName="29th Division">29th Division</unit>al Headquarters. Hunter-Weston had come up to meet me
 from Corps Headquarters.</p>
 
-     <p>With both Generals I rode a couple of miles up the Gully seeing the <unit type="brigade">87th Brigade</unit> as we went. When we got to the mouth of the communication trench
+     <p>With both Generals I rode a couple of miles up the Gully seeing the <unit type="brigade" unitName="87th Brigade">87th Brigade</unit> as we went. When we got to the mouth of the communication trench
 leading to the front of the Indian Brigade, Bruce of the Gurkhas was
 waiting for us, and led me along through endless sunken ways until we
 reached his firing line.</p>
@@ -7801,7 +7801,7 @@ bullets kept flopping into the parapet especially when the periscope was
 moved.</p>
 
 <p>At the end of the Gurkha line I was met by Colonel Wolley Dod, who took
-     me round the fire trenches of the <unit type="brigade">86th Brigade</unit>. The Dublin Fusiliers
+     me round the fire trenches of the <unit type="brigade" unitName="86th Brigade">86th Brigade</unit>. The Dublin Fusiliers
 looked particularly fit and jolly.</p>
 
 <p>Getting back to the head of the Gully I rode with Hunter-Weston to his
@@ -7973,7 +7973,7 @@ we moderns say howitzers or defeat:--</p>
 Commanding-in-Chief, Mediterranean Expeditionary Force. Your No. M.F.
 316. It is impossible to send more ammunition than we are sending you.
 528 rounds per 18-pr will be brought out by each Division. Instead of
-4.5-inch howitzers we are sending 16 5-inch howitzers with the <unit type="division">13th Division</unit>, as there is more 5-inch ammunition available. By the time that
+4.5-inch howitzers we are sending 16 5-inch howitzers with the <unit type="division" unitName="13th Division">13th Division</unit>, as there is more 5-inch ammunition available. By the time that
 the last of the three Divisions arrive we hope to have supplied a good
 percentage of high explosive shells, but you should try to save as much
 as you can in the meantime. Until more ammunition is available for them,
@@ -8093,7 +8093,7 @@ This is very fortunate. Who is to be Commander of the new corps I cannot
 say, but we have one or two terrifying suggestions from home.</p>
 
 <p>"Last night a brisk attack headed by a senior Turkish Officer and a
-     German Officer was made on the <unit type="brigade">86th Brigade</unit>. Both these Officers were
+     German Officer was made on the <unit type="brigade" unitName="86th Brigade">86th Brigade</unit>. Both these Officers were
 killed and 20 or 30 of their men, the attack being repulsed. Against the
 South Wales Borderers a much heavier attack was launched. Our fellows
 were bombed clean out of their trenches, but only fell back 30 yards and
@@ -8355,8 +8355,8 @@ coming right away to <person name="Mudros">Mudros</person>. Back to the _Triad_ 
 Weighed anchor at once, steaming for <location island="Imbros">Imbros</location>, where we cast anchor at
 about 6 p.m. <person name="Freddie_Maitland">Freddie Maitland</person> has arrived here, like a breath of air
 from home, to be once more my A.D.C.; his features wreathed in the
-well-known, friendly smile. The French duly attacked at dawn and the <unit type="division">2nd Division</unit> have carried a series of redoubts and trenches.
-The <unit type="division">1st Division</unit> did equally well but have been driven back again by
+well-known, friendly smile. The French duly attacked at dawn and the <unit type="division" unitName="2nd Division">2nd Division</unit> have carried a series of redoubts and trenches.
+    The <unit type="division" unitName="1st Division">1st Division</unit> did equally well but have been driven back again by
 counter-attacks. Fighting is still going on.</p>
 
 <p>While I have been away <person name="Walter_Braithwaite"> Braithwaite</person> has cabled home in my name asking
@@ -8494,7 +8494,7 @@ watched to see that the strain of trench warfare is not too much for
 him" is ominous. I knew him in October, '99, and thought him a fine
 soldier. Mahon, "without being methodical," is praised. Shaw gets a
 moderate eulogy, but we out here are glad to have him for we know him.
-On these two War Office cables <person name="Hammersley">Hammersley</person> and the <unit type="division">11th Division</unit> should
+On these two War Office cables <person name="Hammersley">Hammersley</person> and the <unit type="division" unitName="11th Division">11th Division</unit> should
 be for it.</p>
 
 <p>After clearing my table, embarked with <person name="Walter_Braithwaite"> Braithwaite</person> and Mitchell aboard
@@ -8826,7 +8826,7 @@ their defenders were sitting dazed with their dugouts in ruins about
 them. Also, in the same epistle, I have tried to explain Anzac.</p>
 
 <p>In the domain of tactics our landing at <location peninsula="Helles">Helles</location> speaks for itself. Since
-gunpowder was invented nothing finer than the <unit type="division">29th Division</unit> has been
+gunpowder was invented nothing finer than the <unit type="division" unitName="29th Division">29th Division</unit> has been
 achieved. But it will be a long time yet before people grasp that the
 landing at Anzac is just as remarkable in the imaginative domain of
 strategy. The military student of the future will, I hope and believe,
@@ -8913,15 +8913,15 @@ said to be moderate. The dreaded Boomerang collapsed and was stormed
 with hardly a casualty. This was owing partly to the two trench mortars
 lent us by the French and partly to the extraordinary fine shooting of
 our own battery of 4.5 howitzers. The whole show went like
-clockwork--like a Field Day. First the <unit type="brigade">87th Brigade</unit> took three lines of
-     trenches; then our guns lengthened their range and fuses and the <unit type="brigade">86th Brigade</unit>, with the gallant Royal Fusiliers at their head, scrambled over
+clockwork--like a Field Day. First the <unit type="brigade" unitName="87th Brigade">87th Brigade</unit> took three lines of
+     trenches; then our guns lengthened their range and fuses and the <unit type="brigade" unitName="86th Brigade">86th Brigade</unit>, with the gallant Royal Fusiliers at their head, scrambled over
      the trenches already taken by the <unit type="brigade">87th</unit>, and took the last two lines in
 splendid style. We could have gone right on but we had nothing to go on
 with. How I wish the whole world and his wife could have been here to
 see our lines advancing under fire quite steadily with intervals and
 dressing as on parade. A wonderful show!</p>
 
-     <p>As the <unit type="brigade">87th Brigade</unit> left the trenches at 11 a.m., the enemy opened a hot
+     <p>As the <unit type="brigade" unitName="87th Brigade">87th Brigade</unit> left the trenches at 11 a.m., the enemy opened a hot
 shrapnel fire on them but although some men fell, none faltered as we
 could see very well owing to the following device. The 29th attackers
 had sewn on to their backs triangles cut out of kerosine tins. The idea
@@ -8932,10 +8932,10 @@ of every man. One moment after 11 a.m. the smoke pall lifted and moved
 slowly on with a thousand sparkles of light in its wake: as if someone
 had quite suddenly flung a big handful of diamonds on to the landscape.</p>
 
-     <p>At 11.30 the <unit type="brigade">86th Brigade</unit> likewise advanced; passed through the 87th and
+     <p>At 11.30 the <unit type="brigade" unitName="86th Brigade">86th Brigade</unit> likewise advanced; passed through the 87th and
 took two more lines of trenches.</p>
 
-     <p>At mid-day I signalled, "Well done <unit type="division">29th Division</unit> and <unit type="brigade">156th Brigade</unit>. Am
+     <p>At mid-day I signalled, "Well done <unit type="division" unitName="29th Division">29th Division</unit> and <unit type="brigade">156th Brigade</unit>. Am
 watching your splendid attack with admiration. Stick to it and your
 names will become famous in your homes."</p>
 
@@ -9092,13 +9092,13 @@ and took the work most brilliantly.</p>
 
 <p>"Artillery bombardment increased in intensity till 11 a.m. when range
 was lengthened and infantry advanced. <unit type="infantry">Infantry</unit> attack was carried out
-     with great dash along whole line. West of Saghir Dere <unit type="brigade">87th Brigade</unit>
+     with great dash along whole line. West of Saghir Dere <unit type="brigade" unitName="87th Brigade">87th Brigade</unit>
 captured three lines of trenches with little opposition. Trenches full
 of dead Turks, many buried by bombardment, and 100 prisoners were taken
 in them. East of Ravine two <unit type="battalion">battalions</unit> Royal Scots made fine attack,
 capturing the two lines of trenches assigned as their objective, but
 remainder of <unit type="brigade">156th Brigade</unit> on their right met severe opposition and were
-     unable to get forward. At 11.30, <unit type="brigade">86th Brigade</unit> led by 2nd Bn. Royal
+     unable to get forward. At 11.30, <unit type="brigade" unitName="86th Brigade">86th Brigade</unit> led by 2nd Bn. Royal
 Fusiliers started second phase of attack West of Ravine. They advanced
 with great steadiness and resolution through trenches already captured
 and on across the open, and taking two more lines of trenches reached
@@ -9125,7 +9125,7 @@ strong point well beyond limit of advance originally contemplated. Our
 casualties about 2,000, the greater proportion of which are slight cases
 of which 250 at Anzac, in the useful demonstration made simultaneously
 there. All engaged did well, but certainly the chief factor in the
-success was the splendid attack carried out by <unit type="division">XXIXth Division</unit>, whose
+success was the splendid attack carried out by <unit type="division" unitName="29th Division">XXIXth Division</unit>, whose
 conduct in this as on previous occasions was beyond praise."</p>
 
 <p>Lastly, I wrote out a special Force Order thanking the incomparable
@@ -9228,7 +9228,7 @@ nothing in from Hunter-Weston there is an officer from Anzac who has
 just given me the complete story of <person name="Birdwood">Birdwood</person>'s demonstration on the
 28th. The tide of war is indeed racing full flood in our favour.</p>
 
-<p>When we were working out our scheme for the attack of the <unit type="division">29th Division</unit>
+<p>When we were working out our scheme for the attack of the <unit type="division" unitName="29th Division">29th Division</unit>
 and 156th Brigade the day before yesterday, as well as<person name="Gouraud"> Gouraud</person>'s attack
 of yesterday, we had reckoned that the Turkish High Command would get to
 realize by about 11 a.m. on the 28th that an uncommon stiff fight had
@@ -9334,7 +9334,7 @@ or two of mountains.</p>
 their trench back from the Gurkhas last night; a trench which was the
 key to a whole system of earthworks. Bruce had been wounded and they had
 no officers left to lead them, so de Lisle had to call once more on the
-<unit type="division">29th Division</unit> and the bold Inniskilling Fusiliers retook that trench at
+<unit type="division" unitName="29th Division">29th Division</unit> and the bold Inniskilling Fusiliers retook that trench at
 a cost of all their officers save two.</p>
 
 <p>There are some feats of arms best left to speak for themselves and this
@@ -9525,7 +9525,7 @@ small, namely 2,000, but as the result of numerous counter-attacks day
 and night, have since swelled to some 3,500.</p>
 
 <p>"The drafts promised in your No. 5793, A.G.2a, would, provided there
-were no more casualties, bring the units of the <unit type="division">XXIXth Division</unit> to
+were no more casualties, bring the units of the <unit type="division" unitName="29th Division">XXIXth Division</unit> to
 approximately 75 per cent. of establishment, but would leave none
 available as further reinforcements.</p>
 
@@ -9547,7 +9547,7 @@ need is a system which will enable me to maintain drafts for the
 deficiencies in depots on my lines of communications with <location country="Egypt">Egypt</location>."</p>
 
 <p>If <person name="Herbert_Kitchener">K.</person> did not want brief spurts sandwiched between long waits, all he
-had to do was to tell his A.G. to see to it that the <unit type="division">XXIXth Division</unit> was
+had to do was to tell his A.G. to see to it that the <unit type="division" unitName="29th Division">XXIXth Division</unit> was
 kept up to strength. A word and a frown would have done it. But he has
 not said the word, or scowled, and the troops have by extraordinary
 efforts and self-sacrifice carried through the work of strong <unit type="battalion">battalions</unit>
@@ -9563,7 +9563,7 @@ properly appreciated by the martinets who have ruled our roost, and
 chances have never been given to them to make the most of themselves as
 soldiers.</p>
 
-<p>The Escort was made up of men of the <unit type="division">29th Division</unit> under Lieutenant
+<p>The Escort was made up of men of the <unit type="division" unitName="29th Division">29th Division</unit> under Lieutenant
 Burrell of the South Wales Borderers--that famous <unit type="battalion">battalion</unit> which
      stormed so brilliantly de <unit type="battery">Tott's battery</unit> at the first landing,--also of
 a detachment of Australians under  <person name="Lieutenant_Edwards">Lieutenant Edwards</person> and a squad of New
@@ -9618,7 +9618,7 @@ should employ in the presence of the men.</p>
 
 <p>A set of Turkish Divisional orders sent by the Turkish General to the
 Commander of their right zone at <location peninsula="Helles">Helles</location> has been taken from a wounded
-Turkish officer. They bear out our views of the blow that the <unit type="division">29th Division</unit> have struck at the enemy's _moral_ by their brilliant attack on
+Turkish officer. They bear out our views of the blow that the <unit type="division" unitName="29th Division">29th Division</unit> have struck at the enemy's _moral_ by their brilliant attack on
 the 28th inst.</p>
 
 <p>"There is nothing that causes us more sorrow, increases the courage of
@@ -9637,7 +9637,7 @@ the courage of our men by those who escape from the trenches to avoid
 the rifle and machine gun fire of the enemy. Henceforth, I shall hold
 responsible all Officers who do not shoot with their revolvers all the
 privates who try to escape from the trenches on any pretext. Commander
-of the <unit type="division">11th Division</unit>, Colonel Rifaat."</p>
+of the <unit type="division" unitName="11th Division">11th Division</unit>, Colonel Rifaat."</p>
 
 <p>In sending on this order to his <unit type="battalion">battalions</unit>, the Colonel of the 127th
 Regiment adds:--</p>
@@ -9657,7 +9657,7 @@ losses.</p>
 the wire. Heavy firing on the Peninsula last night under cover of which
 the Turks at dawn made, or tried to make, a grand, concerted attack. Not
 a soul in <location country="England">England</location>, outside the Ordnance, realizes, I believe, that
-barring the guns of the <unit type="division">29th Division</unit> and the few guns of the Anzacs,
+barring the guns of the <unit type="division" unitName="29th Division">29th Division</unit> and the few guns of the Anzacs,
 our field artillery consists of the old 15-prs., relics of <location country="South_Africa">South Africa</location>,
 and of 5-inch hows., some of them Omdurman veterans. Quite a number of
 these guns are already unserviceable and, in the <unit type="division">42nd Division</unit>, to keep
@@ -9705,7 +9705,7 @@ rounds, of which 700 fell on Lancashire Landing. At least 5,000 shell
 were loosed off on to <location peninsula="Helles">Helles</location>. A lot of the stuff was 6-inch and over.
 The bombardment was very wild and seemed almost unaimed. Soon after 4
 a.m. very heavy columns of Turks tried to emerge from the Ravine against
-the left of the <unit type="division">29th Division</unit>. "It wanted to be the hell of a great
+the left of the <unit type="division" unitName="29th Division">29th Division</unit>. "It wanted to be the hell of a great
 attack," as one of the witnesses, a moderate spoken young gentleman,
 states. When the Commanders saw what was impending they sent messages to
 <person name="Simpson-Baikie">Simpson-Baikie</person> begging him to send some 4.5 H.E. shell into the Ravine
@@ -9729,9 +9729,9 @@ the battle was great. There is a rumour that both were shot through the
 head: I pray it may be but a rumour. Out of all these Turks some thirty
 only reached our parapets. The sudden destruction which befell them was
 due in the main to the devotion of these two young heroes. At 7.30 a.m.
-the Turks tried to storm again. Some of them got in amongst the <unit type="division">Royal Naval Division</unit>, who brought up their own supports and killed 300,
+the Turks tried to storm again. Some of them got in amongst the <unit type="division" unitName="Naval Division">Royal Naval Division</unit>, who brought up their own supports and killed 300,
 driving out the rest. Ninety dead Turks are laid out on their parapet.
-Another, later, enemy effort against the right of the <unit type="division">29th Division</unit> was
+Another, later, enemy effort against the right of the <unit type="division" unitName="29th Division">29th Division</unit> was
 clean wiped out. 150 Turks are dead there. But it is on the far
 crestline they lie thick.</p>
 
@@ -9956,8 +9956,8 @@ post of Brigadier; he ought to be commanding a Division; and the men are
 morally and physically tired and have lost three-fourths of their
 officers: with rest they will all of them come round.</p>
 
-     <p>(6) That <person name="Baldwin">Baldwin's</person> Brigade of the <unit type="division">13th Division</unit> have been landed on the
-Peninsula and are now mixed up by platoons with the <unit type="division">29th Division</unit> where
+     <p>(6) That <person name="Baldwin">Baldwin's</person> Brigade of the <unit type="division" unitName="13th Division">13th Division</unit> have been landed on the
+Peninsula and are now mixed up by platoons with the <unit type="division" unitName="29th Division">29th Division</unit> where
 they are tumbling to their new conditions quite quickly. They have
 already created a very good impression at <location peninsula="Helles">Helles</location>.</p>
 
@@ -10209,7 +10209,7 @@ rounds of H.E., we have had  none  for 18-prs. on the Peninsula--not one
 solitary demnition round; nor do we seem in the least likely to get one
 solitary demnition round. <person name="Aylmer Hunter-Weston">Hunter-Weston</person> and his C.R.A. explain forcibly,
 not to say explosively, that on the 28th June the right attack would
-have scored a success equally brilliant to that achieved by the <unit type="division">29th</unit>
+have scored a success equally brilliant to that achieved by the <unit type="division" unitName="29th Division">29th</unit>
 Division on our left, had we been able to allot as many shell to the
 Turkish trenches assaulted by the <unit type="brigade">156th Brigade</unit>--Lowland Division--as we
 did to the sector by the sea. But we could not, because, once we had
@@ -10316,7 +10316,7 @@ aeroplane camp on the far side of the water.</p>
 actually on the mouth of the Kereves Dere where it runs into the sea. We
 have made about 500 prisoners and have captured a machine gun.
 <person name="Aylmer Hunter-Weston">Hunter-Weston</person> had to transfer the command of the <unit type="division">52nd Division</unit>,
-temporarily, to Shaw, the new Commander of the <unit type="division">13th Division</unit>.</p>
+temporarily, to Shaw, the new Commander of the <unit type="division" unitName="13th Division">13th Division</unit>.</p>
 
 <p>Baikie is crying out to us for shells as if  we  were bottling them up!
 There are none.</p>
@@ -10474,7 +10474,7 @@ first there was confusion, loss of energy and time; by the end of the
 week they had picked up the wrinkles of the veterans. There was a good
 lot of shelling from the Turks but, humanly speaking, we were all quite
 snug and safe in the big gully or moving down the deep communication
-trenches. No one, not even the new <unit type="division">13th Division</unit>, paid the smallest
+trenches. No one, not even the new <unit type="division" unitName="13th Division">13th Division</unit>, paid the smallest
 deference to the projectiles.</p>
 
 <p>Now began one of these semi-comic, semi-serious adventures which seem to
@@ -10557,7 +10557,7 @@ the Naval Seaplane Camp. The King's Messenger left at 5 p.m.</p>
 
 <entry><p> 20th July, 1915. <location island="Imbros">Imbros</location> Wrote double quick, then galloped over to
 Kephalos to see the New Army,  sub rosa . The men we struck were A.1.
-They belong to the <unit type="brigade">32nd</unit> and <unit type="brigade">34th</unit> Brigades of the <unit type="division">11th Division</unit>. The <unit type="brigade">33rd</unit>
+They belong to the <unit type="brigade">32nd</unit> and <unit type="brigade">34th</unit> Brigades of the <unit type="division" unitName="11th Division">11th Division</unit>. The <unit type="brigade">33rd</unit>
 has gone to <location peninsula="Helles">Helles</location> to get salted.</p>
 
 <p><person name="Aylmer Hunter-Weston">Hunter-Weston</person> is still staying with the Admiral. He has had a hard time
@@ -10584,7 +10584,7 @@ and carry with them the same moral obligations; i.e., that they ought to
 be returned in kind. But to-day the time limit interposes, and I know
 you will pardon me for once if I dictate.</p>
 
-<p>"I am immensely interested in what you say with reference to the <unit type="division">29th</unit>
+<p>"I am immensely interested in what you say with reference to the <unit type="division" unitName="29th Division">29th</unit>
 Division being below strength, namely, that we are getting short of men.
 Well,--though one of the keenest voluntary service people existing, I
 have always envisaged the fact that during a war we might be driven
@@ -10594,7 +10594,7 @@ publish) I have always, for that reason, pressed for National
 Registration. It does no one any harm, and rubs into the mind of the
 young man that, under certain conditions, the State has first pull on
 his pocket, labour, life and everything else. But, of course, if your
-own wish that the <unit type="division">29th</unit> Division should take out 10 per cent. extra for
+own wish that the <unit type="division" unitName="29th Division">29th</unit> Division should take out 10 per cent. extra for
 drafts (like the regiments do in France), had been carried into effect,
 they would never have fallen as low as they actually did.</p>
 
@@ -10656,7 +10656,7 @@ of <person name="Beauvoir De Lisle">de Lisle</person>, into fortifications, huma
 Douglas, Commander of the Division, came round with me. He reminds me
 greatly of his brother, the late Chief of the Imperial General Staff;
 excellent at detail; a conscientious, very hard worker. When I had seen
-my Manchester friends I passed on into the <unit type="division">Royal Naval Division</unit> Lines.
+my Manchester friends I passed on into the <unit type="division" unitName="Naval Division">Royal Naval Division</unit> Lines.
 There General <person name="Archibald Paris">Paris</person> convoyed me through his section as far as
 Zimmerman's Farm, where I was joined by Bailloud with his Chief of Staff
 and Chief of Operations. Together we made our way round the whole of
@@ -10731,7 +10731,7 @@ key.</p>
 into their tenth attack upon our extreme left where they were beaten off
 as usual with a loss of several hundreds--this time we only suffered
 about a dozen casualties. Together with <person name="Walter Braithwaite">Braithwaite</person>, I rode over to "K"
-Beach at 11 a.m. to inspect part of the <unit type="division">11th Division</unit> there encamped.
+Beach at 11 a.m. to inspect part of the <unit type="division" unitName="11th Division">11th Division</unit> there encamped.
 General Hammersley, Divisional Commander, met me. Also Colonel Malcolm,
 his General Staff Officer and Major Duncan. The first Brigade I looked
 at was Sitwell's--the <unit type="brigade">34th</unit>. A fine looking lot of men:--</p>
@@ -10840,7 +10840,7 @@ professionally incompetent to gauge.</p>
 <p>At 5.30 p.m. I went off riding with <person name="John de Robeck">de Robeck</person>, Ormsby Johnson and
 Freddie <person name="Freddie Maitland">Maitland</person>. We cantered over to Seaplane Camp; passed the time of
 day to the men there and over-hauled some of the machines. Coming back,
-we passed through part of the <unit type="division">11th Division</unit> Camp; all very ship-shape
+we passed through part of the <unit type="division" unitName="11th Division">11th Division</unit> Camp; all very ship-shape
 and clean. Freddie <person name="Freddie Maitland">Maitland</person> and I dined on board the  Beryl  with Sir
 Douglas Gamble. He seems highly pleased with everyone and everything; I
 wouldn't go quite so far! There we met <person name="John de Robeck">de Robeck</person>, <person name="Roger Keyes">Keyes</person>, <person name="General Altham">Altham</person>, <person name="General Ellison">Ellison</person>
@@ -10860,7 +10860,7 @@ would be a great asset as he would be able to sleep through the shell
 and rifle fire at night."</p>
 
 <p>The older Officers will be sorry indeed to hear Bruce Hamilton is
-barred. Shaw, the new Commander of the <unit type="division">13th Division</unit>, will be especially
+barred. Shaw, the new Commander of the <unit type="division" unitName="13th Division">13th Division</unit>, will be especially
 disappointed.</p>
 
 <p>Admiral Gamble came off to see me and afterwards dined. I was very
@@ -10961,7 +10961,7 @@ importance of the demands from the <location straits="Dardanelles">Dardanelles</
 
 <p>"With regard to numbers, the grand total you mention does not take into
 account non-effectives or casualties; it includes reinforcements such as
-<unit type="division">LIVth</unit> and part of the <unit type="division">LIIIrd</unit> Divisions, etc., which cannot be here in
+<unit type="division" unitName="54th Division">LIVth</unit> and part of the <unit type="division" unitName="53th Division">LIIIth</unit> Divisions, etc., which cannot be here in
 time for my operation, and it also includes Yeomanry and Indian troops
 which, until this morning, I was unaware were at my unreserved disposal.
 For the coming operation, the number of rifles available is about half
@@ -11099,7 +11099,7 @@ states."</p>
 <p>Do not let me forget, though, that a slice of solid stuff is sandwiched
 into this cable--we are to get some 4.5 shell  via  Marseilles; H.E. we
 hope: also, two batteries of 4.5 howitzers: also that the A.G. has been
-trying hard to feed the <unit type="division">29th</unit> Division. The Territorials are the people
+trying hard to feed the <unit type="division" unitName="29th Division">29th</unit> Division. The Territorials are the people
 who are being allowed to go to pot--not a word of hope even, and before
 the eyes of everyone.</p>
 
@@ -11108,7 +11108,7 @@ the eyes of everyone.</p>
 <entry><p> 1st August, 1915. <location island="Imbros">Imbros</location> The usual rush before leaving. No time to
 write. Sent two cables, copies attached. The first to the War Office, in
 answer to one from the A.G. wherein he plumes himself upon the
-completeness of the <unit type="division">29th</unit> Division. That completeness, alas, is only so
+completeness of the <unit type="division" unitName="29th Division">29th</unit> Division. That completeness, alas, is only so
 relatively; i.e., in comparison with the sinking condition of the
 Territorial Divisions:--</p>
 
@@ -11242,7 +11242,7 @@ evening. He is the mirror of French chivalry, modesty and good form,
 besides being an extraordinary fine soldier.</p>
 
 <p>The <unit type="brigade">33rd</unit> Brigade, sent by me to gain wisdom at <location peninsula="Helles">Helles</location>, have now been
-brought here so that the whole <unit type="division">11th Division</unit> can start off together.</p>
+brought here so that the whole <unit type="division" unitName="11th Division">11th Division</unit> can start off together.</p>
 
 <p>Just as the peculiar foggy air of Lancashire is essential to the weaving
 of the finer sorts of tissues, so an atmosphere of misunderstandings
@@ -11262,15 +11262,15 @@ he thought he would be able to organize a  portion  of the 8,500 mounted
 men, in order that, at a pinch, they might be able to come and reinforce
 us here. So the matter stood when I got another cable from the S. of S.
 telling me 5,000 drafts are " en route  or under orders" to join the
-<unit type="division">29th</unit> Division and that the War Office are "unable to carry out your
+<unit type="division" unitName="29th Division">29th</unit> Division and that the War Office are "unable to carry out your
 views about additional marginal drafts." S. of S. then goes on:--</p>
 
 <p>       *       *       *       *       *</p>
 
 <p>"Maxwell wires that you are taking 300 officers and 5,000 men of his
 mounted troops. I do not quite understand why you require Egyptian
-Garrison troops while you have the <unit type="division">LIIIrd</unit> Division at Alexandria, and
-the <unit type="division">LIVth</unit>, the last six battalions of which are arriving in five or six
+Garrison troops while you have the <unit type="division" unitName="53th Division">LIIIth</unit> Division at Alexandria, and
+the <unit type="division" unitName="54th Division">LIVth</unit>, the last six battalions of which are arriving in five or six
 days, on the  Aquitania .</p>
 
 <p>"When I placed the Egyptian Garrison at your disposal to reinforce at
@@ -11338,7 +11338,7 @@ into Anzac of troops, including a Division of the New Army. This has
 taken place, without any kind of hitch, under the very noses of the
 Turkish Army who have no inkling of the manoeuvre--as yet! The Navy
 are helping us admirably here with their organization and good sea
-discipline. Also, from what they tell me, Shaw and the <unit type="division">13th Division</unit> of
+discipline. Also, from what they tell me, Shaw and the <unit type="division" unitName="13th Division">13th Division</unit> of
 the New Army are playing up with the clockwork regularity of veterans.
 All this marks us up many points to the good, before even the flag
 drops. For, given the fine troops we have, the prime factors of the
@@ -11348,7 +11348,7 @@ whole conception; the factors by which it stands or falls; are:--</p>
 
 <p>(1) Our success in hoodwinking the Turks; i.e., surprise.</p>
 
-<p>(2) Our success in getting the <unit type="division">13th Division</unit> and the Indian Brigade
+<p>(2) Our success in getting the <unit type="division" unitName="13th Division">13th Division</unit> and the Indian Brigade
 unnoticed into Anzac.</p>
 
 <p>(3) Our success in landing the Divisions from <location island="Imbros">Imbros</location>, Lemnos and
@@ -11402,10 +11402,10 @@ which. <person name="Herbert Kitchener">K.</person>'s New Army, too! How will th
 speak--and with justice--of the spirit of the Commander colouring the
  moral  of his men, but I have hardly seen them, much less taken their
 measure. One more week and we would have known something at first hand.
-Now, except that the <unit type="division">13th Division</unit> and the <unit type="brigade">33rd</unit> Brigade gained good
+Now, except that the <unit type="division" unitName="13th Division">13th Division</unit> and the <unit type="brigade">33rd</unit> Brigade gained good
 opinions at <location peninsula="Helles">Helles</location>, all is guess work.</p>
 
-<p>Went down to "K" Beach to see the <unit type="division">11th Division</unit> go off. Young Brodrick,
+<p>Went down to "K" Beach to see the <unit type="division" unitName="11th Division">11th Division</unit> go off. Young Brodrick,
 who was with us, proved himself much all there on the crowded pier and
 foreshore; very observant; telling me who or what I had not noticed,
 etc. First the destroyers were filling up and then the lighters. The
@@ -11531,7 +11531,7 @@ further information."</p>
 
 <p>Awful work at Lone Pine. Desperate counter-attacks by enemy, but now
 Birdie thinks we are there to stay. Bulk of Turkish reserves engaged
-there whilst <person name="Alexander Godley">Godley</person>'s New Zealanders and the new <unit type="division">13th Division</unit> under
+there whilst <person name="Alexander Godley">Godley</person>'s New Zealanders and the new <unit type="division" unitName="13th Division">13th Division</unit> under
 Shaw are well up the heights and have carried <location town="Chunuk Bair">Chunuk Bair</location>. Koja Chemen
 Tepe not yet; but <location town="Chunuk Bair">Chunuk Bair</location> will do: with that, we win!</p>
 
@@ -11896,7 +11896,7 @@ Turks have rushed their guns and reinforcements here from a very long
 way off whilst he has been creeping along at the rate of a mile a day.
 <person name="Frederick Stopford">Stopford</person> expected Hammersley would be in to report progress in person;
 he will keep me well posted in his news and he understands that the
-<unit type="division">Welsh</unit> Division will be at his disposal to help the <unit type="division">11th Division</unit>.</p>
+<unit type="division">Welsh</unit> Division will be at his disposal to help the <unit type="division" unitName="11th Division">11th Division</unit>.</p>
 
 <p>As <person name="Frederick Stopford">Stopford</person> could give me no recent news from Mahon I suggested I should
 go and find out from him personally how matters then stood. <person name="Frederick Stopford">Stopford</person>
@@ -12032,7 +12032,7 @@ not have been worth half a minute's purchase just three days ago.</p>
 sat down on a high spur above <person name="Alexander Godley">Godley</person>'s Headquarters which gave us a
 grand outlook over the whole <location coast="Suvla Bay">Suvla</location> area, and across to <location town="Chunuk Bair">Chunuk Bair</location>. Here
 we ate our rations and held an impromptu council of war; Shaw,
-commanding the new <unit type="division">13th Division</unit>, joining in with us. All three Generals
+commanding the new <unit type="division" unitName="13th Division">13th Division</unit>, joining in with us. All three Generals
 were in high spirits and refused to allow themselves to be damped down
 by the repulse of the morning's attack on the high ridge. They put down
 that check to the lethargy of <location coast="Suvla Bay">Suvla</location>. Had <person name="Frederick Stopford">Stopford</person> taken up any point on
@@ -12119,7 +12119,7 @@ were bitten by this same spirit; <location coast="Suvla Bay">Suvla</location> to
 and when we got on board the  Arno  the ugly events of the early morning
 had been shaken, for the moment, out of our minds. But, on the sail
 home, we were able to look at the Peninsula as a whole. Because the
-Anzacs, plus the <unit type="division">13th Division</unit> of the New Army, had carried through a
+Anzacs, plus the <unit type="division" unitName="13th Division">13th Division</unit> of the New Army, had carried through a
 brilliant stroke of arms was a reason, not for shutting our eyes to the
 slowness of the <location coast="Suvla Bay">Suvla</location> Generals, but for spurring them on to do likewise.
 There is nothing open to them now--not without efforts for which they
@@ -12133,11 +12133,11 @@ message from myself to General <person name="Frederick Stopford">Stopford</perso
 and men being new to this style of warfare and without any leaven of
 experienced troops on which to form themselves. Still I should be wrong
 if I did not express my concern at the want of energy and push displayed
-by the <unit type="division">11th Division</unit>. It cannot all be want of experience as 13th have
+by the <unit type="division" unitName="11th Division">11th Division</unit>. It cannot all be want of experience as 13th have
 shown dash and self-confidence. Turks were almost negligible yesterday
 once you got ashore. To-day there was nothing to stop determined
 commanders leading such fine men as yours. Tell me what is wrong with
-the <unit type="division">11th Division</unit>. Is it the Divisional Generals or Brigadiers or both?
+the <unit type="division" unitName="11th Division">11th Division</unit>. Is it the Divisional Generals or Brigadiers or both?
 I have a first-rate Major General I can send at once and can also supply
 two competent Brigadiers. You must get a move on or the whole plan of
 operations is in danger of failing, for if you don't secure the AJA
@@ -12240,7 +12240,7 @@ the latter's approval"</p>
 <p>As to my actual feelings that forenoon, I do remember them well. At
 sunrise victory seemed assured. As morning melted into mid-day my mind
 became more and more uneasy at the scant news about the Irish Division
-and at the lack of news of a further advance of the <unit type="division">11th Division</unit>. This
+and at the lack of news of a further advance of the <unit type="division" unitName="11th Division">11th Division</unit>. This
 growing anxiety drove me to quit my headquarters and to take ship for
 <location coast="Suvla Bay">Suvla</location>.]</p>
 
@@ -12469,7 +12469,7 @@ into trenches.</p>
 
 <p>This letter has driven me very nearly to my wits' ends. Things can't be
 so bad! None of us have any complaint at all of the New Army troops;
-only of their Old Army Generals. <person name="Frederick Stopford">Stopford</person> says the <unit type="division">13th Division</unit> were
+only of their Old Army Generals. <person name="Frederick Stopford">Stopford</person> says the <unit type="division" unitName="13th Division">13th Division</unit> were
 not reliable when they were at <location peninsula="Helles">Helles</location>, whereas now, under <person name="Alexander Godley">Godley</person> at
 Anzac they have fought like lions.</p>
 
@@ -12483,10 +12483,10 @@ hour; <person name="Walter Braithwaite">Braithwaite</person> doing ditto with Re
 were sucked oranges, the good in them having been drafted away into
 France and replaced by rejections. He says he would have walked on to
 the watershed the first day had we only stiffened his force with the
-<unit type="division">29th</unit> Division. There happened to be some pretty decisive objections but
+<unit type="division" unitName="29th Division">29th</unit> Division. There happened to be some pretty decisive objections but
 there was no use entering into them then. So I merely told him that the
 <unit type="corps">9th Corps</unit> and the Territorials being now well ashore we may be able to
-bring up the <unit type="division">29th</unit>. No doubt--had we a couple of Regular Divisions
+bring up the <unit type="division" unitName="29th Division">29th</unit>. No doubt--had we a couple of Regular Divisions
 here--British or Indian--at full strength--no doubt we could astonish
 the world. Having the <unit type="division">53rd</unit> and the <unit type="division">54th Division</unit>s, half-trained and at
 half strength, I tried to make <person name="Frederick Stopford">Stopford</person> see we must cut our coats with
@@ -12568,7 +12568,7 @@ them. <person name="Herbert Kitchener">K.</person> in this, and this alone, is w
 everything; the man nothing. Have cabled back saying, "I am acting
 absolutely as you indicate by 'ginger'; I only got back at 11 last night
 from a further application of that commodity. As a result a fresh attack
-will be made to-morrow morning by the IXth Corps and the <unit type="division">LIVth</unit>
+will be made to-morrow morning by the IXth Corps and the <unit type="division" unitName="54th Division">LIVth</unit>
 Division."</p>
 
 <p>As to the New Army I point out to <person name="Herbert Kitchener">K.</person> that "they are fighting under
@@ -12627,21 +12627,21 @@ rapidly. A small attack by a Brigade, which promised well, was in
 progress. This morning the Xth Division captured a trench."</p>
 
 <p>The story of the <location coast="Suvla Bay">Suvla</location> Council of War:--At first the Generals were for
-fighting. Inglefield, of the <unit type="division">LIVth</unit>, who is told off for the attack, was
+fighting. Inglefield, of the <unit type="division" unitName="54th Division">LIVth</unit>, who is told off for the attack, was
 keen. All he asked was, a clean start from <location town="Anafarta Ova">Anafarta Ova</location>. If his Division
 could jump off, intact and fresh, from that well-watered half-way house,
-<location hill="Kavak Tepe">Kavak Tepe</location> was his. The <unit type="division">LIIIrd</unit> Division for their part agreed to make
+<location hill="Kavak Tepe">Kavak Tepe</location> was his. The <unit type="division" unitName="53th Division">LIIIth</unit> Division for their part agreed to make
 good <location town="Anafarta Ova">Anafarta Ova</location>; to clear out the snipers and to hold the place as a
-base for the <unit type="division">LIVth</unit>.</p>
+base for the <unit type="division" unitName="54th Division">LIVth</unit>.</p>
 
-<p>So at 10 a.m. <person name="Frederick Stopford">Stopford</person> issued orders saying the <unit type="division">LIVth</unit> must march off at
+<p>So at 10 a.m. <person name="Frederick Stopford">Stopford</person> issued orders saying the <unit type="division" unitName="54th Division">LIVth</unit> must march off at
 4 p.m. moving East of <location town="Anafarta Ova">Anafarta Ova</location>. Then,--when at last all seemed
-settled, in came a message from the G.O.C. <unit type="division">LIIIrd</unit> Division, saying he
+settled, in came a message from the G.O.C. <unit type="division" unitName="53th Division">LIIIth</unit> Division, saying he
 could not undertake to clear <location town="Anafarta Ova">Anafarta Ova</location> of snipers and to hold it as a
-cover to the advance of the <unit type="division">LIVth</unit>.</p>
+cover to the advance of the <unit type="division" unitName="54th Division">LIVth</unit>.</p>
 
 <p><person name="Frederick Stopford">Stopford</person> thereupon cancelled his first order, and, at 1.15 p.m., issued
-fresh orders directing the <unit type="division">LIVth</unit> Division  to send in one of their own
+fresh orders directing the <unit type="division" unitName="54th Division">LIVth</unit> Division  to send in one of their own
 Brigades  as an advance guard to clear the ground up to a point East of
 <location town="Anafarta Ova">Anafarta Ova</location>. <person name="Walter Braithwaite">Braithwaite</person> stayed at Corps Headquarters at <location coast="Suvla Bay">Suvla</location> until
 this Brigade, the 163rd, was moving on <location town="Anafarta Ova">Anafarta Ova</location> driving the snipers
@@ -12690,7 +12690,7 @@ is the text of his sermon. Hopeless about to-night, or to-morrow, that
 is to say; for there are rosy visions and to spare for next week, or the
 week after, or any other time, so long as it is not too near us. There
 is something in this beats me. We are alive--we are quite all right--the
-Brigade of the <unit type="division">LIVth</unit> sent on to Kuchuk <location town="Anafarta Ova">Anafarta Ova</location> made good its point.
+Brigade of the <unit type="division" unitName="54th Division">LIVth</unit> sent on to Kuchuk <location town="Anafarta Ova">Anafarta Ova</location> made good its point.
 True, one battalion got separated from its comrades in the forest and
 was badly cut up by Turkish snipers just as was Braddock's force by the
 Redskins, but this, though tragic, is but a tiny incident of a great
@@ -12699,8 +12699,8 @@ hold the spot whence, it was settled, the attack on <location hill="Kavak Tepe">
 jump off. Nothing practical or tactical seems to have occurred to force
 us to drop our plan.</p>
 
-<p>But no; <person name="Frederick Stopford">Stopford</person> and Reed count the <unit type="division">LIIIrd</unit> Division as finished: the
-<unit type="division">LIVth</unit> incapable of attack; the rest of the IXth Corps immovable.</p>
+<p>But no; <person name="Frederick Stopford">Stopford</person> and Reed count the <unit type="division" unitName="53th Division">LIIIth</unit> Division as finished: the
+<unit type="division" unitName="54th Division">LIVth</unit> incapable of attack; the rest of the IXth Corps immovable.</p>
 
 <p>If I accept; we have lost this battle. We are not beaten now--the men
 are not--but if I accept, we are held up.</p>
@@ -13017,7 +13017,7 @@ reinforcements into the Northern zone with the object of defeating the
 enemy opposite Anzac, seizing a new base at <location coast="Suvla Bay">Suvla</location>, and gaining a
 position astride the narrow part of the peninsula. With this object, I
 reinforced General <person name="William Birdwood">Birdwood</person> with the <unit type="division">XIIIth</unit> Division, <unit type="brigade">29th Brigade</unit>, Xth
-Division, and <unit type="division">29th</unit> Indian Brigade, all of which were secretly dribbled
+Division, and <unit type="division" unitName="29th Division">29th</unit> Indian Brigade, all of which were secretly dribbled
 ashore at Anzac Cove on the three nights preceding commencement of
 operations. This was done without arousing the suspicions of the enemy.
 Arrangements were made for the XIth Division to land at <location coast="Suvla Bay">Suvla</location> Bay on the
@@ -13052,8 +13052,8 @@ Oglu Tepe on which enemy were believed to have guns which could bring
 fire to bear either on back of General <person name="William Birdwood">Birdwood</person>'s advance on Hill 305,
 or on <location coast="Suvla Bay">Suvla</location> Bay. The ridge from <location town="Anafarta Sagir">Anafarta Sagir</location> to Aja Liman was also to
 be lightly held. The Xth Division, less one brigade, was to follow XIth
-Division at daybreak and <unit type="division">LIIIrd</unit> Division was held in general reserve.
-The <unit type="division">LIVth</unit> Division had not arrived and could not be employed in the
+Division at daybreak and <unit type="division" unitName="53th Division">LIIIth</unit> Division was held in general reserve.
+The <unit type="division" unitName="54th Division">LIVth</unit> Division had not arrived and could not be employed in the
 first instance.</p>
 
 <p>"The moment <person name="Frederick Stopford">Stopford</person> had fulfilled the above tasks, which, owing to the
@@ -13113,11 +13113,11 @@ perhaps, partly to the inexperience of the troops, had failed to take
 advantage of the opportunities as already reported.</p>
 
 <p>"The result is that my coup has so far failed. It was soon realized that
-it was necessary to give impetus to the IXth Corps, and the <unit type="division">LIIIrd</unit>
-Division was put in on 8th-9th. By this time the <unit type="division">LIVth</unit> Division was
-available as general reserve. Unfortunately, the <unit type="division">LIIIrd</unit> Division broke
+it was necessary to give impetus to the IXth Corps, and the <unit type="division" unitName="53th Division">LIIIth</unit>
+Division was put in on 8th-9th. By this time the <unit type="division" unitName="54th Division">LIVth</unit> Division was
+available as general reserve. Unfortunately, the <unit type="division" unitName="53th Division">LIIIth</unit> Division broke
 in my hand, leaving me like a fencer with rapier broken, and by the time
-the <unit type="division">LIVth</unit> Division arrived the remaining troops of the Corps were too
+the <unit type="division" unitName="54th Division">LIVth</unit> Division arrived the remaining troops of the Corps were too
 tired and disorganized for further immediate effort.</p>
 
 <p>"The IXth Corps holds the position from Kiretch Tepe Sirt, bench mark 2;
@@ -13129,7 +13129,7 @@ within 300 yards of Point 161 on <location town="Chunuk Bair">Chunuk Bair</locat
 left of the Anzac position.</p>
 
 <p>"<person name="Beauvoir De Lisle">De Lisle</person> has at his disposal the Xth Division, less one brigade, the
-XIth, <unit type="division">LIIIrd</unit> and <unit type="division">LIVth</unit> Divisions; total rifles, owing to casualties,
+XIth, <unit type="division" unitName="53th Division">LIIIth</unit> and <unit type="division" unitName="54th Division">LIVth</unit> Divisions; total rifles, owing to casualties,
 under 30,000. The <location coast="Suvla Bay">Suvla</location> losses have been too severe considering extent
 and nature of the fighting that has taken place, and can only be
 attributed to the inexperience of the troops and their leaders, and the
@@ -13274,8 +13274,8 @@ demands and sympathetic towards my personal attitude.</p>
 <p>As to the coming attack, the tone of the Conference was hopeful. They
 agreed that the nut was hard for our enfeebled forces to crack, but they
 seemed to think that if we were once to get the enemy on the run, with
-the old <unit type="division">29th</unit> Division and the new, keen Yeomanry on their heels, we
-might yet go further than we expected. One Brigade of the <unit type="division">29th</unit> Division
+the old <unit type="division" unitName="29th Division">29th</unit> Division and the new, keen Yeomanry on their heels, we
+might yet go further than we expected. One Brigade of the <unit type="division" unitName="29th Division">29th</unit> Division
 has been brought round from <location peninsula="Helles">Helles</location> to put shape and form into the <unit type="division">53rd</unit>
 Division. Peyton's men are to be attached to the Irish Division. There
 is a new spirit of energy and hope in the higher ranks but the men have
@@ -13447,15 +13447,15 @@ trenches to the front had not yet been dug.</p>
 
 <p>As to the attack:--on the extreme right the Anzacs and Indian Brigade
 were to push out from Damakjelik Bair towards Hill 60. Next to them in
-the right centre the <unit type="division">11th Division</unit> was to push for the trenches at
-Hetman Chair. On the left centre the <unit type="division">29th</unit> Division were to storm the now
+the right centre the <unit type="division" unitName="11th Division">11th Division</unit> was to push for the trenches at
+Hetman Chair. On the left centre the <unit type="division" unitName="29th Division">29th</unit> Division were to storm the now
 heavily entrenched Hill 70. Holding that and <location hill="Ismail Oglu Tepe">Ismail Oglu Tepe</location> we should
 command the plateau between the two Anafartas; knock out the enemy's
 guns and observation posts commanding <location coast="Suvla Bay">Suvla</location> Bay, and should easily be
 able thence to work ourselves into a position whence we will enfilade
 the rear of the Sari Bair Ridge and begin to get a strangle grip over
 the Turkish communications to the Southwards. From the extreme left on
-Kiretch Tepe Sirt by the sea, to Sulajik where they joined the <unit type="division">29th</unit>
+Kiretch Tepe Sirt by the sea, to Sulajik where they joined the <unit type="division" unitName="29th Division">29th</unit>
 Division the <unit type="division">53rd</unit> and <unit type="division">54th</unit> Divisions were simply holding the line.</p>
 
 <p>Only the broad outline of the fighting was visible through the dim
@@ -13483,7 +13483,7 @@ Officers. He was smoking a pipe--quite calm. There is usually nothing to
 be said or to be done once our war dogs have been slipped. A soldier
 might as well try to correct the aim of his bullet after he has pulled
 the trigger! Whilst I was there we heard--probably about 4.30--that the
-<unit type="division">11th Division</unit> had captured the Turkish first line trenches which run
+<unit type="division" unitName="11th Division">11th Division</unit> had captured the Turkish first line trenches which run
 North and South of Hetman Chair. Real good news this. We were
 considerably bucked up. Climbed back to Karakol Dagh but, from that time
 onwards, could make out nothing of the course of the battle save that
@@ -13544,16 +13544,16 @@ gunners, but simply because, on the one hand, the mist interfered with
 the accuracy of their aim, on the other, shortage of shell prevented
 them from making up for inaccuracy by quantity. Then the bush fires seem
 to have come along in the most terrible fashion and interposed between
-our brave <unit type="division">29th</unit> and the Turks. The ancient Gods fought against us
+our brave <unit type="division" unitName="29th Division">29th</unit> and the Turks. The ancient Gods fought against us
 yesterday:--mist and fire, still hold their own against the inventions
 of man. Last but not least, all are agreed the fine edge of the 11th
 Division has been at last blunted--and small wonder: there is no use
 attacking any more with the New Army until it has been well rested and
 refreshed with new drafts.</p>
 
-<p>So far <person name="Beauvoir De Lisle">de Lisle</person> has no clear or connected story of the battle. The <unit type="division">29th</unit>
+<p>So far <person name="Beauvoir De Lisle">de Lisle</person> has no clear or connected story of the battle. The <unit type="division" unitName="29th Division">29th</unit>
 Division say they were shouldered off their true line of attack by the
-<unit type="division">11th Division</unit>, then driven in by the fire; the <unit type="division">11th Division</unit>, on their
+<unit type="division" unitName="11th Division">11th Division</unit>, then driven in by the fire; the <unit type="division" unitName="11th Division">11th Division</unit>, on their
 side, say that the Yeomen barged into them and threw them off their
 line. Had we been able to dig in we would have made good a lot of
 ground. But Marshall, not showy or brilliant but one of my most sound
@@ -13635,7 +13635,7 @@ towards clearing the valley, or, if this proved impossible and I was
 thrown on the defensive, to secure comparative immunity from shell fire
 either for <location coast="Suvla Bay">Suvla</location> Bay or Anzac Cove.</p>
 
-<p>"<person name="Beauvoir De Lisle">De Lisle</person> planned the attack well. The <unit type="division">LIIIrd</unit> and the <unit type="division">LIVth</unit> Divisions
+<p>"<person name="Beauvoir De Lisle">De Lisle</person> planned the attack well. The <unit type="division" unitName="53th Division">LIIIth</unit> and the <unit type="division" unitName="54th Division">LIVth</unit> Divisions
 were to hold enemy from Sulajik to Kiretch Tepe Sirt, and XXIXth
 Division and XIth Division were to attack <location hill="Ismail Oglu Tepe">Ismail Oglu Tepe</location> with two
 Brigades of Xth Division and the IInd Mounted Division (5,000 rifles) in
@@ -13664,7 +13664,7 @@ and my total force is now only 85,000, of which the fighting strength is
 are becoming abnormal chiefly owing to troops other than late arrivals
 being worn out with hardship and incessant shell fire, from which even
 when in reserve they are never free. Where Anzac evacuated 100 a day
-they are now evacuating 500, where <unit type="division">Royal Naval Division</unit> evacuated 10
+they are now evacuating 500, where <unit type="division" unitName="Naval Division">Royal Naval Division</unit> evacuated 10
 they are now evacuating 60. The result is that I have only some 50,000
 men in the North to hold a line from the right of Anzac to the sea
 North-east of <location coast="Suvla Bay">Suvla</location>, a distance of 23,000 yards.</p>
@@ -13707,7 +13707,7 @@ reckon on this."</p>
 the <unit type="corps">9th Corps</unit>), <person name="Stanley Maude">Maude</person> and <person name="Edward Fanshawe">Fanshawe</person> (to command Divisions); also Tyrrell
 and <person name="Julian Byng">Byng</person>'s A.D.C., Sir B. Brooke, nephew of my old friend, Harry Brooke.
 All three Generals remained for lunch and then the two Divisionals made
-off respectively to the 11th and <unit type="division">13th Division</unit>s. <person name="Julian Byng">Byng</person> and Brooke stayed
+off respectively to the 11th and <unit type="division" unitName="13th Division">13th Division</unit>s. <person name="Julian Byng">Byng</person> and Brooke stayed
 and dined. These fellows seem pretty cheery. <person name="Stanley Maude">Maude</person> especially full of
 ardour which will, I hope, catch on.</p>
 
@@ -14046,7 +14046,7 @@ line. This welcome news of 47,000 reinforcements, however, alters the
 whole situation. Such a number will do much to complete my diminished
 cadres, and should materially lessen sick rate by giving more chance of
 taking tired troops out of the trenches. <person name="Julian Byng">Byng</person> can certainly remain where
-<person name="Julian Byng">he</person> is at present, and will even be able to rest some of the tired <unit type="division">XXIXth Division</unit>, while the arrival of the <location country="Australia">Australia</location> Brigade will give <person name="William Birdwood">General
+<person name="Julian Byng">he</person> is at present, and will even be able to rest some of the tired <unit type="division" unitName="29th Division">XXIXth Division</unit>, while the arrival of the <location country="Australia">Australia</location> Brigade will give <person name="William Birdwood">General
 Birdwood</person> a similar chance of resting some of <person name="William Birdwood">his</person> troops.</p>
 
 <p>"<person name="William Birdwood">General Birdwood</person> meanwhile is to make a further advance to-morrow on
@@ -14254,7 +14254,7 @@ standing by to help.</p>
 
 <p>At 1.30 the C.G.S., <person name="Deedes">Deedes</person>, <person name="Val.">Val.,</person> <person name="Freddy">Freddy</person> and I crossed to <location peninsula="Helles">Helles</location> in the
 <location ship="H.M.S. Arno"> Arno .</location> Had a hard afternoon's walking, going first to 8th Corps
-Headquarters; next to the <unit type="division">Royal Naval Division</unit> and last to the 52nd
+Headquarters; next to the <unit type="division" unitName="Naval Division">Royal Naval Division</unit> and last to the 52nd
 Divisional Headquarters. Returned to the 8th Corps Headquarters and
 there met <person name="Bailloud">Bailloud.</person> <person name="Bailloud">He</person> is now full of good cheer. Got back to
 Headquarters without adventure or misadventure.</p>
@@ -15062,7 +15062,7 @@ a great admiration for <person name="Julian Byng">Byng</person> and so, though s
 
 <p><person name="Fanshawe">Fanshawe</person> met me at the South end of the Division trenches, as bright and
 keen as a new nail. His men, too, seem full of go. <person name="Fanshawe">Fanshawe</person> hopes to
-carry the whole ridge whenever <person name="Fanshawe">he</person> gets the order. The <unit type="division">11th Division</unit>
+carry the whole ridge whenever <person name="Fanshawe">he</person> gets the order. The <unit type="division" unitName="11th Division">11th Division</unit>
 promise to be as fine a unit as any in the Army once they get their gaps
 filled in.</p>
 </entry>
@@ -15550,11 +15550,11 @@ ever ghastlier shortage upon the Peninsula generally:--</p>
 
 
 <p>"My present shortages, 21st September, of infantry rank and file are
-2,645 in the <unit type="division">XXIXth Division</unit>, 17,166 in the three New Army Divisions,
+2,645 in the <unit type="division" unitName="29th Division">XXIXth Division</unit>, 17,166 in the three New Army Divisions,
 and 23,986 in the four Territorial Divisions, totalling 43,797; out of
 respective establishments of 11,652, 37,869 and 44,824, total, 97,345."</p>
 
-<p>Were the <unit type="division">Royal Naval Division</unit> included the percentage would be worse.</p>
+<p>Were the <unit type="division" unitName="Naval Division">Royal Naval Division</unit> included the percentage would be worse.</p>
 
  <p><person name="Peter Pollen">Peter Pollen</person> and I dined with the Admiral. After dinner, we discussed
 <person name="Ferdinand">Fox-Ferdinand's</person> little tricks. The Admiral had heard a lot about <person name="Ferdinand">his</person>
@@ -15813,7 +15813,7 @@ fewer troops in order to spare two divisions for the new enterprise.</p>
 Australian Division</unit> resting at <location town="Mudros">Mudros</location> and also one brigade resting at
 <location island="Imbros">Imbros</location>. By bringing the tired <location country="Australia">Australians</location> back and making them replace
 the Mounted Division in the section north of Susak Kuyu I could spare
-<unit type="division">Xth</unit> and <unit type="division">LIIIrd</unit> Divisions or else <unit type="division">Xth</unit> and <unit type="division">XIth.</unit> I could also spare one
+<unit type="division">Xth</unit> and <unit type="division" unitName="53th Division">LIIIth</unit> Divisions or else <unit type="division">Xth</unit> and <unit type="division">XIth.</unit> I could also spare one
 French brigade from Cape <location peninsula="Helles">Helles</location> without replacing it by troops from
 <location coast="Suvla">Suvla</location>, and a total of 4-1/2 <location country="England">British</location> Field Artillery brigades. This would
 at any rate enable me to postpone any evacuation at <location coast="Suvla">Suvla</location> and if the
@@ -16043,10 +16043,10 @@ General Brulard.'</p>
 
 <p>"I said in my telegram No. M.F. 675, that I could only spare one brigade
 of the <location country="France">French.</location> I desire to place on record that if this order of the
-<location country="France">French Government</location> is carried out the <unit type="division">">LIIIrd</unit> Division cannot possibly be
+  <location country="France">French Government</location> is carried out the <unit type="division" unitName="53th Division">LIIIrd Division</unit> cannot possibly be
 spared without seriously endangering the safety of this force and the
 whole future of the <location straits="Dardanelles">Dardanelles</location> enterprise. Even if I were to keep the
-<unit type="division">LIIIrd Division</unit> it would not relieve me of intense anxiety. The fact
+<unit type="division" unitName="53th Division">LIIIrd Division</unit> it would not relieve me of intense anxiety. The fact
 will not escape your notice that the division to go is being
 re-constructed so that nothing but European troops are included, thus
 leaving an undue proportion of <location country="Senegal">Senegalese.</location> This constitutes such a grave
@@ -16118,7 +16118,7 @@ getting through by the gate called strait.</p>
 
 <p>"By <person name="Bailloud">Bailloud</person>'s report I see that <person name="Ian Hamilton">he</person> considers that the French line can
 be held by one division. If, on reconsideration, you agree with this
-view can you spare the <unit type="division">LIIIrd</unit> Division?"</p>
+view can you spare the <unit type="division" unitName="53th Division">LIIIth</unit> Division?"</p>
 
 <p><person name="Herbert Kitchener">Lord K.</person> has pounced like a hawk on <person name="Bailloud">Bailloud</person>'s statement (which I cabled to
 him yesterday) that <person name="Herbert Kitchener">he</person> is taking steps for Brulard to hold the French
@@ -16142,7 +16142,7 @@ protection of Cape <location peninsula="Helles">Helles</location> to one divisio
 too serious a risk. To-day, therefore, I am moving one brigade of <unit type="division">XXIXth</unit>
 Division back from <location coast="Suvla">Suvla</location> to reinforce VIIIth Corps in order to have some
 regular troops there on whom I can rely. This makes it impossible to
-spare the <unit type="division">LIIIrd</unit> Division. The change of opinion on the part of
+spare the <unit type="division" unitName="53th Division">LIIIth</unit> Division. The change of opinion on the part of
 <person name="Bailloud">Bailloud</person>, when <person name="Bailloud">he</person> gets away from a position which I have found it
 difficult to persuade <person name="Bailloud">him</person> to hold with two divisions, and which <person name="Bailloud">he</person> now,
 as <person name="Herbert Kitchener">you</person> say, thinks can be held with one division composed largely of
@@ -16168,7 +16168,7 @@ dealing with any situation.'</p>
 <p>"I believe this indicates <person name="Bailloud">Bailloud</person>'s real opinion; it is a curious
 contrast to that quoted in your No. 8409, cipher, dated 30th September."</p>
 
-<p>At 11.30 crossed to "K" and inspected the <unit type="brigade">87th Brigade</unit> of the <unit type="division">29th</unit>
+<p>At 11.30 crossed to "K" and inspected the <unit type="brigade" unitName="87th Brigade">87th Brigade</unit> of the <unit type="division" unitName="29th Division">29th</unit>
 Division. <person name="Lucas">Lucas</person>, of the <unit type="regiment">Berks Regiment</unit>, commanded. Saw the Border
 Regiment under Colonel Pollard; then the renowned Royal Inniskilling
 Fusiliers under <person name="Pierce">Major Pierce</person>, the full strength of the Battalion on
@@ -16181,7 +16181,7 @@ the campaign our rank and file have seemed sorry for themselves. Ten
 days of rest had been promised them and now they are being hurried back
 to the trenches before they have had a week. My heart goes out to them
 entirely. Were I they I would feel mad with me. The breaking of my word
-to the <unit type="division">29th Division</unit> has to be shouldered by me just like all the other
+to the <unit type="division" unitName="29th Division">29th Division</unit> has to be shouldered by me just like all the other
 results of this new Balkan adventure; the withdrawal of the <location country="Ireland">Irish</location> and
 the French for <location city="Salonika">Salonika</location> leaves no margin of rest for what's left.</p>
 
@@ -16473,7 +16473,7 @@ where I met also de <person name="de Lisle">Lisle</person> and <person name="Ree
 off with the whole band to make a tour of the trenches held by the <unit type="brigade">88th</unit>
 Brigade, under <person name="General Cayley">General Cayley</person>. On the way I was taken up to "Gibraltar"
 observation post to get a bird's-eye view of the line. Besides my old
-friends of the <unit type="division">29th Division</unit> I saw some of the new boys, especially the
+friends of the <unit type="division" unitName="29th Division">29th Division</unit> I saw some of the new boys, especially the
 <unit type="battalion">1st Newfoundland Battalion</unit> under <person name="Colonel Burton">Colonel Burton,</person> and the 2/1st Coy. of
 the <location town="London">London</location> Regiment. This was the Newfoundlanders' first day in the
 trenches and they were very pleased with themselves. They could not
@@ -16507,7 +16507,7 @@ him very much.</p>
 <location peninsula="Helles">Helles</location>, taking with me Aspinall and <person name="Freddie">Freddie</person>. Lunched with <person name="Davies">Davies</person> at 8th
 Corps Headquarters.</p>
 
-<p>Afterwards rode across to <unit type="division">Royal Naval Division</unit> and saw Paris. Then went
+<p>Afterwards rode across to <unit type="division" unitName="Naval Division">Royal Naval Division</unit> and saw Paris. Then went
 with <person name="Bertie Lawrence">Bertie Lawrence</person>, commanding <unit type="division">52nd Division</unit>, to <person name="Bertie Lawrence">his</person> lines. Our route
 lay up <location heights="Achi Baba">Achi Baba</location> Nallah and along the trenches to the Horse Shoe; then
 along Princes Street trench up the Vineyard, and back along the Krithia
@@ -16616,7 +16616,7 @@ at the Clearing Hospital and cast an eye over Lancashire Landing. Then,
 in company with <person name="Jimmy Watson">Jimmy Watson</person> and <person name="Colonel Ayres">Colonel Ayres,</person> walked up to Corps
 Headquarters where we had a fine lunch with <person name="Davies">Davies</person>, <person name="de Rougemont">de Rougemont</person> and the
 melancholy <person name="Yarr">Yarr</person>. Afterwards rode across to the Headquarters of the
-<unit type="division">Royal Naval Division</unit> and on to their trenches, some 3-1/2 miles.
+<unit type="division" unitName="Naval Division">Royal Naval Division</unit> and on to their trenches, some 3-1/2 miles.
 <person name="General Mercer">Generals Mercer</person> and <person name="General Paris">Paris</person> followed us through their trenches. The <unit type="battalion">Hood</unit>
 and <unit type="battalion">Hawke Battalions</unit> were in the firing line where we talked to great
 numbers of old comrades of all ranks. Glad to meet <person name="Fredyberg">Freyberg</person> again (the
@@ -17640,9 +17640,9 @@ consider that enough guns and ammunition had been allotted to this
 portion of the <location country="Turkey">Turkish</location> trenches. I replied that I agreed, but that there
 were no more available and that to reduce the bombardment of the
 hostile trenches on the left of our front would gravely prejudice the
-success of the <unit type="division">29th Division</unit> in that quarter and that I understood
+success of the <unit type="division" unitName="29th Division">29th Division</unit> in that quarter and that I understood
 success there was more vital than on our right flank. After consultation
-with the G.O.C. <unit type="division">29th Division</unit>, the Corps Commander agreed with my
+with the G.O.C. <unit type="division" unitName="29th Division">29th Division</unit>, the Corps Commander agreed with my
 allotment of the artillery. We then did our utmost to obtain the loan of
 more guns, howitzers or ammunition from the French without success and
 with the result that the attack was beaten off.</p>
@@ -18398,7 +18398,7 @@ COVE ON THE NIGHTS OF AUGUST 3RD/4TH, AUGUST 4TH/5TH AND AUGUST 5TH/6TH.</p>
          Unit.        | From.| Date. |Personnel.|Vehicles.|      Remarks.
  ---------------------+------+-------+----------+---------+---------------------
  6 Battalions ( a ),  |<location town="Mudros">Mudros</location>|Night, |  4,650   |   Nil   |Machine guns and
- <unit type="division">13th Division</unit>        |      |August |          |         |other equipment
+ <unit type="division" unitName="13th Division">13th Division</unit>        |      |August |          |         |other equipment
                       |      |3rd/4th|          |         |carried by hand.
                       |      |       |          |         |
  Bearer Sub-Division, |<location town="Mudros">Mudros</location>|Night, |    100   |   Nil   |      --
@@ -18406,12 +18406,12 @@ COVE ON THE NIGHTS OF AUGUST 3RD/4TH, AUGUST 4TH/5TH AND AUGUST 5TH/6TH.</p>
                       |      |3rd/4th|          |         |
                       |      |       |          |         |
  7 Battalions ( a ),  |<location town="Mudros">Mudros</location>|Night, |  5,425   |   Nil   |Machine guns and
- <unit type="division">13th Division</unit>        |      |August |          |         |other equipment
+ <unit type="division" unitName="13th Division">13th Division</unit>        |      |August |          |         |other equipment
                       |      |4th/5th|          |         |carried by hand.
                       |      |       |          |         |
  Bearer Sub-Division, |<location town="Mudros">Mudros</location>|Night, |    125   |   Nil   |      --
  1 Field Ambulance,   |      |August |          |         |
- <unit type="division">13th Division</unit>        |      |4th/5th|          |         |
+ <unit type="division" unitName="13th Division">13th Division</unit>        |      |4th/5th|          |         |
                       |      |       |          |         |
  4 Battalions, 10th   |<location town="Mudros">Mudros</location>|Night, |  3,100   |   Nil   |Machine guns and
  Division             |      |August |          |         |other equipment
@@ -18423,7 +18423,7 @@ COVE ON THE NIGHTS OF AUGUST 3RD/4TH, AUGUST 4TH/5TH AND AUGUST 5TH/6TH.</p>
                       |      |       |          |         |
  Bearer Sub-Divisions,|<location town="Mudros">Mudros</location>|Night, |    255   |   Nil   |      --
  2 Field Ambulance,   |      |August |          |         |
- <unit type="division">13th Division</unit>        |      |5th/6th|          |         |
+ <unit type="division" unitName="13th Division">13th Division</unit>        |      |5th/6th|          |         |
                       |      |       |          |         |
  3 Field Companies    |<location town="Mudros">Mudros</location>|Night, |    525   |   Nil   |Machine guns and
  R.E. ( a ), 13th     |      |August |          |         |other equipment
@@ -18713,7 +18713,7 @@ enemy on Hill 305 will be carried out by the <location country="Australia">Austr
 Corps, temporarily reinforced by the following units of the 9th Army
 Corps:--</p>
 
-<p>  <unit type="division">13th Division</unit> (less 66th, 67th and 68th Brigades, R.F.A.).</p>
+<p>  <unit type="division" unitName="13th Division">13th Division</unit> (less 66th, 67th and 68th Brigades, R.F.A.).</p>
 
 <p>  29th Infantry Brigade (10th Division).</p>
 
@@ -19102,7 +19102,7 @@ you will wish them to land.</p>
 <p>9. Special attention is directed to paragraph 8 of my letter G.S.R. Z.
 18, dated 22nd July.</p>
 
-<p>10. The infantry of the <unit type="division">53rd Division</unit> will be available as Army Reserve,
+<p>10. The infantry of the <unit type="division" unitName="53th Division">53rd Division</unit> will be available as Army Reserve,
 and will be at the disposal of the General Commanding.</p>
 
 <p>11. Special instructions regarding signal communications will be issued
@@ -19399,7 +19399,7 @@ desire.)</p>
 <p>(2) One F.A. Brigade 11th Division (modified scale of horses). One F.A.
 Brigade 10th Division (modified scale of horses).</p>
 
-<p>(3) Two F.A. Brigades <unit type="division">13th Division</unit>.</p>
+<p>(3) Two F.A. Brigades <unit type="division" unitName="13th Division">13th Division</unit>.</p>
 
 <p>(4) Horses for 11th Division.</p>
 
@@ -19590,7 +19590,7 @@ against Hill 180 (Baby 700).</p>
 <p>4. ( a ) For the above operations the following troops will be at your
 disposal:--</p>
 
-<p>A. and N.Z. Army Corps. <unit type="division">13th Division</unit>, less all artillery except 69th
+<p>A. and N.Z. Army Corps. <unit type="division" unitName="13th Division">13th Division</unit>, less all artillery except 69th
 F.A. (Howitzer) Brigade. 29th Brigade (10th Division). 29th <location country="India">Indian</location>
 Brigade.</p>
 
@@ -19739,7 +19739,7 @@ simultaneous attack on the enemy in the northern and southern zone
 commencing on 6th August, in accordance with the special instructions
 already issued to the Corps Commanders concerned.</p>
 
-<p>During the first phase of these operations the <unit type="division">13th Division</unit> (less three
+<p>During the first phase of these operations the <unit type="division" unitName="13th Division">13th Division</unit> (less three
 18-pdr. Bdes. R.F.A.), the 29th Infantry Brigade will be attached to the
 A. and N.Z. Army Corps. Three squadrons R.N. Armoured Car Division and
 two batteries Highland Mounted Artillery will be attached to 9th Corps.
@@ -19750,7 +19750,7 @@ two batteries Highland Mounted Artillery will be attached to 9th Corps.
 issued to G.O.C. 9th Corps, G.O.C., A. and N.Z. Corps, and I.G.C., as
 appended to this order.</p>
 
-<p>4. The <unit type="division">53rd Division</unit> will remain at the disposal of the General
+<p>4. The <unit type="division" unitName="53th Division">53rd Division</unit> will remain at the disposal of the General
 Commanding as general reserve.</p>
 
 <p>5. G.H.Q. will remain in the first instance in its present situation.</p>
@@ -19761,7 +19761,7 @@ Commanding as general reserve.</p>
                                  Mediterranean Expeditionary Force. </p>
 
 <p>Issued to: G.O.C. Corps Expéditionnaire; G.O.C. A. and N.Z. Army Corps;
-G.O.C. 8th Army Corps; G.O.C. 9th Army Corps; G.O.C. <unit type="division">53rd Division</unit>;
+G.O.C. 8th Army Corps; G.O.C. 9th Army Corps; G.O.C. <unit type="division" unitName="53th Division">53rd Division</unit>;
 I.G.C.; Vice-Admiral.</p>
 
 
@@ -19968,7 +19968,7 @@ evacuation of the wounded from the beach.</p>
 <p>1. The operations of the northern wing of the Army have only been
 partially successful.</p>
 
-<p>( a ) The <location country="Australia">Australia</location> and <location country="New Zealand">New Zealand</location> Army Corps, with the <unit type="division">13th Division</unit>
+<p>( a ) The <location country="Australia">Australia</location> and <location country="New Zealand">New Zealand</location> Army Corps, with the <unit type="division" unitName="13th Division">13th Division</unit>
 and the 29th Brigade of <unit type="division">10th Division</unit> attached, has greatly extended the
 area occupied, and now holds a position under the Chunuk Bair Ridge,
 which the G.O.C. considers a favourable one from which to launch the
@@ -20023,7 +20023,7 @@ detachment in the Ejelmer Bay region.</p>
 
 <p>  11th Division,
   10th Division (less 29th Brigade),
-  <unit type="division">53rd Division</unit>,
+  <unit type="division" unitName="53th Division">53rd Division</unit>,
   <unit type="division">54th Division</unit>,</p>
 
 <p>and there is on its way from <location country="Egypt">Egypt</location> to join you the 2nd Mounted Division
