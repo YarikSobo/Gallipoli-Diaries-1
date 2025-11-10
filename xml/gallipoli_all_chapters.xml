@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
+<?xml-model href="gallipolischema_2.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 <title>GALLIPOLI DIARY BY GENERAL SIR IAN HAMILTON, G.C.B.</title>
   
-<chapter n="0" heading="PREFACE">PREFACE
+<chapter n="0" heading="PREFACE">
+  <p>PREFACE</p>
 
 <entry><p>
 On the heels of the South African War came the sleuth-hounds pursuing
@@ -194,7 +196,8 @@ l'annonciateur de cette aurore.
 </entry>
 </chapter>
 
-  <chapter n="1" heading="THE START">CHAPTER I THE START
+  <chapter n="1" heading="THE START">
+    <p>CHAPTER I THE START</p>
 
 
 <entry><p>In the train between Paris and Marseilles, 14th March, 1915. </p>
@@ -664,7 +667,8 @@ true.[4]</p></entry>
   
 
 
-<chapter n="2" heading="THE STRAITS">CHAPTER II THE STRAITS
+<chapter n="2" heading="THE STRAITS">
+  <p>CHAPTER II THE STRAITS</p>
 
 
 <entry><p>
@@ -1498,7 +1502,7 @@ add that these are no times for infantry divisions minus artillery
 seeing that they ought to have three times the pre-war complement of
 guns, but <person name="Walter Braithwaite">Braithwaite's</person> good advice has prevailed. As promised at the
 Conference I express a hope that I may be allowed "to complete
-<person name="William Birdwood">Birdwood's</person> <unit type="division" unitName="New Zealandl Division">New Zealand Division</unit> with a <unit type="brigade">Brigade of Gurkhas</unit> who would work
+<person name="William Birdwood">Birdwood's</person> <unit type="division" unitName="New Zealand Division">New Zealand Division</unit> with a <unit type="brigade">Brigade of Gurkhas</unit> who would work
 admirably in the terrain" of <location peninsula="Gallipoli Peninsula">the Peninsula</location>. In view of what we have
 gathered from <person name="Roger Keyes">Keyes</person>, I wind up by saying, "The <person name="Rosslyn Wemyss">Admiral</person>, whose confidence
 in the Navy seems to have been raised even higher by recent events, and
@@ -1515,7 +1519,8 @@ Admiralty.</p>
 cable was approved by Navy; duly despatched; and now--up anchor!</p></entry>
 </chapter>
 
-<chapter n="3" heading="EGYPT">CHAPTER III EGYPT
+<chapter n="3" heading="EGYPT">
+  <p>CHAPTER III EGYPT</p>
 
 
 <entry><p> 25th March, 1915. <location ship="H.M.S. Franconia">H.M.S. "Franconia.</location>" At Sea.  A fine smooth sea and a
@@ -2320,7 +2325,8 @@ promised him <person name="John de Robeck">de Robeck</person>'s! South Africa re
 are not one but two. <person name="John Maxwell">Maxwell</person> and I are co-equal allies;  not  a combine
 under a Boss!</p></entry>
 </chapter>
-  <chapter n="4" heading="CLEARING FOR ACTION"> CHAPTER IV CLEARING FOR ACTION
+  <chapter n="4" heading="CLEARING FOR ACTION"> 
+    <p>CHAPTER IV CLEARING FOR ACTION</p>
   
 <entry><p> 9th April, 1915. <location ship="S.S. Arcadian">S.S. "Arcadian</location>."  Isles of the Aegean; one more lovely
 than the other; weather warm; wireless off; a great ship steaming fast
@@ -3351,7 +3357,8 @@ have mercy upon us, smallest of the heavenly Shiners. Our star burns dim
 as a corpse light: the huge black chasm of space closes in: if only by
 blood ...? Thy Will be done.  En avant --at all costs-- en avant !</p></entry>
   </chapter>
-<chapter n="5" heading="THE LANDING">CHAPTER V THE LANDING
+<chapter n="5" heading="THE LANDING">
+  <p>CHAPTER V THE LANDING</p>
 
 <entry>
 <p> 24th April, 1915. <location ship="H.M.S. Queen Elizabeth"> H.M.S. "Queen Elizabeth." </location> <location island="Tenedos"> Tenedos.   </location> Boarded the Queen
@@ -4166,7 +4173,8 @@ will have to drain a glass to the memory of the soldiers and sailormen
 who fought here.</p></entry>
 </chapter>
   
-  <chapter n="6" heading="MAKING GOOD">CHAPTER VI MAKING GOOD
+  <chapter n="6" heading="MAKING GOOD">
+    <p>CHAPTER VI MAKING GOOD</p>
 
 <entry>
 <p>  27th April, 1915. Getting on for midnight. <location ship="H.M.S. Queen Elizabeth"> H.M.S. "Queen Elizabeth ." </location>
@@ -4440,7 +4448,7 @@ establishing, in its way, a record in the annals of destruction.</p>
 rather more after doing so, apparently by fresh enemy forces. What would
 have been a promenade if our original covering party had stuck to "Y"
 Beach, had become too difficult for that wearied and greatly weakened
-Brigade. On the British right the <unit type="brigade" unitName="86 Brigade"> 88th Brigade </unit> pushed back the Turks
+Brigade. On the British right the <unit type="brigade" unitName="88th Brigade"> 88th Brigade </unit> pushed back the Turks
 easily enough at first, but afterwards they too came up against stiffer
 resistance from what seemed to be fresh enemy formations until at last,
 i.e., about mid-day, they were held up. The Reserve were then ordered to
@@ -5090,8 +5098,9 @@ times are anxious, but I believe the enemy's cohesion should suffer more
 than ours by these repeated night attacks."</p></entry>
   </chapter>
 
-  <chapter n="7" heading="SHELLS">CHAPTER VII SHELLS
-
+  <chapter n="7" heading="SHELLS">
+    <p>CHAPTER VII SHELLS
+</p>
 <entry>
 <p>To-day, the 4th, shells were falling from Asia on both "V" and "W"
 Beaches. We have landed aeroplanes on the Peninsula. The Taube has been
@@ -5653,7 +5662,8 @@ morning, would have enabled us to fire 5,000 more shrapnel and 500 more
 4.5 howitzer H.E. to cover our last assault! </p></entry>
   </chapter>
 
-  <chapter n="8" heading="TWO CORPS OR AN ALLY?">CHAPTER VIII TWO CORPS OR AN ALLY?
+  <chapter n="8" heading="TWO CORPS OR AN ALLY?">
+    <p>CHAPTER VIII TWO CORPS OR AN ALLY?</p>
 
 <entry>
 <p> 11th May, 1915. H.M.T. <location ship="S.S. Arcadian"> "Arcadian"  </location> Day dull and overcast. Vice-Admiral
@@ -6252,7 +6262,8 @@ Naval Division now destined to be starved to death!</p>
 been penned amidst so infernal a racket.</p></entry>
   </chapter>
   
-  <chapter n="9" heading="SUBMARINES">CHAPTER IX
+  <chapter n="9" heading="SUBMARINES">
+    <p>CHAPTER IX SUBMARINES</p>
 
      
 <entry>   
@@ -7281,7 +7292,7 @@ There's more in this than meets the common or garden optic!</p>
 
 </chapter>
 
-     <chapter n="10" heading="A DECISION AND THE PLAN">CHAPTER X
+  <chapter n="10" heading="A DECISION AND THE PLAN">CHAPTER X A DECISION AND THE PLAN
 
 
 
@@ -14362,8 +14373,9 @@ two other battalions turned out to be non-fighting formations.--IAN H.,
 </entry>  
   
   </chapter> 
-  <chapter n="19" heading="THE FRENCH PLAN">CHAPTER XIX THE FRENCH PLAN
-
+  <chapter n="19" heading="THE FRENCH PLAN">
+    <p>CHAPTER XIX THE FRENCH PLAN
+</p>
 <entry>
 <p> 2nd September, 1915. <location island="Imbros">Imbros</location>.  An ugly dream came to me last night. My
 tent was at <location island="Imbros">Imbros</location> right enough, and I was lying in my little camp bed,
@@ -15249,7 +15261,8 @@ In spite of delay, in spite of lost chances, is it business?</p>
 </entry>
   </chapter>
   
-  <chapter n="20" heading="LOOS AND SALONIKA">CHAPTER XX LOOS AND SALONIKA
+  <chapter n="20" heading="LOOS AND SALONIKA">
+    <p>CHAPTER XX LOOS AND SALONIKA</p>
 
 <entry>
 <p>Left G.H.Q. at noon to-day, 18th, sailed to <location peninsula="Helles">Helles</location>; lunched with Davies;
@@ -16275,8 +16288,9 @@ paid!"--IAN H., 1920.]</p>
 </entry>
 
   </chapter>
-  <chapter n="21" heading="THE BEGGINING OF THE END">CHAPTER XXI THE BEGGINING OF THE END
-
+  <chapter n="21" heading="THE BEGGINING OF THE END">
+    <p>CHAPTER XXI THE BEGGINING OF THE END
+</p>
 
 <entry>
 <p> 3rd October, 1915. <location island="Imbros">Imbros</location>.  Church Parade. Inspected escort, men of the
@@ -17451,7 +17465,8 @@ victory, which, under their new Chief, <person name="Ian Hamilton"> he</person> 
 confidence they will achieve."</p>
 </entry>
   </chapter>  
-<chapter n="22" heading="FOOTNOTES AND APPENDIXES"> 
+<chapter n="22" heading="FOOTNOTES AND APPENDIXES">
+  <p>FOOTNOTES AND APPENDIXES</p>
 
 <p>[Footnote 14: I think I hardly knew  how  often till I came to read
 through my diary in cold print. But all the time I was conscious, and am

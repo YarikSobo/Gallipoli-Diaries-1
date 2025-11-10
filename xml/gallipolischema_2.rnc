@@ -1,0 +1,40 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start=root
+root=element root{(chapter | title | p)+}
+# allows at least one chapter, title, or p element in root element
+chapter= element chapter{(n, heading*)|entry*| p*}
+heading = attribute heading{text}
+
+title= element title{text}
+n= attribute n{xsd:integer}
+# may want to change to xsd:integer at some point
+
+entry = element entry{p+}
+p= element p{(text | person | location | unit)+}
+
+person = element person{name, text}
+name = attribute name{text}
+# person chunk
+
+location = element location{(ship | island | town | peninsula | hill | region| country | city | bay | heights | straits | mountain | sea | coast), text}
+ship = attribute ship{text}
+island = attribute island{text}
+town = attribute town{text}
+peninsula = attribute peninsula{text}
+hill = attribute hill{text}
+region = attribute region{text}
+country = attribute country{text}
+city = attribute city{text}
+bay = attribute bay{text}
+heights = attribute heights{text}
+straits = attribute straits{text}
+mountain = attribute mountain{text}
+sea = attribute sea{text}
+coast = attribute coast{text}
+# location chunk; may want to tighten parameters later
+
+unit = element unit{(type | unitName), text}
+type = attribute type{"brigade"| "division"| "infantry"| "regiment"| "battalion"| "expeditionary_force"|"battery"| "corps"}
+unitName = attribute unitName{text}
+# unit chunk
