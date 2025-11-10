@@ -3,9 +3,8 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start=root
 root=element root{(chapter | title | p)+}
 # allows at least one chapter, title, or p element in root element
-chapter= element chapter{(n, heading*)|entry*| p*}
+chapter= element chapter{(n | heading*|entry*| p*)+}
 heading = attribute heading{text}
-
 title= element title{text}
 n= attribute n{xsd:integer}
 # may want to change to xsd:integer at some point
