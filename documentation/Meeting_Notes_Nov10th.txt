@@ -1,0 +1,6 @@
+Monday November 10th Meeting notes
+(A) Start building charts for the project 
+(B) Improved the website by adding a part of adding the full text 
+(C) Added a drop down for the full text of Volume 1 and 2
+(D) Discussed the color schema for the charts
+(E) Added a data section for the website
