@@ -1,8 +1,8 @@
 
-<?xml-model href="gallipoliSchema.rnc" type="application/relax-ng-compact-syntax"?>
+
 <root>
 
-<chapter n="9" heading="SUBMARINES">CHAPTER IX</chapter>
+<chapter n="9" heading="SUBMARINES">CHAPTER IX
 
      
 <entry>   
@@ -1029,9 +1029,9 @@ There's more in this than meets the common or garden optic!</p>
 
 
 
+</chapter>
 
-
-     <chapter n="10" heading="A DECISION AND THE PLAN">CHAPTER X</chapter>
+     <chapter n="10" heading="A DECISION AND THE PLAN">CHAPTER X
 
 
 
@@ -1864,8 +1864,8 @@ treat this letter as private. With all kind remembrance.</p>
 
      </entry>
 
-
-     <chapter n="11" heading="BOMBS AND JOURNALISTS">CHAPTER XI</chapter>
+     </chapter>
+     <chapter n="11" heading="BOMBS AND JOURNALISTS">CHAPTER XI
 
 
 
@@ -2609,8 +2609,8 @@ another over the great Voluntary Service issue.</p>
      </entry>
 
 
-
-     <chapter n="12" heading="A VICTORY AND AFTER">CHAPTER XII</chapter>
+     </chapter>
+     <chapter n="12" heading="A VICTORY AND AFTER">CHAPTER XII
 
 
 
@@ -3743,5 +3743,5 @@ be decently buried, I find myself forced to say no.</p>
      <p><person name="Patrick_Shaw_Stewart">Patrick Shaw Stewart</person> came to see me. I made <person name="Peter">Peter</person> take his photo. He was
 on a rat of a pony and sported a long red beard. How his lady friends
 would laugh!</p> </entry>
-
+     </chapter>
 </root>
