@@ -23,7 +23,7 @@
                     <h1>Units in the Gallipoli Diaries, by frequency</h1>
                     <svg viewBox="0 0 2400 1850">
                         <g transform="translate(475,10)">
-                            <xsl:for-each-group select="//p//person" group-by="@unitName">
+                            <xsl:for-each-group select="//p//unit" group-by="@unitName">
                                 
                                 <xsl:sort select="count(current-group())" order="descending"/>
                                 <xsl:variable name="unit-occurrence-count" select="count(current-group())"/>

@@ -449,7 +449,7 @@ Russians will be very jealous and prickly. Luckily we British have an
 easy part to play as the more we efface ourselves at that stage, the
 better he, <person name="Herbert Kitchener">K.</person>, will be pleased. The Army in <location country="France">France</location> have means of making
 their views work in high places and pressure is sure to be put on by
-them and by their friends for the return of the <unit type="division" unitName="29th Division">29th</unit> and <unit type="division">Naval</unit> Divisions
+them and by their friends for the return of the <unit type="division" unitName="29th Division">29th</unit> and <unit type="division" unitName="Naval Division">Naval</unit> Divisions
 the moment we bring <location country="Turkey">Turkey</location> to book. Therefore, it will be best in any
 case to "let the French and Russians garrison <location city="Constantinople">Constantinople</location> and sing
 their hymns in S. Sophia," whilst my own troops hold the railway line
@@ -1629,10 +1629,10 @@ hospitable board:--</p>
   <person name="Walter Braithwaite">General Braithwaite</person>,
   <person name="Ian Hamilton">Myself</person>.</p></entry>
 
-<entry><p> 28th March, 1915. <location city="Cairo">Cairo</location>.  Inspected <unit type="division" unitName="54th Division">East Lancashire Division</unit> and a
+<entry><p> 28th March, 1915. <location city="Cairo">Cairo</location>.  Inspected <unit type="division" unitName="42nd Division">East Lancashire Division</unit> and a
 <unit type="brigade">Yeomanry Brigade</unit> (Westminster Dragoons and Herts). How I envied <person name="John Maxwell">Maxwell</person>
 these beautiful troops. They will only be eating their heads off here,
-with summer coming up and the desert getting as dry as a bone. <unit type="division">The
+with summer coming up and the desert getting as dry as a bone. <unit type="division" unitName="42nd Division">The
 Lancashire men</unit> especially are eye-openers. How on earth have they
 managed to pick up the swank and devil-may-care airs of crack regulars?
 They  are  Regulars, only they are bigger, more effective specimens than
@@ -1771,7 +1771,7 @@ to land at Adramiti. But now he waives all preconceived ideas and is
 keen to throw himself heart and soul into <person name="Herbert Kitchener">Lord K.'s</person> ideas and mine. He
 would rather I did not even refer to his former views as he sees they
 are expressly barred by the tenor of my instructions. The French are
-working to time in getting ship-shape. <unit type="division">The 29th Division</unit> are arriving up
+working to time in getting ship-shape. <unit type="division" unitName="29th Division">The 29th Division</unit> are arriving up
 to date and about one-third of them have landed. We are fixing up our
 gear for floating and other piers and are trying to improvise ways and
 means of coping with the water problem--this ugly nightmare of a water
@@ -1927,7 +1927,7 @@ for the Q. Staff who, through no fault of their own, have been late for
 the fair,  their  special fair, the preparation, and find the show is
 practically over. On paper at least, the Australians and New Zealanders
 and the <unit type="division" unitName="29th Division">29th Division</unit> are properly fixed up. We should begin embarking
-these formations within the next three days. After that will come <unit type="division">the
+these formations within the next three days. After that will come <unit type="division" unitName="Naval Division">the
 Naval Division</unit> from <location city="Port Said">Port Said</location> and <unit type="division">the French Division</unit> from here.</p></entry>
 
 <entry><p> 2nd April, 1915. <location city="Alexandria">Alexandria</location>.  Hard at it all day in office. Am leaving
@@ -2093,7 +2093,7 @@ upon the tactical problem, and how it should be dealt with, and, as I
 it in one, even down to details, only I have not shells enough to cut
 through barbed wire with my field guns or howitzers." I say also, "I
 should much like to have some hint as to my future supply of gun and
-rifle ammunition. <unit type="division">The Naval Division</unit> has only 430 rounds per rifle and
+rifle ammunition. <unit type="division" unitName="Naval Division">The Naval Division</unit> has only 430 rounds per rifle and
 the <unit type="division" unitName="29th Division">29th Division</unit> only 500 rounds which means running it fine."</p>
 
 <p>What might seem, to a civilian, a marvellous case of coincidence or
@@ -4518,12 +4518,12 @@ him as follows:--"</p>
 <p>(Here he quotes the cable already entered in by me yesterday.)</p>
 
 <p> <person name="Herbert Kitchener"> K. </person> goes on, "I hope all your troops are being kept ready to embark, and
-I would suggest you should send the <unit type="division"> Territorial Division </unit> if <person name="Ian hamilton"> Hamilton </person>
+I would suggest you should send the <unit type="division" unitName="42nd Division"> Territorial Division </unit> if <person name="Ian hamilton"> Hamilton </person>
 wants them. Peyton's transports, etc., etc., etc."</p>
 
 <p>The second cable quotes mine of last night wherein I ask leave to call
-for the <unit type="regiment"> East Lancs </unit>. and says, "I feel sure you had better have the
-<unit type="regiment"> Territorial Division </unit>, and I have instructed <person name="John Maxwell"> Maxwell </person> to embark them. My
+for the <unit type="division" unitName="42nd Division"> East Lancs </unit>. and says, "I feel sure you had better have the
+<unit type="division" unitName="42nd Division"> Territorial Division </unit>, and I have instructed <person name="John Maxwell"> Maxwell </person> to embark them. My
 No. 4239 addressed to <person name="John Maxwell"> Maxwell </person> and repeated to you was sent before
 receiving your telegram under reply. You had better tell him to send off
 the Division to you. I am very glad the troops have done so well. Give
@@ -4544,7 +4544,7 @@ it better that way.</p>
 great force, charging right up to the trenches, bugles blowing and
 shouting 'Allah Hu!' They were bayoneted. The French are landing to lend
 a hand to the <unit type="division" unitName="29th Division">29th Division</unit>. <person name="William Birdwood"> Birdwood's </person> men are very weary and I am
-supporting them with the <unit type="division"> Naval Division </unit>." These, I may say, are my very
+supporting them with the <unit type="division" unitName="Naval Division"> Naval Division </unit>." These, I may say, are my very
 last reserves.</p>
 
 <p>(2) Telling <person name="Herbert Kitchener"> K. </person> how "I shall now be able to cheer up my troops by the
@@ -4589,7 +4589,7 @@ running, subsiding as the day went on--and my mind grew calmer with the
 waves. For we are living hand-to-mouth now in every sense. Two days'
 storm would go very near starving us. Until we work up some weeks'
 reserve of water, food and cartridges, I shan't sleep sound. Have lent
-<person name="William Birdwood"> Birdwood </person> four Battalions of the <unit type="division"> Royal Naval Division </unit> and two more
+<person name="William Birdwood"> Birdwood </person> four Battalions of the <unit type="division" unitName="Naval Division"> Royal Naval Division </unit> and two more
 Battalions are landing at <location peninsula="Helles"> Helles </location> to form my own reserve. Two weak
 Battalions; that is the exact measure of my executive power to shape the
 course of events; all the power I have to help either <person name="Albert d'Amade"> d'Amade </person> or
@@ -5169,7 +5169,7 @@ on as if we were hanging back.</p>
 <p>A strong wind blows and <location peninsula="Helles"> Helles </location> is smothered in dust. <person name="Aylmer Hunter-Weston"> Hunter-Weston </person> spent
 an hour with me this morning and an hour with the G.S. putting the final
 touches to the plan of attack discussed by us yesterday. The Lancashire
-Brigade of the <unit type="division"> 42nd Division </unit> has landed.</p>
+Brigade of the <unit type="division" unitName="42nd Division"> 42nd Division </unit> has landed.</p>
 
 <p><person name="Aylmer Hunter-Weston">Hunter-Bunter </person> stayed to lunch.</p>
 
@@ -5684,7 +5684,7 @@ cable from <person name="Herbert Kitchener"> Lord K. </person> to say he is send
 all as pleased as Punch! especially (so <person name="Walter Braithwaite"> Braithwaite </person> tells me) <person name="Roger Keyes"> Roger
 Keyes </person> who looks on this as a good omen for the naval attack proposals.
 Had he not meant the Fleet to shove in <person name="Herbert Kitchener"> K. </person> must have made some reference
-to the <unit type="division"> second Division </unit>, surely. Have cabled back at once to <person name="Herbert Kitchener"> K. </person> giving
+to the <unit type="division" unitName="2nd Division"> second Division </unit>, surely. Have cabled back at once to <person name="Herbert Kitchener"> K. </person> giving
 him warmest thanks and begging him to look, personally, into the
 question of the command of the coming Division. Have begged him to take
 <person name="Leslie Rundle"> Leslie Rundle's </person> opinion on the point and have pressed it by saying,
@@ -5928,7 +5928,7 @@ perhaps I am too previous. May it be so!</p>
 Zealanders and native Indians. Both the former like to meet someone who
 knows their native country, and the natives brighten up when they are
 greeted in Hindustani. On returning to <location island="Imbros">Imbros</location>, got good news about the
-<unit type="division" unitName="54th Division">Lancashire Territorials</unit> who have gained 180 yards of ground without
+<unit type="division" unitName="42nd Division">Lancashire Territorials</unit> who have gained 180 yards of ground without
 incurring any loss to speak of. They are real good chaps. They suffer
 only from the regular soldiers' fault; there are too few of them here.</p></entry>
 
@@ -6153,7 +6153,7 @@ officers, has sent them as weak brigades, which complicates command and
 organization exceedingly.</p>
 
 <p>"We gain ground surely if slowly every day, and now at 11 p.m. the
-<unit type="division">French</unit> and <unit type="division">Naval</unit> Divisions are fighting their way forward."</p>
+<unit type="division">French</unit> and <unit type="division" unitName="Naval Division">Naval</unit> Divisions are fighting their way forward."</p>
 
 <p>Tidings of great joy from Anzac. The whole of the enemy's
 freshly-arrived contingent have made a grand assault and have been
@@ -7265,7 +7265,7 @@ unprepared for situation and asking for the wherewithal to cope with
 it, a Commander should get fresh orders. Either: we cannot give you what
 you ask, so fall back onto the defensive; or, go ahead, we will give you
 the means. Taking leave we came back again by the 29th Headquarters
-where I saw <person name="Douglas">Douglas</person>, commanding the <unit type="division">42nd Division</unit>. Got home latish. As I
+where I saw <person name="Douglas">Douglas</person>, commanding the <unit type="division" unitName="42nd Division">42nd Division</unit>. Got home latish. As I
 was on my way to our destroyer took in a wireless saying that submarine
 E.11 had returned safely after three fruitful weeks in the Marmora.</p>
 
@@ -7581,7 +7581,7 @@ sandboys. Their own mothers would hardly know them--burnt black with the
 sun, in rags or else stark naked, with pipes in their mouths. But they
 like it! After passing the time of day to a lot of these boys, I climbed
 the cliff and came back along the crests, stopping to inspect some of
-the <unit type="division" unitName="54th Division">East Lancashire Division</unit> in their rest trenches.</p>
+the <unit type="division" unitName="42nd Division">East Lancashire Division</unit> in their rest trenches.</p>
 
 <p>Got back to Hunter-Weston's about 6 and had a cup of tea. There Cox of
 the Indian Brigade joined me, and I took him with me to <location island="Imbros">Imbros</location> where he
@@ -7926,11 +7926,11 @@ stiff constitution" has drawn a startling reply:--</p>
 <p>"(No. 5501, cipher). From  <person name="EarlunitKitchener">Earl Kitchener</person> to Sir  <person name="IanunitHamilton">Ian Hamilton</person>. Your No.
 M.F. 334. I am afraid that <person name="SirunitJohnunitFrench">Sir John French</person> would not spare the services
 of the two Generals you mention, and they are, moreover, both junior to
-Mahon, who commands the <unit type="division">10th Division</unit> which is going out to you. Ewart,
+Mahon, who commands the <unit type="division" unitName="10th Division">10th Division</unit> which is going out to you. Ewart,
 who is very fit and well, would I think do. I am going to see him the
 day after to-morrow.</p>
 
-<p>"Mahon raised the <unit type="division">10th Division</unit> and has produced an excellent unit. He
+<p>"Mahon raised the <unit type="division" unitName="10th Division">10th Division</unit> and has produced an excellent unit. He
 is quite fit and well, and I do not think that he could now be left
 behind."</p>
 
