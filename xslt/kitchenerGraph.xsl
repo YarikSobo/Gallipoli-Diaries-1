@@ -36,38 +36,6 @@
                                     stroke-width="10" stroke="#B7D49B" />
                                 <!-- KYW: horizontal bars for entries -->
                                 
-                                <line x1="{$xspacer * 10}" x2="{$xspacer * 10}" 
-                                    y1="0" y2="800"
-                                    stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
-                                
-                                <line x1="{$xspacer * 20}" x2="{$xspacer * 20}" 
-                                    y1="0" y2="800"
-                                    stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
-                                
-                                <line x1="{$xspacer * 30}" x2="{$xspacer * 30}" 
-                                    y1="0" y2="800"
-                                    stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
-                                
-                                <line x1="{$xspacer * 40}" x2="{$xspacer * 40}" 
-                                    y1="0" y2="800"
-                                    stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
-                                
-                                <line x1="{$xspacer * 50}" x2="{$xspacer * 50}" 
-                                    y1="0" y2="800"
-                                    stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
-                                
-                                <line x1="{$xspacer * 60}" x2="{$xspacer * 60}" 
-                                    y1="0" y2="800"
-                                    stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
-                                
-                                <line x1="{$xspacer * 70}" x2="{$xspacer * 70}" 
-                                    y1="0" y2="800"
-                                    stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
-                                
-                                <line x1="{$xspacer * 80}" x2="{$xspacer * 80}" 
-                                    y1="0" y2="800"
-                                    stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
-                                <!-- KYW: vertical reference lines-->
                                 
                                 <text font-size="20" font-weight="bold" x="-10" y="{$yspacer * $chapNum + 5}" text-anchor="end">
                                     <xsl:value-of select="$chapNum"/>
@@ -79,7 +47,39 @@
                                 <!--KYW: places count at right end of bars -->
                                 
                             </xsl:for-each>
-                        
+                            
+                            <line x1="{$xspacer * 10}" x2="{$xspacer * 10}" 
+                                y1="0" y2="800"
+                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                            
+                            <line x1="{$xspacer * 20}" x2="{$xspacer * 20}" 
+                                y1="0" y2="800"
+                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                            
+                            <line x1="{$xspacer * 30}" x2="{$xspacer * 30}" 
+                                y1="0" y2="800"
+                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                            
+                            <line x1="{$xspacer * 40}" x2="{$xspacer * 40}" 
+                                y1="0" y2="800"
+                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                            
+                            <line x1="{$xspacer * 50}" x2="{$xspacer * 50}" 
+                                y1="0" y2="800"
+                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                            
+                            <line x1="{$xspacer * 60}" x2="{$xspacer * 60}" 
+                                y1="0" y2="800"
+                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                            
+                            <line x1="{$xspacer * 70}" x2="{$xspacer * 70}" 
+                                y1="0" y2="800"
+                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                            
+                            <line x1="{$xspacer * 80}" x2="{$xspacer * 80}" 
+                                y1="0" y2="800"
+                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                            <!-- KYW: vertical reference lines-->
                             
                             <line x1="0" y1="0" x2="0" y2="800" stroke="#000000" stroke-width="5"/>
                             <line x1="0" y1="0" x2="1740" y2="0" stroke="#000000" stroke-width="5"/>
