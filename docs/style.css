@@ -1,7 +1,7 @@
 body{
     background:#EAF59A;
     color: #000000;
-    margin: 100px;
+    margin: 0px;
 }
 
 nav 
@@ -32,3 +32,4 @@ nav
             background-color: #555; /* Change background color on hover */
             color: white; /* Change text color on hover */
         }
+        
