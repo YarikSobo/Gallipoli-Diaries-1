@@ -9,7 +9,7 @@
     
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
     
-    <xsl:variable name="gal_text" select="document('gallipoli_all_chapters.xml')"/>
+    <xsl:variable name="gal_text" select="document('../xml/gallipoli_all_chapters.xml')"/>
     <xsl:variable name="xspacer" select="30"/>
     <xsl:variable name="yspacer" select="30"/>
     
