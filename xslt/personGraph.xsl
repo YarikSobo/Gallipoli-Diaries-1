@@ -36,7 +36,7 @@
                                    <!-- KYW: horizontal bars for entries -->
                                
                                    <text font-size="20" font-weight="bold" x="-10" y="{$yspacer * $person-sequence + 5}" text-anchor="end">
-                                       <xsl:apply-templates select="string()[1]"/></text>
+                                       <xsl:apply-templates select=".//@name"/></text>
                                    <!-- KYW: labels bars with index number and town name -->
                                    
                                    <text font-weight="bold" font-size="25" x="{$xspacer * $person-count + 20}" y="{$yspacer * $person-sequence + 5}" text-anchor="right">
