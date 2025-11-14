@@ -16,7 +16,7 @@
     <!-- KYW: global variables-->
     
     <xsl:template match="$gal_text">
-        <xsl:result-document method="xhtml" indent="yes" href="../docs/Sobol-SVG-coast-output.html">
+        <xsl:result-document method="xhtml" indent="yes" href="../docs/coastGraph.html">
             <html>
                 <head><title>Gallipoli Diaries Coastal Objects Gallipoli</title></head>
                 <body>

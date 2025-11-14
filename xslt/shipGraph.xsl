@@ -10,41 +10,39 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
     
     <xsl:variable name="gal_text" select="document('../xml/gallipoli_all_chapters.xml')"/>
-    <xsl:variable name="xspacer" select="15"/>
-    <xsl:variable name="yspacer" select="20"/>
+    <xsl:variable name="xspacer" select="30"/>
+    <xsl:variable name="yspacer" select="30"/>
     
     <xsl:template match="$gal_text">
-        <xsl:result-document method="xhtml" indent="yes" href="Charles-countrygraph.html">
+        <xsl:result-document method="xhtml" indent="yes" href="../docs/shipGraph.html">
             <html>
-                <head><title>countrys in Gallipoli Diaries in all chapters</title></head>
+                <head><title>Ships in Gallipoli Diaries in all chapters</title></head>
                 <body>
-                    <h1>countrys in the Gallipoli Diaries</h1>
-                    <svg viewBox="0 0 2100 550">
+                    <h1>ships in the Gallipoli Diaries</h1>
+                    <svg viewBox="0 0 2250 1850">
                         <g transform="translate(400,10)">
-                            <xsl:for-each-group select="//p//location" group-by="@country">
+                            <xsl:for-each-group select="//p//location" group-by="@ship">
                                 
                                 <xsl:sort select="count(current-group())" order="descending"/>
-                                <xsl:variable name="country-occurrence-count" select="count(current-group())"/>
-                                <xsl:variable name="country-sequence" select="position()"/>
+                                <xsl:variable name="ship-occurrence-count" select="count(current-group())"/>
+                                <xsl:variable name="ship-sequence" select="position()"/>
                                 
-                                <line x1="0" x2="{$xspacer * $country-occurrence-count}" 
-                                    y1="{$yspacer * $country-sequence}" y2="{$yspacer * $country-sequence}"
+                                <line x1="0" x2="{$xspacer * $ship-occurrence-count}" 
+                                    y1="{$yspacer * $ship-sequence}" y2="{$yspacer * $ship-sequence}"
                                     stroke-width="10" stroke="#B7D49B"/>
                                 
-                                <text x="-10" y="{$yspacer * $country-sequence + 5}" text-anchor="end">
-                                    <xsl:value-of select="$country-sequence"/><xsl:text>: </xsl:text>
-                                    <xsl:apply-templates select=".//@country"/></text>
+                                <text x="-10" y="{$yspacer * $ship-sequence + 5}" text-anchor="end">
+                                    <xsl:value-of select="$ship-sequence"/><xsl:text>: </xsl:text>
+                                    <xsl:apply-templates select=".//@ship"/></text>
                                 
-                                <text x="{$xspacer * $country-occurrence-count + 20}" y="{$yspacer * $country-sequence + 5}" text-anchor="right">
-                                    <xsl:value-of select="$country-occurrence-count"/></text>
+                                <text x="{$xspacer * $ship-occurrence-count + 20}" y="{$yspacer * $ship-sequence + 5}" text-anchor="right">
+                                    <xsl:value-of select="$ship-occurrence-count"/></text>
                                 
                             </xsl:for-each-group>
                             
-                            <line x1="0" y1="0" x2="0" y2="550" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="0" y2="1900" stroke="#000000" stroke-width="5"/>
                             <line x1="0" y1="0" x2="1740" y2="0" stroke="#000000" stroke-width="5"/>
                             <circle cx="0" cy="0" r="2.5" fill="#000000"/>
-                            
-                           
                             
                             <line x1="{$xspacer * 10}" x2="{$xspacer * 10}" 
                                 y1="0" y2="1890"
@@ -101,9 +99,10 @@
                             <line x1="{$xspacer * 140}" x2="{$xspacer * 140}" 
                                 y1="0" y2="1890"
                                 stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                            
                         </g>
                     </svg>
-                    <p>The graph above shows the frequency that each country was mentioned</p>
+                    <p>The graph above shows the frequency that each ship was mentioned</p>
                 </body>
             </html>
         </xsl:result-document>
