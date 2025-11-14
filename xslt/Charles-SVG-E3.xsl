@@ -29,7 +29,7 @@
                                 
                                 <line x1="0" x2="{$xspacer * $ship-occurrence-count}" 
                                     y1="{$yspacer * $ship-sequence}" y2="{$yspacer * $ship-sequence}"
-                                    stroke-width="10" stroke="cyan"/>
+                                    stroke-width="10" stroke="##B7D49B"/>
                                 
                                 <text x="-10" y="{$yspacer * $ship-sequence + 5}" text-anchor="end">
                                     <xsl:value-of select="$ship-sequence"/><xsl:text>: </xsl:text>

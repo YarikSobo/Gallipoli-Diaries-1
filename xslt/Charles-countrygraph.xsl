@@ -29,7 +29,7 @@
                                 
                                 <line x1="0" x2="{$xspacer * $country-occurrence-count}" 
                                     y1="{$yspacer * $country-sequence}" y2="{$yspacer * $country-sequence}"
-                                    stroke-width="10" stroke="cyan"/>
+                                    stroke-width="10" stroke="#B7D49B"/>
                                 
                                 <text x="-10" y="{$yspacer * $country-sequence + 5}" text-anchor="end">
                                     <xsl:value-of select="$country-sequence"/><xsl:text>: </xsl:text>
