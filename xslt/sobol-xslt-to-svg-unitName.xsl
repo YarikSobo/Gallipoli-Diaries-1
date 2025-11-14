@@ -62,7 +62,7 @@
                                 
                                 <text font-weight="bold" font-size="25" x="{$xspacer * $unit-occurrence-count + 20}" y="{$yspacer * $unit-sequence + 5}" text-anchor="right">
                                     <xsl:value-of select="$unit-occurrence-count"/></text>
-                                <!--KYW: places count at right end of bars -->
+                                <!--KYW: units count at right end of bars -->
                                 
                             </xsl:for-each-group>
                             
