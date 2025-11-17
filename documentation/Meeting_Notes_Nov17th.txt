@@ -1,0 +1,9 @@
+Meeting Notes November 17th 
+
+(A) Continue to work on graphs (bar charts for the website)
+(B) Continue to move over the bar graphs from the xml to the website 
+(C) Format the website to fit the graphs into it (6 total)
+(D) Discussed about labeling our charts closer to our presentation day
+(E) Made more grammar changes to the files to make the text flow better
+(F) Completed 6 graphs for the website
+(G) Started to talk about the presentation and who does what speaking part
