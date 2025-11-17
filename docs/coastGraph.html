@@ -4,9 +4,35 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <title>Gallipoli Diaries Coastal Objects Gallipoli</title>
+      <link type="text/css" href="style.css" rel="stylesheet" />
+      <link type="text/css" href="dropdown_menu.css" rel="stylesheet" />
    </head>
    <body>
-      <h1>Units in the Gallipoli Diaries, by frequency</h1><svg viewBox="0 0 2400 1850">
+      <h1 style="text-align:center">Coast Graph</h1>
+      <hr/>
+      <nav>
+         <div><a href="index-1.html">Home</a></div>   
+         <div><a href="about.html">Project Info</a></div>
+         <div class="dropdown"><a href="#">Full Text</a>
+            <div class="dropdown-content">
+               <a href="full_text_page_I.html">Volume I</a>
+               <a href="full_text_page_II.html">Volume II</a>
+            </div>
+         </div>
+         <div class="dropdown"><a href="#">Graphs and Data</a>
+            <div class="dropdown-content">
+               <a href="KitchenerGraphPage.html">Kitchener Mentions</a>
+               <a href="Character_Graphs.html">Character Count</a>
+               <a href="coastGraph.html">Coast Graph</a>
+               <a href="unitGraph.html">Unit Graph</a>
+               <a href="countryGraph.html">Country Graph</a>
+               <a href="shipGraph.html">Ship Graph</a>
+            </div>
+         </div>
+      </nav>
+      <hr/>
+      <h1>Units in the Gallipoli Diaries, by frequency</h1>
+      <svg viewBox="0 0 2400 1850">
          <g transform="translate(475,10)">
             <line x1="0" x2="2955" y1="30" y2="30" stroke-width="10" stroke="#B7D49B" stroke-dasharray="2"></line>
             <line x1="150" x2="150" y1="0" y2="800" stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"></line>
@@ -107,7 +133,8 @@
             <line x1="0" y1="0" x2="0" y2="800" stroke="#000000" stroke-width="5"></line>
             <line x1="0" y1="0" x2="1500" y2="0" stroke="#000000" stroke-width="5"></line>
             <circle cx="0" cy="0" r="2.5" fill="#000000"></circle>
-         </g></svg><p>This graph takes the location elements that have an attribute value of 'coast' and
+         </g></svg>
+      <p>This graph takes the location elements that have an attribute value of 'coast' and
          plots them by frequency throughout the entire Gallipoli Diaries.</p>
    </body>
 </html>
