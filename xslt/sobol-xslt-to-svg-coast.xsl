@@ -35,23 +35,23 @@
                                 <!-- KYW: horizontal bars for entries -->
                                 
                                 <line x1="{$xspacer * 10}" x2="{$xspacer * 10}" 
-                                    y1="0" y2="800"
+                                    y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 
                                 <line x1="{$xspacer * 20}" x2="{$xspacer * 20}" 
-                                    y1="0" y2="800"
+                                    y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 
                                 <line x1="{$xspacer * 30}" x2="{$xspacer * 30}" 
-                                    y1="0" y2="800"
+                                    y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 
                                 <line x1="{$xspacer * 40}" x2="{$xspacer * 40}" 
-                                    y1="0" y2="800"
+                                    y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 
                                 <line x1="{$xspacer * 50}" x2="{$xspacer * 50}" 
-                                    y1="0" y2="800"
+                                    y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 <!-- KYW: vertical reference lines-->
                                 
@@ -66,8 +66,8 @@
                                 
                             </xsl:for-each-group>
                             
-                            <line x1="0" y1="0" x2="0" y2="800" stroke="#000000" stroke-width="5"/>
-                            <line x1="0" y1="0" x2="1500" y2="0" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="0" y2="500" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="2500" y2="0" stroke="#000000" stroke-width="5"/>
                             <circle cx="0" cy="0" r="2.5" fill="#000000"/>
                             <!-- KYW: draws reference lines, addresses 'notching' with circle  -->
                             
