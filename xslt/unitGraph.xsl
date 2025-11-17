@@ -16,7 +16,7 @@
     <!-- KYW: global variables-->
     
     <xsl:template match="$gal_text">
-        <xsl:result-document method="xhtml" indent="yes" href="../docs/Sobol-SVG-UnitNames-output.html">
+        <xsl:result-document method="xhtml" indent="yes" href="../docs/unitGraph.html">
             <html>
                 <head><title>Gallipoli Diaries Unit Names</title></head>
                 <body>

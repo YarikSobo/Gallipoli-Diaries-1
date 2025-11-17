@@ -6,51 +6,43 @@
     xmlns="http://www.w3.org/1999/xhtml"
     version="3.0">
     
-    <!-- KYW: adapted from for-each-group solution for SVG E2 -->
     
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
     
     <xsl:variable name="gal_text" select="document('../xml/gallipoli_all_chapters.xml')"/>
-    <xsl:variable name="xspacer" select="10"/>
-    <xsl:variable name="yspacer" select="25"/>
-    <!-- KYW: global variables-->
+    <xsl:variable name="xspacer" select="30"/>
+    <xsl:variable name="yspacer" select="30"/>
     
     <xsl:template match="$gal_text">
-        <xsl:result-document method="xhtml" indent="yes" href="../docs/personGraph.html">
+        <xsl:result-document method="xhtml" indent="yes" href="../docs/shipGraph.html">
             <html>
-                <head><title>Persons in the Gallipoli Diaries, by frequency (excl. Kitchener)</title></head>
+                <head><title>Ships in Gallipoli Diaries in all chapters</title></head>
                 <body>
-                    <h1>Persons in the Gallipoli Diaries, by frequency (excl. Kitchener)</h1>
-                    <svg viewBox="0 0 2000 2000">
-                        <g transform="translate(475,10)">
-                            <xsl:for-each-group select="//p//person" group-by="@name">
+                    <h1>ships in the Gallipoli Diaries</h1>
+                    <svg viewBox="0 0 2250 1850">
+                        <g transform="translate(400,10)">
+                            <xsl:for-each-group select="//p//location" group-by="@ship">
                                 
                                 <xsl:sort select="count(current-group())" order="descending"/>
-                                <xsl:variable name="person-count" select="count(current-group())"/>
-                                <xsl:variable name="person-sequence" select="position()"/>
+                                <xsl:variable name="ship-occurrence-count" select="count(current-group())"/>
+                                <xsl:variable name="ship-sequence" select="position()"/>
                                 
-                                   <xsl:if test="(count(current-group())) >= 5 and (count(current-group())) &lt;=200">
-                                   <line x1="0" x2="{$xspacer * $person-count}" 
-                                    y1="{$yspacer * $person-sequence}" y2="{$yspacer * $person-sequence}"
-                                    stroke-width="10" stroke="#B7D49B" />
-                                   <!-- KYW: horizontal bars for entries -->
-                               
-                                   <text font-size="20" font-weight="bold" x="-10" y="{$yspacer * $person-sequence + 5}" text-anchor="end">
-                                       <xsl:apply-templates select=".//@name"/></text>
-                                   <!-- KYW: labels bars with index number and town name -->
-                                   
-                                   <text font-weight="bold" font-size="25" x="{$xspacer * $person-count + 20}" y="{$yspacer * $person-sequence + 5}" text-anchor="right">
-                                       <xsl:value-of select="$person-count"/></text>
-                                   <!--KYW: places count at right end of bars -->
-                               </xsl:if>
-                               
+                                <line x1="0" x2="{$xspacer * $ship-occurrence-count}" 
+                                    y1="{$yspacer * $ship-sequence}" y2="{$yspacer * $ship-sequence}"
+                                    stroke-width="10" stroke="#B7D49B"/>
+                                
+                                <text x="-10" y="{$yspacer * $ship-sequence + 5}" text-anchor="end">
+                                    <xsl:value-of select="$ship-sequence"/><xsl:text>: </xsl:text>
+                                    <xsl:apply-templates select=".//@ship"/></text>
+                                
+                                <text x="{$xspacer * $ship-occurrence-count + 20}" y="{$yspacer * $ship-sequence + 5}" text-anchor="right">
+                                    <xsl:value-of select="$ship-occurrence-count"/></text>
                                 
                             </xsl:for-each-group>
                             
                             <line x1="0" y1="0" x2="0" y2="1900" stroke="#000000" stroke-width="5"/>
                             <line x1="0" y1="0" x2="1740" y2="0" stroke="#000000" stroke-width="5"/>
                             <circle cx="0" cy="0" r="2.5" fill="#000000"/>
-                            <!-- KYW: draws axis lines, addresses 'notching' with circle  -->
                             
                             <line x1="{$xspacer * 10}" x2="{$xspacer * 10}" 
                                 y1="0" y2="1890"
@@ -107,11 +99,10 @@
                             <line x1="{$xspacer * 140}" x2="{$xspacer * 140}" 
                                 y1="0" y2="1890"
                                 stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
-                            <!-- KYW: vertical reference lines-->
                             
                         </g>
                     </svg>
-                    <p>This graph shows the persons mentioned 5 or more times, excluding Kitchener, throughout the entire Gallipoli Diaries.</p>
+                    <p>The graph above shows the frequency that each ship was mentioned</p>
                 </body>
             </html>
         </xsl:result-document>
