@@ -21,7 +21,7 @@
                 <head><title>Gallipoli Diaries Coastal Objects Gallipoli</title></head>
                 <body>
                     <h1>Units in the Gallipoli Diaries, by frequency</h1>
-                    <svg viewBox="0 0 2400 1850">
+                    <svg viewBox="0 0 3500 650">
                         <g transform="translate(475,10)">
                             <xsl:for-each-group select="//p//location" group-by="@coast">
                                 
