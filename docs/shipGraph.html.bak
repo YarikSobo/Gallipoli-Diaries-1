@@ -22,7 +22,7 @@
          <div class="dropdown"><a href="#">Graphs and Data</a>
             <div class="dropdown-content">
                <a href="KitchenerGraphPage.html">Kitchener Mentions</a>
-               <a href="personGraph.html">Characters</a>
+               <a href="PersonGraph.html">Characters</a>
                <a href="coastGraph.html">Coastlines</a>
                <a href="unitGraph.html">Units</a>
                <a href="countryGraph.html">Countries</a>
