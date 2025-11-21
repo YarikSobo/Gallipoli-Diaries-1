@@ -31,7 +31,7 @@
                                 
                                 <line x1="0" x2="{$xspacer * $coast-occurrence-count}" 
                                     y1="{$yspacer * $coast-sequence}" y2="{$yspacer * $coast-sequence}"
-                                    stroke-width="10" stroke="#B7D49B" stroke-dasharray="2"/>
+                                    stroke-width="10" stroke="#B7D49B"/>
                                 <!-- KYW: horizontal bars for entries -->
                                 
                                 <line x1="{$xspacer * 10}" x2="{$xspacer * 10}" 
@@ -67,7 +67,7 @@
                             </xsl:for-each-group>
                             
                             <line x1="0" y1="0" x2="0" y2="500" stroke="#000000" stroke-width="5"/>
-                            <line x1="0" y1="0" x2="2500" y2="0" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="3000" y2="0" stroke="#000000" stroke-width="5"/>
                             <circle cx="0" cy="0" r="2.5" fill="#000000"/>
                             <!-- KYW: draws reference lines, addresses 'notching' with circle  -->
                             
