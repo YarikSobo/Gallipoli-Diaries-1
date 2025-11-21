@@ -1,7 +1,28 @@
 body{
-    background:#EAF59A;
-    color: #000000;
-    margin: 0px;
+background:#EAF59A;
+color: #000000;
+margin: 20px;
+}
+
+div.anzac {
+width: 1085px;
+height: 100px;
+padding: 10px;
+border: 5px solid gray;
+
+}
+
+div.column{
+width: 470px;
+height: 440px;
+padding: 10px;
+border: 5px solid gray;
+position: absolute;
+top: 221px; /* Adjust to move text below the box */
+left: 525px;
+
+
+    
 }
 
 nav 

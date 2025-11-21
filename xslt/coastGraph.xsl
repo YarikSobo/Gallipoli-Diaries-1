@@ -20,8 +20,8 @@
             <html>
                 <head><title>Gallipoli Diaries Coastal Objects Gallipoli</title></head>
                 <body>
-                    <h1>Units in the Gallipoli Diaries, by frequency</h1>
-                    <svg viewBox="0 0 2400 1850">
+                    <h1>Coastal Locations in the Gallipoli Diaries, by frequency</h1>
+                    <svg viewBox="0 0 3500 650">
                         <g transform="translate(475,10)">
                             <xsl:for-each-group select="//p//location" group-by="@coast">
                                 
@@ -31,27 +31,27 @@
                                 
                                 <line x1="0" x2="{$xspacer * $coast-occurrence-count}" 
                                     y1="{$yspacer * $coast-sequence}" y2="{$yspacer * $coast-sequence}"
-                                    stroke-width="10" stroke="#B7D49B" stroke-dasharray="2"/>
+                                    stroke-width="10" stroke="#B7D49B"/>
                                 <!-- KYW: horizontal bars for entries -->
                                 
                                 <line x1="{$xspacer * 10}" x2="{$xspacer * 10}" 
-                                    y1="0" y2="800"
+                                    y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 
                                 <line x1="{$xspacer * 20}" x2="{$xspacer * 20}" 
-                                    y1="0" y2="800"
+                                    y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 
                                 <line x1="{$xspacer * 30}" x2="{$xspacer * 30}" 
-                                    y1="0" y2="800"
+                                    y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 
                                 <line x1="{$xspacer * 40}" x2="{$xspacer * 40}" 
-                                    y1="0" y2="800"
+                                    y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 
                                 <line x1="{$xspacer * 50}" x2="{$xspacer * 50}" 
-                                    y1="0" y2="800"
+                                    y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 <!-- KYW: vertical reference lines-->
                                 
@@ -66,8 +66,8 @@
                                 
                             </xsl:for-each-group>
                             
-                            <line x1="0" y1="0" x2="0" y2="800" stroke="#000000" stroke-width="5"/>
-                            <line x1="0" y1="0" x2="1500" y2="0" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="0" y2="500" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="3000" y2="0" stroke="#000000" stroke-width="5"/>
                             <circle cx="0" cy="0" r="2.5" fill="#000000"/>
                             <!-- KYW: draws reference lines, addresses 'notching' with circle  -->
                             
