@@ -1,16 +1,31 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start=root
-root=element root{(chapter | title | p)+}
+root=element root{(chapter | title | p | h2 | table)+}
 # allows at least one chapter, title, or p element in root element
 chapter= element chapter{(n | heading*|entry*| p*)+}
 heading = attribute heading{text}
-title= element title{text}
-n= attribute n{xsd:integer}
+title = element title{text}
+n = attribute n{xsd:integer}
 # may want to change to xsd:integer at some point
 
 entry = element entry{p+}
 p= element p{(text | person | location | unit)+}
+# table
+h2 = element h2{table | text}
+table = element table{(tr | border | cellpadding | width | cellspacing | summary| text)+}
+tr = element tr{(td | th | text)+}
+th = element th{(colspan | text)+}
+td = element td{(colspan | align | a | text)+}
+a = element a{href}
+colspan = attribute colspan{text}
+align = attribute align{text}
+href = attribute href{text}
+border = attribute border{text}
+cellpadding = attribute cellpadding{text}
+width = attribute width{text}
+cellspacing = attribute cellspacing{text}
+summary = attribute summary{text}
 
 person = element person{name, text}
 name = attribute name{text}
