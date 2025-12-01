@@ -31,7 +31,7 @@
                                 
                                 <line x1="0" x2="{$xspacer * $unit-occurrence-count}" 
                                     y1="{$yspacer * $unit-sequence}" y2="{$yspacer * $unit-sequence}"
-                                    stroke-width="10" stroke="#B7D49B" stroke-dasharray="2"/>
+                                    stroke-width="10" stroke="#B7D49B"/>
                                 <!-- KYW: horizontal bars for entries -->
                                 
                                 <line x1="{$xspacer * 10}" x2="{$xspacer * 10}" 
