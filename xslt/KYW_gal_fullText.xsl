@@ -47,9 +47,13 @@
                         <p><xsl:apply-templates/></p>
                     </xsl:for-each>
                     
+                    
                     <xsl:for-each select="//title">
                         <h1 style="text-align:center"><xsl:apply-templates/></h1>
                     </xsl:for-each>
+                    
+                    
+                    
                     
                     
                     
@@ -57,6 +61,22 @@
             </html>
             
         </xsl:result-document>
+    </xsl:template>
+    
+    <xsl:template match="//p/person">
+        <span class="person"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="//p/location[@ship]">
+        <span class="ship"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="//p/location[@coast]">
+        <span class="coast"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="//p/unit">
+        <span class="unit"><xsl:apply-templates/></span>
     </xsl:template>
     
 </xsl:stylesheet>

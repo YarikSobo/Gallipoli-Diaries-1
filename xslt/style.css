@@ -1,0 +1,56 @@
+body{
+background:#EAF59A;
+color: #000000;
+margin: 20px;
+}
+
+div.anzac {
+width: 1085px;
+height: 100px;
+padding: 10px;
+border: 5px solid gray;
+
+}
+
+div.column{
+width: 470px;
+height: 440px;
+padding: 10px;
+border: 5px solid gray;
+position: absolute;
+top: 279px; /* Adjust to move text below the box */
+left: 525px;
+
+
+    
+}
+
+nav 
+        {
+            background-color: #B7D49B; /* nav bar background color */
+            text-align: center; /* aligns nav bar text */
+            width: 100%; /* Ensure it spans the full width of the viewport */
+        }
+        
+        /* Ensure nav items are displayed inline to prevent breaking to a new line */
+        nav div 
+        {
+            padding: 14px 20px; /* Padding for nav items */
+            display: inline-block; /* Display inline to avoid breaking lines */
+        }
+        
+        /* Nav links styling */
+        nav a 
+        {
+            font-size: 23px;
+            text-decoration: none; /* No underline */
+            color: black; /* Text color */
+        }
+        
+        /* Hover effect for nav items */
+        nav div:hover 
+        {
+            background-color: #555; /* Change background color on hover */
+            color: white; /* Change text color on hover */
+        }
+        
