@@ -3,6 +3,39 @@
 
 <?xml-model href="gallipolischema_2.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
+  
+  <h2>CONTENTS</h2>
+  
+  <table border="0" cellpadding="2" width="75%" cellspacing="0" summary="Contents">
+    <tr><td align='right'>          </td><td align='left'>          </td></tr>
+    <tr><td align='right'>          </td><td align='left'>PREFACE</td><td align='right'><a href='#preface'></a></td></tr>
+    <tr><td align='right'>          </td><td align='left'>LETTER FROM GENERAL D'AMADE TO THE AUTHOR</td><td align='right'><a href='#letter'></a></td></tr>
+    <tr><td colspan="3">          </td></tr>
+    <tr><th colspan="3">CHAPTER</th></tr>
+    <tr><td align='right'>I.</td><td align='left'>THE START</td><td align='right'><a href='#Page_1'></a></td></tr>
+    <tr><td align='right'>II.</td><td align='left'>THE STRAITS</td><td align='right'><a href='#Page_21'></a></td></tr>
+    <tr><td align='right'>III.</td><td align='left'>EGYPT</td><td align='right'><a href='#Page_54'></a></td></tr>
+    <tr><td align='right'>IV.</td><td align='left'>CLEARING FOR ACTION</td><td align='right'><a href='#Page_86'></a></td></tr>
+    <tr><td align='right'>V.</td><td align='left'>THE LANDING</td><td align='right'><a href='#Page_127'></a></td></tr>
+    <tr><td align='right'>VI.</td><td align='left'>MAKING GOOD</td><td align='right'><a href='#Page_159'></a></td></tr>
+    <tr><td align='right'>VII.</td><td align='left'>SHELLS</td><td align='right'><a href='#Page_196'></a></td></tr>
+    <tr><td align='right'>VIII.</td><td align='left'>TWO CORPS OR AN ALLY?</td><td align='right'><a href='#Page_219'></a></td></tr>
+    <tr><td align='right'>IX.</td><td align='left'>SUBMARINES</td><td align='right'><a href='#Page_243'></a></td></tr>
+    <tr><td align='right'>X.</td><td align='left'>A DECISION AND THE PLAN</td><td align='right'><a href='#Page_283'></a></td></tr>
+    <tr><td align='right'>XI.</td><td align='left'>BOMBS AND JOURNALISTS</td><td align='right'><a href='#Page_314'></a></td></tr>
+    <tr><td align='right'>XII.</td><td align='left'>A VICTORY AND AFTER</td><td align='right'><a href='#Page_343'></a></td></tr>
+  </table>
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
 <title>GALLIPOLI DIARY BY GENERAL SIR IAN HAMILTON, G.C.B.</title>
   
 <chapter n="0" heading="PREFACE">

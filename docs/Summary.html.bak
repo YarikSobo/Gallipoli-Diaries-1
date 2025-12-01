@@ -11,7 +11,7 @@
         <h1 style="text-align:center">Glimpses of Gallipoli: The Hamilton Diaries</h1>
         <hr/>
         <nav>
-            <div><a href="index.html">Home</a></div>   
+            <div><a href="index-1.html">Home</a></div>   
             <div><a href="about.html">Project Info</a></div>
             <div><a href="Summary.html">Context</a></div>
             <div class="dropdown"><a href="#">Full Text</a>
@@ -56,8 +56,5 @@
         already reeling from having to process the brutal stalemate on the Western Front. To the Ottoman Empire on the other hand, it was one last great achievement of a dying state, and provided a launching pad for the person who would
         write the next chapter of Turkish history: Mustafa Kemal Ataturk. To the people who fought the campaign, Gallipoli was a folly, a gamble, a defense of the motherland, a chance at glory, and so much more. Through parsing Sir Ian Hamilton’s 
         diaries, you will inevitably see the complex realities of the campaign and the people who fought in it, largely through the eyes of the man who was perhaps most responsible for the campaign’s day-to-day execution. </p>
-        
-        <h2>Main People during the Campaign</h2>
-        <p>   </p>
     </body>
 </html>

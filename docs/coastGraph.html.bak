@@ -11,7 +11,7 @@
       <h1 style="text-align:center">Glimpses of Gallipoli: The Hamilton Diaries</h1>    
       <hr/>
       <nav>
-         <div><a href="index.html">Home</a></div>   
+         <div><a href="index-1.html">Home</a></div>   
          <div><a href="about.html">Project Info</a></div>
          <div><a href="Summary.html">Context</a></div>
          <div class="dropdown"><a href="#">Full Text</a>
@@ -102,7 +102,6 @@
             <line x1="0" y1="0" x2="3000" y2="0" stroke="#000000" stroke-width="5"></line>
             <circle cx="0" cy="0" r="2.5" fill="#000000"></circle>
          </g></svg><h3>Summary:</h3><p>This graph takes the location elements that have an attribute value of 'coast' and
-         plots them by frequency throughout the entire Gallipoli Diaries. The coasts were important during the Gallipoli Campaign esepcally for the Allied forces for troop landings, 
-         ship movements, and geography for attack plans for the naval forces.  </p>
+         plots them by frequency throughout the entire Gallipoli Diaries.  </p>
    </body>
 </html>
