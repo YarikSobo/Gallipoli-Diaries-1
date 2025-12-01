@@ -10,7 +10,7 @@
         <h1 style="text-align:center">Gallipoli Diaries Data Page</h1>    
         <hr/>
         <nav>
-            <div><a href="index.html">Home</a></div>   
+            <div><a href="index-1.html">Home</a></div>   
             <div><a href="about.html">Project Info</a></div>
             <div class="dropdown"><a href="#">Full Text</a>
                 <div class="dropdown-content">
