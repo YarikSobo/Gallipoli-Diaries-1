@@ -24,18 +24,18 @@
                     <h1 style="text-align:center">Gallipoli Diaries Full-Text Volume I</h1>
                     <hr/>
                     <nav>
-                        <div><a href="index-1.html">Home</a></div>   
+                        <div><a href="index.html">Home</a></div>   
                         <div><a href="about.html">Project Info</a></div>
-                        <div class="dropdown"><a href="#">Full Text</a>
-                            <div class="dropdown-content">
-                                <a href="full_text_page_I.html">Volume I</a>
-                                <a href="full_text_page_II.html">Volume II</a>
-                            </div>
-                        </div>
+                        <div><a href="Summary.html">Context</a></div>
+                        <div><a href="KYW_gal_fullText-output.html">Full Text</a></div>
                         <div class="dropdown"><a href="#">Graphs and Data</a>
                             <div class="dropdown-content">
                                 <a href="KitchenerGraphPage.html">Kitchener Mentions</a>
                                 <a href="Character_Graphs.html">Character Count</a>
+                                <a href="coastGraph.html">Coastlines</a>
+                                <a href="unitGraph.html">Units</a>
+                                <a href="countryGraph.html">Countries</a>
+                                <a href="shipGraph.html">Ships</a>
                             </div>
                         </div>
                     </nav>
@@ -51,7 +51,7 @@
                     </fieldset>
                     <!-- KYW: Clickable buttons -->
                     
-                    <ol><xsl:apply-templates select="//chapter" mode="toc"/></ol>
+                    <ul><xsl:apply-templates select="//chapter" mode="toc"/></ul>
                     <xsl:apply-templates select="//chapter"/>
                     <!-- KYW: creates TOC and outputs text -->
                     
