@@ -73,6 +73,7 @@
     
     <xsl:template match="chapter">
         <h2 id="{@n}">Chapter <xsl:value-of select="@n"/>: <xsl:value-of select="@heading"/> </h2>
+        <p><a href="#">Back to top!</a></p>
         <xsl:apply-templates/>
     </xsl:template>
     <!-- KYW: creates headings for chapters, connect to links -->
