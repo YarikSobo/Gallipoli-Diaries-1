@@ -19,8 +19,29 @@
             <html>
                 <head>
                     <title>Mentions of Kitchener by Chapter</title>
+                    <link type="text/css" href="style.css" rel="stylesheet" />
+                    <link type="text/css" href="dropdown_menu.css" rel="stylesheet" />
                 </head>
                 <body>
+                    <h1 style="text-align:center">Glimpses of Gallipoli: The Hamilton Diaries</h1>    
+                    <hr/>
+                    <nav>
+                        <div><a href="index.html">Home</a></div>   
+                        <div><a href="about.html">Project Info</a></div>
+                        <div><a href="Summary.html">Context</a></div>
+                        <div><a href="KYW_gal_fullText-output.html">Full Text</a></div>
+                        <div class="dropdown"><a href="#">Graphs and Data</a>
+                            <div class="dropdown-content">
+                                <a href="KitchenerGraphPage.html">Kitchener Mentions</a>
+                                <a href="personGraph.html">Characters</a>
+                                <a href="coastGraph.html">Coastlines</a>
+                                <a href="unitGraph.html">Units</a>
+                                <a href="countryGraph.html">Countries</a>
+                                <a href="shipGraph.html">Ships</a>
+                            </div>
+                        </div>
+                    </nav>
+                    <hr/>  
                     <h1>Mentions of Kitchener, by Chapter</h1>
                     <svg viewBox="0 0 2400 1000">
                         <g transform="translate(425,50)">
@@ -95,8 +116,7 @@
 
                         </g>
                     </svg>
-                    <p>This graph shows the frequency with which Kitchener is mentioned, by
-                        chapter.</p>
+                    <p>The graph above shows how many times Kitchener is mentioned throughout the text by each chapter. Kitchener was one of the main British commanders of the Gallipoli Campaign so he was vital towards the war effort. The one part that sticks out the most is that he is mentioned the most in chapter 22 since the war effort was starting to not turn out well for the Allied powers.</p>
                 </body>
             </html>
         </xsl:result-document>
