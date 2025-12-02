@@ -42,7 +42,7 @@
 
                                 <text font-size="20" font-weight="bold" x="-10"
                                     y="{$yspacer * $chapNum + 5}" text-anchor="end">
-                                    <xsl:value-of select="$chapNum"/>
+                                    Chapter <xsl:value-of select="$chapNum"/>:
                                 </text>
                                 <!-- KYW: labels bars with chapter number -->
 

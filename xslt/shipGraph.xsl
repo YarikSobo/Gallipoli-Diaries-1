@@ -18,7 +18,7 @@
             <html>
                 <head><title>Ships in Gallipoli Diaries in all chapters</title></head>
                 <body>
-                    <h1>ships in the Gallipoli Diaries</h1>
+                    <h1>Ships in the Gallipoli Diaries</h1>
                     <svg viewBox="0 0 2250 1850">
                         <g transform="translate(400,10)">
                             <xsl:for-each-group select="//p//location" group-by="@ship">
@@ -31,17 +31,17 @@
                                     y1="{$yspacer * $ship-sequence}" y2="{$yspacer * $ship-sequence}"
                                     stroke-width="10" stroke="#B7D49B"/>
                                 
-                                <text x="-10" y="{$yspacer * $ship-sequence + 5}" text-anchor="end">
+                                <text font-weight="bold" x="-10" y="{$yspacer * $ship-sequence + 5}" text-anchor="end">
                                     <xsl:value-of select="$ship-sequence"/><xsl:text>: </xsl:text>
                                     <xsl:apply-templates select=".//@ship"/></text>
                                 
-                                <text x="{$xspacer * $ship-occurrence-count + 20}" y="{$yspacer * $ship-sequence + 5}" text-anchor="right">
+                                <text font-weight="bold" x="{$xspacer * $ship-occurrence-count + 20}" y="{$yspacer * $ship-sequence + 5}" text-anchor="right">
                                     <xsl:value-of select="$ship-occurrence-count"/></text>
                                 
                             </xsl:for-each-group>
                             
                             <line x1="0" y1="0" x2="0" y2="1900" stroke="#000000" stroke-width="5"/>
-                            <line x1="0" y1="0" x2="1740" y2="0" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="1805" y2="0" stroke="#000000" stroke-width="5"/>
                             <circle cx="0" cy="0" r="2.5" fill="#000000"/>
                             
                             <line x1="{$xspacer * 10}" x2="{$xspacer * 10}" 

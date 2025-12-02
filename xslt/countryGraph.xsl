@@ -20,7 +20,7 @@
                 <body>
                     <h1>Countries in the Gallipoli Diaries</h1>
                     <svg viewBox="0 0 2100 550">
-                        <g transform="translate(400,10)">
+                        <g transform="translate(300,10)">
                             <xsl:for-each-group select="//p//location" group-by="@country">
                                 
                                 <xsl:sort select="count(current-group())" order="descending"/>
@@ -31,11 +31,11 @@
                                     y1="{$yspacer * $country-sequence}" y2="{$yspacer * $country-sequence}"
                                     stroke-width="10" stroke="#B7D49B"/>
                                 
-                                <text x="-10" y="{$yspacer * $country-sequence + 5}" text-anchor="end">
+                                <text font-weight="bold" x="-10" y="{$yspacer * $country-sequence + 5}" text-anchor="end">
                                     <xsl:value-of select="$country-sequence"/><xsl:text>: </xsl:text>
                                     <xsl:apply-templates select=".//@country"/></text>
                                 
-                                <text x="{$xspacer * $country-occurrence-count + 20}" y="{$yspacer * $country-sequence + 5}" text-anchor="right">
+                                <text font-weight="bold" x="{$xspacer * $country-occurrence-count + 20}" y="{$yspacer * $country-sequence + 5}" text-anchor="right">
                                     <xsl:value-of select="$country-occurrence-count"/></text>
                                 
                             </xsl:for-each-group>
@@ -90,17 +90,7 @@
                                 y1="0" y2="1890"
                                 stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
                             
-                            <line x1="{$xspacer * 120}" x2="{$xspacer * 120}" 
-                                y1="0" y2="1890"
-                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
                             
-                            <line x1="{$xspacer * 130}" x2="{$xspacer * 130}" 
-                                y1="0" y2="1890"
-                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
-                            
-                            <line x1="{$xspacer * 140}" x2="{$xspacer * 140}" 
-                                y1="0" y2="1890"
-                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
                         </g>
                     </svg>
                     <p>The graph above shows the frequency that each country was mentioned</p>
