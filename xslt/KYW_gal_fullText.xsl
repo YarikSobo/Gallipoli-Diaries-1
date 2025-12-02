@@ -31,7 +31,7 @@
                         <div class="dropdown"><a href="#">Graphs and Data</a>
                             <div class="dropdown-content">
                                 <a href="KitchenerGraphPage.html">Kitchener Mentions</a>
-                                <a href="Character_Graphs.html">Character Count</a>
+                                <a href="personGraph.html">Character Count</a>
                                 <a href="coastGraph.html">Coastlines</a>
                                 <a href="unitGraph.html">Units</a>
                                 <a href="countryGraph.html">Countries</a>
