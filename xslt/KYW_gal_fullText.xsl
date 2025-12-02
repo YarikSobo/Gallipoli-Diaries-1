@@ -21,7 +21,7 @@
                 </head>
                 
                 <body>
-                    <h1 style="text-align:center">Gallipoli Diaries Full-Text Volume I</h1>
+                    <h1 style="text-align:center">Gallipoli Diaries Full Text</h1>
                     <hr/>
                     <nav>
                         <div><a href="index.html">Home</a></div>   
@@ -51,6 +51,7 @@
                     </fieldset>
                     <!-- KYW: Clickable buttons -->
                     
+                    <h2>Table of Contents:</h2>
                     <ul><xsl:apply-templates select="//chapter" mode="toc"/></ul>
                     <xsl:apply-templates select="//chapter"/>
                     <!-- KYW: creates TOC and outputs text -->
