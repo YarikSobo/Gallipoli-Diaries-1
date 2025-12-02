@@ -11,12 +11,13 @@
     <xsl:variable name="galText" select="document('../xml/gallipoli_all_chapters.xml')"/>
     
     <xsl:template match="$galText">
-        <xsl:result-document method="xhtml" indent="yes" href="KYW_gal_fullText-output.html">
+        <xsl:result-document method="xhtml" indent="yes" href="../docs/KYW_gal_fullText-output.html">
             <html>
                 <head>
                     <title>Gallipoli Full Text</title>
                     <link type="text/css" href="style.css" rel="stylesheet" />
                     <link type="text/css" href="dropdown_menu.css" rel="stylesheet" />
+                    <script type="text/javascript" src="gallipoli.js">/**/</script>
                 </head>
                 
                 <body>
@@ -39,23 +40,24 @@
                         </div>
                     </nav>
                     <hr/>
-                    <xsl:for-each select="//chapter">
-                        <li><xsl:value-of select="string-join((@n, @heading), '. ')"/></li>
-                    </xsl:for-each>
+                    <fieldset>
+                        <legend>Click to Highlight:</legend>
+                        <input type="checkbox" id="personToggle"/>
+                        <span>Persons</span>
+                        <input type="checkbox" id="locationToggle"/>
+                        <span>Locations</span>
+                        <input type="checkbox" id="unitToggle"/>
+                        <span>Units</span>
+                    </fieldset>
+                    <!-- KYW: Clickable buttons -->
                     
-                    <xsl:for-each select="//p">
-                        <p><xsl:apply-templates/></p>
-                    </xsl:for-each>
-                    
+                    <ol><xsl:apply-templates select="//chapter" mode="toc"/></ol>
+                    <xsl:apply-templates select="//chapter"/>
+                    <!-- KYW: creates TOC and outputs text -->
                     
                     <xsl:for-each select="//title">
                         <h1 style="text-align:center"><xsl:apply-templates/></h1>
-                    </xsl:for-each>
-                    
-                    
-                    
-                    
-                    
+                    </xsl:for-each>            
                     
                 </body>
             </html>
@@ -63,20 +65,33 @@
         </xsl:result-document>
     </xsl:template>
     
+    <xsl:template match="chapter" mode="toc">
+        <li><a href="#{@n}"><xsl:value-of select="string-join((@n, @heading), '. ')"/></a></li>
+    </xsl:template>
+    <!-- KYW: creates entries for table with links -->
+    
+    <xsl:template match="chapter">
+        <h2 id="{@n}">Chapter <xsl:value-of select="@n"/>: <xsl:value-of select="@heading"/> </h2>
+        <xsl:apply-templates/>
+    </xsl:template>
+    <!-- KYW: creates headings for chapters, connect to links -->
+    
+    <xsl:template match="//p">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    
+   
     <xsl:template match="//p/person">
         <span class="person"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="//p/location[@ship]">
-        <span class="ship"><xsl:apply-templates/></span>
-    </xsl:template>
-    
-    <xsl:template match="//p/location[@coast]">
-        <span class="coast"><xsl:apply-templates/></span>
+    <xsl:template match="//p/location">
+        <span class="location"><xsl:apply-templates/></span>
     </xsl:template>
     
     <xsl:template match="//p/unit">
         <span class="unit"><xsl:apply-templates/></span>
     </xsl:template>
+    <!-- KYW: adds span elements to allow interfacing w/ JS -->
     
 </xsl:stylesheet>

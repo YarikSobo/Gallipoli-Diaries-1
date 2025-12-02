@@ -53,4 +53,8 @@ nav
             background-color: #555; /* Change background color on hover */
             color: white; /* Change text color on hover */
         }
-        
+
+span.person.on {background-color:#FFFF00}
+span.location.on {background-color:#F52727}  
+span.unit.on {background-color:#FF1FDA}
+/* KYW: javascript additions */
