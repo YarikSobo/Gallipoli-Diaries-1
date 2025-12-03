@@ -22,7 +22,7 @@
                 </head>
                 
                 <body>
-                    <h1 style="text-align:center">Gallipoli Diaries Full Text</h1>
+                    <h1 style="text-align:center">Glimpses of Gallipoli: The Hamilton Diaries</h1>
                     <hr/>
                     <nav>
                         <div><a href="index.html">Home</a></div>   
