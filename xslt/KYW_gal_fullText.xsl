@@ -18,6 +18,7 @@
                     <link type="text/css" href="style.css" rel="stylesheet" />
                     <link type="text/css" href="dropdown_menu.css" rel="stylesheet" />
                     <script type="text/javascript" src="gallipoli.js">/**/</script>
+                    <!-- KYW: javascript link -->
                 </head>
                 
                 <body>
@@ -40,6 +41,8 @@
                         </div>
                     </nav>
                     <hr/>
+                    <!-- KYW: nav bar copied from other pages -->
+                    
                     <fieldset>
                         <legend>Click to Highlight:</legend>
                         <input type="checkbox" id="personToggle"/>
@@ -49,7 +52,7 @@
                         <input type="checkbox" id="unitToggle"/>
                         <span>Units</span>
                     </fieldset>
-                    <!-- KYW: Clickable buttons -->
+                    <!-- KYW: clickable buttons -->
                     
                     <h2>Table of Contents:</h2>
                     <ul><xsl:apply-templates select="//chapter" mode="toc"/></ul>
@@ -58,7 +61,8 @@
                     
                     <xsl:for-each select="//title">
                         <h1 style="text-align:center"><xsl:apply-templates/></h1>
-                    </xsl:for-each>            
+                    </xsl:for-each>
+                    <!-- KYW: puts title at top -->
                     
                 </body>
             </html>
@@ -74,6 +78,7 @@
     <xsl:template match="chapter">
         <h2 id="{@n}">Chapter <xsl:value-of select="@n"/>: <xsl:value-of select="@heading"/> </h2>
         <p><a href="#">Back to top!</a></p>
+    <!-- KYW: places return links below heading -->
         <xsl:apply-templates/>
     </xsl:template>
     <!-- KYW: creates headings for chapters, connect to links -->
@@ -81,7 +86,7 @@
     <xsl:template match="//p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
-    
+    <!-- KYW: keeps formatting for <p> tags -->
    
     <xsl:template match="//p/person">
         <span class="person"><xsl:apply-templates/></span>
