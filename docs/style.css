@@ -14,16 +14,16 @@ border: 5px solid gray;
 
 div.summary{
 padding: 10px;
-border: 5px solid gray;
+border: 5px solid #AB884B;
 width: 925px;
 height:745px;
 }
 
 div.names{
 padding: 10px;
-border: 5px solid gray;
+border: 5px solid #AB884B;
 width: 925px;
-height:615px;    
+height:615px;
 }
 
 div.column{
