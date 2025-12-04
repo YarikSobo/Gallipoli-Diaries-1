@@ -12,6 +12,20 @@ border: 5px solid gray;
 
 }
 
+div.summary{
+padding: 10px;
+border: 5px solid gray;
+width: 925px;
+height:745px;
+}
+
+div.names{
+padding: 10px;
+border: 5px solid gray;
+width: 925px;
+height:615px;    
+}
+
 div.column{
 width: 470px;
 height: 440px;
