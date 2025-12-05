@@ -15,8 +15,20 @@ border: 5px solid gray;
 div.summary{
 padding: 10px;
 border: 5px solid #AB884B;
-width: 925px;
-height:745px;
+margin: 20px;
+}
+
+div.summarytwo{
+padding: 10px;
+border: 5px solid #AB884B;
+margin: 20px;
+text-align: center;
+}
+
+div.graphtxt{
+padding: 10px;
+border: 5px solid #AB884B;
+margin: 10px;
 }
 
 div.names{
@@ -33,12 +45,23 @@ padding: 10px;
 border: 5px solid gray;
 position: absolute;
 top: 279px; /* Adjust to move text below the box */
-left: 525px;
+left: 525px;}
 
-
+div.contextimgone{
+display:block;
+margin: auto;
+width: 33%;
+}
     
+div.contextimgtwo{
+display:block;
+margin: auto;
+width: 30%;    
 }
 
+.p{
+margin: 20px;
+}
 nav 
         {
             background-color: #B7D49B; /* nav bar background color */
