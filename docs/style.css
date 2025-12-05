@@ -59,6 +59,96 @@ margin: auto;
 width: 30%;    
 }
 
+div.four{
+position: absolute;
+top: 279px; /* Adjust to move text below the box */
+left: 400px;
+width: 545px;
+height: 440px;
+padding: 10px;
+border: 5px solid gray;
+}
+
+div.Clyde{
+position: relative;
+left: 400px;
+width: 545px;
+height: 440px;
+padding: 10px;
+border: 5px solid gray;
+}
+
+div.French{
+position: relative;
+left: 400px;
+width: 545px;
+height: 820px;
+padding: 10px;
+border: 5px solid gray;
+}
+
+div.Maxwell{
+position: relative;
+left: 400px;
+width: 545px;
+height: 640px;
+padding: 10px;
+border: 5px solid gray;
+}
+
+div.GeneraldAmade{
+position: relative;
+left: 400px;
+width: 545px;
+height: 540px;
+padding: 10px;
+border: 5px solid gray;
+}
+
+div.bath{
+position: relative;
+left: 400px;
+width: 545px;
+height: 440px;
+padding: 10px;
+border: 5px solid gray;
+}
+
+div.GOURAUD{
+position: relative;
+left: 400px;
+width: 445px;
+height: 640px;
+padding: 10px;
+border: 5px solid gray;
+}
+
+div.w{
+position: relative;
+left: 400px;
+width: 545px;
+height: 340px;
+padding: 10px;
+border: 5px solid gray;
+}
+
+div.Encampment{
+position: relative;
+left: 400px;
+width: 545px;
+height: 500px;
+padding: 10px;
+border: 5px solid gray;
+}
+
+div.Chunuk{
+position: relative;
+left: 400px;
+width: 545px;
+height: 440px;
+padding: 10px;
+border: 5px solid gray;
+}
 .p{
 margin: 20px;
 }
