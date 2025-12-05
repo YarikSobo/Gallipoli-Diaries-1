@@ -8,7 +8,7 @@ div.anzac {
 width: 1085px;
 height: 100px;
 padding: 10px;
-border: 5px solid gray;
+border: 5px solid #AB884B ;
 
 }
 
@@ -42,7 +42,7 @@ div.column{
 width: 470px;
 height: 440px;
 padding: 10px;
-border: 5px solid gray;
+border: 5px solid #AB884B;
 position: absolute;
 top: 279px; /* Adjust to move text below the box */
 left: 525px;}
@@ -154,31 +154,31 @@ margin: 20px;
 }
 nav 
         {
-            background-color: #B7D49B; /* nav bar background color */
-            text-align: center; /* aligns nav bar text */
-            width: 100%; /* Ensure it spans the full width of the viewport */
+            background-color: #B7D49B;
+            text-align: center; 
+            width: 100%; 
         }
         
-        /* Ensure nav items are displayed inline to prevent breaking to a new line */
+    
         nav div 
         {
-            padding: 14px 20px; /* Padding for nav items */
-            display: inline-block; /* Display inline to avoid breaking lines */
+            padding: 14px 20px; 
+            display: inline-block; 
         }
         
-        /* Nav links styling */
+      
         nav a 
         {
             font-size: 23px;
-            text-decoration: none; /* No underline */
-            color: black; /* Text color */
+            text-decoration: none; 
+            color: black; 
         }
         
-        /* Hover effect for nav items */
+
         nav div:hover 
         {
-            background-color: #555; /* Change background color on hover */
-            color: white; /* Change text color on hover */
+            background-color: #555; 
+            color: white; 
         }
 
 span.person.on {background-color:#FFFF00; font-weight: bold}
