@@ -148,42 +148,43 @@ width: 545px;
 height: 440px;
 padding: 10px;
 border: 5px solid gray;
+
 }
 .p{
 margin: 20px;
 }
-nav 
-        {
-            background-color: #B7D49B;
-            text-align: center; 
-            width: 100%; 
-        }
-        
-    
-        nav div 
-        {
-            padding: 14px 20px; 
-            display: inline-block; 
-        }
-        
-      
-        nav a 
-        {
-            font-size: 23px;
-            text-decoration: none; 
-            color: black; 
-        }
-        
 
-        nav div:hover 
-        {
-            background-color: #555; 
-            color: white; 
-        }
+nav 
+{
+background-color: #B7D49B;
+text-align: center; 
+width: 100%; 
+}       
+    
+nav div 
+{
+padding: 14px 20px; 
+display: inline-block; 
+}      
+      
+nav a 
+{
+font-size: 23px;
+text-decoration: none; 
+color: black; 
+}
+        
+nav div:hover 
+{
+background-color: #555; 
+color: white; 
+}
+/* MF: Nav Bar CSS */
 
 span.person.on {background-color:#FFFF00; font-weight: bold}
-span.location.on {background-color:#F52727; font-weight: bold}  
-span.unit.on {background-color:#FF1FDA; font-weight: bold}
+span.personbox.on {background-color:#FFFF00;}
+span.location.on {background-color:#77C9FF; font-weight: bold}  
+span.unit.on {background-color:#EBB2E0; font-weight: bold}
 /* KYW: javascript additions */
 
 
