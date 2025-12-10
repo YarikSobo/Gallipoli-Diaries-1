@@ -10,17 +10,39 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
     
     <xsl:variable name="gal_text" select="document('../xml/gallipoli_all_chapters.xml')"/>
-    <xsl:variable name="xspacer" select="30"/>
-    <xsl:variable name="yspacer" select="30"/>
+    <xsl:variable name="xspacer" select="20"/>
+    <xsl:variable name="yspacer" select="27.5"/>
     
     <xsl:template match="$gal_text">
         <xsl:result-document method="xhtml" indent="yes" href="../docs/shipGraph.html">
             <html>
-                <head><title>Ships in Gallipoli Diaries in all chapters</title></head>
+                <head><title>Ships in Gallipoli Diaries in all chapters</title>
+                    <link type="text/css" href="style.css" rel="stylesheet" />
+                    <link type="text/css" href="dropdown_menu.css" rel="stylesheet" />
+                </head>
                 <body>
+                    <h1 style="text-align:center">Glimpses of Gallipoli: The Hamilton Diaries</h1>    
+                    <hr/>
+                    <nav>
+                        <div><a href="index.html">Home</a></div>   
+                        <div><a href="about.html">Project Info</a></div>
+                        <div><a href="Summary.html">Context</a></div>
+                        <div><a href="KYW_gal_fullText-output.html">Full Text</a></div>
+                        <div class="dropdown"><a href="#">Graphs and Data</a>
+                            <div class="dropdown-content">
+                                <a href="KitchenerGraphPage.html">Kitchener Mentions</a>
+                                <a href="personGraph.html">Characters</a>
+                                <a href="coastGraph.html">Coastlines</a>
+                                <a href="unitGraph.html">Units</a>
+                                <a href="countryGraph.html">Countries</a>
+                                <a href="shipGraph.html">Ships</a>
+                            </div>
+                        </div>
+                    </nav>
+                    <hr/>  
                     <h1>Ships in the Gallipoli Diaries</h1>
-                    <svg viewBox="0 0 2250 1850">
-                        <g transform="translate(400,10)">
+                    <svg viewBox="0 0 {$xspacer * 120} {$yspacer * 65}">
+                        <g transform="translate(425,10)">
                             <xsl:for-each-group select="//p//location" group-by="@ship">
                                 
                                 <xsl:sort select="count(current-group())" order="descending"/>
@@ -31,11 +53,11 @@
                                     y1="{$yspacer * $ship-sequence}" y2="{$yspacer * $ship-sequence}"
                                     stroke-width="10" stroke="#B7D49B"/>
                                 
-                                <text font-weight="bold" x="-10" y="{$yspacer * $ship-sequence + 5}" text-anchor="end">
+                                <text font-size="24" font-weight="bold" x="-10" y="{$yspacer * $ship-sequence + 5}" text-anchor="end">
                                     <xsl:value-of select="$ship-sequence"/><xsl:text>: </xsl:text>
                                     <xsl:apply-templates select=".//@ship"/></text>
                                 
-                                <text font-weight="bold" x="{$xspacer * $ship-occurrence-count + 20}" y="{$yspacer * $ship-sequence + 5}" text-anchor="right">
+                                <text font-size="24" font-weight="bold" x="{$xspacer * $ship-occurrence-count + 20}" y="{$yspacer * $ship-sequence + 5}" text-anchor="right">
                                     <xsl:value-of select="$ship-occurrence-count"/></text>
                                 
                             </xsl:for-each-group>
@@ -79,30 +101,11 @@
                             <line x1="{$xspacer * 90}" x2="{$xspacer * 90}" 
                                 y1="0" y2="1890"
                                 stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
-                            
-                            <line x1="{$xspacer * 100}" x2="{$xspacer * 100}" 
-                                y1="0" y2="1890"
-                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
-                            
-                            <line x1="{$xspacer * 110}" x2="{$xspacer * 110}" 
-                                y1="0" y2="1890"
-                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
-                            
-                            <line x1="{$xspacer * 120}" x2="{$xspacer * 120}" 
-                                y1="0" y2="1890"
-                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
-                            
-                            <line x1="{$xspacer * 130}" x2="{$xspacer * 130}" 
-                                y1="0" y2="1890"
-                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
-                            
-                            <line x1="{$xspacer * 140}" x2="{$xspacer * 140}" 
-                                y1="0" y2="1890"
-                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                           
                             
                         </g>
                     </svg>
-                    <p>The graph above shows the frequency that each ship was mentioned</p>
+                    <p>The graph above shows the frequency that each ship was mentioned in Sir Ian Hamilton's diaries.</p>
                 </body>
             </html>
         </xsl:result-document>
