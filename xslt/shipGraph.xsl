@@ -63,7 +63,7 @@
                             </xsl:for-each-group>
                             
                             <line x1="0" y1="0" x2="0" y2="1900" stroke="#000000" stroke-width="5"/>
-                            <line x1="0" y1="0" x2="{$xspacer * 92.5}" y2="0" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="{$xspacer * 80.5}" y2="0" stroke="#000000" stroke-width="5"/>
                             <circle cx="0" cy="0" r="2.5" fill="#000000"/>
                             
                             <line x1="{$xspacer * 10}" x2="{$xspacer * 10}" 
@@ -98,9 +98,7 @@
                                 y1="0" y2="1890"
                                 stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
                             
-                            <line x1="{$xspacer * 90}" x2="{$xspacer * 90}" 
-                                y1="0" y2="1890"
-                                stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="15%"/>
+                            
                            
                             
                         </g>
