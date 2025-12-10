@@ -106,7 +106,7 @@
                             </xsl:for-each-group>
                             
                             <line x1="0" y1="0" x2="0" y2="800" stroke="#000000" stroke-width="5"/>
-                            <line x1="0" y1="0" x2="1500" y2="0" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="{$xspacer * 95}" y2="0" stroke="#000000" stroke-width="5"/>
                             <circle cx="0" cy="0" r="2.5" fill="#000000"/>
                             <!-- KYW: draws reference lines, addresses 'notching' with circle  -->
                             

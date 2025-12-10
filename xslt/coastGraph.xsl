@@ -136,13 +136,7 @@
                                     y1="0" y2="500"
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 
-                                <line x1="{$xspacer * 210}" x2="{$xspacer * 210}" 
-                                    y1="0" y2="500"
-                                    stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
-                                
-                                <line x1="{$xspacer * 220}" x2="{$xspacer * 220}" 
-                                    y1="0" y2="500"
-                                    stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
+                             
                                 <!-- KYW: vertical reference lines-->
                                 
                                 <text font-size="24" font-weight="bold" x="-10" y="{$yspacer * $coast-sequence + 5}" text-anchor="end">
@@ -157,7 +151,7 @@
                             </xsl:for-each-group>
                             
                             <line x1="0" y1="0" x2="0" y2="500" stroke="#000000" stroke-width="5"/>
-                            <line x1="0" y1="0" x2="3000" y2="0" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="{$xspacer * 200}" y2="0" stroke="#000000" stroke-width="5"/>
                             <circle cx="0" cy="0" r="2.5" fill="#000000"/>
                             <!-- KYW: draws reference lines, addresses 'notching' with circle  -->
                             
