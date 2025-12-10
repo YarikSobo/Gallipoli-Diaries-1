@@ -94,7 +94,7 @@
                                     stroke-width="10" stroke="#000000" stroke-dasharray="0 5 0" stroke-opacity="0.5%"/>
                                 <!-- KYW: vertical reference lines-->
                                 
-                                <text font-size="20" font-weight="bold" x="-10" y="{$yspacer * $unit-sequence + 5}" text-anchor="end">
+                                <text font-size="24" font-weight="bold" x="-10" y="{$yspacer * $unit-sequence + 5}" text-anchor="end">
                                     <xsl:value-of select="$unit-sequence"/><xsl:text>: </xsl:text>
                                     <xsl:apply-templates select=".//@unitName"/></text>
                                 <!-- KYW: labels bars with index number and unit name -->

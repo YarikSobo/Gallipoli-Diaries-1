@@ -10,16 +10,37 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
     
     <xsl:variable name="gal_text" select="document('../xml/gallipoli_all_chapters.xml')"/>
-    <xsl:variable name="xspacer" select="15"/>
-    <xsl:variable name="yspacer" select="20"/>
+    <xsl:variable name="xspacer" select="10"/>
+    <xsl:variable name="yspacer" select="22.5"/>
     
     <xsl:template match="$gal_text">
         <xsl:result-document method="xhtml" indent="yes" href="../docs/countryGraph.html">
             <html>
-                <head><title>Countries in Gallipoli Diaries in all chapters</title></head>
+                <head><title>Countries in Gallipoli Diaries in all chapters</title>
+                    <link type="text/css" href="style.css" rel="stylesheet" />
+                    <link type="text/css" href="dropdown_menu.css" rel="stylesheet" /></head>
                 <body>
+                    <h1 style="text-align:center">Glimpses of Gallipoli: The Hamilton Diaries</h1>
+                    <hr/>
+                    <nav>
+                        <div><a href="index.html">Home</a></div>   
+                        <div><a href="about.html">Project Info</a></div>
+                        <div><a href="Summary.html">Context</a></div>
+                        <div><a href="KYW_gal_fullText-output.html">Full Text</a></div>
+                        <div class="dropdown"><a href="#">Graphs and Data</a>
+                            <div class="dropdown-content">
+                                <a href="KitchenerGraphPage.html">Kitchener Mentions</a>
+                                <a href="personGraph.html">Characters</a>
+                                <a href="coastGraph.html">Coastlines</a>
+                                <a href="unitGraph.html">Units</a>
+                                <a href="countryGraph.html">Countries</a>
+                                <a href="shipGraph.html">Ships</a>
+                            </div>
+                        </div>
+                    </nav>
+                    <hr/>  
                     <h1>Countries in the Gallipoli Diaries</h1>
-                    <svg viewBox="0 0 2100 550">
+                    <svg viewBox="0 0 2100 {$yspacer * 28}">
                         <g transform="translate(300,10)">
                             <xsl:for-each-group select="//p//location" group-by="@country">
                                 
@@ -31,17 +52,17 @@
                                     y1="{$yspacer * $country-sequence}" y2="{$yspacer * $country-sequence}"
                                     stroke-width="10" stroke="#B7D49B"/>
                                 
-                                <text font-weight="bold" x="-10" y="{$yspacer * $country-sequence + 5}" text-anchor="end">
+                                <text font-weight="bold" font-size="24" x="-10" y="{$yspacer * $country-sequence + 5}" text-anchor="end">
                                     <xsl:value-of select="$country-sequence"/><xsl:text>: </xsl:text>
                                     <xsl:apply-templates select=".//@country"/></text>
                                 
-                                <text font-weight="bold" x="{$xspacer * $country-occurrence-count + 20}" y="{$yspacer * $country-sequence + 5}" text-anchor="right">
+                                <text font-weight="bold" font-size="24" x="{$xspacer * $country-occurrence-count + 20}" y="{$yspacer * $country-sequence + 5}" text-anchor="right">
                                     <xsl:value-of select="$country-occurrence-count"/></text>
                                 
                             </xsl:for-each-group>
                             
-                            <line x1="0" y1="0" x2="0" y2="550" stroke="#000000" stroke-width="5"/>
-                            <line x1="0" y1="0" x2="1740" y2="0" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="0" y2="{$yspacer * 28}" stroke="#000000" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="{$xspacer * 120}" y2="0" stroke="#000000" stroke-width="5"/>
                             <circle cx="0" cy="0" r="2.5" fill="#000000"/>
                             
                            
