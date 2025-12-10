@@ -181,10 +181,10 @@ color: white;
 }
 /* MF: Nav Bar CSS */
 
-span.person.on {background-color:#FFFF00; font-weight: bold}
+span.person.on {background-color:#FFFF00}
 span.personbox.on {background-color:#FFFF00;}
-span.location.on {background-color:#77C9FF; font-weight: bold}  
-span.unit.on {background-color:#EBB2E0; font-weight: bold}
+span.location.on {background-color:#77C9FF}  
+span.unit.on {background-color:#EBB2E0}
 /* KYW: javascript additions */
 
 
