@@ -114,7 +114,7 @@
                             
                         </g>
                     </svg>
-                    <p>The graph above shows the frequency that each country was mentioned</p>
+                    <div class="graphtxt"><p>The graph above shows the frequency that each country was mentioned</p></div>
                 </body>
             </html>
         </xsl:result-document>

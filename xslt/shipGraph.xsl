@@ -105,7 +105,7 @@
                             
                         </g>
                     </svg>
-                    <p>The graph above shows the frequency that each ship was mentioned in Sir Ian Hamilton's diaries.</p>
+                    <div class="graphtxt"><p>The graph above shows the frequency that each ship was mentioned in Sir Ian Hamilton's diaries.</p></div>
                 </body>
             </html>
         </xsl:result-document>
