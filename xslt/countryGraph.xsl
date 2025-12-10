@@ -11,7 +11,7 @@
     
     <xsl:variable name="gal_text" select="document('../xml/gallipoli_all_chapters.xml')"/>
     <xsl:variable name="xspacer" select="10"/>
-    <xsl:variable name="yspacer" select="22.5"/>
+    <xsl:variable name="yspacer" select="25"/>
     
     <xsl:template match="$gal_text">
         <xsl:result-document method="xhtml" indent="yes" href="../docs/countryGraph.html">
